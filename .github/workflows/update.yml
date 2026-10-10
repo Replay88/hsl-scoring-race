@@ -27,13 +27,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install --quiet pillow
       - name: Pull new games and rebuild the page
         run: python3 -I tools/update.py
       - name: Commit if anything changed
         run: |
           git config user.name "hsl-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cache/state.json docs/index.html
+          git add cache/state.json docs/index.html docs/og.png
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Update stats $(date '+%b %-d %-I:%M %p')"
           git push
