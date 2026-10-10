@@ -28,10 +28,14 @@ STATE = os.path.join(CACHE, "state.json")
 OUT = os.path.join(ROOT, "docs", "index.html")
 
 LEAGUE = "13952"  # HSL 2026-27 season
-DIVS = {  # every HSL division, in the league's own order
-    "32761": "2014 AAA", "23371": "2014 Major", "37782": "2015 AAA", "23373": "2015 Major", "28373": "2015",
-    "23374": "2016 Major", "32762": "2016", "28374": "2017 Major", "32763": "2017", "32765": "2018 Major",
-    "32764": "2018", "37783": "2019 Major"}
+DIVS = {  # every HSL division, youngest first, AAA > Major > Minor within a birth year.
+    # The league labels the Minor tier with the bare year ("2018"); we call it "2018 Minor".
+    "37783": "2019 Major",
+    "32765": "2018 Major", "32764": "2018 Minor",
+    "28374": "2017 Major", "32763": "2017 Minor",
+    "23374": "2016 Major", "32762": "2016 Minor",
+    "37782": "2015 AAA", "23373": "2015 Major", "28373": "2015 Minor",
+    "32761": "2014 AAA", "23371": "2014 Major"}
 URL = "https://www.hockeysuperleague.ca/division/0/{}/game/view/{}"
 PATHS = ["32765", "28374", "0"]  # any division path serves any game
 ICS = "https://www.hockeysuperleague.ca/calendar/master-schedule/481.ics?SID={}&DID={}&TZ=America%2FEdmonton"

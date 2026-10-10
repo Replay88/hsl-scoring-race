@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:YYC Jays (2018 Minor)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019776@replay88.github.io
+DTSTAMP:20260918T213000Z
+DTSTART:20260918T213000Z
+DTEND:20260918T230000Z
+SUMMARY:2018 Minor: YYC Jays 8 – HC Calgary Bandits 2 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #4. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019776
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019838@replay88.github.io
+DTSTAMP:20260919T200000Z
+DTSTART:20260919T200000Z
+DTEND:20260919T213000Z
+SUMMARY:2018 Minor: YYC Jays 18 – Bow Valley Jr. Bigfoot 0 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #66. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019838
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019859@replay88.github.io
+DTSTAMP:20260919T233000Z
+DTSTART:20260919T233000Z
+DTEND:20260920T010000Z
+SUMMARY:2018 Minor: HC Calgary Bandits 4 – YYC Jays 5 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #87. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019859
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019907@replay88.github.io
+DTSTAMP:20260920T200000Z
+DTSTART:20260920T200000Z
+DTEND:20260920T213000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot 0 – YYC Jays 13 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #135. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019907
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020158@replay88.github.io
+DTSTAMP:20261016T210000Z
+DTSTART:20261016T210000Z
+DTEND:20261016T223000Z
+SUMMARY:2018 Minor: YYC Jays at Spartan Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #386. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020158
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020176@replay88.github.io
+DTSTAMP:20261017T151500Z
+DTSTART:20261017T151500Z
+DTEND:20261017T164500Z
+SUMMARY:2018 Minor: YYC Jays at HC Calgary Bandits
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #404. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020176
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020217@replay88.github.io
+DTSTAMP:20261018T151500Z
+DTSTART:20261018T151500Z
+DTEND:20261018T164500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #445. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020217
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020232@replay88.github.io
+DTSTAMP:20261018T191500Z
+DTSTART:20261018T191500Z
+DTEND:20261018T204500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #460. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020232
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020398@replay88.github.io
+DTSTAMP:20261107T010000Z
+DTSTART:20261107T010000Z
+DTEND:20261107T023000Z
+SUMMARY:2018 Minor: YYC Jays at Coast 2 Coast
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #626. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020398
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020407@replay88.github.io
+DTSTAMP:20261107T160000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T173000Z
+SUMMARY:2018 Minor: YYC Jays at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 Minor game #635. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020407
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020418@replay88.github.io
+DTSTAMP:20261107T193000Z
+DTSTART:20261107T193000Z
+DTEND:20261107T210000Z
+SUMMARY:2018 Minor: YYC Jays at Bow Valley Jr. Bigfoot
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 Minor game #646. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020418
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020444@replay88.github.io
+DTSTAMP:20261108T161500Z
+DTSTART:20261108T161500Z
+DTEND:20261108T174500Z
+SUMMARY:2018 Minor: Coast 2 Coast at YYC Jays
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #672. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020444
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020509@replay88.github.io
+DTSTAMP:20261120T230000Z
+DTSTART:20261120T230000Z
+DTEND:20261121T003000Z
+SUMMARY:2018 Minor: South Sask Academy at YYC Jays
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #737. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020509
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020546@replay88.github.io
+DTSTAMP:20261121T161500Z
+DTSTART:20261121T161500Z
+DTEND:20261121T174500Z
+SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #774. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020546
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020563@replay88.github.io
+DTSTAMP:20261121T201500Z
+DTSTART:20261121T201500Z
+DTEND:20261121T214500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #791. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020563
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020696@replay88.github.io
+DTSTAMP:20261204T224500Z
+DTSTART:20261204T224500Z
+DTEND:20261205T001500Z
+SUMMARY:2018 Minor: YYC Jays at South Sask Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #924. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020696
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020724@replay88.github.io
+DTSTAMP:20261205T200000Z
+DTSTART:20261205T200000Z
+DTEND:20261205T213000Z
+SUMMARY:2018 Minor: South Sask Academy at YYC Jays
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #952. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020724
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020739@replay88.github.io
+DTSTAMP:20261206T011500Z
+DTSTART:20261206T011500Z
+DTEND:20261206T024500Z
+SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #967. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020739
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020761@replay88.github.io
+DTSTAMP:20261206T200000Z
+DTSTART:20261206T200000Z
+DTEND:20261206T213000Z
+SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #989. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020761
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020817@replay88.github.io
+DTSTAMP:20261212T203000Z
+DTSTART:20261212T203000Z
+DTEND:20261212T220000Z
+SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2018 Minor game #1045. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020817
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020951@replay88.github.io
+DTSTAMP:20261220T143000Z
+DTSTART:20261220T143000Z
+DTEND:20261220T160000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at YYC Jays
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #1179. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020951
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021001@replay88.github.io
+DTSTAMP:20270102T211500Z
+DTSTART:20270102T211500Z
+DTEND:20270102T224500Z
+SUMMARY:2018 Minor: YYC Jays at South Sask Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #1229. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021001
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021033@replay88.github.io
+DTSTAMP:20270103T163000Z
+DTSTART:20270103T163000Z
+DTEND:20270103T180000Z
+SUMMARY:2018 Minor: South Sask Academy at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #1261. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021033
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021062@replay88.github.io
+DTSTAMP:20270103T200000Z
+DTSTART:20270103T200000Z
+DTEND:20270103T213000Z
+SUMMARY:2018 Minor: YYC Jays at Spartan Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #1290. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021062
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021091@replay88.github.io
+DTSTAMP:20270109T154500Z
+DTSTART:20270109T154500Z
+DTEND:20270109T171500Z
+SUMMARY:2018 Minor: YYC Jays at Wolverines Hockey Academy
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Minor game #1319. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021091
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021108@replay88.github.io
+DTSTAMP:20270109T210000Z
+DTSTART:20270109T210000Z
+DTEND:20270109T223000Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at YYC Jays
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Minor game #1336. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021108
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021152@replay88.github.io
+DTSTAMP:20270115T221500Z
+DTSTART:20270115T221500Z
+DTEND:20270115T234500Z
+SUMMARY:2018 Minor: Northern Hockey Club at YYC Jays
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1380. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021152
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021186@replay88.github.io
+DTSTAMP:20270116T163000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T180000Z
+SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1414. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021186
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021217@replay88.github.io
+DTSTAMP:20270116T214500Z
+DTSTART:20270116T214500Z
+DTEND:20270116T231500Z
+SUMMARY:2018 Minor: YYC Jays at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1445. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021217
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021237@replay88.github.io
+DTSTAMP:20270117T134500Z
+DTSTART:20270117T134500Z
+DTEND:20270117T151500Z
+SUMMARY:2018 Minor: YYC Jays at Coast 2 Coast
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1465. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021237
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021435@replay88.github.io
+DTSTAMP:20270205T234500Z
+DTSTART:20270205T234500Z
+DTEND:20270206T011500Z
+SUMMARY:2018 Minor: Northern Hockey Club at YYC Jays
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 Minor game #1663. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021435
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021449@replay88.github.io
+DTSTAMP:20270206T161500Z
+DTSTART:20270206T161500Z
+DTEND:20270206T174500Z
+SUMMARY:2018 Minor: Coast 2 Coast at YYC Jays
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 Minor game #1677. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021449
+END:VEVENT
+END:VCALENDAR

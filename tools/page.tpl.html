@@ -190,7 +190,7 @@ const isFollowed=(dk,r)=>(FOLLOW[dk]||[]).includes(r[1]+'|'+r[0]);
 let route={dk:'2018-major',sec:'leaders',id:''}, key=6;
 function parse(){
   const h=location.hash.replace(/^#\/?/,'').split('/');
-  let dk=DIVKEYS[h[0]]?h[0]:null;
+  let dk=DIVKEYS[h[0]]?h[0]:DIVKEYS[h[0]+'-major']?h[0]+'-major':null; // old links used the bare year for Major
   if(!dk){ try{dk=localStorage.getItem('hslDiv2')}catch(e){} dk=DIVKEYS[dk]?dk:'2018-major'; }
   let sec=h[1]||'leaders', id=h.slice(2).join('/');
   if(!['p','t','g'].includes(sec)&&!SECS.some(s=>s[0]===sec)) sec='leaders';
@@ -208,8 +208,6 @@ async function render(){
   const my=++seq;
   $('#divTitle').textContent=DIVKEYS[dk];
   if(!DATA[DIVKEYS[dk]]){ $('#view').innerHTML='<p class="empty">Loading…</p>'; try{await load(dk);}catch(e){ if(my===seq) $('#view').innerHTML='<p class="empty">Could not load that division. Check your connection and try again.</p>'; return; } if(my!==seq) return; }
-  // links shared before the non-Major divisions existed used the bare year for the Major division
-  if(['p','t','g'].includes(sec)&&/^\d{4}$/.test(dk)&&DIVKEYS[dk+'-major']){ const I=IDX[dk]; const miss=sec==='p'?I.bySlug[id]==null:sec==='t'?!I.teamSlug[id]:!DATA[DIVKEYS[dk]].G[id]; if(miss){ location.replace(href(dk+'-major',sec,id)); return; } }
   const dn=DIVKEYS[dk], D=DATA[dn];
   $('#divTabs').innerHTML=Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g'].includes(sec)?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('');
   $('#secTabs').innerHTML=SECS.map(([s,l])=>`<a href="${href(dk,s)}" aria-current="${s===sec}">${l}</a>`).join('');

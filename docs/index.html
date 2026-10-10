@@ -153,10 +153,10 @@ footer a{color:var(--accent)}
 <nav class="tabs" aria-label="Division" id="divTabs"></nav>
 <nav class="subtabs" aria-label="Section" id="secTabs"></nav>
 <main id="view" style="display:contents"></main>
-<footer>Covers all 12 HSL divisions. Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated Oct 10, 2026 5:37 AM. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up in the skater list too. The +/− column is the change in rank since the numbers last changed. Tap any player, team or score for more.</footer>
+<footer>Covers all 12 HSL divisions. Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated Oct 10, 2026 5:41 AM. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up in the skater list too. The +/− column is the change in rank since the numbers last changed. Tap any player, team or score for more.</footer>
 </div>
 <script>
-const INDEX={"updated":"Oct 10, 2026 5:37 AM","divisions":[{"key":"2014-aaa","name":"2014 AAA","games":14,"thru":"Sep 27","leader":["Finley Mcleay","Stars Hockey Academy",9]},{"key":"2014-major","name":"2014 Major","games":17,"thru":"Sep 30","leader":["Austin Krueger","Spartan Hockey Academy 15M",21]},{"key":"2015-aaa","name":"2015 AAA","games":24,"thru":"Oct 9","leader":["Elijah Smitke","Aces Hockey Academy",11]},{"key":"2015-major","name":"2015 Major","games":19,"thru":"Oct 9","leader":["Jack Butler","South Sask Academy",16]},{"key":"2015","name":"2015","games":12,"thru":"Oct 9","leader":["Zachary Ewasiuk","Wolverines Hockey Academy",19]},{"key":"2016-major","name":"2016 Major","games":35,"thru":"Oct 9","leader":["Colton Toner","Spartan Hockey Academy",17]},{"key":"2016","name":"2016","games":19,"thru":"Sep 27","leader":["Lucas Kelloway","South Sask Academy",19]},{"key":"2017-major","name":"2017 Major","games":47,"thru":"Oct 4","leader":["Theo Fleming","Saints Pro Hockey Academy",38]},{"key":"2017","name":"2017","games":16,"thru":"Oct 4","leader":["Jett Ranslam","Gorillas Hockey Academy",14]},{"key":"2018-major","name":"2018 Major","games":39,"thru":"Oct 9","leader":["Bohen Anderson","Rebels Hockey Academy",25]},{"key":"2018","name":"2018","games":18,"thru":"Oct 9","leader":["Cash Blackburn","Northern Hockey Club",28]},{"key":"2019-major","name":"2019 Major","games":21,"thru":"Sep 30","leader":["Noah Kaiser","Riggers Hockey Academy",15]}]};
+const INDEX={"updated":"Oct 10, 2026 5:41 AM","divisions":[{"key":"2019-major","name":"2019 Major","games":21,"thru":"Sep 30","leader":["Noah Kaiser","Riggers Hockey Academy",15]},{"key":"2018-major","name":"2018 Major","games":39,"thru":"Oct 9","leader":["Bohen Anderson","Rebels Hockey Academy",25]},{"key":"2018-minor","name":"2018 Minor","games":18,"thru":"Oct 9","leader":["Cash Blackburn","Northern Hockey Club",28]},{"key":"2017-major","name":"2017 Major","games":47,"thru":"Oct 4","leader":["Theo Fleming","Saints Pro Hockey Academy",38]},{"key":"2017-minor","name":"2017 Minor","games":16,"thru":"Oct 4","leader":["Jett Ranslam","Gorillas Hockey Academy",14]},{"key":"2016-major","name":"2016 Major","games":35,"thru":"Oct 9","leader":["Colton Toner","Spartan Hockey Academy",17]},{"key":"2016-minor","name":"2016 Minor","games":19,"thru":"Sep 27","leader":["Lucas Kelloway","South Sask Academy",19]},{"key":"2015-aaa","name":"2015 AAA","games":24,"thru":"Oct 9","leader":["Elijah Smitke","Aces Hockey Academy",11]},{"key":"2015-major","name":"2015 Major","games":19,"thru":"Oct 9","leader":["Jack Butler","South Sask Academy",16]},{"key":"2015-minor","name":"2015 Minor","games":12,"thru":"Oct 9","leader":["Zachary Ewasiuk","Wolverines Hockey Academy",19]},{"key":"2014-aaa","name":"2014 AAA","games":14,"thru":"Sep 27","leader":["Finley Mcleay","Stars Hockey Academy",9]},{"key":"2014-major","name":"2014 Major","games":17,"thru":"Sep 30","leader":["Austin Krueger","Spartan Hockey Academy 15M",21]}]};
 const DIVKEYS={}; INDEX.divisions.forEach(d=>DIVKEYS[d.key]=d.name);
 const DATA={}; // division name -> data, loaded on demand from data/<key>.json
 const IDX={};
@@ -190,7 +190,7 @@ const isFollowed=(dk,r)=>(FOLLOW[dk]||[]).includes(r[1]+'|'+r[0]);
 let route={dk:'2018-major',sec:'leaders',id:''}, key=6;
 function parse(){
   const h=location.hash.replace(/^#\/?/,'').split('/');
-  let dk=DIVKEYS[h[0]]?h[0]:null;
+  let dk=DIVKEYS[h[0]]?h[0]:DIVKEYS[h[0]+'-major']?h[0]+'-major':null; // old links used the bare year for Major
   if(!dk){ try{dk=localStorage.getItem('hslDiv2')}catch(e){} dk=DIVKEYS[dk]?dk:'2018-major'; }
   let sec=h[1]||'leaders', id=h.slice(2).join('/');
   if(!['p','t','g'].includes(sec)&&!SECS.some(s=>s[0]===sec)) sec='leaders';
@@ -208,8 +208,6 @@ async function render(){
   const my=++seq;
   $('#divTitle').textContent=DIVKEYS[dk];
   if(!DATA[DIVKEYS[dk]]){ $('#view').innerHTML='<p class="empty">Loading…</p>'; try{await load(dk);}catch(e){ if(my===seq) $('#view').innerHTML='<p class="empty">Could not load that division. Check your connection and try again.</p>'; return; } if(my!==seq) return; }
-  // links shared before the non-Major divisions existed used the bare year for the Major division
-  if(['p','t','g'].includes(sec)&&/^\d{4}$/.test(dk)&&DIVKEYS[dk+'-major']){ const I=IDX[dk]; const miss=sec==='p'?I.bySlug[id]==null:sec==='t'?!I.teamSlug[id]:!DATA[DIVKEYS[dk]].G[id]; if(miss){ location.replace(href(dk+'-major',sec,id)); return; } }
   const dn=DIVKEYS[dk], D=DATA[dn];
   $('#divTabs').innerHTML=Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g'].includes(sec)?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('');
   $('#secTabs').innerHTML=SECS.map(([s,l])=>`<a href="${href(dk,s)}" aria-current="${s===sec}">${l}</a>`).join('');

@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HC Calgary Bandits (2018 Minor)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019776@replay88.github.io
+DTSTAMP:20260918T213000Z
+DTSTART:20260918T213000Z
+DTEND:20260918T230000Z
+SUMMARY:2018 Minor: YYC Jays 8 – HC Calgary Bandits 2 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #4. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019776
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019807@replay88.github.io
+DTSTAMP:20260919T144500Z
+DTSTART:20260919T144500Z
+DTEND:20260919T161500Z
+SUMMARY:2018 Minor: HC Calgary Bandits 11 – Spartan Hockey Academy 1 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #35. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019807
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019859@replay88.github.io
+DTSTAMP:20260919T233000Z
+DTSTART:20260919T233000Z
+DTEND:20260920T010000Z
+SUMMARY:2018 Minor: HC Calgary Bandits 4 – YYC Jays 5 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #87. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019859
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019877@replay88.github.io
+DTSTAMP:20260920T144500Z
+DTSTART:20260920T144500Z
+DTEND:20260920T161500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy 1 – HC Calgary Bandits 7 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #105. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019877
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020137@replay88.github.io
+DTSTAMP:20261011T180000Z
+DTSTART:20261011T180000Z
+DTEND:20261011T193000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #365. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020137
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020176@replay88.github.io
+DTSTAMP:20261017T151500Z
+DTSTART:20261017T151500Z
+DTEND:20261017T164500Z
+SUMMARY:2018 Minor: YYC Jays at HC Calgary Bandits
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #404. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020176
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020206@replay88.github.io
+DTSTAMP:20261017T231500Z
+DTSTART:20261017T231500Z
+DTEND:20261018T004500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #434. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020206
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020232@replay88.github.io
+DTSTAMP:20261018T191500Z
+DTSTART:20261018T191500Z
+DTEND:20261018T204500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #460. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020232
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020248@replay88.github.io
+DTSTAMP:20261024T021500Z
+DTSTART:20261024T021500Z
+DTEND:20261024T034500Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2018 Minor game #476. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020248
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020390@replay88.github.io
+DTSTAMP:20261106T211500Z
+DTSTART:20261106T211500Z
+DTEND:20261106T224500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Coast 2 Coast
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 Minor game #618. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020390
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020407@replay88.github.io
+DTSTAMP:20261107T160000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T173000Z
+SUMMARY:2018 Minor: YYC Jays at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 Minor game #635. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020407
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020419@replay88.github.io
+DTSTAMP:20261107T194500Z
+DTSTART:20261107T194500Z
+DTEND:20261107T211500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Minor game #647. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020419
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020518@replay88.github.io
+DTSTAMP:20261121T004500Z
+DTSTART:20261121T004500Z
+DTEND:20261121T021500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #746. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020518
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020563@replay88.github.io
+DTSTAMP:20261121T201500Z
+DTSTART:20261121T201500Z
+DTEND:20261121T214500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #791. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020563
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020582@replay88.github.io
+DTSTAMP:20261122T001500Z
+DTSTART:20261122T001500Z
+DTEND:20261122T014500Z
+SUMMARY:2018 Minor: South Sask Academy at HC Calgary Bandits
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #810. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020582
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020594@replay88.github.io
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #822. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020594
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020718@replay88.github.io
+DTSTAMP:20261205T181500Z
+DTSTART:20261205T181500Z
+DTEND:20261205T194500Z
+SUMMARY:2018 Minor: Riggers Hockey Academy at HC Calgary Bandits
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #946. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020718
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020746@replay88.github.io
+DTSTAMP:20261206T144500Z
+DTSTART:20261206T144500Z
+DTEND:20261206T161500Z
+SUMMARY:2018 Minor: South Sask Academy at HC Calgary Bandits
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #974. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020746
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020757@replay88.github.io
+DTSTAMP:20261206T181500Z
+DTSTART:20261206T181500Z
+DTEND:20261206T194500Z
+SUMMARY:2018 Minor: Coast 2 Coast at HC Calgary Bandits
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #985. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020757
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021004@replay88.github.io
+DTSTAMP:20270102T200000Z
+DTSTART:20270102T200000Z
+DTEND:20270102T213000Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1232. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021004
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021019@replay88.github.io
+DTSTAMP:20270102T233000Z
+DTSTART:20270102T233000Z
+DTEND:20270103T010000Z
+SUMMARY:2018 Minor: Northern Hockey Club at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1247. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021019
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021027@replay88.github.io
+DTSTAMP:20270103T130000Z
+DTSTART:20270103T130000Z
+DTEND:20270103T143000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1255. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021027
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021055@replay88.github.io
+DTSTAMP:20270103T200000Z
+DTSTART:20270103T200000Z
+DTEND:20270103T213000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1283. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021055
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021161@replay88.github.io
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T000000Z
+DTEND:20270116T013000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Coast 2 Coast
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1389. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021161
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021207@replay88.github.io
+DTSTAMP:20270116T200000Z
+DTSTART:20270116T200000Z
+DTEND:20270116T213000Z
+SUMMARY:2018 Minor: Coast 2 Coast at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1435. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021207
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021247@replay88.github.io
+DTSTAMP:20270117T153000Z
+DTSTART:20270117T153000Z
+DTEND:20270117T170000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021247
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021269@replay88.github.io
+DTSTAMP:20270117T193000Z
+DTSTART:20270117T193000Z
+DTEND:20270117T210000Z
+SUMMARY:2018 Minor: Northern Hockey Club at HC Calgary Bandits
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1497. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021269
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021367@replay88.github.io
+DTSTAMP:20270124T180000Z
+DTSTART:20270124T180000Z
+DTEND:20270124T193000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at HC Calgary Bandits
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2018 Minor game #1595. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021367
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021391@replay88.github.io
+DTSTAMP:20270130T204500Z
+DTSTART:20270130T204500Z
+DTEND:20270130T221500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2018 Minor game #1619. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021391
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021434@replay88.github.io
+DTSTAMP:20270205T234500Z
+DTSTART:20270205T234500Z
+DTEND:20270206T011500Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 Minor game #1662. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021434
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021541@replay88.github.io
+DTSTAMP:20270213T203000Z
+DTSTART:20270213T203000Z
+DTEND:20270213T220000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2018 Minor game #1769. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021541
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021566@replay88.github.io
+DTSTAMP:20270214T154500Z
+DTSTART:20270214T154500Z
+DTEND:20270214T171500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 Minor game #1794. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021566
+END:VEVENT
+END:VCALENDAR
