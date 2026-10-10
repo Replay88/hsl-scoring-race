@@ -1,0 +1,39 @@
+name: Update scoring race
+
+on:
+  schedule:
+    # Alberta game days (Fri-Sun), every 2 hours 8am-midnight Mountain (UTC-6/-7)
+    - cron: "0 14-22/2 * * 5,6,0"
+    - cron: "0 0-6/2 * * 6,0,1"
+    # once a day the rest of the week, ~7am Mountain
+    - cron: "0 13 * * 1-4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      TZ: America/Edmonton
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull new games and rebuild the page
+        run: python3 -I tools/update.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "hsl-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cache/state.json docs/index.html
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Update stats $(date '+%b %-d %-I:%M %p')"
+          git push

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Points leaders for the Hockey Super League 2017 Major and 2018 Major divisions.">
+<title>HSL Major Scoring Race</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600&family=Barlow+Semi+Condensed:wght@500;600&display=swap">
+<style>
+/* Layout: arena scoreboard header, division switch, then one dense leaderboard table */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --line:#dde2ea; --fg:#151a22; --muted:#5d6676;
+  --accent:#c8102e; --accent-soft:#fbe7ea; --gold:#b8860b; --silver:#7a8494; --bronze:#a0592c;
+  --display:"Oswald","Arial Narrow",Impact,sans-serif; --body:"Barlow",system-ui,sans-serif; --data:"Barlow Semi Condensed","Barlow",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0e1218; --surface:#161c25; --line:#2a3240; --fg:#e8ecf2; --muted:#98a2b3;
+  --accent:#ff4d63; --accent-soft:#3a1820; --gold:#e3b341; --silver:#b4bdca; --bronze:#d48a5a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e1218; --surface:#161c25; --line:#2a3240; --fg:#e8ecf2; --muted:#98a2b3;
+  --accent:#ff4d63; --accent-soft:#3a1820; --gold:#e3b341; --silver:#b4bdca; --bronze:#d48a5a; color-scheme:dark}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45}
+.wrap{max-width:860px;margin:0 auto;padding-inline:16px;padding-block:20px 48px;display:flex;flex-direction:column;gap:18px}
+header h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,6vw,40px);letter-spacing:.01em;text-transform:uppercase;margin:0;line-height:1.05;text-wrap:balance}
+header h1 span{color:var(--accent)}
+header p{margin:6px 0 0;color:var(--muted);max-width:62ch}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}
+.tabs button{font-family:var(--display);font-size:17px;text-transform:uppercase;letter-spacing:.04em;padding:8px 16px;border:2px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;cursor:pointer}
+.tabs button[aria-selected="true"]{border-color:var(--accent);background:var(--accent);color:#fff}
+.tabs button:focus-visible,select:focus-visible,input:focus-visible,th button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.podium{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.pod{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.pod .rk{font-family:var(--display);font-size:13px;letter-spacing:.08em;text-transform:uppercase}
+.pod:nth-child(1) .rk{color:var(--gold)}.pod:nth-child(2) .rk{color:var(--silver)}.pod:nth-child(3) .rk{color:var(--bronze)}
+.pod .nm{font-weight:600;font-size:16px;overflow-wrap:anywhere}
+.pod .tm{color:var(--muted);font-size:13px}
+.pod .pts{font-family:var(--display);font-size:30px;line-height:1.1;font-variant-numeric:tabular-nums}
+.pod .pts small{font-family:var(--data);font-size:13px;color:var(--muted);margin-left:4px}
+.controls{display:flex;gap:8px;flex-wrap:wrap}
+.controls input,.controls select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);flex:1 1 180px;min-width:0}
+.meta{color:var(--muted);font-size:13px}
+.tbl{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-family:var(--data);font-variant-numeric:tabular-nums}
+th,td{padding:7px 8px;text-align:right;white-space:nowrap;border-bottom:1px solid var(--line)}
+th{position:sticky;top:0;background:var(--surface);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+th button{all:unset;cursor:pointer}
+th[aria-sort] button{color:var(--accent)}
+td.l,th.l{text-align:left}
+td.player{font-family:var(--body);font-weight:600;white-space:normal;min-width:120px}
+td.player .t{display:block;font-weight:400;color:var(--muted);font-size:12.5px}
+td.pts{font-weight:600;font-size:16px}
+td.rk{color:var(--muted)}
+tr.top td.rk{color:var(--accent);font-weight:600}
+tbody tr:hover{background:var(--accent-soft)}
+.empty{padding:20px;text-align:center;color:var(--muted)}
+footer{color:var(--muted);font-size:12.5px;max-width:70ch}
+footer a{color:var(--accent)}
+@media (max-width:520px){.podium{grid-template-columns:1fr}.hide-s{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>HSL <span id="divTitle">2018 Major</span> Scoring Race</h1>
+  <p>Every final in the Hockey Super League 2017 Major and 2018 Major divisions, 2026-27 season, tallied from the official box scores.</p>
+</header>
+<div class="tabs" role="tablist">
+  <button role="tab" id="tab-2018" data-div="2018 Major" aria-selected="true">2018 Major</button>
+  <button role="tab" id="tab-2017" data-div="2017 Major" aria-selected="false">2017 Major</button>
+</div>
+<div class="podium" id="podium"></div>
+<div class="controls">
+  <input id="q" type="search" placeholder="Find a player" aria-label="Find a player">
+  <select id="team" aria-label="Team"></select>
+</div>
+<div class="meta" id="meta"></div>
+<div class="tbl"><table>
+  <thead><tr>
+    <th class="l">#</th><th class="l">Player</th>
+    <th><button data-k="3">GP</button></th><th><button data-k="4">G</button></th><th><button data-k="5">A</button></th>
+    <th><button data-k="6">PTS</button></th><th class="hide-s"><button data-k="8">P/GP</button></th><th class="hide-s"><button data-k="7">PIM</button></th>
+  </tr></thead>
+  <tbody id="rows"></tbody>
+</table></div>
+<footer>Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated __UPDATED__. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up too. Sorted by points unless you tap a column.</footer>
+</div>
+<script>
+const DATA=__DATA__;
+let div="2018 Major", key=6;
+const $=s=>document.querySelector(s);
+try{const s=localStorage.getItem('hslDiv'); if(s&&DATA[s]) div=s;}catch(e){}
+function rows(){return DATA[div].rows.map(r=>[...r,r[3]?r[6]/r[3]:0]);}
+function rankOf(list){ // competition rank by points
+  let prev=null,rk=0; return list.map((r,i)=>{if(r[6]!==prev){rk=i+1;prev=r[6];} return rk;});}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function render(){
+  document.querySelectorAll('.tabs button').forEach(b=>b.setAttribute('aria-selected',b.dataset.div===div));
+  $('#divTitle').textContent=div;
+  const all=rows(), rks=rankOf(all); all.forEach((r,i)=>r.rk=rks[i]);
+  $('#podium').innerHTML=all.slice(0,3).map((r,i)=>`<div class="pod"><span class="rk">${['1st','2nd','3rd'][i]}</span><span class="nm">${esc(r[0])}</span><span class="tm">${esc(r[1])} · #${esc(r[2])}</span><span class="pts">${r[6]}<small>PTS · ${r[4]}G ${r[5]}A · ${r[3]} GP</small></span></div>`).join('');
+  const teams=[...new Set(all.map(r=>r[1]))].sort();
+  const sel=$('#team'), cur=sel.value;
+  sel.innerHTML='<option value="">All teams</option>'+teams.map(t=>`<option${t===cur?' selected':''}>${esc(t)}</option>`).join('');
+  const q=$('#q').value.trim().toLowerCase(), tm=sel.value;
+  let list=all.filter(r=>(!tm||r[1]===tm)&&(!q||r[0].toLowerCase().includes(q)));
+  if(key!==6) list=[...list].sort((a,b)=>b[key]-a[key]||b[6]-a[6]||b[4]-a[4]);
+  document.querySelectorAll('th button').forEach(b=>b.parentElement.toggleAttribute('aria-sort',+b.dataset.k===key));
+  document.querySelectorAll('th[aria-sort]').forEach(th=>th.setAttribute('aria-sort','descending'));
+  $('#meta').textContent=`${DATA[div].games} games through ${DATA[div].thru} · ${all.length} players · showing ${list.length}`;
+  $('#rows').innerHTML=list.length?list.map(r=>`<tr class="${r.rk<=10?'top':''}"><td class="l rk">${r.rk}</td><td class="l player">${esc(r[0])}<span class="t">${esc(r[1])} · #${esc(r[2])}</span></td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td class="pts">${r[6]}</td><td class="hide-s">${r[8].toFixed(2)}</td><td class="hide-s">${r[7]}</td></tr>`).join(''):'<tr><td colspan="8" class="empty">No players match that search.</td></tr>';
+}
+document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{div=b.dataset.div;$('#team').value='';try{localStorage.setItem('hslDiv',div)}catch(e){};render();});
+document.querySelectorAll('th button').forEach(b=>b.onclick=()=>{key=+b.dataset.k;render();});
+$('#q').oninput=render; $('#team').onchange=render;
+render();
+</script>
+</body>
+</html>

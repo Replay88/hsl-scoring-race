@@ -1,0 +1,4 @@
+cache/pages/
+__pycache__/
+.DS_Store
+hsl-scoring-race.html
