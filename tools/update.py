@@ -40,7 +40,7 @@ URL = "https://www.hockeysuperleague.ca/division/0/{}/game/view/{}"
 PATHS = ["32765", "28374", "0"]  # any division path serves any game
 ICS = "https://www.hockeysuperleague.ca/calendar/master-schedule/481.ics?SID={}&DID={}&TZ=America%2FEdmonton"
 PARSER = 3  # bump when the box-score parser changes so cached games get re-read
-# The site's public address. Switch to "hslstats.ca" once the domain points at GitHub Pages.
+# The site's public address. Switch to "hslstats.com" once the domain points at GitHub Pages.
 SITE = "replay88.github.io/hsl-scoring-race"
 BASE = "https://" + SITE + "/"
 
@@ -426,7 +426,7 @@ def write_calendars(did, name, sched, G):
         if g:
             title = f"{s['away']} {g['vs']} – {s['home']} {g['hs']} (Final)"
         return "\r\n".join([
-            "BEGIN:VEVENT", f"UID:hsl-{gid}@hslstats.ca",
+            "BEGIN:VEVENT", f"UID:hsl-{gid}@hslstats.com",
             "DTSTAMP:" + start.strftime("%Y%m%dT%H%M%SZ"),
             "DTSTART:" + start.strftime("%Y%m%dT%H%M%SZ"), "DTEND:" + end.strftime("%Y%m%dT%H%M%SZ"),
             "SUMMARY:" + ics_escape(f"{name}: {title}"),
