@@ -235,6 +235,43 @@ def schedule(did):
     return out
 
 
+LOGO = re.compile(r'src="(https://cloud3\.rampinteractive\.com/[^"]*/team-logos/[^"]*?_([^"/]+?)\.(png|jpe?g|gif|webp))"', re.I)
+
+
+def find_logos(html, logos):
+    """Remember a logo URL for every team name seen in a page's image tags."""
+    for url, name, _ in LOGO.findall(html):
+        name = name.replace("&amp;", "&").replace("%20", " ").strip()
+        logos.setdefault(name, url)
+
+
+def fetch_logos(logos, teams):
+    """Download any team's logo we don't have yet into docs/logos/, shrunk to 128px PNG."""
+    folder = os.path.join(os.path.dirname(OUT), "logos")
+    os.makedirs(folder, exist_ok=True)
+    have = {}
+    for team in sorted(teams):
+        url = logos.get(team) or next((u for n, u in logos.items() if team.startswith(n)), None)
+        if not url:
+            continue
+        path = os.path.join(folder, slug(team) + ".png")
+        if not os.path.exists(path):
+            try:
+                req = urllib.request.Request(url.replace(" ", "%20"), headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    raw = r.read()
+                from io import BytesIO
+                from PIL import Image
+                im = Image.open(BytesIO(raw)).convert("RGBA")
+                im.thumbnail((128, 128))
+                im.save(path, optimize=True)
+            except Exception as e:
+                print(f"logo for {team} skipped: {e}")
+                continue
+        have[team] = "logos/" + slug(team) + ".png"
+    return have
+
+
 def load(gid):
     p = os.path.join(PAGES, f"{gid}.html")
     if os.path.exists(p):
@@ -261,11 +298,16 @@ def main():
     print(f"{len(sched)} scheduled games, {sum(1 for s in sched.values() if s['final'])} final, {len(todo)} to read", flush=True)
 
     errors = []
+    logos = state.setdefault("logos", {})
+    if not logos:  # first time: mine every cached page
+        for f in os.listdir(PAGES):
+            find_logos(open(os.path.join(PAGES, f), encoding="utf-8", errors="ignore").read(), logos)
 
     def work(gid):
         try:
             html, cached = load(gid)
             g = examine(gid, html)
+            find_logos(html, logos)
             if not g or not g["status"].startswith("Final"):
                 return gid, None, None  # calendar says final but the page isn't yet; next run
             g["div"] = sched[gid]["div"]  # trust the calendar's division, not the roster links
@@ -285,6 +327,7 @@ def main():
 
     state["games"] = games
     state["sched"] = sched
+    state["logo_files"] = fetch_logos(logos, {s["home"] for s in sched.values()} | {s["away"] for s in sched.values()})
     build(state)
     json.dump(state, open(STATE, "w"), separators=(",", ":"))
     finals = [g for g in games.values() if g.get("div") in DIVS and g["status"].startswith("Final")]
@@ -540,7 +583,7 @@ def build(state):
         state["updated"] = dt.datetime.now().strftime("%b %-d, %Y %-I:%M %p")
         state["ranks"] = state["ranks_new"]
     state.pop("ranks_new", None)
-    index = dict(updated=state["updated"], divisions=[
+    index = dict(updated=state["updated"], logos=state.get("logo_files", {}), divisions=[
         dict(key=slug(name), name=name, games=v["games"], thru=v["thru"],
              leader=(v["rows"][0][:2] + [v["rows"][0][6]]) if v["rows"] else None)
         for name, v in data.items()])
