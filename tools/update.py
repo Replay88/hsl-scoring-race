@@ -245,6 +245,41 @@ def find_logos(html, logos):
         logos.setdefault(name, url)
 
 
+def knock_out_white(im):
+    """Make a white/near-white background transparent, flood-filling in from the
+    edges so white inside the crest is kept. No-op if the corners aren't white."""
+    w, h = im.size
+    px = im.load()
+
+    def white(p):
+        return p[3] > 0 and p[0] > 232 and p[1] > 232 and p[2] > 232
+    corners = [px[0, 0], px[w - 1, 0], px[0, h - 1], px[w - 1, h - 1]]
+    if sum(white(c) for c in corners) < 3:
+        return im
+    seen = bytearray(w * h)
+    stack = [(x, y) for x in range(w) for y in (0, h - 1)] + [(x, y) for y in range(h) for x in (0, w - 1)]
+    while stack:
+        x, y = stack.pop()
+        i = y * w + x
+        if seen[i] or not white(px[x, y]):
+            continue
+        seen[i] = 1
+        px[x, y] = (255, 255, 255, 0)
+        if x > 0: stack.append((x - 1, y))
+        if x < w - 1: stack.append((x + 1, y))
+        if y > 0: stack.append((x, y - 1))
+        if y < h - 1: stack.append((x, y + 1))
+    # soften the fringe: pixels next to transparent ones that are light get partial alpha
+    for y in range(h):
+        for x in range(w):
+            r, g, b, a = px[x, y]
+            if a and r > 200 and g > 200 and b > 200 and any(
+                    px[nx, ny][3] == 0 for nx, ny in ((x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1))
+                    if 0 <= nx < w and 0 <= ny < h):
+                px[x, y] = (r, g, b, max(0, 255 - (min(r, g, b) - 200) * 4))
+    return im
+
+
 def fetch_logos(logos, teams):
     """Download any team's logo we don't have yet into docs/logos/, shrunk to 128px PNG."""
     folder = os.path.join(os.path.dirname(OUT), "logos")
@@ -263,6 +298,8 @@ def fetch_logos(logos, teams):
                 from io import BytesIO
                 from PIL import Image
                 im = Image.open(BytesIO(raw)).convert("RGBA")
+                im.thumbnail((256, 256))
+                im = knock_out_white(im)
                 im.thumbnail((128, 128))
                 im.save(path, optimize=True)
             except Exception as e:
