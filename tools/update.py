@@ -339,7 +339,8 @@ def build(state):
 
     blob = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
     sig = hashlib.sha1(blob.encode()).hexdigest()
-    if sig != state.get("sig"):  # numbers changed: stamp the time and roll the rank snapshot
+    changed = sig != state.get("sig")
+    if changed:  # numbers changed: stamp the time and roll the rank snapshot
         state["sig"] = sig
         state["updated"] = dt.datetime.now().strftime("%b %-d, %Y %-I:%M %p")
         state["ranks"] = state["ranks_new"]
@@ -348,9 +349,12 @@ def build(state):
     html = tpl.replace("__DATA__", blob).replace("__UPDATED__", state["updated"])
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, "w", encoding="utf-8").write(html)
+    png = os.path.join(os.path.dirname(OUT), "og.png")
+    if not changed and os.path.exists(png):
+        return  # same numbers: leave the preview image byte-for-byte alone
     try:
         import og
-        og.render(data, os.path.join(os.path.dirname(OUT), "og.png"))
+        og.render(data, png)
     except Exception as e:  # the preview image is a nicety; never fail the run over it
         print(f"preview image skipped: {e}")
 
