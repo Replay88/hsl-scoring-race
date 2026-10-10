@@ -1,0 +1,1294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HSL 2018
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019776@replay88.github.io
+DTSTAMP:20260918T213000Z
+DTSTART:20260918T213000Z
+DTEND:20260918T230000Z
+SUMMARY:2018: YYC Jays 8 – HC Calgary Bandits 2 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #4. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019776
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019793@replay88.github.io
+DTSTAMP:20260919T004500Z
+DTSTART:20260919T004500Z
+DTEND:20260919T021500Z
+SUMMARY:2018: Riggers Hockey Academy 1 – Northern Hockey Club 21 (Final)
+LOCATION:Cenovus Energy Hub - Coop Community Ice
+DESCRIPTION:HSL 2018 game #21. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019793
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019807@replay88.github.io
+DTSTAMP:20260919T144500Z
+DTSTART:20260919T144500Z
+DTEND:20260919T161500Z
+SUMMARY:2018: HC Calgary Bandits 11 – Spartan Hockey Academy 1 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #35. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019807
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019812@replay88.github.io
+DTSTAMP:20260919T154500Z
+DTSTART:20260919T154500Z
+DTEND:20260919T171500Z
+SUMMARY:2018: Northern Hockey Club 10 – Wolverines Hockey Academy 2 (Final)
+LOCATION:Cenovus Energy Hub - Coop Community Ice
+DESCRIPTION:HSL 2018 game #40. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019812
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019819@replay88.github.io
+DTSTAMP:20260919T163000Z
+DTSTART:20260919T163000Z
+DTEND:20260919T180000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot 5 – South Sask Academy 8 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #47. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019819
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019831@replay88.github.io
+DTSTAMP:20260919T191500Z
+DTSTART:20260919T191500Z
+DTEND:20260919T204500Z
+SUMMARY:2018: Northern Hockey Club 18 – Riggers Hockey Academy 1 (Final)
+LOCATION:Cenovus Energy Hub - Coop Community Ice
+DESCRIPTION:HSL 2018 game #59. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019831
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019838@replay88.github.io
+DTSTAMP:20260919T200000Z
+DTSTART:20260919T200000Z
+DTEND:20260919T213000Z
+SUMMARY:2018: YYC Jays 18 – Bow Valley Jr. Bigfoot 0 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #66. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019838
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019849@replay88.github.io
+DTSTAMP:20260919T214500Z
+DTSTART:20260919T214500Z
+DTEND:20260919T231500Z
+SUMMARY:2018: Spartan Hockey Academy 5 – South Sask Academy 4 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #77. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019849
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019859@replay88.github.io
+DTSTAMP:20260919T233000Z
+DTSTART:20260919T233000Z
+DTEND:20260920T010000Z
+SUMMARY:2018: HC Calgary Bandits 4 – YYC Jays 5 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #87. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019859
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019830@replay88.github.io
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T143000Z
+SUMMARY:2018: South Sask Academy 4 – Bow Valley Jr. Bigfoot 10 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #58. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019830
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019872@replay88.github.io
+DTSTAMP:20260920T140000Z
+DTSTART:20260920T140000Z
+DTEND:20260920T153000Z
+SUMMARY:2018: Wolverines Hockey Academy 4 – Northern Hockey Club 7 (Final)
+LOCATION:Cenovus Energy Hub - Coop Community Ice
+DESCRIPTION:HSL 2018 game #100. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019872
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019877@replay88.github.io
+DTSTAMP:20260920T144500Z
+DTSTART:20260920T144500Z
+DTEND:20260920T161500Z
+SUMMARY:2018: Spartan Hockey Academy 1 – HC Calgary Bandits 7 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #105. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019877
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019898@replay88.github.io
+DTSTAMP:20260920T181500Z
+DTSTART:20260920T181500Z
+DTEND:20260920T194500Z
+SUMMARY:2018: South Sask Academy 8 – Spartan Hockey Academy 5 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #126. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019898
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019907@replay88.github.io
+DTSTAMP:20260920T200000Z
+DTSTART:20260920T200000Z
+DTEND:20260920T213000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot 0 – YYC Jays 13 (Final)
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #135. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019907
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019973@replay88.github.io
+DTSTAMP:20260927T163000Z
+DTSTART:20260927T163000Z
+DTEND:20260927T180000Z
+SUMMARY:2018: Wolverines Hockey Academy 18 – Riggers Hockey Academy 2 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 game #201. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019973
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020027@replay88.github.io
+DTSTAMP:20261009T140000Z
+DTSTART:20261009T140000Z
+DTEND:20261009T153000Z
+SUMMARY:2018: Northern Hockey Club 11 – Wolverines Hockey Academy 1 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #255. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020027
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020033@replay88.github.io
+DTSTAMP:20261009T210000Z
+DTSTART:20261009T210000Z
+DTEND:20261009T223000Z
+SUMMARY:2018: Coast 2 Coast 12 – Northern Hockey Club 10 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #261. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020033
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020048@replay88.github.io
+DTSTAMP:20261010T003000Z
+DTSTART:20261010T003000Z
+DTEND:20261010T020000Z
+SUMMARY:2018: Coast 2 Coast 13 – South Sask Academy 7 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #276. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020048
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020060@replay88.github.io
+DTSTAMP:20261010T144500Z
+DTSTART:20261010T144500Z
+DTEND:20261010T161500Z
+SUMMARY:2018: South Sask Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #288. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020060
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020081@replay88.github.io
+DTSTAMP:20261010T181500Z
+DTSTART:20261010T181500Z
+DTEND:20261010T194500Z
+SUMMARY:2018: Wolverines Hockey Academy at Coast 2 Coast
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #309. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020081
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020098@replay88.github.io
+DTSTAMP:20261010T214500Z
+DTSTART:20261010T214500Z
+DTEND:20261010T231500Z
+SUMMARY:2018: Northern Hockey Club at Coast 2 Coast
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #326. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020098
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020105@replay88.github.io
+DTSTAMP:20261010T230000Z
+DTSTART:20261010T230000Z
+DTEND:20261011T003000Z
+SUMMARY:2018: South Sask Academy at Riggers Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 game #333. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020105
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020112@replay88.github.io
+DTSTAMP:20261011T130000Z
+DTSTART:20261011T130000Z
+DTEND:20261011T143000Z
+SUMMARY:2018: Riggers Hockey Academy at South Sask Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #340. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020112
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020130@replay88.github.io
+DTSTAMP:20261011T163000Z
+DTSTART:20261011T163000Z
+DTEND:20261011T180000Z
+SUMMARY:2018: Riggers Hockey Academy at Coast 2 Coast
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #358. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020130
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020137@replay88.github.io
+DTSTAMP:20261011T180000Z
+DTSTART:20261011T180000Z
+DTEND:20261011T193000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #365. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020137
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020146@replay88.github.io
+DTSTAMP:20261011T200000Z
+DTSTART:20261011T200000Z
+DTEND:20261011T213000Z
+SUMMARY:2018: Coast 2 Coast at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #374. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020146
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020155@replay88.github.io
+DTSTAMP:20261014T224500Z
+DTSTART:20261014T224500Z
+DTEND:20261015T001500Z
+SUMMARY:2018: Riggers Hockey Academy at Wolverines Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 game #383. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020155
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020158@replay88.github.io
+DTSTAMP:20261016T210000Z
+DTSTART:20261016T210000Z
+DTEND:20261016T223000Z
+SUMMARY:2018: YYC Jays at Spartan Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #386. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020158
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020176@replay88.github.io
+DTSTAMP:20261017T151500Z
+DTSTART:20261017T151500Z
+DTEND:20261017T164500Z
+SUMMARY:2018: YYC Jays at HC Calgary Bandits
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #404. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020176
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020192@replay88.github.io
+DTSTAMP:20261017T191500Z
+DTSTART:20261017T191500Z
+DTEND:20261017T204500Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #420. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020192
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020206@replay88.github.io
+DTSTAMP:20261017T231500Z
+DTSTART:20261017T231500Z
+DTEND:20261018T004500Z
+SUMMARY:2018: HC Calgary Bandits at Bow Valley Jr. Bigfoot
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #434. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020206
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020217@replay88.github.io
+DTSTAMP:20261018T151500Z
+DTSTART:20261018T151500Z
+DTEND:20261018T164500Z
+SUMMARY:2018: Spartan Hockey Academy at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #445. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020217
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020232@replay88.github.io
+DTSTAMP:20261018T191500Z
+DTSTART:20261018T191500Z
+DTEND:20261018T204500Z
+SUMMARY:2018: HC Calgary Bandits at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #460. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020232
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020236@replay88.github.io
+DTSTAMP:20261018T210000Z
+DTSTART:20261018T210000Z
+DTEND:20261018T223000Z
+SUMMARY:2018: Spartan Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #464. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020236
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020248@replay88.github.io
+DTSTAMP:20261024T021500Z
+DTSTART:20261024T021500Z
+DTEND:20261024T034500Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2018 game #476. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020248
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020388@replay88.github.io
+DTSTAMP:20261106T210000Z
+DTSTART:20261106T210000Z
+DTEND:20261106T223000Z
+SUMMARY:2018: Riggers Hockey Academy at Northern Hockey Club
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 game #616. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020388
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020390@replay88.github.io
+DTSTAMP:20261106T211500Z
+DTSTART:20261106T211500Z
+DTEND:20261106T224500Z
+SUMMARY:2018: HC Calgary Bandits at Coast 2 Coast
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 game #618. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020390
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020392@replay88.github.io
+DTSTAMP:20261106T224500Z
+DTSTART:20261106T224500Z
+DTEND:20261107T001500Z
+SUMMARY:2018: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 game #620. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020392
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020398@replay88.github.io
+DTSTAMP:20261107T010000Z
+DTSTART:20261107T010000Z
+DTEND:20261107T023000Z
+SUMMARY:2018: YYC Jays at Coast 2 Coast
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #626. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020398
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020406@replay88.github.io
+DTSTAMP:20261107T154500Z
+DTSTART:20261107T154500Z
+DTEND:20261107T171500Z
+SUMMARY:2018: Northern Hockey Club at South Sask Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #634. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020406
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020407@replay88.github.io
+DTSTAMP:20261107T160000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T173000Z
+SUMMARY:2018: YYC Jays at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 game #635. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020407
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020408@replay88.github.io
+DTSTAMP:20261107T161500Z
+DTSTART:20261107T161500Z
+DTEND:20261107T174500Z
+SUMMARY:2018: Spartan Hockey Academy at Coast 2 Coast
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #636. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020408
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020411@replay88.github.io
+DTSTAMP:20261107T173000Z
+DTSTART:20261107T173000Z
+DTEND:20261107T190000Z
+SUMMARY:2018: Wolverines Hockey Academy at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #639. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020411
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020418@replay88.github.io
+DTSTAMP:20261107T193000Z
+DTSTART:20261107T193000Z
+DTEND:20261107T210000Z
+SUMMARY:2018: YYC Jays at Bow Valley Jr. Bigfoot
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 game #646. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020418
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020419@replay88.github.io
+DTSTAMP:20261107T194500Z
+DTSTART:20261107T194500Z
+DTEND:20261107T211500Z
+SUMMARY:2018: HC Calgary Bandits at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #647. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020419
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020422@replay88.github.io
+DTSTAMP:20261107T210000Z
+DTSTART:20261107T210000Z
+DTEND:20261107T223000Z
+SUMMARY:2018: Northern Hockey Club at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #650. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020422
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020427@replay88.github.io
+DTSTAMP:20261107T224500Z
+DTSTART:20261107T224500Z
+DTEND:20261108T001500Z
+SUMMARY:2018: South Sask Academy at Wolverines Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #655. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020427
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020428@replay88.github.io
+DTSTAMP:20261107T230000Z
+DTSTART:20261107T230000Z
+DTEND:20261108T003000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Coast 2 Coast
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 game #656. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020428
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020440@replay88.github.io
+DTSTAMP:20261108T154500Z
+DTSTART:20261108T154500Z
+DTEND:20261108T171500Z
+SUMMARY:2018: South Sask Academy at Northern Hockey Club
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 game #668. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020440
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020442@replay88.github.io
+DTSTAMP:20261108T160000Z
+DTSTART:20261108T160000Z
+DTEND:20261108T173000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 game #670. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020442
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020444@replay88.github.io
+DTSTAMP:20261108T161500Z
+DTSTART:20261108T161500Z
+DTEND:20261108T174500Z
+SUMMARY:2018: Coast 2 Coast at YYC Jays
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #672. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020444
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020450@replay88.github.io
+DTSTAMP:20261108T191500Z
+DTSTART:20261108T191500Z
+DTEND:20261108T204500Z
+SUMMARY:2018: Riggers Hockey Academy at Wolverines Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 game #678. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020450
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020458@replay88.github.io
+DTSTAMP:20261108T213000Z
+DTSTART:20261108T213000Z
+DTEND:20261108T230000Z
+SUMMARY:2018: Coast 2 Coast at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #686. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020458
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020496@replay88.github.io
+DTSTAMP:20261115T213000Z
+DTSTART:20261115T213000Z
+DTEND:20261115T230000Z
+SUMMARY:2018: Wolverines Hockey Academy at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 game #724. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020496
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020509@replay88.github.io
+DTSTAMP:20261120T230000Z
+DTSTART:20261120T230000Z
+DTEND:20261121T003000Z
+SUMMARY:2018: South Sask Academy at YYC Jays
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #737. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020509
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020511@replay88.github.io
+DTSTAMP:20261120T231500Z
+DTSTART:20261120T231500Z
+DTEND:20261121T004500Z
+SUMMARY:2018: Northern Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2018 game #739. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020511
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020518@replay88.github.io
+DTSTAMP:20261121T004500Z
+DTSTART:20261121T004500Z
+DTEND:20261121T021500Z
+SUMMARY:2018: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #746. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020518
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020529@replay88.github.io
+DTSTAMP:20261121T140000Z
+DTSTART:20261121T140000Z
+DTEND:20261121T153000Z
+SUMMARY:2018: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #757. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020529
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020546@replay88.github.io
+DTSTAMP:20261121T161500Z
+DTSTART:20261121T161500Z
+DTEND:20261121T174500Z
+SUMMARY:2018: YYC Jays at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #774. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020546
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020550@replay88.github.io
+DTSTAMP:20261121T173000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T190000Z
+SUMMARY:2018: Wolverines Hockey Academy at Spartan Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #778. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020550
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020563@replay88.github.io
+DTSTAMP:20261121T201500Z
+DTSTART:20261121T201500Z
+DTEND:20261121T214500Z
+SUMMARY:2018: HC Calgary Bandits at YYC Jays
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #791. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020563
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020565@replay88.github.io
+DTSTAMP:20261121T210000Z
+DTSTART:20261121T210000Z
+DTEND:20261121T223000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #793. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020565
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020582@replay88.github.io
+DTSTAMP:20261122T001500Z
+DTSTART:20261122T001500Z
+DTEND:20261122T014500Z
+SUMMARY:2018: South Sask Academy at HC Calgary Bandits
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #810. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020582
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020583@replay88.github.io
+DTSTAMP:20261122T003000Z
+DTSTART:20261122T003000Z
+DTEND:20261122T020000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Northern Hockey Club
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #811. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020583
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@replay88.github.io
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #821. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020593
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020594@replay88.github.io
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018: HC Calgary Bandits at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #822. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020594
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020605@replay88.github.io
+DTSTAMP:20261122T154500Z
+DTSTART:20261122T154500Z
+DTEND:20261122T171500Z
+SUMMARY:2018: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #833. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020605
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020618@replay88.github.io
+DTSTAMP:20261122T180000Z
+DTSTART:20261122T180000Z
+DTEND:20261122T193000Z
+SUMMARY:2018: South Sask Academy at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #846. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020618
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020622@replay88.github.io
+DTSTAMP:20261122T191500Z
+DTSTART:20261122T191500Z
+DTEND:20261122T204500Z
+SUMMARY:2018: Spartan Hockey Academy at Wolverines Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 game #850. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020622
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020692@replay88.github.io
+DTSTAMP:20261204T210000Z
+DTSTART:20261204T210000Z
+DTEND:20261204T223000Z
+SUMMARY:2018: Coast 2 Coast at Northern Hockey Club
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #920. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020692
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020696@replay88.github.io
+DTSTAMP:20261204T224500Z
+DTSTART:20261204T224500Z
+DTEND:20261205T001500Z
+SUMMARY:2018: YYC Jays at South Sask Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #924. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020696
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020701@replay88.github.io
+DTSTAMP:20261205T003000Z
+DTSTART:20261205T003000Z
+DTEND:20261205T020000Z
+SUMMARY:2018: Spartan Hockey Academy at Coast 2 Coast
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #929. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020701
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020705@replay88.github.io
+DTSTAMP:20261205T130000Z
+DTSTART:20261205T130000Z
+DTEND:20261205T143000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #933. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020705
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020709@replay88.github.io
+DTSTAMP:20261205T144500Z
+DTSTART:20261205T144500Z
+DTEND:20261205T161500Z
+SUMMARY:2018: Northern Hockey Club at Spartan Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #937. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020709
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020714@replay88.github.io
+DTSTAMP:20261205T163000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T180000Z
+SUMMARY:2018: Wolverines Hockey Academy at Coast 2 Coast
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #942. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020714
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020718@replay88.github.io
+DTSTAMP:20261205T181500Z
+DTSTART:20261205T181500Z
+DTEND:20261205T194500Z
+SUMMARY:2018: Riggers Hockey Academy at HC Calgary Bandits
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #946. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020718
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020724@replay88.github.io
+DTSTAMP:20261205T200000Z
+DTSTART:20261205T200000Z
+DTEND:20261205T213000Z
+SUMMARY:2018: South Sask Academy at YYC Jays
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #952. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020724
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020729@replay88.github.io
+DTSTAMP:20261205T214500Z
+DTSTART:20261205T214500Z
+DTEND:20261205T231500Z
+SUMMARY:2018: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #957. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020729
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020733@replay88.github.io
+DTSTAMP:20261205T233000Z
+DTSTART:20261205T233000Z
+DTEND:20261206T010000Z
+SUMMARY:2018: South Sask Academy at Coast 2 Coast
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #961. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020733
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020739@replay88.github.io
+DTSTAMP:20261206T011500Z
+DTSTART:20261206T011500Z
+DTEND:20261206T024500Z
+SUMMARY:2018: Riggers Hockey Academy at YYC Jays
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #967. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020739
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020741@replay88.github.io
+DTSTAMP:20261206T055800Z
+DTSTART:20261206T055800Z
+DTEND:20261206T072800Z
+SUMMARY:2018: Riggers Hockey Academy at Wolverines Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2018 game #969. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020741
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020742@replay88.github.io
+DTSTAMP:20261206T130000Z
+DTSTART:20261206T130000Z
+DTEND:20261206T143000Z
+SUMMARY:2018: Coast 2 Coast at Bow Valley Jr. Bigfoot
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #970. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020742
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020746@replay88.github.io
+DTSTAMP:20261206T144500Z
+DTSTART:20261206T144500Z
+DTEND:20261206T161500Z
+SUMMARY:2018: South Sask Academy at HC Calgary Bandits
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #974. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020746
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020747@replay88.github.io
+DTSTAMP:20261206T154500Z
+DTSTART:20261206T154500Z
+DTEND:20261206T171500Z
+SUMMARY:2018: Wolverines Hockey Academy at Spartan Hockey Academy
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 game #975. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020747
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020752@replay88.github.io
+DTSTAMP:20261206T163000Z
+DTSTART:20261206T163000Z
+DTEND:20261206T180000Z
+SUMMARY:2018: Northern Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #980. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020752
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020757@replay88.github.io
+DTSTAMP:20261206T181500Z
+DTSTART:20261206T181500Z
+DTEND:20261206T194500Z
+SUMMARY:2018: Coast 2 Coast at HC Calgary Bandits
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #985. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020757
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020760@replay88.github.io
+DTSTAMP:20261206T194500Z
+DTSTART:20261206T194500Z
+DTEND:20261206T211500Z
+SUMMARY:2018: Spartan Hockey Academy at Wolverines Hockey Academy
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 game #988. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020760
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020761@replay88.github.io
+DTSTAMP:20261206T200000Z
+DTSTART:20261206T200000Z
+DTEND:20261206T213000Z
+SUMMARY:2018: YYC Jays at Riggers Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 game #989. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020761
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020817@replay88.github.io
+DTSTAMP:20261212T203000Z
+DTSTART:20261212T203000Z
+DTEND:20261212T220000Z
+SUMMARY:2018: Riggers Hockey Academy at YYC Jays
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2018 game #1045. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020817
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020866@replay88.github.io
+DTSTAMP:20261213T213000Z
+DTSTART:20261213T213000Z
+DTEND:20261213T230000Z
+SUMMARY:2018: Spartan Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 game #1094. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020866
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020951@replay88.github.io
+DTSTAMP:20261220T143000Z
+DTSTART:20261220T143000Z
+DTEND:20261220T160000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at YYC Jays
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 game #1179. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020951
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021016@replay88.github.io
+DTSTAMP:20270102T130000Z
+DTSTART:20270102T130000Z
+DTEND:20270102T143000Z
+SUMMARY:2018: South Sask Academy at Bow Valley Jr. Bigfoot
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1244. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021016
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020990@replay88.github.io
+DTSTAMP:20270102T163000Z
+DTSTART:20270102T163000Z
+DTEND:20270102T180000Z
+SUMMARY:2018: Wolverines Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1218. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020990
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020989@replay88.github.io
+DTSTAMP:20270102T174500Z
+DTSTART:20270102T174500Z
+DTEND:20270102T191500Z
+SUMMARY:2018: Spartan Hockey Academy at South Sask Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1217. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020989
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020995@replay88.github.io
+DTSTAMP:20270102T193000Z
+DTSTART:20270102T193000Z
+DTEND:20270102T210000Z
+SUMMARY:2018: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1223. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020995
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021004@replay88.github.io
+DTSTAMP:20270102T200000Z
+DTSTART:20270102T200000Z
+DTEND:20270102T213000Z
+SUMMARY:2018: Wolverines Hockey Academy at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1232. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021004
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021001@replay88.github.io
+DTSTAMP:20270102T211500Z
+DTSTART:20270102T211500Z
+DTEND:20270102T224500Z
+SUMMARY:2018: YYC Jays at South Sask Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1229. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021001
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021008@replay88.github.io
+DTSTAMP:20270102T230000Z
+DTSTART:20270102T230000Z
+DTEND:20270103T003000Z
+SUMMARY:2018: Spartan Hockey Academy at Riggers Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1236. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021008
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021019@replay88.github.io
+DTSTAMP:20270102T233000Z
+DTSTART:20270102T233000Z
+DTEND:20270103T010000Z
+SUMMARY:2018: Northern Hockey Club at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1247. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021019
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021027@replay88.github.io
+DTSTAMP:20270103T130000Z
+DTSTART:20270103T130000Z
+DTEND:20270103T143000Z
+SUMMARY:2018: HC Calgary Bandits at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1255. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021027
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021026@replay88.github.io
+DTSTAMP:20270103T144500Z
+DTSTART:20270103T144500Z
+DTEND:20270103T161500Z
+SUMMARY:2018: Riggers Hockey Academy at Spartan Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1254. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021026
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021033@replay88.github.io
+DTSTAMP:20270103T163000Z
+DTSTART:20270103T163000Z
+DTEND:20270103T180000Z
+SUMMARY:2018: South Sask Academy at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1261. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021033
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021040@replay88.github.io
+DTSTAMP:20270103T163000Z
+DTSTART:20270103T163000Z
+DTEND:20270103T180000Z
+SUMMARY:2018: Northern Hockey Club at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1268. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021040
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021047@replay88.github.io
+DTSTAMP:20270103T181500Z
+DTSTART:20270103T181500Z
+DTEND:20270103T194500Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1275. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021047
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021055@replay88.github.io
+DTSTAMP:20270103T200000Z
+DTSTART:20270103T200000Z
+DTEND:20270103T213000Z
+SUMMARY:2018: HC Calgary Bandits at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1283. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021055
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021062@replay88.github.io
+DTSTAMP:20270103T200000Z
+DTSTART:20270103T200000Z
+DTEND:20270103T213000Z
+SUMMARY:2018: YYC Jays at Spartan Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 game #1290. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021062
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021091@replay88.github.io
+DTSTAMP:20270109T154500Z
+DTSTART:20270109T154500Z
+DTEND:20270109T171500Z
+SUMMARY:2018: YYC Jays at Wolverines Hockey Academy
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 game #1319. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021091
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021108@replay88.github.io
+DTSTAMP:20270109T210000Z
+DTSTART:20270109T210000Z
+DTEND:20270109T223000Z
+SUMMARY:2018: Wolverines Hockey Academy at YYC Jays
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 game #1336. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021108
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021149@replay88.github.io
+DTSTAMP:20270115T184500Z
+DTSTART:20270115T184500Z
+DTEND:20270115T201500Z
+SUMMARY:2018: Coast 2 Coast at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1377. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021149
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021152@replay88.github.io
+DTSTAMP:20270115T221500Z
+DTSTART:20270115T221500Z
+DTEND:20270115T234500Z
+SUMMARY:2018: Northern Hockey Club at YYC Jays
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1380. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021152
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021156@replay88.github.io
+DTSTAMP:20270115T230000Z
+DTSTART:20270115T230000Z
+DTEND:20270116T003000Z
+SUMMARY:2018: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1384. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021156
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021161@replay88.github.io
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T000000Z
+DTEND:20270116T013000Z
+SUMMARY:2018: HC Calgary Bandits at Coast 2 Coast
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1389. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021161
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021165@replay88.github.io
+DTSTAMP:20270116T004500Z
+DTSTART:20270116T004500Z
+DTEND:20270116T021500Z
+SUMMARY:2018: South Sask Academy at Spartan Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1393. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021165
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021172@replay88.github.io
+DTSTAMP:20270116T140000Z
+DTSTART:20270116T140000Z
+DTEND:20270116T153000Z
+SUMMARY:2018: Wolverines Hockey Academy at Spartan Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1400. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021172
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021177@replay88.github.io
+DTSTAMP:20270116T144500Z
+DTSTART:20270116T144500Z
+DTEND:20270116T161500Z
+SUMMARY:2018: Northern Hockey Club at Coast 2 Coast
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1405. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021177
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021186@replay88.github.io
+DTSTAMP:20270116T163000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T180000Z
+SUMMARY:2018: YYC Jays at Riggers Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1414. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021186
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021190@replay88.github.io
+DTSTAMP:20270116T173000Z
+DTSTART:20270116T173000Z
+DTEND:20270116T190000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1418. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021190
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021207@replay88.github.io
+DTSTAMP:20270116T200000Z
+DTSTART:20270116T200000Z
+DTEND:20270116T213000Z
+SUMMARY:2018: Coast 2 Coast at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1435. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021207
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021210@replay88.github.io
+DTSTAMP:20270116T210000Z
+DTSTART:20270116T210000Z
+DTEND:20270116T223000Z
+SUMMARY:2018: Spartan Hockey Academy at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1438. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021210
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021217@replay88.github.io
+DTSTAMP:20270116T214500Z
+DTSTART:20270116T214500Z
+DTEND:20270116T231500Z
+SUMMARY:2018: YYC Jays at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 game #1445. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021217
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021231@replay88.github.io
+DTSTAMP:20270117T003000Z
+DTSTART:20270117T003000Z
+DTEND:20270117T020000Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1459. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021231
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021237@replay88.github.io
+DTSTAMP:20270117T134500Z
+DTSTART:20270117T134500Z
+DTEND:20270117T151500Z
+SUMMARY:2018: YYC Jays at Coast 2 Coast
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1465. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021237
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021247@replay88.github.io
+DTSTAMP:20270117T153000Z
+DTSTART:20270117T153000Z
+DTEND:20270117T170000Z
+SUMMARY:2018: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1475. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021247
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021251@replay88.github.io
+DTSTAMP:20270117T154500Z
+DTSTART:20270117T154500Z
+DTEND:20270117T171500Z
+SUMMARY:2018: South Sask Academy at Bow Valley Jr. Bigfoot
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 game #1479. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021251
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021269@replay88.github.io
+DTSTAMP:20270117T193000Z
+DTSTART:20270117T193000Z
+DTEND:20270117T210000Z
+SUMMARY:2018: Northern Hockey Club at HC Calgary Bandits
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1497. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021269
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021274@replay88.github.io
+DTSTAMP:20270117T211500Z
+DTSTART:20270117T211500Z
+DTEND:20270117T224500Z
+SUMMARY:2018: Riggers Hockey Academy at Coast 2 Coast
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 game #1502. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021274
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021367@replay88.github.io
+DTSTAMP:20270124T180000Z
+DTSTART:20270124T180000Z
+DTEND:20270124T193000Z
+SUMMARY:2018: Spartan Hockey Academy at HC Calgary Bandits
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2018 game #1595. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021367
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021391@replay88.github.io
+DTSTAMP:20270130T204500Z
+DTSTART:20270130T204500Z
+DTEND:20270130T221500Z
+SUMMARY:2018: HC Calgary Bandits at Bow Valley Jr. Bigfoot
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2018 game #1619. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021391
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021429@replay88.github.io
+DTSTAMP:20270205T220000Z
+DTSTART:20270205T220000Z
+DTEND:20270205T233000Z
+SUMMARY:2018: Coast 2 Coast at Riggers Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1657. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021429
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021434@replay88.github.io
+DTSTAMP:20270205T234500Z
+DTSTART:20270205T234500Z
+DTEND:20270206T011500Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 game #1662. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021434
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021435@replay88.github.io
+DTSTAMP:20270205T234500Z
+DTSTART:20270205T234500Z
+DTEND:20270206T011500Z
+SUMMARY:2018: Northern Hockey Club at YYC Jays
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1663. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021435
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021439@replay88.github.io
+DTSTAMP:20270206T013000Z
+DTSTART:20270206T013000Z
+DTEND:20270206T030000Z
+SUMMARY:2018: Coast 2 Coast at South Sask Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1667. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021439
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021443@replay88.github.io
+DTSTAMP:20270206T143000Z
+DTSTART:20270206T143000Z
+DTEND:20270206T160000Z
+SUMMARY:2018: Northern Hockey Club at South Sask Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1671. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021443
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021449@replay88.github.io
+DTSTAMP:20270206T161500Z
+DTSTART:20270206T161500Z
+DTEND:20270206T174500Z
+SUMMARY:2018: Coast 2 Coast at YYC Jays
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1677. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021449
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021466@replay88.github.io
+DTSTAMP:20270206T213000Z
+DTSTART:20270206T213000Z
+DTEND:20270206T230000Z
+SUMMARY:2018: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1694. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021466
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021473@replay88.github.io
+DTSTAMP:20270206T231500Z
+DTSTART:20270206T231500Z
+DTEND:20270207T004500Z
+SUMMARY:2018: Riggers Hockey Academy at Coast 2 Coast
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1701. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021473
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021479@replay88.github.io
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T153000Z
+SUMMARY:2018: Riggers Hockey Academy at South Sask Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1707. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021479
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021485@replay88.github.io
+DTSTAMP:20270207T154500Z
+DTSTART:20270207T154500Z
+DTEND:20270207T171500Z
+SUMMARY:2018: Coast 2 Coast at Northern Hockey Club
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1713. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021485
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021496@replay88.github.io
+DTSTAMP:20270207T191500Z
+DTSTART:20270207T191500Z
+DTEND:20270207T204500Z
+SUMMARY:2018: Riggers Hockey Academy at Northern Hockey Club
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1724. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021496
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021500@replay88.github.io
+DTSTAMP:20270207T210000Z
+DTSTART:20270207T210000Z
+DTEND:20270207T223000Z
+SUMMARY:2018: Coast 2 Coast at Wolverines Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 game #1728. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021500
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021533@replay88.github.io
+DTSTAMP:20270213T181500Z
+DTSTART:20270213T181500Z
+DTEND:20270213T194500Z
+SUMMARY:2018: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 game #1761. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021533
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021541@replay88.github.io
+DTSTAMP:20270213T203000Z
+DTSTART:20270213T203000Z
+DTEND:20270213T220000Z
+SUMMARY:2018: HC Calgary Bandits at Bow Valley Jr. Bigfoot
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2018 game #1769. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021541
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021566@replay88.github.io
+DTSTAMP:20270214T154500Z
+DTSTART:20270214T154500Z
+DTEND:20270214T171500Z
+SUMMARY:2018: HC Calgary Bandits at Spartan Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 game #1794. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021566
+END:VEVENT
+END:VCALENDAR

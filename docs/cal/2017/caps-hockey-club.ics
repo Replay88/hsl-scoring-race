@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Caps Hockey Club (2017)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019994@replay88.github.io
+DTSTAMP:20261003T004500Z
+DTSTART:20261003T004500Z
+DTEND:20261003T021500Z
+SUMMARY:2017: Caps Hockey Club 1 – Gorillas Hockey Academy 2 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #222. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019994
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020001@replay88.github.io
+DTSTAMP:20261003T173000Z
+DTSTART:20261003T173000Z
+DTEND:20261003T190000Z
+SUMMARY:2017: Caps Hockey Club 10 – Rebels Hockey Academy 9 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #229. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020001
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020008@replay88.github.io
+DTSTAMP:20261003T210000Z
+DTSTART:20261003T210000Z
+DTEND:20261003T223000Z
+SUMMARY:2017: Gorillas Hockey Academy 8 – Caps Hockey Club 5 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #236. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020008
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020025@replay88.github.io
+DTSTAMP:20261004T180000Z
+DTSTART:20261004T180000Z
+DTEND:20261004T193000Z
+SUMMARY:2017: Riggers Hockey Academy 2 – Caps Hockey Club 14 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #253. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020025
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020159@replay88.github.io
+DTSTAMP:20261016T220000Z
+DTSTART:20261016T220000Z
+DTEND:20261016T233000Z
+SUMMARY:2017: YYC Jays at Caps Hockey Club
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2017 game #387. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020159
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020172@replay88.github.io
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T153000Z
+SUMMARY:2017: HC Calgary Bandits at Caps Hockey Club
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2017 game #400. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020172
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020187@replay88.github.io
+DTSTAMP:20261017T180000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+SUMMARY:2017: Caps Hockey Club at YYC Jays
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2017 game #415. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020187
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020220@replay88.github.io
+DTSTAMP:20261018T160000Z
+DTSTART:20261018T160000Z
+DTEND:20261018T173000Z
+SUMMARY:2017: Caps Hockey Club at HC Calgary Bandits
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2017 game #448. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020220
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020395@replay88.github.io
+DTSTAMP:20261106T234500Z
+DTSTART:20261106T234500Z
+DTEND:20261107T011500Z
+SUMMARY:2017: Rebels Hockey Academy at Caps Hockey Club
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 game #623. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020395
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020401@replay88.github.io
+DTSTAMP:20261107T140000Z
+DTSTART:20261107T140000Z
+DTEND:20261107T153000Z
+SUMMARY:2017: Caps Hockey Club at Riggers Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 game #629. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020401
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020417@replay88.github.io
+DTSTAMP:20261107T191500Z
+DTSTART:20261107T191500Z
+DTEND:20261107T204500Z
+SUMMARY:2017: Caps Hockey Club at Rebels Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 game #645. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020417
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020446@replay88.github.io
+DTSTAMP:20261108T173000Z
+DTSTART:20261108T173000Z
+DTEND:20261108T190000Z
+SUMMARY:2017: North Stars Hockey Academy at Caps Hockey Club
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 game #674. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020446
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020726@replay88.github.io
+DTSTAMP:20261205T210000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T223000Z
+SUMMARY:2017: Caps Hockey Club at North Stars Hockey Academy
+LOCATION:JDA County Sportsplex - Chris McMillan
+DESCRIPTION:HSL 2017 game #954. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020726
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020736@replay88.github.io
+DTSTAMP:20261206T003000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T020000Z
+SUMMARY:2017: Rebels Hockey Academy at Caps Hockey Club
+LOCATION:JDA County Sportsplex - Chris McMillan
+DESCRIPTION:HSL 2017 game #964. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020736
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020753@replay88.github.io
+DTSTAMP:20261206T173000Z
+DTSTART:20261206T173000Z
+DTEND:20261206T190000Z
+SUMMARY:2017: Caps Hockey Club at Rebels Hockey Academy
+LOCATION:JDA County Sportsplex - Chris McMillan
+DESCRIPTION:HSL 2017 game #981. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020753
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020864@replay88.github.io
+DTSTAMP:20261213T210000Z
+DTSTART:20261213T210000Z
+DTEND:20261213T223000Z
+SUMMARY:2017: North Stars Hockey Academy at Caps Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1092. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020864
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020869@replay88.github.io
+DTSTAMP:20261218T191500Z
+DTSTART:20261218T191500Z
+DTEND:20261218T204500Z
+SUMMARY:2017: HC Calgary Bandits at Caps Hockey Club
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2017 game #1097. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020869
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020928@replay88.github.io
+DTSTAMP:20261219T230000Z
+DTSTART:20261219T230000Z
+DTEND:20261220T003000Z
+SUMMARY:2017: Caps Hockey Club at HC Calgary Bandits
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2017 game #1156. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020928
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020986@replay88.github.io
+DTSTAMP:20270102T144500Z
+DTSTART:20270102T144500Z
+DTEND:20270102T161500Z
+SUMMARY:2017: Riggers Hockey Academy at Caps Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2017 game #1214. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020986
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021038@replay88.github.io
+DTSTAMP:20270103T154500Z
+DTSTART:20270103T154500Z
+DTEND:20270103T171500Z
+SUMMARY:2017: Caps Hockey Club at North Stars Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2017 game #1266. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021038
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021111@replay88.github.io
+DTSTAMP:20270109T211500Z
+DTSTART:20270109T211500Z
+DTEND:20270109T224500Z
+SUMMARY:2017: North Stars Hockey Academy at Caps Hockey Club
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2017 game #1339. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021111
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021204@replay88.github.io
+DTSTAMP:20270116T194500Z
+DTSTART:20270116T194500Z
+DTEND:20270116T211500Z
+SUMMARY:2017: Caps Hockey Club at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1432. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021204
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021250@replay88.github.io
+DTSTAMP:20270117T154500Z
+DTSTART:20270117T154500Z
+DTEND:20270117T171500Z
+SUMMARY:2017: Bow Valley Jr. Bigfoot at Caps Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1478. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021250
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021265@replay88.github.io
+DTSTAMP:20270117T191500Z
+DTSTART:20270117T191500Z
+DTEND:20270117T204500Z
+SUMMARY:2017: Caps Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1493. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021265
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021425@replay88.github.io
+DTSTAMP:20270205T201500Z
+DTSTART:20270205T201500Z
+DTEND:20270205T214500Z
+SUMMARY:2017: Bow Valley Jr. Bigfoot at Caps Hockey Club
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2017 game #1653. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021425
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021448@replay88.github.io
+DTSTAMP:20270206T161500Z
+DTSTART:20270206T161500Z
+DTEND:20270206T174500Z
+SUMMARY:2017: YYC Jays at Caps Hockey Club
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2017 game #1676. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021448
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021470@replay88.github.io
+DTSTAMP:20270206T223000Z
+DTSTART:20270206T223000Z
+DTEND:20270207T000000Z
+SUMMARY:2017: Caps Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2017 game #1698. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021470
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021489@replay88.github.io
+DTSTAMP:20270207T170000Z
+DTSTART:20270207T170000Z
+DTEND:20270207T183000Z
+SUMMARY:2017: Caps Hockey Club at YYC Jays
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2017 game #1717. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021489
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021624@replay88.github.io
+DTSTAMP:20270220T174500Z
+DTSTART:20270220T174500Z
+DTEND:20270220T191500Z
+SUMMARY:2017: Gorillas Hockey Academy at Caps Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1852. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021624
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021650@replay88.github.io
+DTSTAMP:20270220T230000Z
+DTSTART:20270220T230000Z
+DTEND:20270221T003000Z
+SUMMARY:2017: Caps Hockey Club at Riggers Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1878. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021650
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021666@replay88.github.io
+DTSTAMP:20270221T150000Z
+DTSTART:20270221T150000Z
+DTEND:20270221T163000Z
+SUMMARY:2017: Caps Hockey Club at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1894. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021666
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021683@replay88.github.io
+DTSTAMP:20270221T183000Z
+DTSTART:20270221T183000Z
+DTEND:20270221T200000Z
+SUMMARY:2017: Riggers Hockey Academy at Caps Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 game #1911. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021683
+END:VEVENT
+END:VCALENDAR

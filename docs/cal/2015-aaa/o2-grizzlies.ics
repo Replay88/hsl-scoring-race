@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:O2 Grizzlies (2015 AAA)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019803@replay88.github.io
+DTSTAMP:20260919T140000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T153000Z
+SUMMARY:2015 AAA: O2 Grizzlies 4 – Aces Hockey Academy 4 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2015 AAA game #31. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019803
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019843@replay88.github.io
+DTSTAMP:20260919T210000Z
+DTSTART:20260919T210000Z
+DTEND:20260919T223000Z
+SUMMARY:2015 AAA: O2 Grizzlies 3 – North Stars Hockey Academy 9 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2015 AAA game #71. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019843
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019893@replay88.github.io
+DTSTAMP:20260920T173000Z
+DTSTART:20260920T173000Z
+DTEND:20260920T190000Z
+SUMMARY:2015 AAA: North Stars Hockey Academy 5 – O2 Grizzlies 3 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2015 AAA game #121. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019893
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019910@replay88.github.io
+DTSTAMP:20260920T210000Z
+DTSTART:20260920T210000Z
+DTEND:20260920T223000Z
+SUMMARY:2015 AAA: Aces Hockey Academy 7 – O2 Grizzlies 1 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2015 AAA game #138. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019910
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020038@replay88.github.io
+DTSTAMP:20261009T224500Z
+DTSTART:20261009T224500Z
+DTEND:20261010T001500Z
+SUMMARY:2015 AAA: Warriors Hockey Academy 7 – O2 Grizzlies 2 (Final)
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2015 AAA game #266. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020038
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020061@replay88.github.io
+DTSTAMP:20261010T144500Z
+DTSTART:20261010T144500Z
+DTEND:20261010T161500Z
+SUMMARY:2015 AAA: O2 Grizzlies at HC Calgary Bandits
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2015 AAA game #289. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020061
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020088@replay88.github.io
+DTSTAMP:20261010T200000Z
+DTSTART:20261010T200000Z
+DTEND:20261010T213000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Warriors Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2015 AAA game #316. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020088
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020120@replay88.github.io
+DTSTAMP:20261011T144500Z
+DTSTART:20261011T144500Z
+DTEND:20261011T161500Z
+SUMMARY:2015 AAA: HC Calgary Bandits at O2 Grizzlies
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2015 AAA game #348. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020120
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020244@replay88.github.io
+DTSTAMP:20261024T001500Z
+DTSTART:20261024T001500Z
+DTEND:20261024T014500Z
+SUMMARY:2015 AAA: O2 Grizzlies at Capital City Knights
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2015 AAA game #472. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020244
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020249@replay88.github.io
+DTSTAMP:20261024T131500Z
+DTSTART:20261024T131500Z
+DTEND:20261024T144500Z
+SUMMARY:2015 AAA: O2 Grizzlies at Aces Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2015 AAA game #477. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020249
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020266@replay88.github.io
+DTSTAMP:20261024T194500Z
+DTSTART:20261024T194500Z
+DTEND:20261024T211500Z
+SUMMARY:2015 AAA: Capital City Knights at O2 Grizzlies
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2015 AAA game #494. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020266
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020285@replay88.github.io
+DTSTAMP:20261025T153000Z
+DTSTART:20261025T153000Z
+DTEND:20261025T170000Z
+SUMMARY:2015 AAA: Saints Pro Hockey Academy at O2 Grizzlies
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2015 AAA game #513. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020285
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020537@replay88.github.io
+DTSTAMP:20261121T150000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T163000Z
+SUMMARY:2015 AAA: Queen City Young Guns at O2 Grizzlies
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2015 AAA game #765. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020537
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020579@replay88.github.io
+DTSTAMP:20261121T234500Z
+DTSTART:20261121T234500Z
+DTEND:20261122T011500Z
+SUMMARY:2015 AAA: Warriors Hockey Academy at O2 Grizzlies
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2015 AAA game #807. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020579
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020592@replay88.github.io
+DTSTAMP:20261122T133000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T150000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Queen City Young Guns
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2015 AAA game #820. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020592
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020629@replay88.github.io
+DTSTAMP:20261122T203000Z
+DTSTART:20261122T203000Z
+DTEND:20261122T220000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Warriors Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2015 AAA game #857. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020629
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020779@replay88.github.io
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T013000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Saints Pro Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2015 AAA game #1007. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020779
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020788@replay88.github.io
+DTSTAMP:20261212T141500Z
+DTSTART:20261212T141500Z
+DTEND:20261212T154500Z
+SUMMARY:2015 AAA: Aces Hockey Academy at O2 Grizzlies
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2015 AAA game #1016. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020788
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020813@replay88.github.io
+DTSTAMP:20261212T194500Z
+DTSTART:20261212T194500Z
+DTEND:20261212T211500Z
+SUMMARY:2015 AAA: Spartan Hockey Academy at O2 Grizzlies
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2015 AAA game #1041. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020813
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020857@replay88.github.io
+DTSTAMP:20261213T174500Z
+DTSTART:20261213T174500Z
+DTEND:20261213T191500Z
+SUMMARY:2015 AAA: O2 Grizzlies at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2015 AAA game #1085. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020857
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021044@replay88.github.io
+DTSTAMP:20270103T173000Z
+DTSTART:20270103T173000Z
+DTEND:20270103T190000Z
+SUMMARY:2015 AAA: O2 Grizzlies at HC Calgary Bandits
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2015 AAA game #1272. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021044
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021092@replay88.github.io
+DTSTAMP:20270109T154500Z
+DTSTART:20270109T154500Z
+DTEND:20270109T171500Z
+SUMMARY:2015 AAA: Queen City Young Guns at O2 Grizzlies
+LOCATION:Veren Place
+DESCRIPTION:HSL 2015 AAA game #1320. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021092
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021103@replay88.github.io
+DTSTAMP:20270109T191500Z
+DTSTART:20270109T191500Z
+DTEND:20270109T204500Z
+SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at O2 Grizzlies
+LOCATION:Veren Place
+DESCRIPTION:HSL 2015 AAA game #1331. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021103
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021129@replay88.github.io
+DTSTAMP:20270110T150000Z
+DTSTART:20270110T150000Z
+DTEND:20270110T163000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Queen City Young Guns
+LOCATION:Veren Place
+DESCRIPTION:HSL 2015 AAA game #1357. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021129
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021140@replay88.github.io
+DTSTAMP:20270110T183000Z
+DTSTART:20270110T183000Z
+DTEND:20270110T200000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Warriors Hockey Academy (Sask)
+LOCATION:Veren Place
+DESCRIPTION:HSL 2015 AAA game #1368. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021140
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021310@replay88.github.io
+DTSTAMP:20270123T154500Z
+DTSTART:20270123T154500Z
+DTEND:20270123T171500Z
+SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at O2 Grizzlies
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2015 AAA game #1538. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021310
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021350@replay88.github.io
+DTSTAMP:20270124T143000Z
+DTSTART:20270124T143000Z
+DTEND:20270124T160000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Warriors Hockey Academy (Sask)
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2015 AAA game #1578. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021350
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021364@replay88.github.io
+DTSTAMP:20270124T194500Z
+DTSTART:20270124T194500Z
+DTEND:20270124T211500Z
+SUMMARY:2015 AAA: HC Calgary Bandits at O2 Grizzlies
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2015 AAA game #1592. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021364
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021530@replay88.github.io
+DTSTAMP:20270213T173000Z
+DTSTART:20270213T173000Z
+DTEND:20270213T190000Z
+SUMMARY:2015 AAA: O2 Grizzlies at North Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2015 AAA game #1758. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021530
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021544@replay88.github.io
+DTSTAMP:20270213T210000Z
+DTSTART:20270213T210000Z
+DTEND:20270213T223000Z
+SUMMARY:2015 AAA: Spartan Hockey Academy at O2 Grizzlies
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2015 AAA game #1772. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021544
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021567@replay88.github.io
+DTSTAMP:20270214T154500Z
+DTSTART:20270214T154500Z
+DTEND:20270214T171500Z
+SUMMARY:2015 AAA: North Stars Hockey Academy at O2 Grizzlies
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2015 AAA game #1795. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021567
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021585@replay88.github.io
+DTSTAMP:20270214T213000Z
+DTSTART:20270214T213000Z
+DTEND:20270214T230000Z
+SUMMARY:2015 AAA: O2 Grizzlies at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2015 AAA game #1813. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021585
+END:VEVENT
+END:VCALENDAR

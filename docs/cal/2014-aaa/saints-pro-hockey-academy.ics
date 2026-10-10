@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Saints Pro Hockey Academy (2014 AAA)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019925@replay88.github.io
+DTSTAMP:20260926T010000Z
+DTSTART:20260926T010000Z
+DTEND:20260926T023000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy 4 – Caps Hockey Club 6 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #153. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019925
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019941@replay88.github.io
+DTSTAMP:20260926T180000Z
+DTSTART:20260926T180000Z
+DTEND:20260926T193000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy 5 – Riggers Hockey Academy 4 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #169. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019941
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019954@replay88.github.io
+DTSTAMP:20260926T223000Z
+DTSTART:20260926T223000Z
+DTEND:20260927T000000Z
+SUMMARY:2014 AAA: Caps Hockey Club 5 – Saints Pro Hockey Academy 4 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #182. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019954
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019986@replay88.github.io
+DTSTAMP:20260927T203000Z
+DTSTART:20260927T203000Z
+DTEND:20260927T220000Z
+SUMMARY:2014 AAA: Riggers Hockey Academy 0 – Saints Pro Hockey Academy 10 (Final)
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #214. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019986
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020189@replay88.github.io
+DTSTAMP:20261017T183000Z
+DTSTART:20261017T183000Z
+DTEND:20261017T200000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at O2 Grizzlies
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 AAA game #417. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020189
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020247@replay88.github.io
+DTSTAMP:20261024T020000Z
+DTSTART:20261024T020000Z
+DTEND:20261024T033000Z
+SUMMARY:2014 AAA: Spartan Hockey Academy at Saints Pro Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 AAA game #475. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020247
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020263@replay88.github.io
+DTSTAMP:20261024T190000Z
+DTSTART:20261024T190000Z
+DTEND:20261024T203000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 AAA game #491. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020263
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020276@replay88.github.io
+DTSTAMP:20261024T234500Z
+DTSTART:20261024T234500Z
+DTEND:20261025T011500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Calgary Crusaders
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 AAA game #504. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020276
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020462@replay88.github.io
+DTSTAMP:20261113T221500Z
+DTSTART:20261113T221500Z
+DTEND:20261113T234500Z
+SUMMARY:2014 AAA: Calgary Crusaders at Saints Pro Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #690. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020462
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020468@replay88.github.io
+DTSTAMP:20261114T140000Z
+DTSTART:20261114T140000Z
+DTEND:20261114T153000Z
+SUMMARY:2014 AAA: O2 Grizzlies at Saints Pro Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #696. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020468
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020478@replay88.github.io
+DTSTAMP:20261114T201500Z
+DTSTART:20261114T201500Z
+DTEND:20261114T214500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Calgary Crusaders
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #706. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020478
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020490@replay88.github.io
+DTSTAMP:20261115T161500Z
+DTSTART:20261115T161500Z
+DTEND:20261115T174500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Stars Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #718. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020490
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020639@replay88.github.io
+DTSTAMP:20261127T230000Z
+DTSTART:20261127T230000Z
+DTEND:20261128T003000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #867. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020639
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020655@replay88.github.io
+DTSTAMP:20261128T183000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T200000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #883. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020655
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020663@replay88.github.io
+DTSTAMP:20261128T230000Z
+DTSTART:20261128T230000Z
+DTEND:20261129T003000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at O2 Grizzlies
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #891. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020663
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020675@replay88.github.io
+DTSTAMP:20261129T161500Z
+DTSTART:20261129T161500Z
+DTEND:20261129T174500Z
+SUMMARY:2014 AAA: Spartan Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #903. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020675
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020767@replay88.github.io
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T000000Z
+DTEND:20261210T013000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Caps Hockey Club
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #995. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020767
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020872@replay88.github.io
+DTSTAMP:20261218T210000Z
+DTSTART:20261218T210000Z
+DTEND:20261218T223000Z
+SUMMARY:2014 AAA: O2 Grizzlies at Saints Pro Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1100. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020872
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020897@replay88.github.io
+DTSTAMP:20261219T161500Z
+DTSTART:20261219T161500Z
+DTEND:20261219T174500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Stars Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1125. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020897
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020934@replay88.github.io
+DTSTAMP:20261220T004500Z
+DTSTART:20261220T004500Z
+DTEND:20261220T021500Z
+SUMMARY:2014 AAA: Calgary Crusaders at Saints Pro Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1162. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020934
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020959@replay88.github.io
+DTSTAMP:20261220T163000Z
+DTSTART:20261220T163000Z
+DTEND:20261220T180000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1187. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020959
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020983@replay88.github.io
+DTSTAMP:20261224T000000Z
+DTSTART:20261224T000000Z
+DTEND:20261224T013000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #1211. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020983
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021168@replay88.github.io
+DTSTAMP:20270116T014500Z
+DTSTART:20270116T014500Z
+DTEND:20270116T031500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at MOB Hockey
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #1396. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021168
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021199@replay88.github.io
+DTSTAMP:20270116T184500Z
+DTSTART:20270116T184500Z
+DTEND:20270116T201500Z
+SUMMARY:2014 AAA: MOB Hockey at Saints Pro Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #1427. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021199
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021225@replay88.github.io
+DTSTAMP:20270116T231500Z
+DTSTART:20270116T231500Z
+DTEND:20270117T004500Z
+SUMMARY:2014 AAA: Caps Hockey Club at Saints Pro Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #1453. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021225
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021369@replay88.github.io
+DTSTAMP:20270129T220000Z
+DTSTART:20270129T220000Z
+DTEND:20270129T233000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Caps Hockey Club
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 AAA game #1597. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021369
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021381@replay88.github.io
+DTSTAMP:20270130T161500Z
+DTSTART:20270130T161500Z
+DTEND:20270130T174500Z
+SUMMARY:2014 AAA: Riggers Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 AAA game #1609. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021381
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021402@replay88.github.io
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T153000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Riggers Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 AAA game #1630. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021402
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021418@replay88.github.io
+DTSTAMP:20270131T201500Z
+DTSTART:20270131T201500Z
+DTEND:20270131T214500Z
+SUMMARY:2014 AAA: Caps Hockey Club at Saints Pro Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 AAA game #1646. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021418
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021592@replay88.github.io
+DTSTAMP:20270219T230000Z
+DTSTART:20270219T230000Z
+DTEND:20270220T003000Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at MOB Hockey
+LOCATION:MacDonald Island Park #2
+DESCRIPTION:HSL 2014 AAA game #1820. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021592
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021606@replay88.github.io
+DTSTAMP:20270220T140000Z
+DTSTART:20270220T140000Z
+DTEND:20270220T153000Z
+SUMMARY:2014 AAA: MOB Hockey at Saints Pro Hockey Academy
+LOCATION:MacDonald Island Park #2
+DESCRIPTION:HSL 2014 AAA game #1834. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021606
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021627@replay88.github.io
+DTSTAMP:20270220T180000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T193000Z
+SUMMARY:2014 AAA: Riggers Hockey Academy at Saints Pro Hockey Academy
+LOCATION:MacDonald Island Park #2
+DESCRIPTION:HSL 2014 AAA game #1855. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021627
+END:VEVENT
+END:VCALENDAR

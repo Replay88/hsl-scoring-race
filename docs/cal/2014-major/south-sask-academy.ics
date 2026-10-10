@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:South Sask Academy (2014 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019786@replay88.github.io
+DTSTAMP:20260918T234500Z
+DTSTART:20260918T234500Z
+DTEND:20260919T011500Z
+SUMMARY:2014 Major: South Sask Academy 5 – North Stars Academy Wild 8 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #14. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019786
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019811@replay88.github.io
+DTSTAMP:20260919T153000Z
+DTSTART:20260919T153000Z
+DTEND:20260919T170000Z
+SUMMARY:2014 Major: South Sask Academy 7 – Riggers Hockey Academy 3 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #39. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019811
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019836@replay88.github.io
+DTSTAMP:20260919T193000Z
+DTSTART:20260919T193000Z
+DTEND:20260919T210000Z
+SUMMARY:2014 Major: North Stars Academy Wild 6 – South Sask Academy 7 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #64. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019836
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019879@replay88.github.io
+DTSTAMP:20260920T150000Z
+DTSTART:20260920T150000Z
+DTEND:20260920T163000Z
+SUMMARY:2014 Major: Riggers Hockey Academy 7 – South Sask Academy 10 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #107. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019879
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020169@replay88.github.io
+DTSTAMP:20261017T010000Z
+DTSTART:20261017T010000Z
+DTEND:20261017T023000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at South Sask Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #397. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020169
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020184@replay88.github.io
+DTSTAMP:20261017T170000Z
+DTSTART:20261017T170000Z
+DTEND:20261017T183000Z
+SUMMARY:2014 Major: South Sask Academy at HC Calgary Bandits
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #412. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020184
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020209@replay88.github.io
+DTSTAMP:20261018T010000Z
+DTSTART:20261018T010000Z
+DTEND:20261018T023000Z
+SUMMARY:2014 Major: South Sask Academy at Spartan Hockey Academy 15M
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #437. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020209
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020210@replay88.github.io
+DTSTAMP:20261018T130000Z
+DTSTART:20261018T130000Z
+DTEND:20261018T143000Z
+SUMMARY:2014 Major: HC Calgary Bandits at South Sask Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #438. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020210
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020315@replay88.github.io
+DTSTAMP:20261030T231500Z
+DTSTART:20261030T231500Z
+DTEND:20261031T004500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #543. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020315
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020330@replay88.github.io
+DTSTAMP:20261031T143000Z
+DTSTART:20261031T143000Z
+DTEND:20261031T160000Z
+SUMMARY:2014 Major: South Sask Academy at Riggers Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #558. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020330
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020345@replay88.github.io
+DTSTAMP:20261031T190000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T203000Z
+SUMMARY:2014 Major: South Sask Academy at Wolverines Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #573. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020345
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020359@replay88.github.io
+DTSTAMP:20261101T143000Z
+DTSTART:20261101T143000Z
+DTEND:20261101T160000Z
+SUMMARY:2014 Major: Riggers Hockey Academy at South Sask Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #587. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020359
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020530@replay88.github.io
+DTSTAMP:20261121T140000Z
+DTSTART:20261121T140000Z
+DTEND:20261121T153000Z
+SUMMARY:2014 Major: South Sask Academy at Bow Valley Jr. Bigfoot
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #758. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020530
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020569@replay88.github.io
+DTSTAMP:20261121T220000Z
+DTSTART:20261121T220000Z
+DTEND:20261121T233000Z
+SUMMARY:2014 Major: South Sask Academy at Caps Hockey Club
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #797. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020569
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020606@replay88.github.io
+DTSTAMP:20261122T154500Z
+DTSTART:20261122T154500Z
+DTEND:20261122T171500Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #834. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020606
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020626@replay88.github.io
+DTSTAMP:20261122T194500Z
+DTSTART:20261122T194500Z
+DTEND:20261122T211500Z
+SUMMARY:2014 Major: Caps Hockey Club at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #854. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020626
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020880@replay88.github.io
+DTSTAMP:20261219T001500Z
+DTSTART:20261219T001500Z
+DTEND:20261219T014500Z
+SUMMARY:2014 Major: South Sask Academy at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #1108. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020880
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020891@replay88.github.io
+DTSTAMP:20261219T141500Z
+DTSTART:20261219T141500Z
+DTEND:20261219T154500Z
+SUMMARY:2014 Major: South Sask Academy at Bow Valley Jr. Bigfoot
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #1119. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020891
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020912@replay88.github.io
+DTSTAMP:20261219T193000Z
+DTSTART:20261219T193000Z
+DTEND:20261219T210000Z
+SUMMARY:2014 Major: HC Calgary Bandits at South Sask Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #1140. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020912
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020964@replay88.github.io
+DTSTAMP:20261220T180000Z
+DTSTART:20261220T180000Z
+DTEND:20261220T193000Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at South Sask Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #1192. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020964
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021080@replay88.github.io
+DTSTAMP:20270109T001500Z
+DTSTART:20270109T001500Z
+DTEND:20270109T014500Z
+SUMMARY:2014 Major: South Sask Academy at Caps Hockey Club
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1308. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021080
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021102@replay88.github.io
+DTSTAMP:20270109T183000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T200000Z
+SUMMARY:2014 Major: South Sask Academy at Capital City Knights
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1330. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021102
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021120@replay88.github.io
+DTSTAMP:20270109T234500Z
+DTSTART:20270109T234500Z
+DTEND:20270110T011500Z
+SUMMARY:2014 Major: Caps Hockey Club at South Sask Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1348. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021120
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021124@replay88.github.io
+DTSTAMP:20270110T140000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T153000Z
+SUMMARY:2014 Major: Capital City Knights at South Sask Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1352. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021124
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021284@replay88.github.io
+DTSTAMP:20270122T231500Z
+DTSTART:20270122T231500Z
+DTEND:20270123T004500Z
+SUMMARY:2014 Major: South Sask Academy at Capital City Knights
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1512. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021284
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021318@replay88.github.io
+DTSTAMP:20270123T183000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T200000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1546. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021318
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021336@replay88.github.io
+DTSTAMP:20270123T230000Z
+DTSTART:20270123T230000Z
+DTEND:20270124T003000Z
+SUMMARY:2014 Major: Capital City Knights at South Sask Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1564. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021336
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021344@replay88.github.io
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T153000Z
+SUMMARY:2014 Major: South Sask Academy at Wolverines Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1572. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021344
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021431@replay88.github.io
+DTSTAMP:20270205T230000Z
+DTSTART:20270205T230000Z
+DTEND:20270206T003000Z
+SUMMARY:2014 Major: South Sask Academy at North Stars Academy Wild
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1659. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021431
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021462@replay88.github.io
+DTSTAMP:20270206T194500Z
+DTSTART:20270206T194500Z
+DTEND:20270206T211500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1690. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021462
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021474@replay88.github.io
+DTSTAMP:20270206T234500Z
+DTSTART:20270206T234500Z
+DTEND:20270207T011500Z
+SUMMARY:2014 Major: North Stars Academy Wild at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1702. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021474
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021493@replay88.github.io
+DTSTAMP:20270207T180000Z
+DTSTART:20270207T180000Z
+DTEND:20270207T193000Z
+SUMMARY:2014 Major: South Sask Academy at Spartan Hockey Academy 15M
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1721. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021493
+END:VEVENT
+END:VCALENDAR

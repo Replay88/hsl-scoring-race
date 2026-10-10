@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Stars Hockey Academy (2014 AAA)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019813@replay88.github.io
+DTSTAMP:20260919T154500Z
+DTSTART:20260919T154500Z
+DTEND:20260919T171500Z
+SUMMARY:2014 AAA: Stars Hockey Academy 5 – O2 Grizzlies 12 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 AAA game #41. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019813
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019869@replay88.github.io
+DTSTAMP:20260920T131500Z
+DTSTART:20260920T131500Z
+DTEND:20260920T144500Z
+SUMMARY:2014 AAA: Stars Hockey Academy 4 – MOB Hockey 12 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 AAA game #97. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019869
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019904@replay88.github.io
+DTSTAMP:20260920T194500Z
+DTSTART:20260920T194500Z
+DTEND:20260920T211500Z
+SUMMARY:2014 AAA: Stars Hockey Academy 4 – Calgary Crusaders 11 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 AAA game #132. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019904
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020243@replay88.github.io
+DTSTAMP:20261024T000000Z
+DTSTART:20261024T000000Z
+DTEND:20261024T013000Z
+SUMMARY:2014 AAA: MOB Hockey at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 AAA game #471. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020243
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020250@replay88.github.io
+DTSTAMP:20261024T133000Z
+DTSTART:20261024T133000Z
+DTEND:20261024T150000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Caps Hockey Club
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 AAA game #478. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020250
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020263@replay88.github.io
+DTSTAMP:20261024T190000Z
+DTSTART:20261024T190000Z
+DTEND:20261024T203000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 AAA game #491. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020263
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020282@replay88.github.io
+DTSTAMP:20261025T133000Z
+DTSTART:20261025T133000Z
+DTEND:20261025T150000Z
+SUMMARY:2014 AAA: Caps Hockey Club at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 AAA game #510. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020282
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020429@replay88.github.io
+DTSTAMP:20261107T231500Z
+DTSTART:20261107T231500Z
+DTEND:20261108T004500Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 AAA game #657. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020429
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020472@replay88.github.io
+DTSTAMP:20261114T161500Z
+DTSTART:20261114T161500Z
+DTEND:20261114T174500Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #700. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020472
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020481@replay88.github.io
+DTSTAMP:20261114T221500Z
+DTSTART:20261114T221500Z
+DTEND:20261114T234500Z
+SUMMARY:2014 AAA: Stars Hockey Academy at MOB Hockey
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #709. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020481
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020490@replay88.github.io
+DTSTAMP:20261115T161500Z
+DTSTART:20261115T161500Z
+DTEND:20261115T174500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Stars Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #718. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020490
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020495@replay88.github.io
+DTSTAMP:20261115T204500Z
+DTSTART:20261115T204500Z
+DTEND:20261115T221500Z
+SUMMARY:2014 AAA: Riggers Hockey Academy at Stars Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #723. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020495
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020615@replay88.github.io
+DTSTAMP:20261122T174500Z
+DTSTART:20261122T174500Z
+DTEND:20261122T191500Z
+SUMMARY:2014 AAA: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 AAA game #843. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020615
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020644@replay88.github.io
+DTSTAMP:20261128T011500Z
+DTSTART:20261128T011500Z
+DTEND:20261128T024500Z
+SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #872. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020644
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020655@replay88.github.io
+DTSTAMP:20261128T183000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T200000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #883. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020655
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020670@replay88.github.io
+DTSTAMP:20261129T140000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T153000Z
+SUMMARY:2014 AAA: O2 Grizzlies at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #898. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020670
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020685@replay88.github.io
+DTSTAMP:20261129T204500Z
+DTSTART:20261129T204500Z
+DTEND:20261129T221500Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 AAA game #913. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020685
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020754@replay88.github.io
+DTSTAMP:20261206T173000Z
+DTSTART:20261206T173000Z
+DTEND:20261206T190000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Calgary Crusaders
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #982. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020754
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020829@replay88.github.io
+DTSTAMP:20261212T231500Z
+DTSTART:20261212T231500Z
+DTEND:20261213T004500Z
+SUMMARY:2014 AAA: Stars Hockey Academy at O2 Grizzlies
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 AAA game #1057. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020829
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020885@replay88.github.io
+DTSTAMP:20261219T010000Z
+DTSTART:20261219T010000Z
+DTEND:20261219T023000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Riggers Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1113. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020885
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020897@replay88.github.io
+DTSTAMP:20261219T161500Z
+DTSTART:20261219T161500Z
+DTEND:20261219T174500Z
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Stars Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1125. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020897
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020948@replay88.github.io
+DTSTAMP:20261220T141500Z
+DTSTART:20261220T141500Z
+DTEND:20261220T154500Z
+SUMMARY:2014 AAA: MOB Hockey at Stars Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1176. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020948
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020968@replay88.github.io
+DTSTAMP:20261220T184500Z
+DTSTART:20261220T184500Z
+DTEND:20261220T201500Z
+SUMMARY:2014 AAA: Riggers Hockey Academy at Stars Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 AAA game #1196. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020968
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021216@replay88.github.io
+DTSTAMP:20270116T213000Z
+DTSTART:20270116T213000Z
+DTEND:20270116T230000Z
+SUMMARY:2014 AAA: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 AAA game #1444. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021216
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021234@replay88.github.io
+DTSTAMP:20270117T013000Z
+DTSTART:20270117T013000Z
+DTEND:20270117T030000Z
+SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 AAA game #1462. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021234
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021370@replay88.github.io
+DTSTAMP:20270129T230000Z
+DTSTART:20270129T230000Z
+DTEND:20270130T003000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Calgary Crusaders
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #1598. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021370
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021385@replay88.github.io
+DTSTAMP:20270130T183000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T200000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2014 AAA game #1613. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021385
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021404@replay88.github.io
+DTSTAMP:20270131T143000Z
+DTSTART:20270131T143000Z
+DTEND:20270131T160000Z
+SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #1632. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021404
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021415@replay88.github.io
+DTSTAMP:20270131T191500Z
+DTSTART:20270131T191500Z
+DTEND:20270131T204500Z
+SUMMARY:2014 AAA: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #1643. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021415
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021589@replay88.github.io
+DTSTAMP:20270219T211500Z
+DTSTART:20270219T211500Z
+DTEND:20270219T224500Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Caps Hockey Club
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #1817. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021589
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021617@replay88.github.io
+DTSTAMP:20270220T161500Z
+DTSTART:20270220T161500Z
+DTEND:20270220T174500Z
+SUMMARY:2014 AAA: O2 Grizzlies at Stars Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #1845. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021617
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021662@replay88.github.io
+DTSTAMP:20270221T141500Z
+DTSTART:20270221T141500Z
+DTEND:20270221T154500Z
+SUMMARY:2014 AAA: Caps Hockey Club at Stars Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2014 AAA game #1890. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021662
+END:VEVENT
+END:VCALENDAR

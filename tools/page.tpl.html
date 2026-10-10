@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Points leaders, standings, goalies, scores, schedule and player profiles for the Hockey Super League 2017 Major and 2018 Major divisions.">
-<meta property="og:title" content="HSL Major Scoring Race">
-<meta property="og:description" content="Points leaders, standings, goalies, scores and player profiles for HSL 2017 Major and 2018 Major. Updates itself after every game.">
+<meta name="description" content="Points leaders, standings, goalies, scores, schedules and player profiles for every Hockey Super League division.">
+<meta property="og:title" content="HSL Scoring Race">
+<meta property="og:description" content="Points leaders, standings, goalies, scores and schedules for every HSL division. Updates itself after every game.">
 <meta property="og:image" content="https://replay88.github.io/hsl-scoring-race/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:url" content="https://replay88.github.io/hsl-scoring-race/">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<title>HSL Major Scoring Race</title>
+<title>HSL Scoring Race</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600&family=Barlow+Semi+Condensed:wght@500;600&display=swap">
 <style>
@@ -43,8 +43,8 @@ a.lnk:hover{color:var(--accent);border-bottom-color:var(--accent)}
 header h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,6vw,40px);letter-spacing:.01em;text-transform:uppercase;margin:0;line-height:1.05;text-wrap:balance}
 header h1 span{color:var(--accent)}
 header p{margin:6px 0 0;color:var(--muted);max-width:62ch}
-.tabs{display:flex;gap:8px;flex-wrap:wrap}
-.tabs a{font-family:var(--display);font-size:17px;text-transform:uppercase;letter-spacing:.04em;padding:8px 16px;border:2px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px}
+.tabs{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.tabs a{white-space:nowrap;font-family:var(--display);font-size:16px;text-transform:uppercase;letter-spacing:.04em;padding:8px 16px;border:2px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px}
 .tabs a[aria-current="true"]{border-color:var(--accent);background:var(--accent);color:#fff}
 .subtabs{display:flex;border-bottom:2px solid var(--line);overflow-x:auto;scrollbar-width:none}
 .subtabs a{font-family:var(--display);font-size:16px;text-transform:uppercase;letter-spacing:.05em;padding:8px 13px;border-bottom:3px solid transparent;margin-bottom:-2px;color:var(--muted);white-space:nowrap}
@@ -148,16 +148,30 @@ footer a{color:var(--accent)}
 <div class="wrap">
 <header>
   <h1>HSL <span id="divTitle">2018 Major</span> Scoring Race</h1>
-  <p>Every final in the Hockey Super League 2017 Major and 2018 Major divisions, 2026-27 season, tallied from the official box scores.</p>
+  <p>Every final in every Hockey Super League division, 2026-27 season, tallied from the official box scores.</p>
 </header>
 <nav class="tabs" aria-label="Division" id="divTabs"></nav>
 <nav class="subtabs" aria-label="Section" id="secTabs"></nav>
 <main id="view" style="display:contents"></main>
-<footer>Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated __UPDATED__. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up in the skater list too. The +/− column is the change in rank since the numbers last changed. Tap any player, team or score for more.</footer>
+<footer>Covers all 12 HSL divisions. Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated __UPDATED__. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up in the skater list too. The +/− column is the change in rank since the numbers last changed. Tap any player, team or score for more.</footer>
 </div>
 <script>
-const DATA=__DATA__;
-const DIVKEYS={"2018":"2018 Major","2017":"2017 Major"};
+const INDEX=__INDEX__;
+const DIVKEYS={}; INDEX.divisions.forEach(d=>DIVKEYS[d.key]=d.name);
+const DATA={}; // division name -> data, loaded on demand from data/<key>.json
+const IDX={};
+async function load(dk){
+  const dn=DIVKEYS[dk]; if(DATA[dn]) return DATA[dn];
+  const r=await fetch(`data/${dk}.json?v=${encodeURIComponent(INDEX.updated)}`); if(!r.ok) throw new Error('load');
+  const D=await r.json(); DATA[dn]=D; index(dk,D); return D;
+}
+function index(dk,D){
+  const byKey={}, bySlug={}, box={}, teamSlug={};
+  D.rows.forEach((r,i)=>{ byKey[r[1]+'|'+r[0]]=i; bySlug[slug(r[0]+' '+short(r[1]))]=i;
+    r[12].forEach(l=>(box[l[0]]=box[l[0]]||[]).push([i,l[1],l[2],l[3]])); });
+  D.standings.forEach(s=>teamSlug[slug(s.team)]=s.team);
+  IDX[dk]={byKey,bySlug,box,teamSlug};
+}
 const SECS=[["leaders","Leaders"],["standings","Standings"],["goalies","Goalies"],["race","Points race"],["scores","Scores"],["schedule","Schedule"],["records","Records"],["recap","Recap"]];
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -167,39 +181,36 @@ const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','De
 const fmtDay=(d,dow)=>{const [Y,M,D]=d.split('-').map(Number); return (dow?DOW[new Date(Y,M-1,D).getDay()]+' ':'')+MON[M-1]+' '+D;};
 const mv=m=>m==null?'<span class="new">NEW</span>':m>0?`<span class="up">▲${m}</span>`:m<0?`<span class="down">▼${-m}</span>`:'<span class="same">–</span>';
 
-// ---- per-division indexes built once ----
-const IDX={};
-for(const [dk,dn] of Object.entries(DIVKEYS)){
-  const D=DATA[dn], byKey={}, bySlug={}, box={}, teamSlug={};
-  D.rows.forEach((r,i)=>{ byKey[r[1]+'|'+r[0]]=i; bySlug[slug(r[0]+' '+short(r[1]))]=i;
-    r[12].forEach(l=>(box[l[0]]=box[l[0]]||[]).push([i,l[1],l[2],l[3]])); });
-  D.standings.forEach(s=>teamSlug[slug(s.team)]=s.team);
-  IDX[dk]={byKey,bySlug,box,teamSlug};
-}
 // ---- follow list (this phone only) ----
 let FOLLOW={}; try{FOLLOW=JSON.parse(localStorage.getItem('hslFollow')||'{}')}catch(e){}
 const saveFollow=()=>{try{localStorage.setItem('hslFollow',JSON.stringify(FOLLOW))}catch(e){}};
 const isFollowed=(dk,r)=>(FOLLOW[dk]||[]).includes(r[1]+'|'+r[0]);
 
 // ---- routing: #2018/leaders, #2018/p/<player-slug>, #2018/t/<team-slug>, #2018/g/<gid> ----
-let route={dk:'2018',sec:'leaders',id:''}, key=6;
+let route={dk:'2018-major',sec:'leaders',id:''}, key=6;
 function parse(){
   const h=location.hash.replace(/^#\/?/,'').split('/');
   let dk=DIVKEYS[h[0]]?h[0]:null;
-  if(!dk){ try{dk=localStorage.getItem('hslDiv')}catch(e){} dk=DIVKEYS[dk]?dk:'2018'; }
+  if(!dk){ try{dk=localStorage.getItem('hslDiv2')}catch(e){} dk=DIVKEYS[dk]?dk:'2018-major'; }
   let sec=h[1]||'leaders', id=h.slice(2).join('/');
   if(!['p','t','g'].includes(sec)&&!SECS.some(s=>s[0]===sec)) sec='leaders';
-  route={dk,sec,id}; try{localStorage.setItem('hslDiv',dk)}catch(e){}
+  route={dk,sec,id}; try{localStorage.setItem('hslDiv2',dk)}catch(e){}
 }
 const href=(dk,sec,id)=>'#'+dk+'/'+sec+(id?'/'+id:'');
 const P=(dk,i)=>{const r=DATA[DIVKEYS[dk]].rows[i]; return `<a class="lnk" href="${href(dk,'p',slug(r[0]+' '+short(r[1])))}">${esc(r[0])}</a>`;};
 const T=(dk,t,s)=>`<a class="lnk" href="${href(dk,'t',slug(t))}">${esc(s?short(t):t)}</a>`;
 const G=(dk,gid)=>href(dk,'g',gid);
 
-function render(){
+let seq=0;
+async function render(){
   parse();
-  const {dk,sec,id}=route, dn=DIVKEYS[dk], D=DATA[dn];
-  $('#divTitle').textContent=dn;
+  let {dk,sec,id}=route;
+  const my=++seq;
+  $('#divTitle').textContent=DIVKEYS[dk];
+  if(!DATA[DIVKEYS[dk]]){ $('#view').innerHTML='<p class="empty">Loading…</p>'; try{await load(dk);}catch(e){ if(my===seq) $('#view').innerHTML='<p class="empty">Could not load that division. Check your connection and try again.</p>'; return; } if(my!==seq) return; }
+  // links shared before the non-Major divisions existed used the bare year for the Major division
+  if(['p','t','g'].includes(sec)&&/^\d{4}$/.test(dk)&&DIVKEYS[dk+'-major']){ const I=IDX[dk]; const miss=sec==='p'?I.bySlug[id]==null:sec==='t'?!I.teamSlug[id]:!DATA[DIVKEYS[dk]].G[id]; if(miss){ location.replace(href(dk+'-major',sec,id)); return; } }
+  const dn=DIVKEYS[dk], D=DATA[dn];
   $('#divTabs').innerHTML=Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g'].includes(sec)?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('');
   $('#secTabs').innerHTML=SECS.map(([s,l])=>`<a href="${href(dk,s)}" aria-current="${s===sec}">${l}</a>`).join('');
   const v=$('#view');
@@ -219,6 +230,7 @@ function render(){
   if(sec==='leaders') wireLeaders(dk);
   v.querySelectorAll('button.star').forEach(b=>b.onclick=()=>{const k=b.dataset.k, l=FOLLOW[dk]=FOLLOW[dk]||[]; const i=l.indexOf(k); i<0?l.push(k):l.splice(i,1); saveFollow(); render();});
   if(['p','t','g'].includes(sec)) window.scrollTo(0,0);
+  const cur=document.querySelector('#divTabs a[aria-current="true"]'); if(cur) cur.scrollIntoView({block:'nearest',inline:'nearest'});
 }
 
 // ---- views ----
@@ -410,7 +422,7 @@ function game(dk,gid){
   <div class="prof"><div><h2>${T(dk,g.away,1)} at ${T(dk,g.home,1)}</h2><div class="sub">${fmtDay(g.day,1)}${g.time?' · '+esc(g.time):''} · ${esc(g.rink)} · ${g.status==='Final SO'?'Final (SO)':esc(g.status)}</div></div></div>
   ${gameCard(dk,gid,'')}
   <div class="two">${ptab('Scoring',g.periods)}${ptab('Shots',g.shots)}</div>
-  <div class="card"><h2>Scoring summary</h2><div class="evs">${g.events.length?evHtml:'<p class="note">No play-by-play recorded.</p>'}</div></div>
+  <div class="card"><h2>Scoring summary</h2>${g.events.filter(e=>e.t==='G').length!==g.hs+g.vs?'<p class="note">The league\'s play-by-play for this game is incomplete, so some goals are missing below and from player totals.</p>':''}<div class="evs">${g.events.length?evHtml:'<p class="note">No play-by-play recorded.</p>'}</div></div>
   <div class="two">${boxTbl(g.away)}${boxTbl(g.home)}</div>
   <p class="note"><a class="lnk" href="${esc(g.url)}" target="_blank" rel="noopener">Game recap and box score on hockeysuperleague.ca ↗</a></p>`;
 }

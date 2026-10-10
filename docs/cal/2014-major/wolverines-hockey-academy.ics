@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Wolverines Hockey Academy (2014 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019948@replay88.github.io
+DTSTAMP:20260926T201500Z
+DTSTART:20260926T201500Z
+DTEND:20260926T214500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy 4 – North Stars Academy Wild 4 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 Major game #176. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019948
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019975@replay88.github.io
+DTSTAMP:20260927T173000Z
+DTSTART:20260927T173000Z
+DTEND:20260927T190000Z
+SUMMARY:2014 Major: North Stars Academy Wild 3 – Wolverines Hockey Academy 7 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 Major game #203. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019975
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019989@replay88.github.io
+DTSTAMP:20261001T000000Z
+DTSTART:20261001T000000Z
+DTEND:20261001T013000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy 11 – Capital City Knights 2 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 Major game #217. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019989
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020173@replay88.github.io
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T153000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #401. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020173
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020198@replay88.github.io
+DTSTAMP:20261017T204500Z
+DTSTART:20261017T204500Z
+DTEND:20261017T221500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at North Stars Academy Wild
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #426. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020198
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020212@replay88.github.io
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T153000Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #440. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020212
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020228@replay88.github.io
+DTSTAMP:20261018T183000Z
+DTSTART:20261018T183000Z
+DTEND:20261018T200000Z
+SUMMARY:2014 Major: North Stars Academy Wild at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #456. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020228
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020150@replay88.github.io
+DTSTAMP:20261026T000000Z
+DTSTART:20261026T000000Z
+DTEND:20261026T013000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Caps Hockey Club
+LOCATION:Enoch Recreation Center
+DESCRIPTION:HSL 2014 Major game #378. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020150
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020315@replay88.github.io
+DTSTAMP:20261030T231500Z
+DTSTART:20261030T231500Z
+DTEND:20261031T004500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #543. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020315
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020345@replay88.github.io
+DTSTAMP:20261031T190000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T203000Z
+SUMMARY:2014 Major: South Sask Academy at Wolverines Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #573. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020345
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020382@replay88.github.io
+DTSTAMP:20261101T211500Z
+DTSTART:20261101T211500Z
+DTEND:20261101T224500Z
+SUMMARY:2014 Major: Capital City Knights at Wolverines Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2014 Major game #610. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020382
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020455@replay88.github.io
+DTSTAMP:20261108T210000Z
+DTSTART:20261108T210000Z
+DTEND:20261108T223000Z
+SUMMARY:2014 Major: Caps Hockey Club at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #683. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020455
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020498@replay88.github.io
+DTSTAMP:20261120T231500Z
+DTSTART:20261120T231500Z
+DTEND:20261121T004500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Spartan Hockey Academy 15M
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #726. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020498
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020536@replay88.github.io
+DTSTAMP:20261121T150000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T163000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at HC Calgary Bandits
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #764. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020536
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020575@replay88.github.io
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T013000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Wolverines Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #803. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020575
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020602@replay88.github.io
+DTSTAMP:20261122T153000Z
+DTSTART:20261122T153000Z
+DTEND:20261122T170000Z
+SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #830. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020602
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020886@replay88.github.io
+DTSTAMP:20261219T010000Z
+DTSTART:20261219T010000Z
+DTEND:20261219T023000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1114. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020886
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020898@replay88.github.io
+DTSTAMP:20261219T161500Z
+DTSTART:20261219T161500Z
+DTEND:20261219T174500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Spartan Hockey Academy 15M
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1126. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020898
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020916@replay88.github.io
+DTSTAMP:20261219T201500Z
+DTSTART:20261219T201500Z
+DTEND:20261219T214500Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1144. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020916
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020955@replay88.github.io
+DTSTAMP:20261220T154500Z
+DTSTART:20261220T154500Z
+DTEND:20261220T171500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Wolverines Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #1183. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020955
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020981@replay88.github.io
+DTSTAMP:20261222T224500Z
+DTSTART:20261222T224500Z
+DTEND:20261223T001500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 Major game #1209. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020981
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021074@replay88.github.io
+DTSTAMP:20270108T220000Z
+DTSTART:20270108T220000Z
+DTEND:20270108T233000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at HC Calgary Bandits
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1302. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021074
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021086@replay88.github.io
+DTSTAMP:20270109T140000Z
+DTSTART:20270109T140000Z
+DTEND:20270109T153000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Capital City Knights
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1314. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021086
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021113@replay88.github.io
+DTSTAMP:20270109T213000Z
+DTSTART:20270109T213000Z
+DTEND:20270109T230000Z
+SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1341. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021113
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021145@replay88.github.io
+DTSTAMP:20270110T201500Z
+DTSTART:20270110T201500Z
+DTEND:20270110T214500Z
+SUMMARY:2014 Major: Capital City Knights at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1373. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021145
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021211@replay88.github.io
+DTSTAMP:20270116T210000Z
+DTSTART:20270116T210000Z
+DTEND:20270116T223000Z
+SUMMARY:2014 Major: Riggers Hockey Academy at Wolverines Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 Major game #1439. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021211
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021318@replay88.github.io
+DTSTAMP:20270123T183000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T200000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1546. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021318
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021344@replay88.github.io
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T153000Z
+SUMMARY:2014 Major: South Sask Academy at Wolverines Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1572. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021344
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021430@replay88.github.io
+DTSTAMP:20270205T220000Z
+DTSTART:20270205T220000Z
+DTEND:20270205T233000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Riggers Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1658. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021430
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021440@replay88.github.io
+DTSTAMP:20270206T140000Z
+DTSTART:20270206T140000Z
+DTEND:20270206T153000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Caps Hockey Club
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1668. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021440
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021455@replay88.github.io
+DTSTAMP:20270206T180000Z
+DTSTART:20270206T180000Z
+DTEND:20270206T193000Z
+SUMMARY:2014 Major: Riggers Hockey Academy at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1683. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021455
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021502@replay88.github.io
+DTSTAMP:20270207T221500Z
+DTSTART:20270207T221500Z
+DTEND:20270207T234500Z
+SUMMARY:2014 Major: Caps Hockey Club at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2014 Major game #1730. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021502
+END:VEVENT
+END:VCALENDAR

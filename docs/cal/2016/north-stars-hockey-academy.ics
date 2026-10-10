@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Stars Hockey Academy (2016)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019897@replay88.github.io
+DTSTAMP:20260920T181500Z
+DTSTART:20260920T181500Z
+DTEND:20260920T194500Z
+SUMMARY:2016: North Stars Hockey Academy 7 – Alberta Pro Hockey 2 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #125. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019897
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019915@replay88.github.io
+DTSTAMP:20260925T191500Z
+DTSTART:20260925T191500Z
+DTEND:20260925T204500Z
+SUMMARY:2016: Spartan Hockey Academy 13 – North Stars Hockey Academy 1 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #143. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019915
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019952@replay88.github.io
+DTSTAMP:20260926T214500Z
+DTSTART:20260926T214500Z
+DTEND:20260926T231500Z
+SUMMARY:2016: North Stars Hockey Academy 6 – HC Calgary Bandits 2 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #180. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019952
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019967@replay88.github.io
+DTSTAMP:20260927T144500Z
+DTSTART:20260927T144500Z
+DTEND:20260927T161500Z
+SUMMARY:2016: North Stars Hockey Academy 2 – Spartan Hockey Academy 12 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #195. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019967
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019978@replay88.github.io
+DTSTAMP:20260927T181500Z
+DTSTART:20260927T181500Z
+DTEND:20260927T194500Z
+SUMMARY:2016: Alberta Pro Hockey 3 – North Stars Hockey Academy 2 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #206. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019978
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020183@replay88.github.io
+DTSTAMP:20261017T170000Z
+DTSTART:20261017T170000Z
+DTEND:20261017T183000Z
+SUMMARY:2016: HC Calgary Bandits at North Stars Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2016 game #411. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020183
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020202@replay88.github.io
+DTSTAMP:20261017T221500Z
+DTSTART:20261017T221500Z
+DTEND:20261017T234500Z
+SUMMARY:2016: Capital City Knights at North Stars Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2016 game #430. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020202
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020219@replay88.github.io
+DTSTAMP:20261018T160000Z
+DTSTART:20261018T160000Z
+DTEND:20261018T173000Z
+SUMMARY:2016: Wolverines Hockey Academy at North Stars Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2016 game #447. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020219
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020387@replay88.github.io
+DTSTAMP:20261106T191500Z
+DTSTART:20261106T191500Z
+DTEND:20261106T204500Z
+SUMMARY:2016: North Stars Hockey Academy at Capital City Knights
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2016 game #615. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020387
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020416@replay88.github.io
+DTSTAMP:20261107T191500Z
+DTSTART:20261107T191500Z
+DTEND:20261107T204500Z
+SUMMARY:2016: North Stars Hockey Academy at Calgary Crusaders
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2016 game #644. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020416
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020436@replay88.github.io
+DTSTAMP:20261108T141500Z
+DTSTART:20261108T141500Z
+DTEND:20261108T154500Z
+SUMMARY:2016: Calgary Crusaders at North Stars Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2016 game #664. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020436
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020445@replay88.github.io
+DTSTAMP:20261108T173000Z
+DTSTART:20261108T173000Z
+DTEND:20261108T190000Z
+SUMMARY:2016: North Stars Hockey Academy at South Sask Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2016 game #673. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020445
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020553@replay88.github.io
+DTSTAMP:20261121T174500Z
+DTSTART:20261121T174500Z
+DTEND:20261121T191500Z
+SUMMARY:2016: Capital City Knights at North Stars Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #781. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020553
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020586@replay88.github.io
+DTSTAMP:20261122T004500Z
+DTSTART:20261122T004500Z
+DTEND:20261122T021500Z
+SUMMARY:2016: South Sask Academy at North Stars Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #814. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020586
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020598@replay88.github.io
+DTSTAMP:20261122T141500Z
+DTSTART:20261122T141500Z
+DTEND:20261122T154500Z
+SUMMARY:2016: North Stars Hockey Academy at South Sask Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #826. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020598
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020794@replay88.github.io
+DTSTAMP:20261212T154500Z
+DTSTART:20261212T154500Z
+DTEND:20261212T171500Z
+SUMMARY:2016: North Stars Hockey Academy at Calgary Crusaders
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1022. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020794
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020811@replay88.github.io
+DTSTAMP:20261212T191500Z
+DTSTART:20261212T191500Z
+DTEND:20261212T204500Z
+SUMMARY:2016: South Sask Academy at North Stars Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1039. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020811
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020836@replay88.github.io
+DTSTAMP:20261213T140000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T153000Z
+SUMMARY:2016: Calgary Crusaders at North Stars Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1064. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020836
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020853@replay88.github.io
+DTSTAMP:20261213T173000Z
+DTSTART:20261213T173000Z
+DTEND:20261213T190000Z
+SUMMARY:2016: North Stars Hockey Academy at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1081. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020853
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021007@replay88.github.io
+DTSTAMP:20270102T210000Z
+DTSTART:20270102T210000Z
+DTEND:20270102T223000Z
+SUMMARY:2016: North Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 game #1235. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021007
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021022@replay88.github.io
+DTSTAMP:20270103T003000Z
+DTSTART:20270103T003000Z
+DTEND:20270103T020000Z
+SUMMARY:2016: North Stars Hockey Academy at Alberta Pro Hockey
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 game #1250. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021022
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021037@replay88.github.io
+DTSTAMP:20270103T154500Z
+DTSTART:20270103T154500Z
+DTEND:20270103T171500Z
+SUMMARY:2016: Alberta Pro Hockey at North Stars Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 game #1265. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021037
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021064@replay88.github.io
+DTSTAMP:20270103T224500Z
+DTSTART:20270103T224500Z
+DTEND:20270104T001500Z
+SUMMARY:2016: Wolverines Hockey Academy at North Stars Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 game #1292. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021064
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021134@replay88.github.io
+DTSTAMP:20270110T161500Z
+DTSTART:20270110T161500Z
+DTEND:20270110T174500Z
+SUMMARY:2016: North Stars Hockey Academy at Alberta Pro Hockey
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 game #1362. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021134
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021159@replay88.github.io
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T000000Z
+DTEND:20270116T013000Z
+SUMMARY:2016: Spartan Hockey Academy at North Stars Hockey Academy
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2016 game #1387. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021159
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021206@replay88.github.io
+DTSTAMP:20270116T200000Z
+DTSTART:20270116T200000Z
+DTEND:20270116T213000Z
+SUMMARY:2016: North Stars Hockey Academy at HC Calgary Bandits
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2016 game #1434. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021206
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021226@replay88.github.io
+DTSTAMP:20270116T233000Z
+DTSTART:20270116T233000Z
+DTEND:20270117T010000Z
+SUMMARY:2016: North Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2016 game #1454. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021226
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021249@replay88.github.io
+DTSTAMP:20270117T154500Z
+DTSTART:20270117T154500Z
+DTEND:20270117T171500Z
+SUMMARY:2016: HC Calgary Bandits at North Stars Hockey Academy
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2016 game #1477. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021249
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021454@replay88.github.io
+DTSTAMP:20270206T180000Z
+DTSTART:20270206T180000Z
+DTEND:20270206T193000Z
+SUMMARY:2016: North Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2016 game #1682. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021454
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021478@replay88.github.io
+DTSTAMP:20270207T010000Z
+DTSTART:20270207T010000Z
+DTEND:20270207T023000Z
+SUMMARY:2016: North Stars Hockey Academy at Capital City Knights
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2016 game #1706. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021478
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021490@replay88.github.io
+DTSTAMP:20270207T173000Z
+DTSTART:20270207T173000Z
+DTEND:20270207T190000Z
+SUMMARY:2016: Wolverines Hockey Academy at North Stars Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2016 game #1718. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021490
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021587@replay88.github.io
+DTSTAMP:20270217T224500Z
+DTSTART:20270217T224500Z
+DTEND:20270218T001500Z
+SUMMARY:2016: Capital City Knights at North Stars Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2016 game #1815. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021587
+END:VEVENT
+END:VCALENDAR

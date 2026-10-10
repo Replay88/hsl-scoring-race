@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Stars Hockey Academy (2019 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019931@replay88.github.io
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T153000Z
+SUMMARY:2019 Major: Capital City Knights 0 – Stars Hockey Academy 10 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2019 Major game #159. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019931
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019949@replay88.github.io
+DTSTAMP:20260926T201500Z
+DTSTART:20260926T201500Z
+DTEND:20260926T214500Z
+SUMMARY:2019 Major: Stars Hockey Academy 8 – MOB Hockey 2 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2019 Major game #177. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019949
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019965@replay88.github.io
+DTSTAMP:20260927T140000Z
+DTSTART:20260927T140000Z
+DTEND:20260927T153000Z
+SUMMARY:2019 Major: Rebels Hockey Academy 1 – Stars Hockey Academy 12 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2019 Major game #193. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019965
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019980@replay88.github.io
+DTSTAMP:20260927T183000Z
+DTSTART:20260927T183000Z
+DTEND:20260927T200000Z
+SUMMARY:2019 Major: Stars Hockey Academy 8 – Capital City Knights 0 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2019 Major game #208. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019980
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020182@replay88.github.io
+DTSTAMP:20261017T161500Z
+DTSTART:20261017T161500Z
+DTEND:20261017T174500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Rebels Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #410. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020182
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020204@replay88.github.io
+DTSTAMP:20261017T224500Z
+DTSTART:20261017T224500Z
+DTEND:20261018T001500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #432. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020204
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020211@replay88.github.io
+DTSTAMP:20261018T130000Z
+DTSTART:20261018T130000Z
+DTEND:20261018T143000Z
+SUMMARY:2019 Major: Rebels Hockey Academy at Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #439. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020211
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020234@replay88.github.io
+DTSTAMP:20261018T193000Z
+DTSTART:20261018T193000Z
+DTEND:20261018T210000Z
+SUMMARY:2019 Major: MOB Hockey at Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #462. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020234
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020461@replay88.github.io
+DTSTAMP:20261113T204500Z
+DTSTART:20261113T204500Z
+DTEND:20261113T221500Z
+SUMMARY:2019 Major: Young Kings Hockey at Stars Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2019 Major game #689. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020461
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020473@replay88.github.io
+DTSTAMP:20261114T161500Z
+DTSTART:20261114T161500Z
+DTEND:20261114T174500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Calgary Crusaders
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2019 Major game #701. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020473
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020482@replay88.github.io
+DTSTAMP:20261114T221500Z
+DTSTART:20261114T221500Z
+DTEND:20261114T234500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Young Kings Hockey
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2019 Major game #710. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020482
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020494@replay88.github.io
+DTSTAMP:20261115T193000Z
+DTSTART:20261115T193000Z
+DTEND:20261115T210000Z
+SUMMARY:2019 Major: Calgary Crusaders at Stars Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2019 Major game #722. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020494
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020638@replay88.github.io
+DTSTAMP:20261127T223000Z
+DTSTART:20261127T223000Z
+DTEND:20261128T000000Z
+SUMMARY:2019 Major: Saints Pro Hockey Academy at Stars Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2019 Major game #866. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020638
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020646@replay88.github.io
+DTSTAMP:20261128T140000Z
+DTSTART:20261128T140000Z
+DTEND:20261128T153000Z
+SUMMARY:2019 Major: Capital City Knights at Stars Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2019 Major game #874. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020646
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020669@replay88.github.io
+DTSTAMP:20261129T133000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T150000Z
+SUMMARY:2019 Major: Stars Hockey Academy at MOB Hockey
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2019 Major game #897. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020669
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020681@replay88.github.io
+DTSTAMP:20261129T184500Z
+DTSTART:20261129T184500Z
+DTEND:20261129T201500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2019 Major game #909. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020681
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020859@replay88.github.io
+DTSTAMP:20261213T180000Z
+DTSTART:20261213T180000Z
+DTEND:20261213T193000Z
+SUMMARY:2019 Major: Stars Hockey Academy at Calgary Crusaders
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1087. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020859
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020906@replay88.github.io
+DTSTAMP:20261219T180000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T193000Z
+SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1134. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020906
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020930@replay88.github.io
+DTSTAMP:20261219T231500Z
+DTSTART:20261219T231500Z
+DTEND:20261220T004500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Riggers Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1158. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020930
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020949@replay88.github.io
+DTSTAMP:20261220T141500Z
+DTSTART:20261220T141500Z
+DTEND:20261220T154500Z
+SUMMARY:2019 Major: Riggers Hockey Academy at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1177. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020949
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020970@replay88.github.io
+DTSTAMP:20261220T193000Z
+DTSTART:20261220T193000Z
+DTEND:20261220T210000Z
+SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1198. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020970
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020991@replay88.github.io
+DTSTAMP:20270102T163000Z
+DTSTART:20270102T163000Z
+DTEND:20270102T180000Z
+SUMMARY:2019 Major: Calgary Crusaders at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1219. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020991
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021020@replay88.github.io
+DTSTAMP:20270102T234500Z
+DTSTART:20270102T234500Z
+DTEND:20270103T011500Z
+SUMMARY:2019 Major: HC Calgary Bandits at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1248. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021020
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021059@replay88.github.io
+DTSTAMP:20270103T204500Z
+DTSTART:20270103T204500Z
+DTEND:20270103T221500Z
+SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1287. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021059
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021189@replay88.github.io
+DTSTAMP:20270116T170000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T183000Z
+SUMMARY:2019 Major: Young Kings Hockey at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2019 Major game #1417. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021189
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021209@replay88.github.io
+DTSTAMP:20270116T201500Z
+DTSTART:20270116T201500Z
+DTEND:20270116T214500Z
+SUMMARY:2019 Major: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2019 Major game #1437. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021209
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021244@replay88.github.io
+DTSTAMP:20270117T140000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T153000Z
+SUMMARY:2019 Major: Stars Hockey Academy at Young Kings Hockey
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2019 Major game #1472. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021244
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021271@replay88.github.io
+DTSTAMP:20270117T203000Z
+DTSTART:20270117T203000Z
+DTEND:20270117T220000Z
+SUMMARY:2019 Major: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2019 Major game #1499. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021271
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021526@replay88.github.io
+DTSTAMP:20270213T160000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T173000Z
+SUMMARY:2019 Major: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1754. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021526
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021536@replay88.github.io
+DTSTAMP:20270213T191500Z
+DTSTART:20270213T191500Z
+DTEND:20270213T204500Z
+SUMMARY:2019 Major: Stars Hockey Academy at Riggers Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1764. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021536
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021561@replay88.github.io
+DTSTAMP:20270214T141500Z
+DTSTART:20270214T141500Z
+DTEND:20270214T154500Z
+SUMMARY:2019 Major: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1789. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021561
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021580@replay88.github.io
+DTSTAMP:20270214T194500Z
+DTSTART:20270214T194500Z
+DTEND:20270214T211500Z
+SUMMARY:2019 Major: Riggers Hockey Academy at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1808. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021580
+END:VEVENT
+END:VCALENDAR

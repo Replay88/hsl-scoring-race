@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Spartan Hockey Academy 15M (2014 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019782@replay88.github.io
+DTSTAMP:20260918T223000Z
+DTSTART:20260918T223000Z
+DTEND:20260919T000000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M 14 – Capital City Knights 2 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 Major game #10. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019782
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019801@replay88.github.io
+DTSTAMP:20260919T131500Z
+DTSTART:20260919T131500Z
+DTEND:20260919T144500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M 19 – Bow Valley Jr. Bigfoot 1 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2014 Major game #29. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019801
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019852@replay88.github.io
+DTSTAMP:20260919T223000Z
+DTSTART:20260919T223000Z
+DTEND:20260920T000000Z
+SUMMARY:2014 Major: Capital City Knights 0 – Spartan Hockey Academy 15M 17 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 Major game #80. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2019852
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020138@replay88.github.io
+DTSTAMP:20261011T180000Z
+DTSTART:20261011T180000Z
+DTEND:20261011T193000Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Spartan Hockey Academy 15M
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #366. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020138
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020169@replay88.github.io
+DTSTAMP:20261017T010000Z
+DTSTART:20261017T010000Z
+DTEND:20261017T023000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at South Sask Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #397. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020169
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020170@replay88.github.io
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T143000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Riggers Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #398. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020170
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020209@replay88.github.io
+DTSTAMP:20261018T010000Z
+DTSTART:20261018T010000Z
+DTEND:20261018T023000Z
+SUMMARY:2014 Major: South Sask Academy at Spartan Hockey Academy 15M
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #437. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020209
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020224@replay88.github.io
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T183000Z
+SUMMARY:2014 Major: Riggers Hockey Academy at Spartan Hockey Academy 15M
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2014 Major game #452. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020224
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020279@replay88.github.io
+DTSTAMP:20261025T020000Z
+DTSTART:20261025T020000Z
+DTEND:20261025T033000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Bow Valley Jr. Bigfoot
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2014 Major game #507. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020279
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020321@replay88.github.io
+DTSTAMP:20261031T011500Z
+DTSTART:20261031T011500Z
+DTEND:20261031T024500Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Spartan Hockey Academy 15M
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #549. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020321
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020333@replay88.github.io
+DTSTAMP:20261031T150000Z
+DTSTART:20261031T150000Z
+DTEND:20261031T163000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Caps Hockey Club
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #561. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020333
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020357@replay88.github.io
+DTSTAMP:20261101T140000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T153000Z
+SUMMARY:2014 Major: Caps Hockey Club at Spartan Hockey Academy 15M
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #585. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020357
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020498@replay88.github.io
+DTSTAMP:20261120T231500Z
+DTSTART:20261120T231500Z
+DTEND:20261121T004500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Spartan Hockey Academy 15M
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #726. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020498
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020557@replay88.github.io
+DTSTAMP:20261121T193000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T210000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at HC Calgary Bandits
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #785. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020557
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020575@replay88.github.io
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T013000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Wolverines Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #803. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020575
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020627@replay88.github.io
+DTSTAMP:20261122T200000Z
+DTSTART:20261122T200000Z
+DTEND:20261122T213000Z
+SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2014 Major game #855. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020627
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020898@replay88.github.io
+DTSTAMP:20261219T161500Z
+DTSTART:20261219T161500Z
+DTEND:20261219T174500Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Spartan Hockey Academy 15M
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1126. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020898
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020933@replay88.github.io
+DTSTAMP:20261220T004500Z
+DTSTART:20261220T004500Z
+DTEND:20261220T021500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1161. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020933
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020955@replay88.github.io
+DTSTAMP:20261220T154500Z
+DTSTART:20261220T154500Z
+DTEND:20261220T171500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Wolverines Hockey Academy
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2014 Major game #1183. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020955
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020974@replay88.github.io
+DTSTAMP:20261220T210000Z
+DTSTART:20261220T210000Z
+DTEND:20261220T223000Z
+SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1202. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2020974
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021076@replay88.github.io
+DTSTAMP:20270108T230000Z
+DTSTART:20270108T230000Z
+DTEND:20270109T003000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at North Stars Academy Wild
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #1304. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021076
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021090@replay88.github.io
+DTSTAMP:20270109T150000Z
+DTSTART:20270109T150000Z
+DTEND:20270109T163000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Riggers Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #1318. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021090
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021119@replay88.github.io
+DTSTAMP:20270109T233000Z
+DTSTART:20270109T233000Z
+DTEND:20270110T010000Z
+SUMMARY:2014 Major: North Stars Academy Wild at Spartan Hockey Academy 15M
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #1347. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021119
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021128@replay88.github.io
+DTSTAMP:20270110T150000Z
+DTSTART:20270110T150000Z
+DTEND:20270110T163000Z
+SUMMARY:2014 Major: Riggers Hockey Academy at Spartan Hockey Academy 15M
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #1356. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021128
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021278@replay88.github.io
+DTSTAMP:20270122T210000Z
+DTSTART:20270122T210000Z
+DTEND:20270122T223000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Caps Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1506. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021278
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021297@replay88.github.io
+DTSTAMP:20270123T140000Z
+DTSTART:20270123T140000Z
+DTEND:20270123T153000Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at Capital City Knights
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1525. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021297
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021325@replay88.github.io
+DTSTAMP:20270123T204500Z
+DTSTART:20270123T204500Z
+DTEND:20270123T221500Z
+SUMMARY:2014 Major: Caps Hockey Club at Spartan Hockey Academy 15M
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1553. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021325
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021360@replay88.github.io
+DTSTAMP:20270124T183000Z
+DTSTART:20270124T183000Z
+DTEND:20270124T200000Z
+SUMMARY:2014 Major: Capital City Knights at Spartan Hockey Academy 15M
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2014 Major game #1588. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021360
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021446@replay88.github.io
+DTSTAMP:20270206T154500Z
+DTSTART:20270206T154500Z
+DTEND:20270206T171500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at North Stars Academy Wild
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1674. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021446
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021462@replay88.github.io
+DTSTAMP:20270206T194500Z
+DTSTART:20270206T194500Z
+DTEND:20270206T211500Z
+SUMMARY:2014 Major: Spartan Hockey Academy 15M at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1690. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021462
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021480@replay88.github.io
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T153000Z
+SUMMARY:2014 Major: North Stars Academy Wild at Spartan Hockey Academy 15M
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1708. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021480
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021493@replay88.github.io
+DTSTAMP:20270207T180000Z
+DTSTART:20270207T180000Z
+DTEND:20270207T193000Z
+SUMMARY:2014 Major: South Sask Academy at Spartan Hockey Academy 15M
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2014 Major game #1721. Stats: https://replay88.github.io/hsl-scoring-race/#2014/g/2021493
+END:VEVENT
+END:VCALENDAR

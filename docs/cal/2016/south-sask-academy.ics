@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:South Sask Academy (2016)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019919@replay88.github.io
+DTSTAMP:20260925T224500Z
+DTSTART:20260925T224500Z
+DTEND:20260926T001500Z
+SUMMARY:2016: South Sask Academy 6 – Capital City Knights 3 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #147. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019919
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019932@replay88.github.io
+DTSTAMP:20260926T144500Z
+DTSTART:20260926T144500Z
+DTEND:20260926T161500Z
+SUMMARY:2016: Wolverines Hockey Academy 1 – South Sask Academy 14 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #160. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019932
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019962@replay88.github.io
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T143000Z
+SUMMARY:2016: South Sask Academy 10 – HC Calgary Bandits 1 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #190. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019962
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019972@replay88.github.io
+DTSTAMP:20260927T163000Z
+DTSTART:20260927T163000Z
+DTEND:20260927T180000Z
+SUMMARY:2016: South Sask Academy 11 – Wolverines Hockey Academy 1 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2016 game #200. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019972
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020164@replay88.github.io
+DTSTAMP:20261016T230000Z
+DTSTART:20261016T230000Z
+DTEND:20261017T003000Z
+SUMMARY:2016: Spartan Hockey Academy at South Sask Academy
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2016 game #392. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020164
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020180@replay88.github.io
+DTSTAMP:20261017T161500Z
+DTSTART:20261017T161500Z
+DTEND:20261017T174500Z
+SUMMARY:2016: South Sask Academy at Calgary Crusaders
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2016 game #408. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020180
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020195@replay88.github.io
+DTSTAMP:20261017T194500Z
+DTSTART:20261017T194500Z
+DTEND:20261017T211500Z
+SUMMARY:2016: South Sask Academy at Spartan Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 game #423. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020195
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020223@replay88.github.io
+DTSTAMP:20261018T164500Z
+DTSTART:20261018T164500Z
+DTEND:20261018T181500Z
+SUMMARY:2016: Calgary Crusaders at South Sask Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 game #451. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020223
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020399@replay88.github.io
+DTSTAMP:20261107T134500Z
+DTSTART:20261107T134500Z
+DTEND:20261107T151500Z
+SUMMARY:2016: South Sask Academy at Alberta Pro Hockey
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2016 game #627. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020399
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020420@replay88.github.io
+DTSTAMP:20261107T204500Z
+DTSTART:20261107T204500Z
+DTEND:20261107T221500Z
+SUMMARY:2016: Capital City Knights at South Sask Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2016 game #648. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020420
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020434@replay88.github.io
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T153000Z
+SUMMARY:2016: Alberta Pro Hockey at South Sask Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2016 game #662. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020434
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020445@replay88.github.io
+DTSTAMP:20261108T173000Z
+DTSTART:20261108T173000Z
+DTEND:20261108T190000Z
+SUMMARY:2016: North Stars Hockey Academy at South Sask Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2016 game #673. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020445
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020534@replay88.github.io
+DTSTAMP:20261121T141500Z
+DTSTART:20261121T141500Z
+DTEND:20261121T154500Z
+SUMMARY:2016: South Sask Academy at Wolverines Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #762. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020534
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020586@replay88.github.io
+DTSTAMP:20261122T004500Z
+DTSTART:20261122T004500Z
+DTEND:20261122T021500Z
+SUMMARY:2016: South Sask Academy at North Stars Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #814. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020586
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020598@replay88.github.io
+DTSTAMP:20261122T141500Z
+DTSTART:20261122T141500Z
+DTEND:20261122T154500Z
+SUMMARY:2016: North Stars Hockey Academy at South Sask Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #826. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020598
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020617@replay88.github.io
+DTSTAMP:20261122T174500Z
+DTSTART:20261122T174500Z
+DTEND:20261122T191500Z
+SUMMARY:2016: Wolverines Hockey Academy at South Sask Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2016 game #845. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020617
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020785@replay88.github.io
+DTSTAMP:20261212T023000Z
+DTSTART:20261212T023000Z
+DTEND:20261212T040000Z
+SUMMARY:2016: South Sask Academy at Calgary Crusaders
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1013. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020785
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020811@replay88.github.io
+DTSTAMP:20261212T191500Z
+DTSTART:20261212T191500Z
+DTEND:20261212T204500Z
+SUMMARY:2016: South Sask Academy at North Stars Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1039. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020811
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020827@replay88.github.io
+DTSTAMP:20261212T224500Z
+DTSTART:20261212T224500Z
+DTEND:20261213T001500Z
+SUMMARY:2016: Calgary Crusaders at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1055. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020827
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020853@replay88.github.io
+DTSTAMP:20261213T173000Z
+DTSTART:20261213T173000Z
+DTEND:20261213T190000Z
+SUMMARY:2016: North Stars Hockey Academy at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1081. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020853
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020998@replay88.github.io
+DTSTAMP:20270102T183000Z
+DTSTART:20270102T183000Z
+DTEND:20270102T200000Z
+SUMMARY:2016: South Sask Academy at Calgary Crusaders
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 game #1226. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020998
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021017@replay88.github.io
+DTSTAMP:20270102T231500Z
+DTSTART:20270102T231500Z
+DTEND:20270103T004500Z
+SUMMARY:2016: Spartan Hockey Academy at South Sask Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 game #1245. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021017
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021036@replay88.github.io
+DTSTAMP:20270103T154500Z
+DTSTART:20270103T154500Z
+DTEND:20270103T171500Z
+SUMMARY:2016: HC Calgary Bandits at South Sask Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 game #1264. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021036
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021053@replay88.github.io
+DTSTAMP:20270103T191500Z
+DTSTART:20270103T191500Z
+DTEND:20270103T204500Z
+SUMMARY:2016: South Sask Academy at HC Calgary Bandits
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 game #1281. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021053
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021169@replay88.github.io
+DTSTAMP:20270116T023000Z
+DTSTART:20270116T023000Z
+DTEND:20270116T040000Z
+SUMMARY:2016: South Sask Academy at Alberta Pro Hockey
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1397. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021169
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021180@replay88.github.io
+DTSTAMP:20270116T154500Z
+DTSTART:20270116T154500Z
+DTEND:20270116T171500Z
+SUMMARY:2016: Alberta Pro Hockey at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1408. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021180
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021221@replay88.github.io
+DTSTAMP:20270116T224500Z
+DTSTART:20270116T224500Z
+DTEND:20270117T001500Z
+SUMMARY:2016: South Sask Academy at Capital City Knights
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1449. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021221
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021238@replay88.github.io
+DTSTAMP:20270117T140000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T153000Z
+SUMMARY:2016: Capital City Knights at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 game #1466. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021238
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021514@replay88.github.io
+DTSTAMP:20270213T004500Z
+DTSTART:20270213T004500Z
+DTEND:20270213T021500Z
+SUMMARY:2016: HC Calgary Bandits at South Sask Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2016 game #1742. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021514
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021523@replay88.github.io
+DTSTAMP:20270213T154500Z
+DTSTART:20270213T154500Z
+DTEND:20270213T171500Z
+SUMMARY:2016: Calgary Crusaders at South Sask Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2016 game #1751. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021523
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021548@replay88.github.io
+DTSTAMP:20270213T224500Z
+DTSTART:20270213T224500Z
+DTEND:20270214T001500Z
+SUMMARY:2016: South Sask Academy at HC Calgary Bandits
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2016 game #1776. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021548
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021564@replay88.github.io
+DTSTAMP:20270214T150000Z
+DTSTART:20270214T150000Z
+DTEND:20270214T163000Z
+SUMMARY:2016: South Sask Academy at Spartan Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2016 game #1792. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021564
+END:VEVENT
+END:VCALENDAR

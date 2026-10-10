@@ -28,7 +28,10 @@ STATE = os.path.join(CACHE, "state.json")
 OUT = os.path.join(ROOT, "docs", "index.html")
 
 LEAGUE = "13952"  # HSL 2026-27 season
-DIVS = {"32765": "2018 Major", "28374": "2017 Major"}
+DIVS = {  # every HSL division, in the league's own order
+    "32761": "2014 AAA", "23371": "2014 Major", "37782": "2015 AAA", "23373": "2015 Major", "28373": "2015",
+    "23374": "2016 Major", "32762": "2016", "28374": "2017 Major", "32763": "2017", "32765": "2018 Major",
+    "32764": "2018", "37783": "2019 Major"}
 URL = "https://www.hockeysuperleague.ca/division/0/{}/game/view/{}"
 PATHS = ["32765", "28374", "0"]  # any division path serves any game
 ICS = "https://www.hockeysuperleague.ca/calendar/master-schedule/481.ics?SID={}&DID={}&TZ=America%2FEdmonton"
@@ -360,7 +363,6 @@ def build(state):
     data = {}
     games = state["games"]
     sched = state.get("sched", {})
-    today = dt.date.today().isoformat()
     for d, name in DIVS.items():
         gs = sorted((g for g in games.values() if g and g.get("div") == d and g["status"].startswith("Final")),
                     key=lambda g: (g["day"], sched.get(g["gid"], {}).get("sort", 0), g["gid"]))
@@ -514,7 +516,7 @@ def build(state):
 
         # --- upcoming ---
         upcoming = sorted((dict(gid=gid, day=s["day"], time=s["time"], home=s["home"], away=s["away"], loc=s["loc"])
-                           for gid, s in sched.items() if s["div"] == d and not s["final"] and s["day"] >= today),
+                           for gid, s in sched.items() if s["div"] == d and not s["final"]),
                           key=lambda s: (s["day"], sched[s["gid"]]["sort"]))
         write_calendars(d, name, sched, G)
 
@@ -523,24 +525,33 @@ def build(state):
         data[name] = dict(games=len(gs), thru=thru, days=days, rows=rows, hot=hot, hotspan=span, race=race,
                           standings=standings, goalies=goalies, G=G, hats=hats, bigs=bigs, gotw=gotw, upcoming=upcoming)
 
-    blob = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
-    sig = hashlib.sha1(blob.encode()).hexdigest()
+    # one data file per division, loaded by the page on demand
+    ddir = os.path.join(os.path.dirname(OUT), "data")
+    os.makedirs(ddir, exist_ok=True)
+    blobs = {name: json.dumps(v, separators=(",", ":"), ensure_ascii=False) for name, v in data.items()}
+    sig = hashlib.sha1("".join(blobs[n] for n in sorted(blobs)).encode()).hexdigest()
     changed = sig != state.get("sig")
     if changed:  # numbers changed: stamp the time and roll the rank snapshot
         state["sig"] = sig
         state["updated"] = dt.datetime.now().strftime("%b %-d, %Y %-I:%M %p")
         state["ranks"] = state["ranks_new"]
     state.pop("ranks_new", None)
+    index = dict(updated=state["updated"], divisions=[
+        dict(key=slug(name), name=name, games=v["games"], thru=v["thru"],
+             leader=(v["rows"][0][:2] + [v["rows"][0][6]]) if v["rows"] else None)
+        for name, v in data.items()])
+    for name, blob in blobs.items():
+        open(os.path.join(ddir, slug(name) + ".json"), "w", encoding="utf-8").write(blob)
+    open(os.path.join(ddir, "index.json"), "w", encoding="utf-8").write(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
     tpl = open(os.path.join(HERE, "page.tpl.html"), encoding="utf-8").read()
-    html = tpl.replace("__DATA__", blob).replace("__UPDATED__", state["updated"])
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    html = tpl.replace("__INDEX__", json.dumps(index, separators=(",", ":"), ensure_ascii=False)).replace("__UPDATED__", state["updated"])
     open(OUT, "w", encoding="utf-8").write(html)
     png = os.path.join(os.path.dirname(OUT), "og.png")
     if not changed and os.path.exists(png):
         return  # same numbers: leave the preview image byte-for-byte alone
     try:
         import og
-        og.render(data, png)
+        og.render(index, png)
     except Exception as e:  # the preview image is a nicety; never fail the run over it
         print(f"preview image skipped: {e}")
 
