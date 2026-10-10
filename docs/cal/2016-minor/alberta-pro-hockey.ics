@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Alberta Pro Hockey (2016 Minor)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019897@replay88.github.io
+UID:hsl-2019897@hslstats.ca
 DTSTAMP:20260920T181500Z
 DTSTART:20260920T181500Z
 DTEND:20260920T194500Z
 SUMMARY:2016 Minor: North Stars Hockey Academy 7 – Alberta Pro Hockey 2 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Minor game #125. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019897
+DESCRIPTION:HSL 2016 Minor game #125. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2019897
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019916@replay88.github.io
+UID:hsl-2019916@hslstats.ca
 DTSTAMP:20260925T210000Z
 DTSTART:20260925T210000Z
 DTEND:20260925T223000Z
 SUMMARY:2016 Minor: HC Calgary Bandits 6 – Alberta Pro Hockey 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Minor game #144. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019916
+DESCRIPTION:HSL 2016 Minor game #144. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2019916
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019937@replay88.github.io
+UID:hsl-2019937@hslstats.ca
 DTSTAMP:20260926T163000Z
 DTSTART:20260926T163000Z
 DTEND:20260926T180000Z
 SUMMARY:2016 Minor: Calgary Crusaders 10 – Alberta Pro Hockey 0 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Minor game #165. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019937
+DESCRIPTION:HSL 2016 Minor game #165. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2019937
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019958@replay88.github.io
+UID:hsl-2019958@hslstats.ca
 DTSTAMP:20260926T233000Z
 DTSTART:20260926T233000Z
 DTEND:20260927T010000Z
 SUMMARY:2016 Minor: Spartan Hockey Academy 13 – Alberta Pro Hockey 1 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Minor game #186. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019958
+DESCRIPTION:HSL 2016 Minor game #186. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2019958
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019978@replay88.github.io
+UID:hsl-2019978@hslstats.ca
 DTSTAMP:20260927T181500Z
 DTSTART:20260927T181500Z
 DTEND:20260927T194500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey 3 – North Stars Hockey Academy 2 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Minor game #206. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019978
+DESCRIPTION:HSL 2016 Minor game #206. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2019978
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020191@replay88.github.io
+UID:hsl-2020191@hslstats.ca
 DTSTAMP:20261017T184500Z
 DTSTART:20261017T184500Z
 DTEND:20261017T201500Z
 SUMMARY:2016 Minor: Capital City Knights at Alberta Pro Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Minor game #419. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020191
+DESCRIPTION:HSL 2016 Minor game #419. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020191
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020207@replay88.github.io
+UID:hsl-2020207@hslstats.ca
 DTSTAMP:20261018T000000Z
 DTSTART:20261018T000000Z
 DTEND:20261018T013000Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Wolverines Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Minor game #435. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020207
+DESCRIPTION:HSL 2016 Minor game #435. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020207
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020213@replay88.github.io
+UID:hsl-2020213@hslstats.ca
 DTSTAMP:20261018T141500Z
 DTSTART:20261018T141500Z
 DTEND:20261018T154500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at HC Calgary Bandits
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Minor game #441. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020213
+DESCRIPTION:HSL 2016 Minor game #441. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020213
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020386@replay88.github.io
+UID:hsl-2020386@hslstats.ca
 DTSTAMP:20261101T224500Z
 DTSTART:20261101T224500Z
 DTEND:20261102T001500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #614. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020386
+DESCRIPTION:HSL 2016 Minor game #614. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020386
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020399@replay88.github.io
+UID:hsl-2020399@hslstats.ca
 DTSTAMP:20261107T134500Z
 DTSTART:20261107T134500Z
 DTEND:20261107T151500Z
 SUMMARY:2016 Minor: South Sask Academy at Alberta Pro Hockey
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Minor game #627. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020399
+DESCRIPTION:HSL 2016 Minor game #627. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020399
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020434@replay88.github.io
+UID:hsl-2020434@hslstats.ca
 DTSTAMP:20261108T140000Z
 DTSTART:20261108T140000Z
 DTEND:20261108T153000Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at South Sask Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Minor game #662. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020434
+DESCRIPTION:HSL 2016 Minor game #662. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020434
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020447@replay88.github.io
+UID:hsl-2020447@hslstats.ca
 DTSTAMP:20261108T174500Z
 DTSTART:20261108T174500Z
 DTEND:20261108T191500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Calgary Crusaders
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2016 Minor game #675. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020447
+DESCRIPTION:HSL 2016 Minor game #675. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020447
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020499@replay88.github.io
+UID:hsl-2020499@hslstats.ca
 DTSTAMP:20261120T201500Z
 DTSTART:20261120T201500Z
 DTEND:20261120T214500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Spartan Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Minor game #727. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020499
+DESCRIPTION:HSL 2016 Minor game #727. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020499
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020544@replay88.github.io
+UID:hsl-2020544@hslstats.ca
 DTSTAMP:20261121T160000Z
 DTSTART:20261121T160000Z
 DTEND:20261121T173000Z
 SUMMARY:2016 Minor: Calgary Crusaders at Alberta Pro Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Minor game #772. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020544
+DESCRIPTION:HSL 2016 Minor game #772. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020544
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020578@replay88.github.io
+UID:hsl-2020578@hslstats.ca
 DTSTAMP:20261121T234500Z
 DTSTART:20261121T234500Z
 DTEND:20261122T011500Z
 SUMMARY:2016 Minor: Spartan Hockey Academy at Alberta Pro Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Minor game #806. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020578
+DESCRIPTION:HSL 2016 Minor game #806. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020578
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020603@replay88.github.io
+UID:hsl-2020603@hslstats.ca
 DTSTAMP:20261122T154500Z
 DTSTART:20261122T154500Z
 DTEND:20261122T171500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Minor game #831. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020603
+DESCRIPTION:HSL 2016 Minor game #831. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020603
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020780@replay88.github.io
+UID:hsl-2020780@hslstats.ca
 DTSTAMP:20261212T004500Z
 DTSTART:20261212T004500Z
 DTEND:20261212T021500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Minor game #1008. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020780
+DESCRIPTION:HSL 2016 Minor game #1008. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020780
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020793@replay88.github.io
+UID:hsl-2020793@hslstats.ca
 DTSTAMP:20261212T154500Z
 DTSTART:20261212T154500Z
 DTEND:20261212T171500Z
 SUMMARY:2016 Minor: HC Calgary Bandits at Alberta Pro Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Minor game #1021. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020793
+DESCRIPTION:HSL 2016 Minor game #1021. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020793
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020810@replay88.github.io
+UID:hsl-2020810@hslstats.ca
 DTSTAMP:20261212T191500Z
 DTSTART:20261212T191500Z
 DTEND:20261212T204500Z
 SUMMARY:2016 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Minor game #1038. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020810
+DESCRIPTION:HSL 2016 Minor game #1038. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020810
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020850@replay88.github.io
+UID:hsl-2020850@hslstats.ca
 DTSTAMP:20261213T161500Z
 DTSTART:20261213T161500Z
 DTEND:20261213T174500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Minor game #1078. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020850
+DESCRIPTION:HSL 2016 Minor game #1078. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020850
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020979@replay88.github.io
+UID:hsl-2020979@hslstats.ca
 DTSTAMP:20261220T230000Z
 DTSTART:20261220T230000Z
 DTEND:20261221T003000Z
 SUMMARY:2016 Minor: Capital City Knights at Alberta Pro Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1207. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020979
+DESCRIPTION:HSL 2016 Minor game #1207. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020979
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020988@replay88.github.io
+UID:hsl-2020988@hslstats.ca
 DTSTAMP:20270102T154500Z
 DTSTART:20270102T154500Z
 DTEND:20270102T171500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1216. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020988
+DESCRIPTION:HSL 2016 Minor game #1216. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2020988
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021022@replay88.github.io
+UID:hsl-2021022@hslstats.ca
 DTSTAMP:20270103T003000Z
 DTSTART:20270103T003000Z
 DTEND:20270103T020000Z
 SUMMARY:2016 Minor: North Stars Hockey Academy at Alberta Pro Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1250. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021022
+DESCRIPTION:HSL 2016 Minor game #1250. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021022
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021037@replay88.github.io
+UID:hsl-2021037@hslstats.ca
 DTSTAMP:20270103T154500Z
 DTSTART:20270103T154500Z
 DTEND:20270103T171500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1265. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021037
+DESCRIPTION:HSL 2016 Minor game #1265. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021037
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021054@replay88.github.io
+UID:hsl-2021054@hslstats.ca
 DTSTAMP:20270103T191500Z
 DTSTART:20270103T191500Z
 DTEND:20270103T204500Z
 SUMMARY:2016 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1282. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021054
+DESCRIPTION:HSL 2016 Minor game #1282. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021054
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021134@replay88.github.io
+UID:hsl-2021134@hslstats.ca
 DTSTAMP:20270110T161500Z
 DTSTART:20270110T161500Z
 DTEND:20270110T174500Z
 SUMMARY:2016 Minor: North Stars Hockey Academy at Alberta Pro Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1362. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021134
+DESCRIPTION:HSL 2016 Minor game #1362. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021134
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021148@replay88.github.io
+UID:hsl-2021148@hslstats.ca
 DTSTAMP:20270110T223000Z
 DTSTART:20270110T223000Z
 DTEND:20270111T000000Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1376. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021148
+DESCRIPTION:HSL 2016 Minor game #1376. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021148
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021169@replay88.github.io
+UID:hsl-2021169@hslstats.ca
 DTSTAMP:20270116T023000Z
 DTSTART:20270116T023000Z
 DTEND:20270116T040000Z
 SUMMARY:2016 Minor: South Sask Academy at Alberta Pro Hockey
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2016 Minor game #1397. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021169
+DESCRIPTION:HSL 2016 Minor game #1397. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021169
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021180@replay88.github.io
+UID:hsl-2021180@hslstats.ca
 DTSTAMP:20270116T154500Z
 DTSTART:20270116T154500Z
 DTEND:20270116T171500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2016 Minor game #1408. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021180
+DESCRIPTION:HSL 2016 Minor game #1408. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021180
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021201@replay88.github.io
+UID:hsl-2021201@hslstats.ca
 DTSTAMP:20270116T191500Z
 DTSTART:20270116T191500Z
 DTEND:20270116T204500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Capital City Knights
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2016 Minor game #1429. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021201
+DESCRIPTION:HSL 2016 Minor game #1429. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021201
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021460@replay88.github.io
+UID:hsl-2021460@hslstats.ca
 DTSTAMP:20270206T194500Z
 DTSTART:20270206T194500Z
 DTEND:20270206T211500Z
 SUMMARY:2016 Minor: Capital City Knights at Alberta Pro Hockey
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Minor game #1688. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021460
+DESCRIPTION:HSL 2016 Minor game #1688. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021460
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021503@replay88.github.io
+UID:hsl-2021503@hslstats.ca
 DTSTAMP:20270207T224500Z
 DTSTART:20270207T224500Z
 DTEND:20270208T001500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Capital City Knights
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Minor game #1731. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021503
+DESCRIPTION:HSL 2016 Minor game #1731. Stats: https://replay88.github.io/hsl-scoring-race/#2016-minor/g/2021503
 END:VEVENT
 END:VCALENDAR

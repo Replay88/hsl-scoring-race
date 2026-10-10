@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Capital City Knights (2019 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019918@replay88.github.io
+UID:hsl-2019918@hslstats.ca
 DTSTAMP:20260925T223000Z
 DTSTART:20260925T223000Z
 DTEND:20260926T000000Z
 SUMMARY:2019 Major: HC Calgary Bandits 8 – Capital City Knights 1 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #146. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019918
+DESCRIPTION:HSL 2019 Major game #146. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019918
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019931@replay88.github.io
+UID:hsl-2019931@hslstats.ca
 DTSTAMP:20260926T140000Z
 DTSTART:20260926T140000Z
 DTEND:20260926T153000Z
 SUMMARY:2019 Major: Capital City Knights 0 – Stars Hockey Academy 10 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #159. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019931
+DESCRIPTION:HSL 2019 Major game #159. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019931
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019953@replay88.github.io
+UID:hsl-2019953@hslstats.ca
 DTSTAMP:20260926T214500Z
 DTSTART:20260926T214500Z
 DTEND:20260926T231500Z
 SUMMARY:2019 Major: Capital City Knights 0 – HC Calgary Bandits 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #181. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019953
+DESCRIPTION:HSL 2019 Major game #181. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019953
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019980@replay88.github.io
+UID:hsl-2019980@hslstats.ca
 DTSTAMP:20260927T183000Z
 DTSTART:20260927T183000Z
 DTEND:20260927T200000Z
 SUMMARY:2019 Major: Stars Hockey Academy 8 – Capital City Knights 0 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #208. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019980
+DESCRIPTION:HSL 2019 Major game #208. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019980
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020154@replay88.github.io
+UID:hsl-2020154@hslstats.ca
 DTSTAMP:20261011T224500Z
 DTSTART:20261011T224500Z
 DTEND:20261012T001500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Capital City Knights
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2019 Major game #382. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020154
+DESCRIPTION:HSL 2019 Major game #382. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020154
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020166@replay88.github.io
+UID:hsl-2020166@hslstats.ca
 DTSTAMP:20261016T234500Z
 DTSTART:20261016T234500Z
 DTEND:20261017T011500Z
 SUMMARY:2019 Major: Young Kings Hockey at Capital City Knights
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #394. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020166
+DESCRIPTION:HSL 2019 Major game #394. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020166
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020190@replay88.github.io
+UID:hsl-2020190@hslstats.ca
 DTSTAMP:20261017T183000Z
 DTSTART:20261017T183000Z
 DTEND:20261017T200000Z
 SUMMARY:2019 Major: Calgary Crusaders at Capital City Knights
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #418. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020190
+DESCRIPTION:HSL 2019 Major game #418. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020190
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020201@replay88.github.io
+UID:hsl-2020201@hslstats.ca
 DTSTAMP:20261017T213000Z
 DTSTART:20261017T213000Z
 DTEND:20261017T230000Z
 SUMMARY:2019 Major: Capital City Knights at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #429. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020201
+DESCRIPTION:HSL 2019 Major game #429. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020201
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020218@replay88.github.io
+UID:hsl-2020218@hslstats.ca
 DTSTAMP:20261018T153000Z
 DTSTART:20261018T153000Z
 DTEND:20261018T170000Z
 SUMMARY:2019 Major: Capital City Knights at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #446. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020218
+DESCRIPTION:HSL 2019 Major game #446. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020218
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020466@replay88.github.io
+UID:hsl-2020466@hslstats.ca
 DTSTAMP:20261114T000000Z
 DTSTART:20261114T000000Z
 DTEND:20261114T013000Z
 SUMMARY:2019 Major: MOB Hockey at Capital City Knights
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #694. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020466
+DESCRIPTION:HSL 2019 Major game #694. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020466
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020471@replay88.github.io
+UID:hsl-2020471@hslstats.ca
 DTSTAMP:20261114T153000Z
 DTSTART:20261114T153000Z
 DTEND:20261114T170000Z
 SUMMARY:2019 Major: Capital City Knights at MOB Hockey
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #699. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020471
+DESCRIPTION:HSL 2019 Major game #699. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020471
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020479@replay88.github.io
+UID:hsl-2020479@hslstats.ca
 DTSTAMP:20261114T201500Z
 DTSTART:20261114T201500Z
 DTEND:20261114T214500Z
 SUMMARY:2019 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #707. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020479
+DESCRIPTION:HSL 2019 Major game #707. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020479
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020634@replay88.github.io
+UID:hsl-2020634@hslstats.ca
 DTSTAMP:20261125T223000Z
 DTSTART:20261125T223000Z
 DTEND:20261126T000000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at Capital City Knights
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #862. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020634
+DESCRIPTION:HSL 2019 Major game #862. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020634
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020636@replay88.github.io
+UID:hsl-2020636@hslstats.ca
 DTSTAMP:20261127T210000Z
 DTSTART:20261127T210000Z
 DTEND:20261127T223000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #864. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020636
+DESCRIPTION:HSL 2019 Major game #864. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020636
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020646@replay88.github.io
+UID:hsl-2020646@hslstats.ca
 DTSTAMP:20261128T140000Z
 DTSTART:20261128T140000Z
 DTEND:20261128T153000Z
 SUMMARY:2019 Major: Capital City Knights at Stars Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #874. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020646
+DESCRIPTION:HSL 2019 Major game #874. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020646
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020684@replay88.github.io
+UID:hsl-2020684@hslstats.ca
 DTSTAMP:20261129T201500Z
 DTSTART:20261129T201500Z
 DTEND:20261129T214500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #912. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020684
+DESCRIPTION:HSL 2019 Major game #912. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020684
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020766@replay88.github.io
+UID:hsl-2020766@hslstats.ca
 DTSTAMP:20261209T223000Z
 DTSTART:20261209T223000Z
 DTEND:20261210T000000Z
 SUMMARY:2019 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #994. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020766
+DESCRIPTION:HSL 2019 Major game #994. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020766
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020879@replay88.github.io
+UID:hsl-2020879@hslstats.ca
 DTSTAMP:20261218T233000Z
 DTSTART:20261218T233000Z
 DTEND:20261219T010000Z
 SUMMARY:2019 Major: Capital City Knights at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1107. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020879
+DESCRIPTION:HSL 2019 Major game #1107. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020879
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020895@replay88.github.io
+UID:hsl-2020895@hslstats.ca
 DTSTAMP:20261219T150000Z
 DTSTART:20261219T150000Z
 DTEND:20261219T163000Z
 SUMMARY:2019 Major: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1123. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020895
+DESCRIPTION:HSL 2019 Major game #1123. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020895
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020913@replay88.github.io
+UID:hsl-2020913@hslstats.ca
 DTSTAMP:20261219T193000Z
 DTSTART:20261219T193000Z
 DTEND:20261219T210000Z
 SUMMARY:2019 Major: Spartan Hockey Academy at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1141. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020913
+DESCRIPTION:HSL 2019 Major game #1141. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020913
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020973@replay88.github.io
+UID:hsl-2020973@hslstats.ca
 DTSTAMP:20261220T203000Z
 DTSTART:20261220T203000Z
 DTEND:20261220T220000Z
 SUMMARY:2019 Major: Calgary Crusaders at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1201. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020973
+DESCRIPTION:HSL 2019 Major game #1201. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020973
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020982@replay88.github.io
+UID:hsl-2020982@hslstats.ca
 DTSTAMP:20261223T223000Z
 DTSTART:20261223T223000Z
 DTEND:20261224T000000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at Capital City Knights
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1210. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020982
+DESCRIPTION:HSL 2019 Major game #1210. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020982
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021021@replay88.github.io
+UID:hsl-2021021@hslstats.ca
 DTSTAMP:20270102T234500Z
 DTSTART:20270102T234500Z
 DTEND:20270103T011500Z
 SUMMARY:2019 Major: Capital City Knights at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1249. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021021
+DESCRIPTION:HSL 2019 Major game #1249. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021021
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021031@replay88.github.io
+UID:hsl-2021031@hslstats.ca
 DTSTAMP:20270103T141500Z
 DTSTART:20270103T141500Z
 DTEND:20270103T154500Z
 SUMMARY:2019 Major: Rebels Hockey Academy at Capital City Knights
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2019 Major game #1259. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021031
+DESCRIPTION:HSL 2019 Major game #1259. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021031
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021042@replay88.github.io
+UID:hsl-2021042@hslstats.ca
 DTSTAMP:20270103T170000Z
 DTSTART:20270103T170000Z
 DTEND:20270103T183000Z
 SUMMARY:2019 Major: MOB Hockey at Capital City Knights
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1270. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021042
+DESCRIPTION:HSL 2019 Major game #1270. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021042
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021283@replay88.github.io
+UID:hsl-2021283@hslstats.ca
 DTSTAMP:20270122T230000Z
 DTSTART:20270122T230000Z
 DTEND:20270123T003000Z
 SUMMARY:2019 Major: Capital City Knights at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2019 Major game #1511. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021283
+DESCRIPTION:HSL 2019 Major game #1511. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021283
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021307@replay88.github.io
+UID:hsl-2021307@hslstats.ca
 DTSTAMP:20270123T154500Z
 DTSTART:20270123T154500Z
 DTEND:20270123T171500Z
 SUMMARY:2019 Major: Rebels Hockey Academy at Capital City Knights
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2019 Major game #1535. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021307
+DESCRIPTION:HSL 2019 Major game #1535. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021307
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021319@replay88.github.io
+UID:hsl-2021319@hslstats.ca
 DTSTAMP:20270123T190000Z
 DTSTART:20270123T190000Z
 DTEND:20270123T203000Z
 SUMMARY:2019 Major: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2019 Major game #1547. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021319
+DESCRIPTION:HSL 2019 Major game #1547. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021319
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021506@replay88.github.io
+UID:hsl-2021506@hslstats.ca
 DTSTAMP:20270212T220000Z
 DTSTART:20270212T220000Z
 DTEND:20270212T233000Z
 SUMMARY:2019 Major: Young Kings Hockey at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1734. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021506
+DESCRIPTION:HSL 2019 Major game #1734. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021506
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021528@replay88.github.io
+UID:hsl-2021528@hslstats.ca
 DTSTAMP:20270213T171500Z
 DTSTART:20270213T171500Z
 DTEND:20270213T184500Z
 SUMMARY:2019 Major: Capital City Knights at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1756. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021528
+DESCRIPTION:HSL 2019 Major game #1756. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021528
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021542@replay88.github.io
+UID:hsl-2021542@hslstats.ca
 DTSTAMP:20270213T204500Z
 DTSTART:20270213T204500Z
 DTEND:20270213T221500Z
 SUMMARY:2019 Major: Capital City Knights at Young Kings Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1770. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021542
+DESCRIPTION:HSL 2019 Major game #1770. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021542
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021572@replay88.github.io
+UID:hsl-2021572@hslstats.ca
 DTSTAMP:20270214T171500Z
 DTSTART:20270214T171500Z
 DTEND:20270214T184500Z
 SUMMARY:2019 Major: Capital City Knights at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1800. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021572
+DESCRIPTION:HSL 2019 Major game #1800. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021572
 END:VEVENT
 END:VCALENDAR

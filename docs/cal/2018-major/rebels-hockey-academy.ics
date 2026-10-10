@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Rebels Hockey Academy (2018 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019789@replay88.github.io
+UID:hsl-2019789@hslstats.ca
 DTSTAMP:20260918T234500Z
 DTSTART:20260918T234500Z
 DTEND:20260919T011500Z
 SUMMARY:2018 Major: Capital City Knights 1 – Rebels Hockey Academy 15 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #17. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019789
+DESCRIPTION:HSL 2018 Major game #17. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019789
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019805@replay88.github.io
+UID:hsl-2019805@hslstats.ca
 DTSTAMP:20260919T140000Z
 DTSTART:20260919T140000Z
 DTEND:20260919T153000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy 4 – Rebels Hockey Academy 12 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #33. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019805
+DESCRIPTION:HSL 2018 Major game #33. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019805
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019834@replay88.github.io
+UID:hsl-2019834@hslstats.ca
 DTSTAMP:20260919T191500Z
 DTSTART:20260919T191500Z
 DTEND:20260919T204500Z
 SUMMARY:2018 Major: Rebels Hockey Academy 12 – Capital City Knights 3 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #62. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019834
+DESCRIPTION:HSL 2018 Major game #62. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019834
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019874@replay88.github.io
+UID:hsl-2019874@hslstats.ca
 DTSTAMP:20260920T140000Z
 DTSTART:20260920T140000Z
 DTEND:20260920T153000Z
 SUMMARY:2018 Major: Rebels Hockey Academy 11 – Gorillas Hockey Academy 1 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #102. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019874
+DESCRIPTION:HSL 2018 Major game #102. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019874
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020044@replay88.github.io
+UID:hsl-2020044@hslstats.ca
 DTSTAMP:20261009T233000Z
 DTSTART:20261009T233000Z
 DTEND:20261010T010000Z
 SUMMARY:2018 Major: Rebels Hockey Academy 8 – Calgary Crusaders 6 (Final)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #272. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020044
+DESCRIPTION:HSL 2018 Major game #272. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020044
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020077@replay88.github.io
+UID:hsl-2020077@hslstats.ca
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at O2 Grizzlies
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #305. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020077
+DESCRIPTION:HSL 2018 Major game #305. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020077
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020094@replay88.github.io
+UID:hsl-2020094@hslstats.ca
 DTSTAMP:20261010T210000Z
 DTSTART:20261010T210000Z
 DTEND:20261010T223000Z
 SUMMARY:2018 Major: Calgary Crusaders at Rebels Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #322. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020094
+DESCRIPTION:HSL 2018 Major game #322. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020094
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020125@replay88.github.io
+UID:hsl-2020125@hslstats.ca
 DTSTAMP:20261011T154500Z
 DTSTART:20261011T154500Z
 DTEND:20261011T171500Z
 SUMMARY:2018 Major: O2 Grizzlies at Rebels Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #353. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020125
+DESCRIPTION:HSL 2018 Major game #353. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020125
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020317@replay88.github.io
+UID:hsl-2020317@hslstats.ca
 DTSTAMP:20261030T234500Z
 DTSTART:20261030T234500Z
 DTEND:20261031T011500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #545. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020317
+DESCRIPTION:HSL 2018 Major game #545. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020317
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020329@replay88.github.io
+UID:hsl-2020329@hslstats.ca
 DTSTAMP:20261031T140000Z
 DTSTART:20261031T140000Z
 DTEND:20261031T153000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Sask Super Selects
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #557. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020329
+DESCRIPTION:HSL 2018 Major game #557. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020329
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020349@replay88.github.io
+UID:hsl-2020349@hslstats.ca
 DTSTAMP:20261031T191500Z
 DTSTART:20261031T191500Z
 DTEND:20261031T204500Z
 SUMMARY:2018 Major: Capital City Knights at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #577. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020349
+DESCRIPTION:HSL 2018 Major game #577. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020349
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020377@replay88.github.io
+UID:hsl-2020377@hslstats.ca
 DTSTAMP:20261101T191500Z
 DTSTART:20261101T191500Z
 DTEND:20261101T204500Z
 SUMMARY:2018 Major: Aces Hockey Academy at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #605. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020377
+DESCRIPTION:HSL 2018 Major game #605. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020377
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020640@replay88.github.io
+UID:hsl-2020640@hslstats.ca
 DTSTAMP:20261127T231500Z
 DTSTART:20261127T231500Z
 DTEND:20261128T004500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #868. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020640
+DESCRIPTION:HSL 2018 Major game #868. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020640
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020649@replay88.github.io
+UID:hsl-2020649@hslstats.ca
 DTSTAMP:20261128T160000Z
 DTSTART:20261128T160000Z
 DTEND:20261128T173000Z
 SUMMARY:2018 Major: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #877. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020649
+DESCRIPTION:HSL 2018 Major game #877. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020649
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020668@replay88.github.io
+UID:hsl-2020668@hslstats.ca
 DTSTAMP:20261129T004500Z
 DTSTART:20261129T004500Z
 DTEND:20261129T021500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #896. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020668
+DESCRIPTION:HSL 2018 Major game #896. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020668
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020674@replay88.github.io
+UID:hsl-2020674@hslstats.ca
 DTSTAMP:20261129T154500Z
 DTSTART:20261129T154500Z
 DTEND:20261129T171500Z
 SUMMARY:2018 Major: Young Kings Hockey at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #902. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020674
+DESCRIPTION:HSL 2018 Major game #902. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020674
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020881@replay88.github.io
+UID:hsl-2020881@hslstats.ca
 DTSTAMP:20261219T001500Z
 DTSTART:20261219T001500Z
 DTEND:20261219T014500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1109. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020881
+DESCRIPTION:HSL 2018 Major game #1109. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020881
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020905@replay88.github.io
+UID:hsl-2020905@hslstats.ca
 DTSTAMP:20261219T180000Z
 DTSTART:20261219T180000Z
 DTEND:20261219T193000Z
 SUMMARY:2018 Major: MOB Hockey at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1133. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020905
+DESCRIPTION:HSL 2018 Major game #1133. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020905
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020929@replay88.github.io
+UID:hsl-2020929@hslstats.ca
 DTSTAMP:20261219T231500Z
 DTSTART:20261219T231500Z
 DTEND:20261220T004500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Aces Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1157. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020929
+DESCRIPTION:HSL 2018 Major game #1157. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020929
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020946@replay88.github.io
+UID:hsl-2020946@hslstats.ca
 DTSTAMP:20261220T140000Z
 DTSTART:20261220T140000Z
 DTEND:20261220T153000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1174. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020946
+DESCRIPTION:HSL 2018 Major game #1174. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020946
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021077@replay88.github.io
+UID:hsl-2021077@hslstats.ca
 DTSTAMP:20270108T230000Z
 DTSTART:20270108T230000Z
 DTEND:20270109T003000Z
 SUMMARY:2018 Major: Queen City Young Guns at Rebels Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1305. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021077
+DESCRIPTION:HSL 2018 Major game #1305. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021077
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021099@replay88.github.io
+UID:hsl-2021099@hslstats.ca
 DTSTAMP:20270109T173000Z
 DTSTART:20270109T173000Z
 DTEND:20270109T190000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1327. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021099
+DESCRIPTION:HSL 2018 Major game #1327. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021099
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021116@replay88.github.io
+UID:hsl-2021116@hslstats.ca
 DTSTAMP:20270109T224500Z
 DTSTART:20270109T224500Z
 DTEND:20270110T001500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1344. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021116
+DESCRIPTION:HSL 2018 Major game #1344. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021116
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021132@replay88.github.io
+UID:hsl-2021132@hslstats.ca
 DTSTAMP:20270110T154500Z
 DTSTART:20270110T154500Z
 DTEND:20270110T171500Z
 SUMMARY:2018 Major: Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1360. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021132
+DESCRIPTION:HSL 2018 Major game #1360. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021132
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021292@replay88.github.io
+UID:hsl-2021292@hslstats.ca
 DTSTAMP:20270123T004500Z
 DTSTART:20270123T004500Z
 DTEND:20270123T021500Z
 SUMMARY:2018 Major: North Stars Academy Wild at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1520. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021292
+DESCRIPTION:HSL 2018 Major game #1520. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021292
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021313@replay88.github.io
+UID:hsl-2021313@hslstats.ca
 DTSTAMP:20270123T173000Z
 DTSTART:20270123T173000Z
 DTEND:20270123T190000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1541. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021313
+DESCRIPTION:HSL 2018 Major game #1541. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021313
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021340@replay88.github.io
+UID:hsl-2021340@hslstats.ca
 DTSTAMP:20270124T003000Z
 DTSTART:20270124T003000Z
 DTEND:20270124T020000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Academy Wild
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1568. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021340
+DESCRIPTION:HSL 2018 Major game #1568. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021340
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021357@replay88.github.io
+UID:hsl-2021357@hslstats.ca
 DTSTAMP:20270124T173000Z
 DTSTART:20270124T173000Z
 DTEND:20270124T190000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1585. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021357
+DESCRIPTION:HSL 2018 Major game #1585. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021357
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021507@replay88.github.io
+UID:hsl-2021507@hslstats.ca
 DTSTAMP:20270212T224500Z
 DTSTART:20270212T224500Z
 DTEND:20270213T001500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Young Kings Hockey
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #1735. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021507
+DESCRIPTION:HSL 2018 Major game #1735. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021507
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021540@replay88.github.io
+UID:hsl-2021540@hslstats.ca
 DTSTAMP:20270213T200000Z
 DTSTART:20270213T200000Z
 DTEND:20270213T213000Z
 SUMMARY:2018 Major: Spartan Hockey Academy at Rebels Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #1768. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021540
+DESCRIPTION:HSL 2018 Major game #1768. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021540
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021554@replay88.github.io
+UID:hsl-2021554@hslstats.ca
 DTSTAMP:20270213T234500Z
 DTSTART:20270213T234500Z
 DTEND:20270214T011500Z
 SUMMARY:2018 Major: Sauce Hockey Academy at Rebels Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1782. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021554
+DESCRIPTION:HSL 2018 Major game #1782. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021554
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021559@replay88.github.io
+UID:hsl-2021559@hslstats.ca
 DTSTAMP:20270214T140000Z
 DTSTART:20270214T140000Z
 DTEND:20270214T153000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #1787. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021559
+DESCRIPTION:HSL 2018 Major game #1787. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021559
 END:VEVENT
 END:VCALENDAR

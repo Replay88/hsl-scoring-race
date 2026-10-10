@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Saints Pro Hockey Academy (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019824@replay88.github.io
+UID:hsl-2019824@hslstats.ca
 DTSTAMP:20260919T173000Z
 DTSTART:20260919T173000Z
 DTEND:20260919T190000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 3 – Vipers Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #52. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019824
+DESCRIPTION:HSL 2017 Major game #52. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019824
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019857@replay88.github.io
+UID:hsl-2019857@hslstats.ca
 DTSTAMP:20260919T230000Z
 DTSTART:20260919T230000Z
 DTEND:20260920T003000Z
 SUMMARY:2017 Major: Stars Hockey Academy 0 – Saints Pro Hockey Academy 13 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #85. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019857
+DESCRIPTION:HSL 2017 Major game #85. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019857
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019886@replay88.github.io
+UID:hsl-2019886@hslstats.ca
 DTSTAMP:20260920T160000Z
 DTSTART:20260920T160000Z
 DTEND:20260920T173000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 9 – Wolverines Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #114. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019886
+DESCRIPTION:HSL 2017 Major game #114. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019886
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019912@replay88.github.io
+UID:hsl-2019912@hslstats.ca
 DTSTAMP:20260920T211500Z
 DTSTART:20260920T211500Z
 DTEND:20260920T224500Z
 SUMMARY:2017 Major: North Stars Academy Wild 2 – Saints Pro Hockey Academy 15 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #140. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019912
+DESCRIPTION:HSL 2017 Major game #140. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019912
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019996@replay88.github.io
+UID:hsl-2019996@hslstats.ca
 DTSTAMP:20261003T013000Z
 DTSTART:20261003T013000Z
 DTEND:20261003T030000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 0 – Saints Pro Hockey Academy 9 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #224. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019996
+DESCRIPTION:HSL 2017 Major game #224. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019996
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020006@replay88.github.io
+UID:hsl-2020006@hslstats.ca
 DTSTAMP:20261003T200000Z
 DTSTART:20261003T200000Z
 DTEND:20261003T213000Z
 SUMMARY:2017 Major: South Sask Academy 2 – Saints Pro Hockey Academy 17 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #234. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020006
+DESCRIPTION:HSL 2017 Major game #234. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020006
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020014@replay88.github.io
+UID:hsl-2020014@hslstats.ca
 DTSTAMP:20261003T233000Z
 DTSTART:20261003T233000Z
 DTEND:20261004T010000Z
 SUMMARY:2017 Major: Queen City Young Guns 4 – Saints Pro Hockey Academy 7 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #242. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020014
+DESCRIPTION:HSL 2017 Major game #242. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020014
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020017@replay88.github.io
+UID:hsl-2020017@hslstats.ca
 DTSTAMP:20261004T140000Z
 DTSTART:20261004T140000Z
 DTEND:20261004T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 6 – South Sask Academy 5 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #245. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020017
+DESCRIPTION:HSL 2017 Major game #245. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020017
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020305@replay88.github.io
+UID:hsl-2020305@hslstats.ca
 DTSTAMP:20261030T173000Z
 DTSTART:20261030T173000Z
 DTEND:20261030T190000Z
 SUMMARY:2017 Major: South Sask Academy at Saints Pro Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #533. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020305
+DESCRIPTION:HSL 2017 Major game #533. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020305
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020308@replay88.github.io
+UID:hsl-2020308@hslstats.ca
 DTSTAMP:20261030T210000Z
 DTSTART:20261030T210000Z
 DTEND:20261030T223000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #536. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020308
+DESCRIPTION:HSL 2017 Major game #536. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020308
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020337@replay88.github.io
+UID:hsl-2020337@hslstats.ca
 DTSTAMP:20261031T163000Z
 DTSTART:20261031T163000Z
 DTEND:20261031T180000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Queen City Young Guns
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #565. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020337
+DESCRIPTION:HSL 2017 Major game #565. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020337
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020378@replay88.github.io
+UID:hsl-2020378@hslstats.ca
 DTSTAMP:20261101T200000Z
 DTSTART:20261101T200000Z
 DTEND:20261101T213000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Sauce Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #606. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020378
+DESCRIPTION:HSL 2017 Major game #606. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020378
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020510@replay88.github.io
+UID:hsl-2020510@hslstats.ca
 DTSTAMP:20261120T230000Z
 DTSTART:20261120T230000Z
 DTEND:20261121T003000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at North Stars Academy Wild
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #738. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020510
+DESCRIPTION:HSL 2017 Major game #738. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020510
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020543@replay88.github.io
+UID:hsl-2020543@hslstats.ca
 DTSTAMP:20261121T154500Z
 DTSTART:20261121T154500Z
 DTEND:20261121T171500Z
 SUMMARY:2017 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #771. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020543
+DESCRIPTION:HSL 2017 Major game #771. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020543
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020560@replay88.github.io
+UID:hsl-2020560@hslstats.ca
 DTSTAMP:20261121T191500Z
 DTSTART:20261121T191500Z
 DTEND:20261121T204500Z
 SUMMARY:2017 Major: North Stars Academy Wild at Saints Pro Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #788. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020560
+DESCRIPTION:HSL 2017 Major game #788. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020560
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020691@replay88.github.io
+UID:hsl-2020691@hslstats.ca
 DTSTAMP:20261204T201500Z
 DTSTART:20261204T201500Z
 DTEND:20261204T214500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #919. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020691
+DESCRIPTION:HSL 2017 Major game #919. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020691
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020708@replay88.github.io
+UID:hsl-2020708@hslstats.ca
 DTSTAMP:20261205T140000Z
 DTSTART:20261205T140000Z
 DTEND:20261205T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #936. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020708
+DESCRIPTION:HSL 2017 Major game #936. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020708
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020738@replay88.github.io
+UID:hsl-2020738@hslstats.ca
 DTSTAMP:20261206T003000Z
 DTSTART:20261206T003000Z
 DTEND:20261206T020000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #966. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020738
+DESCRIPTION:HSL 2017 Major game #966. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020738
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020745@replay88.github.io
+UID:hsl-2020745@hslstats.ca
 DTSTAMP:20261206T140000Z
 DTSTART:20261206T140000Z
 DTEND:20261206T153000Z
 SUMMARY:2017 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #973. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020745
+DESCRIPTION:HSL 2017 Major game #973. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020745
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021067@replay88.github.io
+UID:hsl-2021067@hslstats.ca
 DTSTAMP:20270107T003000Z
 DTSTART:20270107T003000Z
 DTEND:20270107T020000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1295. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021067
+DESCRIPTION:HSL 2017 Major game #1295. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021067
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021163@replay88.github.io
+UID:hsl-2021163@hslstats.ca
 DTSTAMP:20270116T001500Z
 DTSTART:20270116T001500Z
 DTEND:20270116T014500Z
 SUMMARY:2017 Major: Young Kings Hockey at Saints Pro Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1391. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021163
+DESCRIPTION:HSL 2017 Major game #1391. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021163
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021208@replay88.github.io
+UID:hsl-2021208@hslstats.ca
 DTSTAMP:20270116T201500Z
 DTSTART:20270116T201500Z
 DTEND:20270116T214500Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1436. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021208
+DESCRIPTION:HSL 2017 Major game #1436. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021208
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021245@replay88.github.io
+UID:hsl-2021245@hslstats.ca
 DTSTAMP:20270117T150000Z
 DTSTART:20270117T150000Z
 DTEND:20270117T163000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Spartan Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1473. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021245
+DESCRIPTION:HSL 2017 Major game #1473. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021245
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021263@replay88.github.io
+UID:hsl-2021263@hslstats.ca
 DTSTAMP:20270117T184500Z
 DTSTART:20270117T184500Z
 DTEND:20270117T201500Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1491. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021263
+DESCRIPTION:HSL 2017 Major game #1491. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021263
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021276@replay88.github.io
+UID:hsl-2021276@hslstats.ca
 DTSTAMP:20270120T224500Z
 DTSTART:20270120T224500Z
 DTEND:20270121T001500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1504. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021276
+DESCRIPTION:HSL 2017 Major game #1504. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021276
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021407@replay88.github.io
+UID:hsl-2021407@hslstats.ca
 DTSTAMP:20270131T154500Z
 DTSTART:20270131T154500Z
 DTEND:20270131T171500Z
 SUMMARY:2017 Major: Queen City Young Guns at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1635. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021407
+DESCRIPTION:HSL 2017 Major game #1635. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021407
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021420@replay88.github.io
+UID:hsl-2021420@hslstats.ca
 DTSTAMP:20270131T210000Z
 DTSTART:20270131T210000Z
 DTEND:20270131T223000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Gorillas Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1648. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021420
+DESCRIPTION:HSL 2017 Major game #1648. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021420
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021588@replay88.github.io
+UID:hsl-2021588@hslstats.ca
 DTSTAMP:20270218T003000Z
 DTSTART:20270218T003000Z
 DTEND:20270218T020000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1816. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021588
+DESCRIPTION:HSL 2017 Major game #1816. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021588
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021590@replay88.github.io
+UID:hsl-2021590@hslstats.ca
 DTSTAMP:20270219T220000Z
 DTSTART:20270219T220000Z
 DTEND:20270219T233000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1818. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021590
+DESCRIPTION:HSL 2017 Major game #1818. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021590
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021608@replay88.github.io
+UID:hsl-2021608@hslstats.ca
 DTSTAMP:20270220T140000Z
 DTSTART:20270220T140000Z
 DTEND:20270220T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Young Kings Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1836. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021608
+DESCRIPTION:HSL 2017 Major game #1836. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021608
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021640@replay88.github.io
+UID:hsl-2021640@hslstats.ca
 DTSTAMP:20270220T210000Z
 DTSTART:20270220T210000Z
 DTEND:20270220T223000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1868. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021640
+DESCRIPTION:HSL 2017 Major game #1868. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021640
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021660@replay88.github.io
+UID:hsl-2021660@hslstats.ca
 DTSTAMP:20270221T140000Z
 DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
 SUMMARY:2017 Major: Young Kings Hockey at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1888. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021660
+DESCRIPTION:HSL 2017 Major game #1888. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021660
 END:VEVENT
 END:VCALENDAR

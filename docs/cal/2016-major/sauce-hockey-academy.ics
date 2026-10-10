@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Sauce Hockey Academy (2016 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019800@replay88.github.io
+UID:hsl-2019800@hslstats.ca
 DTSTAMP:20260919T014500Z
 DTSTART:20260919T014500Z
 DTEND:20260919T031500Z
 SUMMARY:2016 Major: Sauce Hockey Academy 2 – Queen City Young Guns 7 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #28. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019800
+DESCRIPTION:HSL 2016 Major game #28. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019800
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019841@replay88.github.io
+UID:hsl-2019841@hslstats.ca
 DTSTAMP:20260919T201500Z
 DTSTART:20260919T201500Z
 DTEND:20260919T214500Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) 1 – Sauce Hockey Academy 8 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #69. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019841
+DESCRIPTION:HSL 2016 Major game #69. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019841
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019867@replay88.github.io
+UID:hsl-2019867@hslstats.ca
 DTSTAMP:20260920T013000Z
 DTSTART:20260920T013000Z
 DTEND:20260920T030000Z
 SUMMARY:2016 Major: Queen City Young Guns 3 – Sauce Hockey Academy 6 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #95. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019867
+DESCRIPTION:HSL 2016 Major game #95. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019867
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019880@replay88.github.io
+UID:hsl-2019880@hslstats.ca
 DTSTAMP:20260920T150000Z
 DTSTART:20260920T150000Z
 DTEND:20260920T163000Z
 SUMMARY:2016 Major: Sauce Hockey Academy 14 – Warriors Hockey Academy (Sask) 0 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #108. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019880
+DESCRIPTION:HSL 2016 Major game #108. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019880
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020028@replay88.github.io
+UID:hsl-2020028@hslstats.ca
 DTSTAMP:20261009T154500Z
 DTSTART:20261009T154500Z
 DTEND:20261009T171500Z
 SUMMARY:2016 Major: Sauce Hockey Academy 5 – Caps Hockey Club 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #256. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020028
+DESCRIPTION:HSL 2016 Major game #256. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020028
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020065@replay88.github.io
+UID:hsl-2020065@hslstats.ca
 DTSTAMP:20261010T154500Z
 DTSTART:20261010T154500Z
 DTEND:20261010T171500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #293. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020065
+DESCRIPTION:HSL 2016 Major game #293. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020065
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020093@replay88.github.io
+UID:hsl-2020093@hslstats.ca
 DTSTAMP:20261010T210000Z
 DTSTART:20261010T210000Z
 DTEND:20261010T223000Z
 SUMMARY:2016 Major: Caps Hockey Club at Sauce Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #321. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020093
+DESCRIPTION:HSL 2016 Major game #321. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020093
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020139@replay88.github.io
+UID:hsl-2020139@hslstats.ca
 DTSTAMP:20261011T181500Z
 DTSTART:20261011T181500Z
 DTEND:20261011T194500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Sauce Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #367. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020139
+DESCRIPTION:HSL 2016 Major game #367. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020139
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020245@replay88.github.io
+UID:hsl-2020245@hslstats.ca
 DTSTAMP:20261024T004500Z
 DTSTART:20261024T004500Z
 DTEND:20261024T021500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Northern Hockey Club
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #473. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020245
+DESCRIPTION:HSL 2016 Major game #473. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020245
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020265@replay88.github.io
+UID:hsl-2020265@hslstats.ca
 DTSTAMP:20261024T191500Z
 DTSTART:20261024T191500Z
 DTEND:20261024T204500Z
 SUMMARY:2016 Major: Young Kings Hockey at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #493. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020265
+DESCRIPTION:HSL 2016 Major game #493. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020265
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020273@replay88.github.io
+UID:hsl-2020273@hslstats.ca
 DTSTAMP:20261024T224500Z
 DTSTART:20261024T224500Z
 DTEND:20261025T001500Z
 SUMMARY:2016 Major: Northern Hockey Club at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #501. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020273
+DESCRIPTION:HSL 2016 Major game #501. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020273
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020288@replay88.github.io
+UID:hsl-2020288@hslstats.ca
 DTSTAMP:20261025T154500Z
 DTSTART:20261025T154500Z
 DTEND:20261025T171500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at O2 Grizzlies
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #516. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020288
+DESCRIPTION:HSL 2016 Major game #516. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020288
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020501@replay88.github.io
+UID:hsl-2020501@hslstats.ca
 DTSTAMP:20261120T204500Z
 DTSTART:20261120T204500Z
 DTEND:20261120T221500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Young Kings Hockey
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Major game #729. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020501
+DESCRIPTION:HSL 2016 Major game #729. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020501
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020535@replay88.github.io
+UID:hsl-2020535@hslstats.ca
 DTSTAMP:20261121T141500Z
 DTSTART:20261121T141500Z
 DTEND:20261121T154500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Major game #763. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020535
+DESCRIPTION:HSL 2016 Major game #763. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020535
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020595@replay88.github.io
+UID:hsl-2020595@hslstats.ca
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2016 Major: Young Kings Hockey at Sauce Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Major game #823. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020595
+DESCRIPTION:HSL 2016 Major game #823. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020595
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020750@replay88.github.io
+UID:hsl-2020750@hslstats.ca
 DTSTAMP:20261206T154500Z
 DTSTART:20261206T154500Z
 DTEND:20261206T171500Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #978. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020750
+DESCRIPTION:HSL 2016 Major game #978. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020750
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020765@replay88.github.io
+UID:hsl-2020765@hslstats.ca
 DTSTAMP:20261206T224500Z
 DTSTART:20261206T224500Z
 DTEND:20261207T001500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #993. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020765
+DESCRIPTION:HSL 2016 Major game #993. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020765
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020867@replay88.github.io
+UID:hsl-2020867@hslstats.ca
 DTSTAMP:20261213T213000Z
 DTSTART:20261213T213000Z
 DTEND:20261213T230000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at Sauce Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1095. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020867
+DESCRIPTION:HSL 2016 Major game #1095. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020867
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020892@replay88.github.io
+UID:hsl-2020892@hslstats.ca
 DTSTAMP:20261219T143000Z
 DTSTART:20261219T143000Z
 DTEND:20261219T160000Z
 SUMMARY:2016 Major: Calgary Crusaders at Sauce Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1120. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020892
+DESCRIPTION:HSL 2016 Major game #1120. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020892
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021194@replay88.github.io
+UID:hsl-2021194@hslstats.ca
 DTSTAMP:20270116T174500Z
 DTSTART:20270116T174500Z
 DTEND:20270116T191500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Spartan Hockey Academy 17M
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1422. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021194
+DESCRIPTION:HSL 2016 Major game #1422. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021194
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021223@replay88.github.io
+UID:hsl-2021223@hslstats.ca
 DTSTAMP:20270116T230000Z
 DTSTART:20270116T230000Z
 DTEND:20270117T003000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1451. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021223
+DESCRIPTION:HSL 2016 Major game #1451. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021223
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021242@replay88.github.io
+UID:hsl-2021242@hslstats.ca
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
 DTEND:20270117T153000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1470. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021242
+DESCRIPTION:HSL 2016 Major game #1470. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021242
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021267@replay88.github.io
+UID:hsl-2021267@hslstats.ca
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
 DTEND:20270117T204500Z
 SUMMARY:2016 Major: Calgary Crusaders at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1495. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021267
+DESCRIPTION:HSL 2016 Major game #1495. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021267
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021386@replay88.github.io
+UID:hsl-2021386@hslstats.ca
 DTSTAMP:20270130T183000Z
 DTSTART:20270130T183000Z
 DTEND:20270130T200000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #1614. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021386
+DESCRIPTION:HSL 2016 Major game #1614. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021386
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021398@replay88.github.io
+UID:hsl-2021398@hslstats.ca
 DTSTAMP:20270131T001500Z
 DTSTART:20270131T001500Z
 DTEND:20270131T014500Z
 SUMMARY:2016 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #1626. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021398
+DESCRIPTION:HSL 2016 Major game #1626. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021398
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021467@replay88.github.io
+UID:hsl-2021467@hslstats.ca
 DTSTAMP:20270206T213000Z
 DTSTART:20270206T213000Z
 DTEND:20270206T230000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Spartan Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Major game #1695. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021467
+DESCRIPTION:HSL 2016 Major game #1695. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021467
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021513@replay88.github.io
+UID:hsl-2021513@hslstats.ca
 DTSTAMP:20270213T003000Z
 DTSTART:20270213T003000Z
 DTEND:20270213T020000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at MOB Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1741. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021513
+DESCRIPTION:HSL 2016 Major game #1741. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021513
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021519@replay88.github.io
+UID:hsl-2021519@hslstats.ca
 DTSTAMP:20270213T141500Z
 DTSTART:20270213T141500Z
 DTEND:20270213T154500Z
 SUMMARY:2016 Major: O2 Grizzlies at Sauce Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1747. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021519
+DESCRIPTION:HSL 2016 Major game #1747. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021519
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021545@replay88.github.io
+UID:hsl-2021545@hslstats.ca
 DTSTAMP:20270213T211500Z
 DTSTART:20270213T211500Z
 DTEND:20270213T224500Z
 SUMMARY:2016 Major: MOB Hockey at Sauce Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1773. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021545
+DESCRIPTION:HSL 2016 Major game #1773. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021545
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021576@replay88.github.io
+UID:hsl-2021576@hslstats.ca
 DTSTAMP:20270214T180000Z
 DTSTART:20270214T180000Z
 DTEND:20270214T193000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1804. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021576
+DESCRIPTION:HSL 2016 Major game #1804. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021576
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021691@replay88.github.io
+UID:hsl-2021691@hslstats.ca
 DTSTAMP:20270226T221500Z
 DTSTART:20270226T221500Z
 DTEND:20270226T234500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1919. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021691
+DESCRIPTION:HSL 2016 Major game #1919. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021691
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021696@replay88.github.io
+UID:hsl-2021696@hslstats.ca
 DTSTAMP:20270227T173000Z
 DTSTART:20270227T173000Z
 DTEND:20270227T190000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Sauce Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1924. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021696
+DESCRIPTION:HSL 2016 Major game #1924. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021696
 END:VEVENT
 END:VCALENDAR

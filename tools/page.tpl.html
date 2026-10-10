@@ -6,10 +6,10 @@
 <meta name="description" content="Points leaders, standings, goalies, scores, schedules and player profiles for every Hockey Super League division.">
 <meta property="og:title" content="HSL Scoring Race">
 <meta property="og:description" content="Points leaders, standings, goalies, scores and schedules for every HSL division. Updates itself after every game.">
-<meta property="og:image" content="https://replay88.github.io/hsl-scoring-race/og.png">
+<meta property="og:image" content="__BASE__og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:url" content="https://replay88.github.io/hsl-scoring-race/">
+<meta property="og:url" content="__BASE__">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 <title>HSL Scoring Race</title>
@@ -325,7 +325,7 @@ function gameCard(dk,gid,extra){
   return `<a class="game" href="${G(dk,gid)}"><span class="t r ${aw?'w':hw?'lo':''}">${logo(g.away)}<span>${esc(g.away)}</span></span><span class="sc"><span class="${aw?'w':'lo'}">${g.vs}</span> – <span class="${hw?'w':'lo'}">${g.hs}</span></span><span class="t ${hw?'w':aw?'lo':''}"><span style="text-align:right">${esc(g.home)}</span>${logo(g.home)}</span><span class="meta"><span>${fmtDay(g.day,1)}${g.time?' · '+esc(g.time):''} · ${g.status==='Final SO'?'Final (SO)':esc(g.status)}</span><span>${esc(g.rink)}</span>${g.shots[g.home]&&g.shots[g.away]?`<span>Shots ${g.shots[g.away].slice(-1)}–${g.shots[g.home].slice(-1)}</span>`:''}</span></a>`;
 }
 const TODAY=new Date().toISOString().slice(0,10);
-const CAL=dk=>`replay88.github.io/hsl-scoring-race/cal/${slug(DIVKEYS[dk])}/`;
+const CAL=dk=>`__SITE__/cal/${slug(DIVKEYS[dk])}/`;
 const calBtn=(dk,file,label)=>`<a class="star" style="display:inline-block;font-family:var(--data);font-size:14px;padding:7px 12px;border:1px solid var(--line);border-radius:6px;background:var(--surface)" href="webcal://${CAL(dk)}${file}.ics">📅 ${label}</a>`;
 function rec(dk,team){const s=DATA[DIVKEYS[dk]].standings.find(x=>x.team===team); return s?{txt:`${s.W}-${s.L}-${s.T}`,rank:DATA[DIVKEYS[dk]].standings.indexOf(s)+1,s}:{txt:'0-0-0',rank:'–'};}
 function h2h(dk,a,b){const D=DATA[DIVKEYS[dk]]; const gs=Object.entries(D.G).filter(([,g])=>(g.home===a&&g.away===b)||(g.home===b&&g.away===a)).sort((x,y)=>y[1].day.localeCompare(x[1].day)); let w=0,l=0,t=0; gs.forEach(([,g])=>{const gf=g.home===a?g.hs:g.vs, ga=g.home===a?g.vs:g.hs; gf>ga?w++:gf<ga?l++:t++;}); return {w,l,t,n:gs.length,last:gs[0]};}
@@ -351,7 +351,7 @@ function recapText(dk){
   const gq=D.goalies.map(q=>{const l=q.log.filter(x=>x[5]&&D.G[x[0]]&&D.G[x[0]].day>=from); const sa=l.reduce((a,x)=>a+x[3],0), sv=l.reduce((a,x)=>a+x[4],0); return {q,sa,sv};}).filter(x=>x.sa>=15).sort((a,b)=>b.sv/b.sa-a.sv/a.sa)[0];
   if(gq){L.push(''); L.push('GOALIE OF THE WEEKEND'); L.push(`  ${gq.q.name} (${short(gq.q.team)}) ${gq.sv}/${gq.sa} saves, .${Math.round(gq.sv/gq.sa*1000)}`);}
   const w=weekendGames(dk); if(w.length){L.push(''); L.push('NEXT UP'); let d2=''; w.forEach(g=>{ if(g.day!==d2){d2=g.day;L.push(fmtDay(d2,1));} L.push(`  ${g.time} ${short(g.away)} at ${short(g.home)}, ${g.loc}`); });}
-  L.push(''); L.push('Full stats: https://replay88.github.io/hsl-scoring-race/#'+dk+'/leaders');
+  L.push(''); L.push('Full stats: __BASE__#'+dk+'/leaders');
   return L.join('\n');
 }
 function recap(dk){

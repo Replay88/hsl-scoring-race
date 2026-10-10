@@ -5,1155 +5,1155 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:HSL 2017 Minor
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019990@replay88.github.io
+UID:hsl-2019990@hslstats.ca
 DTSTAMP:20261002T230000Z
 DTSTART:20261002T230000Z
 DTEND:20261003T003000Z
 SUMMARY:2017 Minor: YYC Jays 7 – Rebels Hockey Academy 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #218. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019990
+DESCRIPTION:HSL 2017 Minor game #218. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2019990
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019993@replay88.github.io
+UID:hsl-2019993@hslstats.ca
 DTSTAMP:20261003T004500Z
 DTSTART:20261003T004500Z
 DTEND:20261003T021500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy 12 – HC Calgary Bandits 3 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #221. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019993
+DESCRIPTION:HSL 2017 Minor game #221. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2019993
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019994@replay88.github.io
+UID:hsl-2019994@hslstats.ca
 DTSTAMP:20261003T004500Z
 DTSTART:20261003T004500Z
 DTEND:20261003T021500Z
 SUMMARY:2017 Minor: Caps Hockey Club 1 – Gorillas Hockey Academy 2 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #222. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019994
+DESCRIPTION:HSL 2017 Minor game #222. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2019994
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019997@replay88.github.io
+UID:hsl-2019997@hslstats.ca
 DTSTAMP:20261003T154500Z
 DTSTART:20261003T154500Z
 DTEND:20261003T171500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy 12 – Riggers Hockey Academy 1 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #225. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019997
+DESCRIPTION:HSL 2017 Minor game #225. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2019997
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020000@replay88.github.io
+UID:hsl-2020000@hslstats.ca
 DTSTAMP:20261003T173000Z
 DTSTART:20261003T173000Z
 DTEND:20261003T190000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy 6 – Bow Valley Jr. Bigfoot 9 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #228. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020000
+DESCRIPTION:HSL 2017 Minor game #228. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020000
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020001@replay88.github.io
+UID:hsl-2020001@hslstats.ca
 DTSTAMP:20261003T173000Z
 DTSTART:20261003T173000Z
 DTEND:20261003T190000Z
 SUMMARY:2017 Minor: Caps Hockey Club 10 – Rebels Hockey Academy 9 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #229. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020001
+DESCRIPTION:HSL 2017 Minor game #229. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020001
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020004@replay88.github.io
+UID:hsl-2020004@hslstats.ca
 DTSTAMP:20261003T191500Z
 DTSTART:20261003T191500Z
 DTEND:20261003T204500Z
 SUMMARY:2017 Minor: YYC Jays 11 – Riggers Hockey Academy 3 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #232. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020004
+DESCRIPTION:HSL 2017 Minor game #232. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020004
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020007@replay88.github.io
+UID:hsl-2020007@hslstats.ca
 DTSTAMP:20261003T210000Z
 DTSTART:20261003T210000Z
 DTEND:20261003T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 13 – HC Calgary Bandits 2 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #235. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020007
+DESCRIPTION:HSL 2017 Minor game #235. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020007
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020008@replay88.github.io
+UID:hsl-2020008@hslstats.ca
 DTSTAMP:20261003T210000Z
 DTSTART:20261003T210000Z
 DTEND:20261003T223000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy 8 – Caps Hockey Club 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #236. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020008
+DESCRIPTION:HSL 2017 Minor game #236. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020008
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020011@replay88.github.io
+UID:hsl-2020011@hslstats.ca
 DTSTAMP:20261003T224500Z
 DTSTART:20261003T224500Z
 DTEND:20261004T001500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy 10 – YYC Jays 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #239. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020011
+DESCRIPTION:HSL 2017 Minor game #239. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020011
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020015@replay88.github.io
+UID:hsl-2020015@hslstats.ca
 DTSTAMP:20261004T003000Z
 DTSTART:20261004T003000Z
 DTEND:20261004T020000Z
 SUMMARY:2017 Minor: HC Calgary Bandits 1 – North Stars Hockey Academy 13 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #243. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020015
+DESCRIPTION:HSL 2017 Minor game #243. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020015
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020019@replay88.github.io
+UID:hsl-2020019@hslstats.ca
 DTSTAMP:20261004T140000Z
 DTSTART:20261004T140000Z
 DTEND:20261004T153000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 4 – North Stars Hockey Academy 3 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #247. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020019
+DESCRIPTION:HSL 2017 Minor game #247. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020019
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020018@replay88.github.io
+UID:hsl-2020018@hslstats.ca
 DTSTAMP:20261004T143000Z
 DTSTART:20261004T143000Z
 DTEND:20261004T160000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy 8 – YYC Jays 6 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #246. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020018
+DESCRIPTION:HSL 2017 Minor game #246. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020018
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020022@replay88.github.io
+UID:hsl-2020022@hslstats.ca
 DTSTAMP:20261004T161500Z
 DTSTART:20261004T161500Z
 DTEND:20261004T174500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy 4 – Gorillas Hockey Academy 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #250. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020022
+DESCRIPTION:HSL 2017 Minor game #250. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020022
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020025@replay88.github.io
+UID:hsl-2020025@hslstats.ca
 DTSTAMP:20261004T180000Z
 DTSTART:20261004T180000Z
 DTEND:20261004T193000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy 2 – Caps Hockey Club 14 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #253. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020025
+DESCRIPTION:HSL 2017 Minor game #253. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020025
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020026@replay88.github.io
+UID:hsl-2020026@hslstats.ca
 DTSTAMP:20261004T190000Z
 DTSTART:20261004T190000Z
 DTEND:20261004T203000Z
 SUMMARY:2017 Minor: HC Calgary Bandits 0 – Bow Valley Jr. Bigfoot 12 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #254. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020026
+DESCRIPTION:HSL 2017 Minor game #254. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020026
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020159@replay88.github.io
+UID:hsl-2020159@hslstats.ca
 DTSTAMP:20261016T220000Z
 DTSTART:20261016T220000Z
 DTEND:20261016T233000Z
 SUMMARY:2017 Minor: YYC Jays at Caps Hockey Club
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #387. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020159
+DESCRIPTION:HSL 2017 Minor game #387. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020159
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020165@replay88.github.io
+UID:hsl-2020165@hslstats.ca
 DTSTAMP:20261016T234500Z
 DTSTART:20261016T234500Z
 DTEND:20261017T011500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #393. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020165
+DESCRIPTION:HSL 2017 Minor game #393. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020165
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020172@replay88.github.io
+UID:hsl-2020172@hslstats.ca
 DTSTAMP:20261017T140000Z
 DTSTART:20261017T140000Z
 DTEND:20261017T153000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Caps Hockey Club
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #400. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020172
+DESCRIPTION:HSL 2017 Minor game #400. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020172
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020174@replay88.github.io
+UID:hsl-2020174@hslstats.ca
 DTSTAMP:20261017T143000Z
 DTSTART:20261017T143000Z
 DTEND:20261017T160000Z
 SUMMARY:2017 Minor: YYC Jays at Riggers Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #402. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020174
+DESCRIPTION:HSL 2017 Minor game #402. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020174
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020175@replay88.github.io
+UID:hsl-2020175@hslstats.ca
 DTSTAMP:20261017T143000Z
 DTSTART:20261017T143000Z
 DTEND:20261017T160000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #403. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020175
+DESCRIPTION:HSL 2017 Minor game #403. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020175
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020186@replay88.github.io
+UID:hsl-2020186@hslstats.ca
 DTSTAMP:20261017T174500Z
 DTSTART:20261017T174500Z
 DTEND:20261017T191500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Gorillas Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #414. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020186
+DESCRIPTION:HSL 2017 Minor game #414. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020186
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020187@replay88.github.io
+UID:hsl-2020187@hslstats.ca
 DTSTAMP:20261017T180000Z
 DTSTART:20261017T180000Z
 DTEND:20261017T193000Z
 SUMMARY:2017 Minor: Caps Hockey Club at YYC Jays
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #415. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020187
+DESCRIPTION:HSL 2017 Minor game #415. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020187
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020188@replay88.github.io
+UID:hsl-2020188@hslstats.ca
 DTSTAMP:20261017T181500Z
 DTSTART:20261017T181500Z
 DTEND:20261017T194500Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #416. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020188
+DESCRIPTION:HSL 2017 Minor game #416. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020188
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020199@replay88.github.io
+UID:hsl-2020199@hslstats.ca
 DTSTAMP:20261017T210000Z
 DTSTART:20261017T210000Z
 DTEND:20261017T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #427. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020199
+DESCRIPTION:HSL 2017 Minor game #427. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020199
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020208@replay88.github.io
+UID:hsl-2020208@hslstats.ca
 DTSTAMP:20261018T001500Z
 DTSTART:20261018T001500Z
 DTEND:20261018T014500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Gorillas Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #436. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020208
+DESCRIPTION:HSL 2017 Minor game #436. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020208
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020214@replay88.github.io
+UID:hsl-2020214@hslstats.ca
 DTSTAMP:20261018T143000Z
 DTSTART:20261018T143000Z
 DTEND:20261018T160000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #442. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020214
+DESCRIPTION:HSL 2017 Minor game #442. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020214
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020215@replay88.github.io
+UID:hsl-2020215@hslstats.ca
 DTSTAMP:20261018T150000Z
 DTSTART:20261018T150000Z
 DTEND:20261018T163000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at YYC Jays
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #443. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020215
+DESCRIPTION:HSL 2017 Minor game #443. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020215
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020220@replay88.github.io
+UID:hsl-2020220@hslstats.ca
 DTSTAMP:20261018T160000Z
 DTSTART:20261018T160000Z
 DTEND:20261018T173000Z
 SUMMARY:2017 Minor: Caps Hockey Club at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #448. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020220
+DESCRIPTION:HSL 2017 Minor game #448. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020220
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020227@replay88.github.io
+UID:hsl-2020227@hslstats.ca
 DTSTAMP:20261018T174500Z
 DTSTART:20261018T174500Z
 DTEND:20261018T191500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #455. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020227
+DESCRIPTION:HSL 2017 Minor game #455. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020227
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020233@replay88.github.io
+UID:hsl-2020233@hslstats.ca
 DTSTAMP:20261018T193000Z
 DTSTART:20261018T193000Z
 DTEND:20261018T210000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #461. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020233
+DESCRIPTION:HSL 2017 Minor game #461. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020233
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020302@replay88.github.io
+UID:hsl-2020302@hslstats.ca
 DTSTAMP:20261025T224500Z
 DTSTART:20261025T224500Z
 DTEND:20261026T001500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #530. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020302
+DESCRIPTION:HSL 2017 Minor game #530. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020302
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020391@replay88.github.io
+UID:hsl-2020391@hslstats.ca
 DTSTAMP:20261106T220000Z
 DTSTART:20261106T220000Z
 DTEND:20261106T233000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #619. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020391
+DESCRIPTION:HSL 2017 Minor game #619. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020391
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020394@replay88.github.io
+UID:hsl-2020394@hslstats.ca
 DTSTAMP:20261106T230000Z
 DTSTART:20261106T230000Z
 DTEND:20261107T003000Z
 SUMMARY:2017 Minor: YYC Jays at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2017 Minor game #622. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020394
+DESCRIPTION:HSL 2017 Minor game #622. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020394
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020395@replay88.github.io
+UID:hsl-2020395@hslstats.ca
 DTSTAMP:20261106T234500Z
 DTSTART:20261106T234500Z
 DTEND:20261107T011500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #623. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020395
+DESCRIPTION:HSL 2017 Minor game #623. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020395
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020401@replay88.github.io
+UID:hsl-2020401@hslstats.ca
 DTSTAMP:20261107T140000Z
 DTSTART:20261107T140000Z
 DTEND:20261107T153000Z
 SUMMARY:2017 Minor: Caps Hockey Club at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #629. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020401
+DESCRIPTION:HSL 2017 Minor game #629. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020401
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020402@replay88.github.io
+UID:hsl-2020402@hslstats.ca
 DTSTAMP:20261107T141500Z
 DTSTART:20261107T141500Z
 DTEND:20261107T154500Z
 SUMMARY:2017 Minor: YYC Jays at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2017 Minor game #630. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020402
+DESCRIPTION:HSL 2017 Minor game #630. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020402
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020405@replay88.github.io
+UID:hsl-2020405@hslstats.ca
 DTSTAMP:20261107T154500Z
 DTSTART:20261107T154500Z
 DTEND:20261107T171500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #633. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020405
+DESCRIPTION:HSL 2017 Minor game #633. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020405
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020410@replay88.github.io
+UID:hsl-2020410@hslstats.ca
 DTSTAMP:20261107T173000Z
 DTSTART:20261107T173000Z
 DTEND:20261107T190000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #638. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020410
+DESCRIPTION:HSL 2017 Minor game #638. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020410
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020413@replay88.github.io
+UID:hsl-2020413@hslstats.ca
 DTSTAMP:20261107T174500Z
 DTSTART:20261107T174500Z
 DTEND:20261107T191500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2017 Minor game #641. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020413
+DESCRIPTION:HSL 2017 Minor game #641. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020413
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020417@replay88.github.io
+UID:hsl-2020417@hslstats.ca
 DTSTAMP:20261107T191500Z
 DTSTART:20261107T191500Z
 DTEND:20261107T204500Z
 SUMMARY:2017 Minor: Caps Hockey Club at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #645. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020417
+DESCRIPTION:HSL 2017 Minor game #645. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020417
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020421@replay88.github.io
+UID:hsl-2020421@hslstats.ca
 DTSTAMP:20261107T210000Z
 DTSTART:20261107T210000Z
 DTEND:20261107T223000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #649. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020421
+DESCRIPTION:HSL 2017 Minor game #649. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020421
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020423@replay88.github.io
+UID:hsl-2020423@hslstats.ca
 DTSTAMP:20261107T211500Z
 DTSTART:20261107T211500Z
 DTEND:20261107T224500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at YYC Jays
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2017 Minor game #651. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020423
+DESCRIPTION:HSL 2017 Minor game #651. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020423
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020435@replay88.github.io
+UID:hsl-2020435@hslstats.ca
 DTSTAMP:20261108T140000Z
 DTSTART:20261108T140000Z
 DTEND:20261108T153000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #663. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020435
+DESCRIPTION:HSL 2017 Minor game #663. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020435
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020437@replay88.github.io
+UID:hsl-2020437@hslstats.ca
 DTSTAMP:20261108T141500Z
 DTSTART:20261108T141500Z
 DTEND:20261108T154500Z
 SUMMARY:2017 Minor: HC Calgary Bandits at YYC Jays
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2017 Minor game #665. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020437
+DESCRIPTION:HSL 2017 Minor game #665. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020437
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020439@replay88.github.io
+UID:hsl-2020439@hslstats.ca
 DTSTAMP:20261108T154500Z
 DTSTART:20261108T154500Z
 DTEND:20261108T171500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #667. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020439
+DESCRIPTION:HSL 2017 Minor game #667. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020439
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020446@replay88.github.io
+UID:hsl-2020446@hslstats.ca
 DTSTAMP:20261108T173000Z
 DTSTART:20261108T173000Z
 DTEND:20261108T190000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #674. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020446
+DESCRIPTION:HSL 2017 Minor game #674. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020446
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020448@replay88.github.io
+UID:hsl-2020448@hslstats.ca
 DTSTAMP:20261108T174500Z
 DTSTART:20261108T174500Z
 DTEND:20261108T191500Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2017 Minor game #676. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020448
+DESCRIPTION:HSL 2017 Minor game #676. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020448
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020521@replay88.github.io
+UID:hsl-2020521@hslstats.ca
 DTSTAMP:20261121T011500Z
 DTSTART:20261121T011500Z
 DTEND:20261121T024500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #749. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020521
+DESCRIPTION:HSL 2017 Minor game #749. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020521
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020540@replay88.github.io
+UID:hsl-2020540@hslstats.ca
 DTSTAMP:20261121T154500Z
 DTSTART:20261121T154500Z
 DTEND:20261121T171500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Minor game #768. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020540
+DESCRIPTION:HSL 2017 Minor game #768. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020540
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020630@replay88.github.io
+UID:hsl-2020630@hslstats.ca
 DTSTAMP:20261122T204500Z
 DTSTART:20261122T204500Z
 DTEND:20261122T221500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at North Stars Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Minor game #858. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020630
+DESCRIPTION:HSL 2017 Minor game #858. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020630
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020693@replay88.github.io
+UID:hsl-2020693@hslstats.ca
 DTSTAMP:20261204T213000Z
 DTSTART:20261204T213000Z
 DTEND:20261204T230000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #921. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020693
+DESCRIPTION:HSL 2017 Minor game #921. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020693
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020697@replay88.github.io
+UID:hsl-2020697@hslstats.ca
 DTSTAMP:20261204T230000Z
 DTSTART:20261204T230000Z
 DTEND:20261205T003000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #925. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020697
+DESCRIPTION:HSL 2017 Minor game #925. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020697
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020698@replay88.github.io
+UID:hsl-2020698@hslstats.ca
 DTSTAMP:20261204T231500Z
 DTSTART:20261204T231500Z
 DTEND:20261205T004500Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Gorillas Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #926. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020698
+DESCRIPTION:HSL 2017 Minor game #926. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020698
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020706@replay88.github.io
+UID:hsl-2020706@hslstats.ca
 DTSTAMP:20261205T140000Z
 DTSTART:20261205T140000Z
 DTEND:20261205T153000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #934. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020706
+DESCRIPTION:HSL 2017 Minor game #934. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020706
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020710@replay88.github.io
+UID:hsl-2020710@hslstats.ca
 DTSTAMP:20261205T154500Z
 DTSTART:20261205T154500Z
 DTEND:20261205T171500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #938. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020710
+DESCRIPTION:HSL 2017 Minor game #938. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020710
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020711@replay88.github.io
+UID:hsl-2020711@hslstats.ca
 DTSTAMP:20261205T154500Z
 DTSTART:20261205T154500Z
 DTEND:20261205T171500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #939. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020711
+DESCRIPTION:HSL 2017 Minor game #939. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020711
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020726@replay88.github.io
+UID:hsl-2020726@hslstats.ca
 DTSTAMP:20261205T210000Z
 DTSTART:20261205T210000Z
 DTEND:20261205T223000Z
 SUMMARY:2017 Minor: Caps Hockey Club at North Stars Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #954. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020726
+DESCRIPTION:HSL 2017 Minor game #954. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020726
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020727@replay88.github.io
+UID:hsl-2020727@hslstats.ca
 DTSTAMP:20261205T210000Z
 DTSTART:20261205T210000Z
 DTEND:20261205T223000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #955. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020727
+DESCRIPTION:HSL 2017 Minor game #955. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020727
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020730@replay88.github.io
+UID:hsl-2020730@hslstats.ca
 DTSTAMP:20261205T224500Z
 DTSTART:20261205T224500Z
 DTEND:20261206T001500Z
 SUMMARY:2017 Minor: YYC Jays at Gorillas Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #958. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020730
+DESCRIPTION:HSL 2017 Minor game #958. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020730
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020736@replay88.github.io
+UID:hsl-2020736@hslstats.ca
 DTSTAMP:20261206T003000Z
 DTSTART:20261206T003000Z
 DTEND:20261206T020000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Caps Hockey Club
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #964. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020736
+DESCRIPTION:HSL 2017 Minor game #964. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020736
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020753@replay88.github.io
+UID:hsl-2020753@hslstats.ca
 DTSTAMP:20261206T173000Z
 DTSTART:20261206T173000Z
 DTEND:20261206T190000Z
 SUMMARY:2017 Minor: Caps Hockey Club at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #981. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020753
+DESCRIPTION:HSL 2017 Minor game #981. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020753
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020758@replay88.github.io
+UID:hsl-2020758@hslstats.ca
 DTSTAMP:20261206T191500Z
 DTSTART:20261206T191500Z
 DTEND:20261206T204500Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #986. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020758
+DESCRIPTION:HSL 2017 Minor game #986. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020758
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020762@replay88.github.io
+UID:hsl-2020762@hslstats.ca
 DTSTAMP:20261206T210000Z
 DTSTART:20261206T210000Z
 DTEND:20261206T223000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at YYC Jays
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #990. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020762
+DESCRIPTION:HSL 2017 Minor game #990. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020762
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020854@replay88.github.io
+UID:hsl-2020854@hslstats.ca
 DTSTAMP:20261213T173000Z
 DTSTART:20261213T173000Z
 DTEND:20261213T190000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1082. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020854
+DESCRIPTION:HSL 2017 Minor game #1082. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020854
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020864@replay88.github.io
+UID:hsl-2020864@hslstats.ca
 DTSTAMP:20261213T210000Z
 DTSTART:20261213T210000Z
 DTEND:20261213T223000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1092. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020864
+DESCRIPTION:HSL 2017 Minor game #1092. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020864
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020868@replay88.github.io
+UID:hsl-2020868@hslstats.ca
 DTSTAMP:20261213T224500Z
 DTSTART:20261213T224500Z
 DTEND:20261214T001500Z
 SUMMARY:2017 Minor: YYC Jays at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Minor game #1096. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020868
+DESCRIPTION:HSL 2017 Minor game #1096. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020868
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020869@replay88.github.io
+UID:hsl-2020869@hslstats.ca
 DTSTAMP:20261218T191500Z
 DTSTART:20261218T191500Z
 DTEND:20261218T204500Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Caps Hockey Club
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2017 Minor game #1097. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020869
+DESCRIPTION:HSL 2017 Minor game #1097. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020869
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020876@replay88.github.io
+UID:hsl-2020876@hslstats.ca
 DTSTAMP:20261218T224500Z
 DTSTART:20261218T224500Z
 DTEND:20261219T001500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2017 Minor game #1104. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020876
+DESCRIPTION:HSL 2017 Minor game #1104. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020876
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020878@replay88.github.io
+UID:hsl-2020878@hslstats.ca
 DTSTAMP:20261218T231500Z
 DTSTART:20261218T231500Z
 DTEND:20261219T004500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2017 Minor game #1106. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020878
+DESCRIPTION:HSL 2017 Minor game #1106. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020878
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020888@replay88.github.io
+UID:hsl-2020888@hslstats.ca
 DTSTAMP:20261219T140000Z
 DTSTART:20261219T140000Z
 DTEND:20261219T153000Z
 SUMMARY:2017 Minor: YYC Jays at Gorillas Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2017 Minor game #1116. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020888
+DESCRIPTION:HSL 2017 Minor game #1116. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020888
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020904@replay88.github.io
+UID:hsl-2020904@hslstats.ca
 DTSTAMP:20261219T173000Z
 DTSTART:20261219T173000Z
 DTEND:20261219T190000Z
 SUMMARY:2017 Minor: YYC Jays at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2017 Minor game #1132. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020904
+DESCRIPTION:HSL 2017 Minor game #1132. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020904
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020919@replay88.github.io
+UID:hsl-2020919@hslstats.ca
 DTSTAMP:20261219T210000Z
 DTSTART:20261219T210000Z
 DTEND:20261219T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Gorillas Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2017 Minor game #1147. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020919
+DESCRIPTION:HSL 2017 Minor game #1147. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020919
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020920@replay88.github.io
+UID:hsl-2020920@hslstats.ca
 DTSTAMP:20261219T210000Z
 DTSTART:20261219T210000Z
 DTEND:20261219T223000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020920
+DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020920
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020928@replay88.github.io
+UID:hsl-2020928@hslstats.ca
 DTSTAMP:20261219T230000Z
 DTSTART:20261219T230000Z
 DTEND:20261220T003000Z
 SUMMARY:2017 Minor: Caps Hockey Club at HC Calgary Bandits
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2017 Minor game #1156. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020928
+DESCRIPTION:HSL 2017 Minor game #1156. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020928
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020945@replay88.github.io
+UID:hsl-2020945@hslstats.ca
 DTSTAMP:20261220T140000Z
 DTSTART:20261220T140000Z
 DTEND:20261220T153000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1173. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020945
+DESCRIPTION:HSL 2017 Minor game #1173. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020945
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020957@replay88.github.io
+UID:hsl-2020957@hslstats.ca
 DTSTAMP:20261220T161500Z
 DTSTART:20261220T161500Z
 DTEND:20261220T174500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2017 Minor game #1185. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020957
+DESCRIPTION:HSL 2017 Minor game #1185. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020957
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020963@replay88.github.io
+UID:hsl-2020963@hslstats.ca
 DTSTAMP:20261220T180000Z
 DTSTART:20261220T180000Z
 DTEND:20261220T193000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1191. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020963
+DESCRIPTION:HSL 2017 Minor game #1191. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020963
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020971@replay88.github.io
+UID:hsl-2020971@hslstats.ca
 DTSTAMP:20261220T194500Z
 DTSTART:20261220T194500Z
 DTEND:20261220T211500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2017 Minor game #1199. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020971
+DESCRIPTION:HSL 2017 Minor game #1199. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020971
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020985@replay88.github.io
+UID:hsl-2020985@hslstats.ca
 DTSTAMP:20270102T143000Z
 DTSTART:20270102T143000Z
 DTEND:20270102T160000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at YYC Jays
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2017 Minor game #1213. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020985
+DESCRIPTION:HSL 2017 Minor game #1213. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020985
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020986@replay88.github.io
+UID:hsl-2020986@hslstats.ca
 DTSTAMP:20270102T144500Z
 DTSTART:20270102T144500Z
 DTEND:20270102T161500Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Caps Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #1214. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020986
+DESCRIPTION:HSL 2017 Minor game #1214. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2020986
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021010@replay88.github.io
+UID:hsl-2021010@hslstats.ca
 DTSTAMP:20270102T213000Z
 DTSTART:20270102T213000Z
 DTEND:20270102T230000Z
 SUMMARY:2017 Minor: YYC Jays at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #1238. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021010
+DESCRIPTION:HSL 2017 Minor game #1238. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021010
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021038@replay88.github.io
+UID:hsl-2021038@hslstats.ca
 DTSTAMP:20270103T154500Z
 DTSTART:20270103T154500Z
 DTEND:20270103T171500Z
 SUMMARY:2017 Minor: Caps Hockey Club at North Stars Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Minor game #1266. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021038
+DESCRIPTION:HSL 2017 Minor game #1266. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021038
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021111@replay88.github.io
+UID:hsl-2021111@hslstats.ca
 DTSTAMP:20270109T211500Z
 DTSTART:20270109T211500Z
 DTEND:20270109T224500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Minor game #1339. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021111
+DESCRIPTION:HSL 2017 Minor game #1339. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021111
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021151@replay88.github.io
+UID:hsl-2021151@hslstats.ca
 DTSTAMP:20270115T221500Z
 DTSTART:20270115T221500Z
 DTEND:20270115T234500Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1379. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021151
+DESCRIPTION:HSL 2017 Minor game #1379. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021151
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021160@replay88.github.io
+UID:hsl-2021160@hslstats.ca
 DTSTAMP:20270116T000000Z
 DTSTART:20270116T000000Z
 DTEND:20270116T013000Z
 SUMMARY:2017 Minor: YYC Jays at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1388. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021160
+DESCRIPTION:HSL 2017 Minor game #1388. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021160
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021176@replay88.github.io
+UID:hsl-2021176@hslstats.ca
 DTSTAMP:20270116T143000Z
 DTSTART:20270116T143000Z
 DTEND:20270116T160000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1404. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021176
+DESCRIPTION:HSL 2017 Minor game #1404. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021176
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021184@replay88.github.io
+UID:hsl-2021184@hslstats.ca
 DTSTAMP:20270116T161500Z
 DTSTART:20270116T161500Z
 DTEND:20270116T174500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at YYC Jays
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1412. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021184
+DESCRIPTION:HSL 2017 Minor game #1412. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021184
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021195@replay88.github.io
+UID:hsl-2021195@hslstats.ca
 DTSTAMP:20270116T180000Z
 DTSTART:20270116T180000Z
 DTEND:20270116T193000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1423. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021195
+DESCRIPTION:HSL 2017 Minor game #1423. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021195
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021204@replay88.github.io
+UID:hsl-2021204@hslstats.ca
 DTSTAMP:20270116T194500Z
 DTSTART:20270116T194500Z
 DTEND:20270116T211500Z
 SUMMARY:2017 Minor: Caps Hockey Club at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1432. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021204
+DESCRIPTION:HSL 2017 Minor game #1432. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021204
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021215@replay88.github.io
+UID:hsl-2021215@hslstats.ca
 DTSTAMP:20270116T213000Z
 DTSTART:20270116T213000Z
 DTEND:20270116T230000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1443. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021215
+DESCRIPTION:HSL 2017 Minor game #1443. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021215
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021224@replay88.github.io
+UID:hsl-2021224@hslstats.ca
 DTSTAMP:20270116T231500Z
 DTSTART:20270116T231500Z
 DTEND:20270117T004500Z
 SUMMARY:2017 Minor: YYC Jays at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1452. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021224
+DESCRIPTION:HSL 2017 Minor game #1452. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021224
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021232@replay88.github.io
+UID:hsl-2021232@hslstats.ca
 DTSTAMP:20270117T010000Z
 DTSTART:20270117T010000Z
 DTEND:20270117T023000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1460. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021232
+DESCRIPTION:HSL 2017 Minor game #1460. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021232
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021240@replay88.github.io
+UID:hsl-2021240@hslstats.ca
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
 DTEND:20270117T153000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1468. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021240
+DESCRIPTION:HSL 2017 Minor game #1468. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021240
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021250@replay88.github.io
+UID:hsl-2021250@hslstats.ca
 DTSTAMP:20270117T154500Z
 DTSTART:20270117T154500Z
 DTEND:20270117T171500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1478. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021250
+DESCRIPTION:HSL 2017 Minor game #1478. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021250
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021258@replay88.github.io
+UID:hsl-2021258@hslstats.ca
 DTSTAMP:20270117T173000Z
 DTSTART:20270117T173000Z
 DTEND:20270117T190000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at YYC Jays
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1486. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021258
+DESCRIPTION:HSL 2017 Minor game #1486. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021258
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021265@replay88.github.io
+UID:hsl-2021265@hslstats.ca
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
 DTEND:20270117T204500Z
 SUMMARY:2017 Minor: Caps Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1493. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021265
+DESCRIPTION:HSL 2017 Minor game #1493. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021265
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021266@replay88.github.io
+UID:hsl-2021266@hslstats.ca
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
 DTEND:20270117T204500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Minor game #1494. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021266
+DESCRIPTION:HSL 2017 Minor game #1494. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021266
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021272@replay88.github.io
+UID:hsl-2021272@hslstats.ca
 DTSTAMP:20270117T210000Z
 DTSTART:20270117T210000Z
 DTEND:20270117T223000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at HC Calgary Bandits
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1500. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021272
+DESCRIPTION:HSL 2017 Minor game #1500. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021272
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021372@replay88.github.io
+UID:hsl-2021372@hslstats.ca
 DTSTAMP:20270129T234500Z
 DTSTART:20270129T234500Z
 DTEND:20270130T011500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1600. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021372
+DESCRIPTION:HSL 2017 Minor game #1600. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021372
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021379@replay88.github.io
+UID:hsl-2021379@hslstats.ca
 DTSTAMP:20270130T154500Z
 DTSTART:20270130T154500Z
 DTEND:20270130T171500Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1607. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021379
+DESCRIPTION:HSL 2017 Minor game #1607. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021379
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021387@replay88.github.io
+UID:hsl-2021387@hslstats.ca
 DTSTAMP:20270130T191500Z
 DTSTART:20270130T191500Z
 DTEND:20270130T204500Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1615. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021387
+DESCRIPTION:HSL 2017 Minor game #1615. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021387
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021396@replay88.github.io
+UID:hsl-2021396@hslstats.ca
 DTSTAMP:20270130T224500Z
 DTSTART:20270130T224500Z
 DTEND:20270131T001500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1624. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021396
+DESCRIPTION:HSL 2017 Minor game #1624. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021396
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021401@replay88.github.io
+UID:hsl-2021401@hslstats.ca
 DTSTAMP:20270131T140000Z
 DTSTART:20270131T140000Z
 DTEND:20270131T153000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1629. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021401
+DESCRIPTION:HSL 2017 Minor game #1629. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021401
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021410@replay88.github.io
+UID:hsl-2021410@hslstats.ca
 DTSTAMP:20270131T173000Z
 DTSTART:20270131T173000Z
 DTEND:20270131T190000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Riggers Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1638. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021410
+DESCRIPTION:HSL 2017 Minor game #1638. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021410
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021419@replay88.github.io
+UID:hsl-2021419@hslstats.ca
 DTSTAMP:20270131T210000Z
 DTSTART:20270131T210000Z
 DTEND:20270131T223000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1647. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021419
+DESCRIPTION:HSL 2017 Minor game #1647. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021419
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021425@replay88.github.io
+UID:hsl-2021425@hslstats.ca
 DTSTAMP:20270205T201500Z
 DTSTART:20270205T201500Z
 DTEND:20270205T214500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Caps Hockey Club
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #1653. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021425
+DESCRIPTION:HSL 2017 Minor game #1653. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021425
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021428@replay88.github.io
+UID:hsl-2021428@hslstats.ca
 DTSTAMP:20270205T220000Z
 DTSTART:20270205T220000Z
 DTEND:20270205T233000Z
 SUMMARY:2017 Minor: YYC Jays at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #1656. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021428
+DESCRIPTION:HSL 2017 Minor game #1656. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021428
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021448@replay88.github.io
+UID:hsl-2021448@hslstats.ca
 DTSTAMP:20270206T161500Z
 DTSTART:20270206T161500Z
 DTEND:20270206T174500Z
 SUMMARY:2017 Minor: YYC Jays at Caps Hockey Club
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #1676. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021448
+DESCRIPTION:HSL 2017 Minor game #1676. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021448
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021461@replay88.github.io
+UID:hsl-2021461@hslstats.ca
 DTSTAMP:20270206T194500Z
 DTSTART:20270206T194500Z
 DTEND:20270206T211500Z
 SUMMARY:2017 Minor: HC Calgary Bandits at YYC Jays
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #1689. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021461
+DESCRIPTION:HSL 2017 Minor game #1689. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021461
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021470@replay88.github.io
+UID:hsl-2021470@hslstats.ca
 DTSTAMP:20270206T223000Z
 DTSTART:20270206T223000Z
 DTEND:20270207T000000Z
 SUMMARY:2017 Minor: Caps Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #1698. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021470
+DESCRIPTION:HSL 2017 Minor game #1698. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021470
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021484@replay88.github.io
+UID:hsl-2021484@hslstats.ca
 DTSTAMP:20270207T153000Z
 DTSTART:20270207T153000Z
 DTEND:20270207T170000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2017 Minor game #1712. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021484
+DESCRIPTION:HSL 2017 Minor game #1712. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021484
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021489@replay88.github.io
+UID:hsl-2021489@hslstats.ca
 DTSTAMP:20270207T170000Z
 DTSTART:20270207T170000Z
 DTEND:20270207T183000Z
 SUMMARY:2017 Minor: Caps Hockey Club at YYC Jays
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #1717. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021489
+DESCRIPTION:HSL 2017 Minor game #1717. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021489
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021577@replay88.github.io
+UID:hsl-2021577@hslstats.ca
 DTSTAMP:20270214T183000Z
 DTSTART:20270214T183000Z
 DTEND:20270214T200000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at YYC Jays
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2017 Minor game #1805. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021577
+DESCRIPTION:HSL 2017 Minor game #1805. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021577
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021591@replay88.github.io
+UID:hsl-2021591@hslstats.ca
 DTSTAMP:20270219T230000Z
 DTSTART:20270219T230000Z
 DTEND:20270220T003000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1819. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021591
+DESCRIPTION:HSL 2017 Minor game #1819. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021591
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021599@replay88.github.io
+UID:hsl-2021599@hslstats.ca
 DTSTAMP:20270220T004500Z
 DTSTART:20270220T004500Z
 DTEND:20270220T021500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1827. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021599
+DESCRIPTION:HSL 2017 Minor game #1827. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021599
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021615@replay88.github.io
+UID:hsl-2021615@hslstats.ca
 DTSTAMP:20270220T160000Z
 DTSTART:20270220T160000Z
 DTEND:20270220T173000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1843. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021615
+DESCRIPTION:HSL 2017 Minor game #1843. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021615
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021624@replay88.github.io
+UID:hsl-2021624@hslstats.ca
 DTSTAMP:20270220T174500Z
 DTSTART:20270220T174500Z
 DTEND:20270220T191500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1852. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021624
+DESCRIPTION:HSL 2017 Minor game #1852. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021624
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021633@replay88.github.io
+UID:hsl-2021633@hslstats.ca
 DTSTAMP:20270220T193000Z
 DTSTART:20270220T193000Z
 DTEND:20270220T210000Z
 SUMMARY:2017 Minor: YYC Jays at North Stars Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Minor game #1861. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021633
+DESCRIPTION:HSL 2017 Minor game #1861. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021633
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021634@replay88.github.io
+UID:hsl-2021634@hslstats.ca
 DTSTAMP:20270220T193000Z
 DTSTART:20270220T193000Z
 DTEND:20270220T210000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1862. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021634
+DESCRIPTION:HSL 2017 Minor game #1862. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021634
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021641@replay88.github.io
+UID:hsl-2021641@hslstats.ca
 DTSTAMP:20270220T211500Z
 DTSTART:20270220T211500Z
 DTEND:20270220T224500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021641
+DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021641
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021649@replay88.github.io
+UID:hsl-2021649@hslstats.ca
 DTSTAMP:20270220T230000Z
 DTSTART:20270220T230000Z
 DTEND:20270221T003000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Minor game #1877. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021649
+DESCRIPTION:HSL 2017 Minor game #1877. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021649
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021650@replay88.github.io
+UID:hsl-2021650@hslstats.ca
 DTSTAMP:20270220T230000Z
 DTSTART:20270220T230000Z
 DTEND:20270221T003000Z
 SUMMARY:2017 Minor: Caps Hockey Club at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1878. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021650
+DESCRIPTION:HSL 2017 Minor game #1878. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021650
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021665@replay88.github.io
+UID:hsl-2021665@hslstats.ca
 DTSTAMP:20270221T150000Z
 DTSTART:20270221T150000Z
 DTEND:20270221T163000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at North Stars Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Minor game #1893. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021665
+DESCRIPTION:HSL 2017 Minor game #1893. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021665
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021666@replay88.github.io
+UID:hsl-2021666@hslstats.ca
 DTSTAMP:20270221T150000Z
 DTSTART:20270221T150000Z
 DTEND:20270221T163000Z
 SUMMARY:2017 Minor: Caps Hockey Club at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1894. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021666
+DESCRIPTION:HSL 2017 Minor game #1894. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021666
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021673@replay88.github.io
+UID:hsl-2021673@hslstats.ca
 DTSTAMP:20270221T164500Z
 DTSTART:20270221T164500Z
 DTEND:20270221T181500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1901. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021673
+DESCRIPTION:HSL 2017 Minor game #1901. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021673
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021682@replay88.github.io
+UID:hsl-2021682@hslstats.ca
 DTSTAMP:20270221T183000Z
 DTSTART:20270221T183000Z
 DTEND:20270221T200000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at YYC Jays
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Minor game #1910. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021682
+DESCRIPTION:HSL 2017 Minor game #1910. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021682
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021683@replay88.github.io
+UID:hsl-2021683@hslstats.ca
 DTSTAMP:20270221T183000Z
 DTSTART:20270221T183000Z
 DTEND:20270221T200000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1911. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021683
+DESCRIPTION:HSL 2017 Minor game #1911. Stats: https://replay88.github.io/hsl-scoring-race/#2017-minor/g/2021683
 END:VEVENT
 END:VCALENDAR

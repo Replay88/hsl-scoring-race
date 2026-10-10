@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:HC Calgary Bandits (2015 AAA)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019783@replay88.github.io
+UID:hsl-2019783@hslstats.ca
 DTSTAMP:20260918T224500Z
 DTSTART:20260918T224500Z
 DTEND:20260919T001500Z
 SUMMARY:2015 AAA: HC Calgary Bandits 5 – Aces Hockey Academy 4 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #11. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019783
+DESCRIPTION:HSL 2015 AAA game #11. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019783
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019815@replay88.github.io
+UID:hsl-2019815@hslstats.ca
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy 4 – HC Calgary Bandits 3 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #43. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019815
+DESCRIPTION:HSL 2015 AAA game #43. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019815
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019832@replay88.github.io
+UID:hsl-2019832@hslstats.ca
 DTSTAMP:20260919T191500Z
 DTSTART:20260919T191500Z
 DTEND:20260919T204500Z
 SUMMARY:2015 AAA: Aces Hockey Academy 5 – HC Calgary Bandits 2 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #60. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019832
+DESCRIPTION:HSL 2015 AAA game #60. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019832
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019873@replay88.github.io
+UID:hsl-2019873@hslstats.ca
 DTSTAMP:20260920T140000Z
 DTSTART:20260920T140000Z
 DTEND:20260920T153000Z
 SUMMARY:2015 AAA: HC Calgary Bandits 6 – North Stars Hockey Academy 8 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #101. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019873
+DESCRIPTION:HSL 2015 AAA game #101. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019873
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020049@replay88.github.io
+UID:hsl-2020049@hslstats.ca
 DTSTAMP:20261010T003000Z
 DTSTART:20261010T003000Z
 DTEND:20261010T020000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) 4 – HC Calgary Bandits 9 (Final)
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 AAA game #277. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020049
+DESCRIPTION:HSL 2015 AAA game #277. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020049
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020061@replay88.github.io
+UID:hsl-2020061@hslstats.ca
 DTSTAMP:20261010T144500Z
 DTSTART:20261010T144500Z
 DTEND:20261010T161500Z
 SUMMARY:2015 AAA: O2 Grizzlies at HC Calgary Bandits
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 AAA game #289. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020061
+DESCRIPTION:HSL 2015 AAA game #289. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020061
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020099@replay88.github.io
+UID:hsl-2020099@hslstats.ca
 DTSTAMP:20261010T214500Z
 DTSTART:20261010T214500Z
 DTEND:20261010T231500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Warriors Hockey Academy (Sask)
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 AAA game #327. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020099
+DESCRIPTION:HSL 2015 AAA game #327. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020099
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020120@replay88.github.io
+UID:hsl-2020120@hslstats.ca
 DTSTAMP:20261011T144500Z
 DTSTART:20261011T144500Z
 DTEND:20261011T161500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at O2 Grizzlies
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 AAA game #348. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020120
+DESCRIPTION:HSL 2015 AAA game #348. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020120
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020240@replay88.github.io
+UID:hsl-2020240@hslstats.ca
 DTSTAMP:20261023T223000Z
 DTSTART:20261023T223000Z
 DTEND:20261024T000000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Saints Pro Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #468. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020240
+DESCRIPTION:HSL 2015 AAA game #468. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020240
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020254@replay88.github.io
+UID:hsl-2020254@hslstats.ca
 DTSTAMP:20261024T154500Z
 DTSTART:20261024T154500Z
 DTEND:20261024T171500Z
 SUMMARY:2015 AAA: Capital City Knights at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #482. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020254
+DESCRIPTION:HSL 2015 AAA game #482. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020254
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020269@replay88.github.io
+UID:hsl-2020269@hslstats.ca
 DTSTAMP:20261024T211500Z
 DTSTART:20261024T211500Z
 DTEND:20261024T224500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Aces Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #497. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020269
+DESCRIPTION:HSL 2015 AAA game #497. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020269
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020298@replay88.github.io
+UID:hsl-2020298@hslstats.ca
 DTSTAMP:20261025T194500Z
 DTSTART:20261025T194500Z
 DTEND:20261025T211500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #526. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020298
+DESCRIPTION:HSL 2015 AAA game #526. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020298
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020505@replay88.github.io
+UID:hsl-2020505@hslstats.ca
 DTSTAMP:20261120T221500Z
 DTSTART:20261120T221500Z
 DTEND:20261120T234500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #733. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020505
+DESCRIPTION:HSL 2015 AAA game #733. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020505
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020526@replay88.github.io
+UID:hsl-2020526@hslstats.ca
 DTSTAMP:20261121T131500Z
 DTSTART:20261121T131500Z
 DTEND:20261121T144500Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #754. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020526
+DESCRIPTION:HSL 2015 AAA game #754. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020526
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020555@replay88.github.io
+UID:hsl-2020555@hslstats.ca
 DTSTAMP:20261121T183000Z
 DTSTART:20261121T183000Z
 DTEND:20261121T200000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #783. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020555
+DESCRIPTION:HSL 2015 AAA game #783. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020555
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020611@replay88.github.io
+UID:hsl-2020611@hslstats.ca
 DTSTAMP:20261122T170000Z
 DTSTART:20261122T170000Z
 DTEND:20261122T183000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Warriors Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #839. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020611
+DESCRIPTION:HSL 2015 AAA game #839. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020611
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020781@replay88.github.io
+UID:hsl-2020781@hslstats.ca
 DTSTAMP:20261212T004500Z
 DTSTART:20261212T004500Z
 DTEND:20261212T021500Z
 SUMMARY:2015 AAA: Queen City Young Guns at HC Calgary Bandits
 LOCATION:Rouleau Skating Arena
-DESCRIPTION:HSL 2015 AAA game #1009. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020781
+DESCRIPTION:HSL 2015 AAA game #1009. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020781
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020812@replay88.github.io
+UID:hsl-2020812@hslstats.ca
 DTSTAMP:20261212T180000Z
 DTSTART:20261212T180000Z
 DTEND:20261212T193000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at HC Calgary Bandits
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1040. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020812
+DESCRIPTION:HSL 2015 AAA game #1040. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020812
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020834@replay88.github.io
+UID:hsl-2020834@hslstats.ca
 DTSTAMP:20261212T231500Z
 DTSTART:20261212T231500Z
 DTEND:20261213T004500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1062. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020834
+DESCRIPTION:HSL 2015 AAA game #1062. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020834
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020844@replay88.github.io
+UID:hsl-2020844@hslstats.ca
 DTSTAMP:20261213T151500Z
 DTSTART:20261213T151500Z
 DTEND:20261213T164500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Warriors Hockey Academy (Sask)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1072. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020844
+DESCRIPTION:HSL 2015 AAA game #1072. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020844
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021044@replay88.github.io
+UID:hsl-2021044@hslstats.ca
 DTSTAMP:20270103T173000Z
 DTSTART:20270103T173000Z
 DTEND:20270103T190000Z
 SUMMARY:2015 AAA: O2 Grizzlies at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 AAA game #1272. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021044
+DESCRIPTION:HSL 2015 AAA game #1272. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021044
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021078@replay88.github.io
+UID:hsl-2021078@hslstats.ca
 DTSTAMP:20270108T233000Z
 DTSTART:20270108T233000Z
 DTEND:20270109T010000Z
 SUMMARY:2015 AAA: Spartan Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1306. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021078
+DESCRIPTION:HSL 2015 AAA game #1306. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021078
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021094@replay88.github.io
+UID:hsl-2021094@hslstats.ca
 DTSTAMP:20270109T160000Z
 DTSTART:20270109T160000Z
 DTEND:20270109T173000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1322. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021094
+DESCRIPTION:HSL 2015 AAA game #1322. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021094
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021117@replay88.github.io
+UID:hsl-2021117@hslstats.ca
 DTSTAMP:20270109T230000Z
 DTSTART:20270109T230000Z
 DTEND:20270110T003000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1345. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021117
+DESCRIPTION:HSL 2015 AAA game #1345. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021117
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021141@replay88.github.io
+UID:hsl-2021141@hslstats.ca
 DTSTAMP:20270110T191500Z
 DTSTART:20270110T191500Z
 DTEND:20270110T204500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Warriors Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1369. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021141
+DESCRIPTION:HSL 2015 AAA game #1369. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021141
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021316@replay88.github.io
+UID:hsl-2021316@hslstats.ca
 DTSTAMP:20270123T173000Z
 DTSTART:20270123T173000Z
 DTEND:20270123T190000Z
 SUMMARY:2015 AAA: Spartan Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1544. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021316
+DESCRIPTION:HSL 2015 AAA game #1544. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021316
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021359@replay88.github.io
+UID:hsl-2021359@hslstats.ca
 DTSTAMP:20270124T161500Z
 DTSTART:20270124T161500Z
 DTEND:20270124T174500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1587. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021359
+DESCRIPTION:HSL 2015 AAA game #1587. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021359
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021364@replay88.github.io
+UID:hsl-2021364@hslstats.ca
 DTSTAMP:20270124T194500Z
 DTSTART:20270124T194500Z
 DTEND:20270124T211500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at O2 Grizzlies
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1592. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021364
+DESCRIPTION:HSL 2015 AAA game #1592. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021364
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021517@replay88.github.io
+UID:hsl-2021517@hslstats.ca
 DTSTAMP:20270213T010000Z
 DTSTART:20270213T010000Z
 DTEND:20270213T023000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at HC Calgary Bandits
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1745. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021517
+DESCRIPTION:HSL 2015 AAA game #1745. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021517
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021522@replay88.github.io
+UID:hsl-2021522@hslstats.ca
 DTSTAMP:20270213T153000Z
 DTSTART:20270213T153000Z
 DTEND:20270213T170000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1750. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021522
+DESCRIPTION:HSL 2015 AAA game #1750. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021522
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021553@replay88.github.io
+UID:hsl-2021553@hslstats.ca
 DTSTAMP:20270213T234500Z
 DTSTART:20270213T234500Z
 DTEND:20270214T011500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1781. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021553
+DESCRIPTION:HSL 2015 AAA game #1781. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021553
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021565@replay88.github.io
+UID:hsl-2021565@hslstats.ca
 DTSTAMP:20270214T153000Z
 DTSTART:20270214T153000Z
 DTEND:20270214T170000Z
 SUMMARY:2015 AAA: Capital City Knights at HC Calgary Bandits
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1793. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021565
+DESCRIPTION:HSL 2015 AAA game #1793. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021565
 END:VEVENT
 END:VCALENDAR

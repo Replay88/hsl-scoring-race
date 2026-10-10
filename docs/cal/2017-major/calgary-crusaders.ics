@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Calgary Crusaders (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019777@replay88.github.io
+UID:hsl-2019777@hslstats.ca
 DTSTAMP:20260918T214500Z
 DTSTART:20260918T214500Z
 DTEND:20260918T231500Z
 SUMMARY:2017 Major: MOB Hockey 3 – Calgary Crusaders 8 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #5. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019777
+DESCRIPTION:HSL 2017 Major game #5. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019777
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019806@replay88.github.io
+UID:hsl-2019806@hslstats.ca
 DTSTAMP:20260919T141500Z
 DTSTART:20260919T141500Z
 DTEND:20260919T154500Z
 SUMMARY:2017 Major: Calgary Crusaders 6 – Aces Hockey Academy 8 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #34. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019806
+DESCRIPTION:HSL 2017 Major game #34. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019806
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019837@replay88.github.io
+UID:hsl-2019837@hslstats.ca
 DTSTAMP:20260919T193000Z
 DTSTART:20260919T193000Z
 DTEND:20260919T210000Z
 SUMMARY:2017 Major: Calgary Crusaders 4 – MOB Hockey 9 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #65. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019837
+DESCRIPTION:HSL 2017 Major game #65. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019837
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019895@replay88.github.io
+UID:hsl-2019895@hslstats.ca
 DTSTAMP:20260920T174500Z
 DTSTART:20260920T174500Z
 DTEND:20260920T191500Z
 SUMMARY:2017 Major: North Stars Academy Wild 1 – Calgary Crusaders 12 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #123. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019895
+DESCRIPTION:HSL 2017 Major game #123. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019895
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020085@replay88.github.io
+UID:hsl-2020085@hslstats.ca
 DTSTAMP:20261010T193000Z
 DTSTART:20261010T193000Z
 DTEND:20261010T210000Z
 SUMMARY:2017 Major: Calgary Crusaders at Stars Hockey Academy
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #313. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020085
+DESCRIPTION:HSL 2017 Major game #313. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020085
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020106@replay88.github.io
+UID:hsl-2020106@hslstats.ca
 DTSTAMP:20261010T230000Z
 DTSTART:20261010T230000Z
 DTEND:20261011T003000Z
 SUMMARY:2017 Major: Young Kings Hockey at Calgary Crusaders
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #334. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020106
+DESCRIPTION:HSL 2017 Major game #334. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020106
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020123@replay88.github.io
+UID:hsl-2020123@hslstats.ca
 DTSTAMP:20261011T150000Z
 DTSTART:20261011T150000Z
 DTEND:20261011T163000Z
 SUMMARY:2017 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #351. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020123
+DESCRIPTION:HSL 2017 Major game #351. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020123
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020140@replay88.github.io
+UID:hsl-2020140@hslstats.ca
 DTSTAMP:20261011T183000Z
 DTSTART:20261011T183000Z
 DTEND:20261011T200000Z
 SUMMARY:2017 Major: Stars Hockey Academy at Calgary Crusaders
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #368. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020140
+DESCRIPTION:HSL 2017 Major game #368. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020140
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020304@replay88.github.io
+UID:hsl-2020304@hslstats.ca
 DTSTAMP:20261030T154500Z
 DTSTART:20261030T154500Z
 DTEND:20261030T171500Z
 SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #532. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020304
+DESCRIPTION:HSL 2017 Major game #532. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020304
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020318@replay88.github.io
+UID:hsl-2020318@hslstats.ca
 DTSTAMP:20261031T003000Z
 DTSTART:20261031T003000Z
 DTEND:20261031T020000Z
 SUMMARY:2017 Major: Calgary Crusaders at Vipers Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #546. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020318
+DESCRIPTION:HSL 2017 Major game #546. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020318
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020352@replay88.github.io
+UID:hsl-2020352@hslstats.ca
 DTSTAMP:20261031T210000Z
 DTSTART:20261031T210000Z
 DTEND:20261031T223000Z
 SUMMARY:2017 Major: Calgary Crusaders at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #580. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020352
+DESCRIPTION:HSL 2017 Major game #580. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020352
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020360@replay88.github.io
+UID:hsl-2020360@hslstats.ca
 DTSTAMP:20261101T144500Z
 DTSTART:20261101T144500Z
 DTEND:20261101T161500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Calgary Crusaders
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #588. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020360
+DESCRIPTION:HSL 2017 Major game #588. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020360
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020548@replay88.github.io
+UID:hsl-2020548@hslstats.ca
 DTSTAMP:20261121T170000Z
 DTSTART:20261121T170000Z
 DTEND:20261121T183000Z
 SUMMARY:2017 Major: South Sask Academy at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #776. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020548
+DESCRIPTION:HSL 2017 Major game #776. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020548
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020580@replay88.github.io
+UID:hsl-2020580@hslstats.ca
 DTSTAMP:20261122T000000Z
 DTSTART:20261122T000000Z
 DTEND:20261122T013000Z
 SUMMARY:2017 Major: Queen City Young Guns at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #808. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020580
+DESCRIPTION:HSL 2017 Major game #808. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020580
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020601@replay88.github.io
+UID:hsl-2020601@hslstats.ca
 DTSTAMP:20261122T151500Z
 DTSTART:20261122T151500Z
 DTEND:20261122T164500Z
 SUMMARY:2017 Major: Calgary Crusaders at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #829. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020601
+DESCRIPTION:HSL 2017 Major game #829. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020601
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020619@replay88.github.io
+UID:hsl-2020619@hslstats.ca
 DTSTAMP:20261122T184500Z
 DTSTART:20261122T184500Z
 DTEND:20261122T201500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #847. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020619
+DESCRIPTION:HSL 2017 Major game #847. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020619
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020807@replay88.github.io
+UID:hsl-2020807@hslstats.ca
 DTSTAMP:20261212T181500Z
 DTSTART:20261212T181500Z
 DTEND:20261212T194500Z
 SUMMARY:2017 Major: Calgary Crusaders at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1035. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020807
+DESCRIPTION:HSL 2017 Major game #1035. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020807
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020830@replay88.github.io
+UID:hsl-2020830@hslstats.ca
 DTSTAMP:20261212T233000Z
 DTSTART:20261212T233000Z
 DTEND:20261213T010000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1058. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020830
+DESCRIPTION:HSL 2017 Major game #1058. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020830
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020840@replay88.github.io
+UID:hsl-2020840@hslstats.ca
 DTSTAMP:20261213T140000Z
 DTSTART:20261213T140000Z
 DTEND:20261213T153000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1068. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020840
+DESCRIPTION:HSL 2017 Major game #1068. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020840
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020924@replay88.github.io
+UID:hsl-2020924@hslstats.ca
 DTSTAMP:20261219T223000Z
 DTSTART:20261219T223000Z
 DTEND:20261220T000000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2017 Major game #1152. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020924
+DESCRIPTION:HSL 2017 Major game #1152. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020924
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021208@replay88.github.io
+UID:hsl-2021208@hslstats.ca
 DTSTAMP:20270116T201500Z
 DTSTART:20270116T201500Z
 DTEND:20270116T214500Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1436. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021208
+DESCRIPTION:HSL 2017 Major game #1436. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021208
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021230@replay88.github.io
+UID:hsl-2021230@hslstats.ca
 DTSTAMP:20270116T234500Z
 DTSTART:20270116T234500Z
 DTEND:20270117T011500Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1458. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021230
+DESCRIPTION:HSL 2017 Major game #1458. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021230
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021236@replay88.github.io
+UID:hsl-2021236@hslstats.ca
 DTSTAMP:20270117T133000Z
 DTSTART:20270117T133000Z
 DTEND:20270117T150000Z
 SUMMARY:2017 Major: Calgary Crusaders at South Sask Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1464. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021236
+DESCRIPTION:HSL 2017 Major game #1464. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021236
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021254@replay88.github.io
+UID:hsl-2021254@hslstats.ca
 DTSTAMP:20270117T170000Z
 DTSTART:20270117T170000Z
 DTEND:20270117T183000Z
 SUMMARY:2017 Major: Calgary Crusaders at Gorillas Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1482. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021254
+DESCRIPTION:HSL 2017 Major game #1482. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021254
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021432@replay88.github.io
+UID:hsl-2021432@hslstats.ca
 DTSTAMP:20270205T230000Z
 DTSTART:20270205T230000Z
 DTEND:20270206T003000Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1660. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021432
+DESCRIPTION:HSL 2017 Major game #1660. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021432
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021445@replay88.github.io
+UID:hsl-2021445@hslstats.ca
 DTSTAMP:20270206T150000Z
 DTSTART:20270206T150000Z
 DTEND:20270206T163000Z
 SUMMARY:2017 Major: Calgary Crusaders at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1673. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021445
+DESCRIPTION:HSL 2017 Major game #1673. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021445
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021469@replay88.github.io
+UID:hsl-2021469@hslstats.ca
 DTSTAMP:20270206T220000Z
 DTSTART:20270206T220000Z
 DTEND:20270206T233000Z
 SUMMARY:2017 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1697. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021469
+DESCRIPTION:HSL 2017 Major game #1697. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021469
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021487@replay88.github.io
+UID:hsl-2021487@hslstats.ca
 DTSTAMP:20270207T154500Z
 DTSTART:20270207T154500Z
 DTEND:20270207T171500Z
 SUMMARY:2017 Major: Young Kings Hockey at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1715. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021487
+DESCRIPTION:HSL 2017 Major game #1715. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021487
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021593@replay88.github.io
+UID:hsl-2021593@hslstats.ca
 DTSTAMP:20270219T230000Z
 DTSTART:20270219T230000Z
 DTEND:20270220T003000Z
 SUMMARY:2017 Major: Calgary Crusaders at Stars Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1821. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021593
+DESCRIPTION:HSL 2017 Major game #1821. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021593
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021622@replay88.github.io
+UID:hsl-2021622@hslstats.ca
 DTSTAMP:20270220T173000Z
 DTSTART:20270220T173000Z
 DTEND:20270220T190000Z
 SUMMARY:2017 Major: Calgary Crusaders at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1850. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021622
+DESCRIPTION:HSL 2017 Major game #1850. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021622
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021639@replay88.github.io
+UID:hsl-2021639@hslstats.ca
 DTSTAMP:20270220T210000Z
 DTSTART:20270220T210000Z
 DTEND:20270220T223000Z
 SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1867. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021639
+DESCRIPTION:HSL 2017 Major game #1867. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021639
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021677@replay88.github.io
+UID:hsl-2021677@hslstats.ca
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
 DTEND:20270221T190000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1905. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021677
+DESCRIPTION:HSL 2017 Major game #1905. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021677
 END:VEVENT
 END:VCALENDAR

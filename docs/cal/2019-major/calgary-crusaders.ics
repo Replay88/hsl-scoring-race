@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Calgary Crusaders (2019 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019922@replay88.github.io
+UID:hsl-2019922@hslstats.ca
 DTSTAMP:20260925T234500Z
 DTSTART:20260925T234500Z
 DTEND:20260926T011500Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy 2 – Calgary Crusaders 15 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2019 Major game #150. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019922
+DESCRIPTION:HSL 2019 Major game #150. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019922
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019947@replay88.github.io
+UID:hsl-2019947@hslstats.ca
 DTSTAMP:20260926T200000Z
 DTSTART:20260926T200000Z
 DTEND:20260926T213000Z
 SUMMARY:2019 Major: Young Kings Hockey 5 – Calgary Crusaders 6 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2019 Major game #175. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019947
+DESCRIPTION:HSL 2019 Major game #175. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019947
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019961@replay88.github.io
+UID:hsl-2019961@hslstats.ca
 DTSTAMP:20260927T010000Z
 DTSTART:20260927T010000Z
 DTEND:20260927T023000Z
 SUMMARY:2019 Major: Calgary Crusaders 11 – Saints Pro Hockey Academy 1 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2019 Major game #189. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019961
+DESCRIPTION:HSL 2019 Major game #189. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019961
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019987@replay88.github.io
+UID:hsl-2019987@hslstats.ca
 DTSTAMP:20260927T204500Z
 DTSTART:20260927T204500Z
 DTEND:20260927T221500Z
 SUMMARY:2019 Major: Calgary Crusaders 7 – Young Kings Hockey 2 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2019 Major game #215. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2019987
+DESCRIPTION:HSL 2019 Major game #215. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019987
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020161@replay88.github.io
+UID:hsl-2020161@hslstats.ca
 DTSTAMP:20261016T221500Z
 DTSTART:20261016T221500Z
 DTEND:20261016T234500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #389. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020161
+DESCRIPTION:HSL 2019 Major game #389. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020161
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020177@replay88.github.io
+UID:hsl-2020177@hslstats.ca
 DTSTAMP:20261017T153000Z
 DTSTART:20261017T153000Z
 DTEND:20261017T170000Z
 SUMMARY:2019 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #405. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020177
+DESCRIPTION:HSL 2019 Major game #405. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020177
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020190@replay88.github.io
+UID:hsl-2020190@hslstats.ca
 DTSTAMP:20261017T183000Z
 DTSTART:20261017T183000Z
 DTEND:20261017T200000Z
 SUMMARY:2019 Major: Calgary Crusaders at Capital City Knights
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #418. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020190
+DESCRIPTION:HSL 2019 Major game #418. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020190
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020230@replay88.github.io
+UID:hsl-2020230@hslstats.ca
 DTSTAMP:20261018T183000Z
 DTSTART:20261018T183000Z
 DTEND:20261018T200000Z
 SUMMARY:2019 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #458. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020230
+DESCRIPTION:HSL 2019 Major game #458. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020230
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020473@replay88.github.io
+UID:hsl-2020473@hslstats.ca
 DTSTAMP:20261114T161500Z
 DTSTART:20261114T161500Z
 DTEND:20261114T174500Z
 SUMMARY:2019 Major: Stars Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #701. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020473
+DESCRIPTION:HSL 2019 Major game #701. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020473
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020477@replay88.github.io
+UID:hsl-2020477@hslstats.ca
 DTSTAMP:20261114T191500Z
 DTSTART:20261114T191500Z
 DTEND:20261114T204500Z
 SUMMARY:2019 Major: Young Kings Hockey at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #705. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020477
+DESCRIPTION:HSL 2019 Major game #705. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020477
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020491@replay88.github.io
+UID:hsl-2020491@hslstats.ca
 DTSTAMP:20261115T163000Z
 DTSTART:20261115T163000Z
 DTEND:20261115T180000Z
 SUMMARY:2019 Major: Calgary Crusaders at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #719. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020491
+DESCRIPTION:HSL 2019 Major game #719. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020491
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020494@replay88.github.io
+UID:hsl-2020494@hslstats.ca
 DTSTAMP:20261115T193000Z
 DTSTART:20261115T193000Z
 DTEND:20261115T210000Z
 SUMMARY:2019 Major: Calgary Crusaders at Stars Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #722. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020494
+DESCRIPTION:HSL 2019 Major game #722. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020494
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020497@replay88.github.io
+UID:hsl-2020497@hslstats.ca
 DTSTAMP:20261120T191500Z
 DTSTART:20261120T191500Z
 DTEND:20261120T204500Z
 SUMMARY:2019 Major: Calgary Crusaders at Rebels Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2019 Major game #725. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020497
+DESCRIPTION:HSL 2019 Major game #725. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020497
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020539@replay88.github.io
+UID:hsl-2020539@hslstats.ca
 DTSTAMP:20261121T153000Z
 DTSTART:20261121T153000Z
 DTEND:20261121T170000Z
 SUMMARY:2019 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2019 Major game #767. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020539
+DESCRIPTION:HSL 2019 Major game #767. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020539
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020589@replay88.github.io
+UID:hsl-2020589@hslstats.ca
 DTSTAMP:20261122T013000Z
 DTSTART:20261122T013000Z
 DTEND:20261122T030000Z
 SUMMARY:2019 Major: Rebels Hockey Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2019 Major game #817. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020589
+DESCRIPTION:HSL 2019 Major game #817. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020589
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020763@replay88.github.io
+UID:hsl-2020763@hslstats.ca
 DTSTAMP:20261206T210000Z
 DTSTART:20261206T210000Z
 DTEND:20261206T223000Z
 SUMMARY:2019 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2019 Major game #991. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020763
+DESCRIPTION:HSL 2019 Major game #991. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020763
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020859@replay88.github.io
+UID:hsl-2020859@hslstats.ca
 DTSTAMP:20261213T180000Z
 DTSTART:20261213T180000Z
 DTEND:20261213T193000Z
 SUMMARY:2019 Major: Stars Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1087. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020859
+DESCRIPTION:HSL 2019 Major game #1087. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020859
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020879@replay88.github.io
+UID:hsl-2020879@hslstats.ca
 DTSTAMP:20261218T233000Z
 DTSTART:20261218T233000Z
 DTEND:20261219T010000Z
 SUMMARY:2019 Major: Capital City Knights at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1107. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020879
+DESCRIPTION:HSL 2019 Major game #1107. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020879
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020903@replay88.github.io
+UID:hsl-2020903@hslstats.ca
 DTSTAMP:20261219T163000Z
 DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2019 Major: MOB Hockey at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1131. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020903
+DESCRIPTION:HSL 2019 Major game #1131. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020903
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020925@replay88.github.io
+UID:hsl-2020925@hslstats.ca
 DTSTAMP:20261219T224500Z
 DTSTART:20261219T224500Z
 DTEND:20261220T001500Z
 SUMMARY:2019 Major: Calgary Crusaders at Rebels Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1153. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020925
+DESCRIPTION:HSL 2019 Major game #1153. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020925
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020973@replay88.github.io
+UID:hsl-2020973@hslstats.ca
 DTSTAMP:20261220T203000Z
 DTSTART:20261220T203000Z
 DTEND:20261220T220000Z
 SUMMARY:2019 Major: Calgary Crusaders at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1201. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020973
+DESCRIPTION:HSL 2019 Major game #1201. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020973
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020991@replay88.github.io
+UID:hsl-2020991@hslstats.ca
 DTSTAMP:20270102T163000Z
 DTSTART:20270102T163000Z
 DTEND:20270102T180000Z
 SUMMARY:2019 Major: Calgary Crusaders at Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1219. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2020991
+DESCRIPTION:HSL 2019 Major game #1219. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020991
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021003@replay88.github.io
+UID:hsl-2021003@hslstats.ca
 DTSTAMP:20270102T194500Z
 DTSTART:20270102T194500Z
 DTEND:20270102T211500Z
 SUMMARY:2019 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1231. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021003
+DESCRIPTION:HSL 2019 Major game #1231. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021003
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021158@replay88.github.io
+UID:hsl-2021158@hslstats.ca
 DTSTAMP:20270115T234500Z
 DTSTART:20270115T234500Z
 DTEND:20270116T011500Z
 SUMMARY:2019 Major: Calgary Crusaders at MOB Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1386. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021158
+DESCRIPTION:HSL 2019 Major game #1386. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021158
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021174@replay88.github.io
+UID:hsl-2021174@hslstats.ca
 DTSTAMP:20270116T140000Z
 DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1402. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021174
+DESCRIPTION:HSL 2019 Major game #1402. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021174
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021219@replay88.github.io
+UID:hsl-2021219@hslstats.ca
 DTSTAMP:20270116T214500Z
 DTSTART:20270116T214500Z
 DTEND:20270116T231500Z
 SUMMARY:2019 Major: MOB Hockey at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1447. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021219
+DESCRIPTION:HSL 2019 Major game #1447. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021219
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021264@replay88.github.io
+UID:hsl-2021264@hslstats.ca
 DTSTAMP:20270117T184500Z
 DTSTART:20270117T184500Z
 DTEND:20270117T201500Z
 SUMMARY:2019 Major: Calgary Crusaders at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1492. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021264
+DESCRIPTION:HSL 2019 Major game #1492. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021264
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021458@replay88.github.io
+UID:hsl-2021458@hslstats.ca
 DTSTAMP:20270206T183000Z
 DTSTART:20270206T183000Z
 DTEND:20270206T200000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2019 Major game #1686. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021458
+DESCRIPTION:HSL 2019 Major game #1686. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021458
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021521@replay88.github.io
+UID:hsl-2021521@hslstats.ca
 DTSTAMP:20270213T143000Z
 DTSTART:20270213T143000Z
 DTEND:20270213T160000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1749. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021521
+DESCRIPTION:HSL 2019 Major game #1749. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021521
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021550@replay88.github.io
+UID:hsl-2021550@hslstats.ca
 DTSTAMP:20270213T230000Z
 DTSTART:20270213T230000Z
 DTEND:20270214T003000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1778. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021550
+DESCRIPTION:HSL 2019 Major game #1778. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021550
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021569@replay88.github.io
+UID:hsl-2021569@hslstats.ca
 DTSTAMP:20270214T161500Z
 DTSTART:20270214T161500Z
 DTEND:20270214T174500Z
 SUMMARY:2019 Major: Calgary Crusaders at Saints Pro Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1797. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021569
+DESCRIPTION:HSL 2019 Major game #1797. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021569
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021595@replay88.github.io
+UID:hsl-2021595@hslstats.ca
 DTSTAMP:20270219T231500Z
 DTSTART:20270219T231500Z
 DTEND:20270220T004500Z
 SUMMARY:2019 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2019 Major game #1823. Stats: https://replay88.github.io/hsl-scoring-race/#2019/g/2021595
+DESCRIPTION:HSL 2019 Major game #1823. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021595
 END:VEVENT
 END:VCALENDAR

@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Northern Hockey Club (2016 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019784@replay88.github.io
+UID:hsl-2019784@hslstats.ca
 DTSTAMP:20260918T224500Z
 DTSTART:20260918T224500Z
 DTEND:20260919T001500Z
 SUMMARY:2016 Major: Northern Hockey Club 4 – Caps Hockey Club 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #12. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019784
+DESCRIPTION:HSL 2016 Major game #12. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019784
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019820@replay88.github.io
+UID:hsl-2019820@hslstats.ca
 DTSTAMP:20260919T163000Z
 DTSTART:20260919T163000Z
 DTEND:20260919T180000Z
 SUMMARY:2016 Major: Rebels Hockey Academy 7 – Northern Hockey Club 2 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #48. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019820
+DESCRIPTION:HSL 2016 Major game #48. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019820
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019839@replay88.github.io
+UID:hsl-2019839@hslstats.ca
 DTSTAMP:20260919T200000Z
 DTSTART:20260919T200000Z
 DTEND:20260919T213000Z
 SUMMARY:2016 Major: Caps Hockey Club 5 – Northern Hockey Club 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #67. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019839
+DESCRIPTION:HSL 2016 Major game #67. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019839
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019888@replay88.github.io
+UID:hsl-2019888@hslstats.ca
 DTSTAMP:20260920T163000Z
 DTSTART:20260920T163000Z
 DTEND:20260920T180000Z
 SUMMARY:2016 Major: Northern Hockey Club 4 – Rebels Hockey Academy 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #116. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019888
+DESCRIPTION:HSL 2016 Major game #116. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019888
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020029@replay88.github.io
+UID:hsl-2020029@hslstats.ca
 DTSTAMP:20261009T173000Z
 DTSTART:20261009T173000Z
 DTEND:20261009T190000Z
 SUMMARY:2016 Major: Young Kings Hockey 4 – Northern Hockey Club 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #257. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020029
+DESCRIPTION:HSL 2016 Major game #257. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020029
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020040@replay88.github.io
+UID:hsl-2020040@hslstats.ca
 DTSTAMP:20261009T224500Z
 DTSTART:20261009T224500Z
 DTEND:20261010T001500Z
 SUMMARY:2016 Major: Northern Hockey Club 7 – MOB Hockey 6 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #268. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020040
+DESCRIPTION:HSL 2016 Major game #268. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020040
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020089@replay88.github.io
+UID:hsl-2020089@hslstats.ca
 DTSTAMP:20261010T200000Z
 DTSTART:20261010T200000Z
 DTEND:20261010T213000Z
 SUMMARY:2016 Major: MOB Hockey at Northern Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #317. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020089
+DESCRIPTION:HSL 2016 Major game #317. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020089
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020108@replay88.github.io
+UID:hsl-2020108@hslstats.ca
 DTSTAMP:20261010T233000Z
 DTSTART:20261010T233000Z
 DTEND:20261011T010000Z
 SUMMARY:2016 Major: Northern Hockey Club at Gorillas Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #336. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020108
+DESCRIPTION:HSL 2016 Major game #336. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020108
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020245@replay88.github.io
+UID:hsl-2020245@hslstats.ca
 DTSTAMP:20261024T004500Z
 DTSTART:20261024T004500Z
 DTEND:20261024T021500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Northern Hockey Club
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #473. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020245
+DESCRIPTION:HSL 2016 Major game #473. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020245
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020261@replay88.github.io
+UID:hsl-2020261@hslstats.ca
 DTSTAMP:20261024T173000Z
 DTSTART:20261024T173000Z
 DTEND:20261024T190000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at Northern Hockey Club
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #489. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020261
+DESCRIPTION:HSL 2016 Major game #489. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020261
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020273@replay88.github.io
+UID:hsl-2020273@hslstats.ca
 DTSTAMP:20261024T224500Z
 DTSTART:20261024T224500Z
 DTEND:20261025T001500Z
 SUMMARY:2016 Major: Northern Hockey Club at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #501. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020273
+DESCRIPTION:HSL 2016 Major game #501. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020273
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020292@replay88.github.io
+UID:hsl-2020292@hslstats.ca
 DTSTAMP:20261025T173000Z
 DTSTART:20261025T173000Z
 DTEND:20261025T190000Z
 SUMMARY:2016 Major: Northern Hockey Club at Spartan Hockey Academy 17M
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #520. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020292
+DESCRIPTION:HSL 2016 Major game #520. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020292
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020500@replay88.github.io
+UID:hsl-2020500@hslstats.ca
 DTSTAMP:20261120T203000Z
 DTSTART:20261120T203000Z
 DTEND:20261120T220000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #728. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020500
+DESCRIPTION:HSL 2016 Major game #728. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020500
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020542@replay88.github.io
+UID:hsl-2020542@hslstats.ca
 DTSTAMP:20261121T154500Z
 DTSTART:20261121T154500Z
 DTEND:20261121T171500Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Northern Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #770. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020542
+DESCRIPTION:HSL 2016 Major game #770. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020542
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020567@replay88.github.io
+UID:hsl-2020567@hslstats.ca
 DTSTAMP:20261121T210000Z
 DTSTART:20261121T210000Z
 DTEND:20261121T223000Z
 SUMMARY:2016 Major: Northern Hockey Club at Spartan Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #795. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020567
+DESCRIPTION:HSL 2016 Major game #795. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020567
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020597@replay88.github.io
+UID:hsl-2020597@hslstats.ca
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2016 Major: Northern Hockey Club at Warriors Hockey Academy (Sask)
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #825. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020597
+DESCRIPTION:HSL 2016 Major game #825. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020597
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020771@replay88.github.io
+UID:hsl-2020771@hslstats.ca
 DTSTAMP:20261211T220000Z
 DTSTART:20261211T220000Z
 DTEND:20261211T233000Z
 SUMMARY:2016 Major: Northern Hockey Club at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #999. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020771
+DESCRIPTION:HSL 2016 Major game #999. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020771
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020792@replay88.github.io
+UID:hsl-2020792@hslstats.ca
 DTSTAMP:20261212T153000Z
 DTSTART:20261212T153000Z
 DTEND:20261212T170000Z
 SUMMARY:2016 Major: O2 Grizzlies at Northern Hockey Club
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1020. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020792
+DESCRIPTION:HSL 2016 Major game #1020. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020792
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020833@replay88.github.io
+UID:hsl-2020833@hslstats.ca
 DTSTAMP:20261213T001500Z
 DTSTART:20261213T001500Z
 DTEND:20261213T014500Z
 SUMMARY:2016 Major: Calgary Crusaders at Northern Hockey Club
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1061. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020833
+DESCRIPTION:HSL 2016 Major game #1061. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020833
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020855@replay88.github.io
+UID:hsl-2020855@hslstats.ca
 DTSTAMP:20261213T173000Z
 DTSTART:20261213T173000Z
 DTEND:20261213T190000Z
 SUMMARY:2016 Major: Northern Hockey Club at O2 Grizzlies
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1083. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020855
+DESCRIPTION:HSL 2016 Major game #1083. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020855
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021285@replay88.github.io
+UID:hsl-2021285@hslstats.ca
 DTSTAMP:20270122T231500Z
 DTSTART:20270122T231500Z
 DTEND:20270123T004500Z
 SUMMARY:2016 Major: Northern Hockey Club at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #1513. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021285
+DESCRIPTION:HSL 2016 Major game #1513. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021285
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021308@replay88.github.io
+UID:hsl-2021308@hslstats.ca
 DTSTAMP:20270123T160000Z
 DTSTART:20270123T160000Z
 DTEND:20270123T173000Z
 SUMMARY:2016 Major: Northern Hockey Club at Aces Hockey Academy
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2016 Major game #1536. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021308
+DESCRIPTION:HSL 2016 Major game #1536. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021308
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021337@replay88.github.io
+UID:hsl-2021337@hslstats.ca
 DTSTAMP:20270123T230000Z
 DTSTART:20270123T230000Z
 DTEND:20270124T003000Z
 SUMMARY:2016 Major: MOB Hockey at Northern Hockey Club
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2016 Major game #1565. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021337
+DESCRIPTION:HSL 2016 Major game #1565. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021337
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021346@replay88.github.io
+UID:hsl-2021346@hslstats.ca
 DTSTAMP:20270124T140000Z
 DTSTART:20270124T140000Z
 DTEND:20270124T153000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Northern Hockey Club
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #1574. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021346
+DESCRIPTION:HSL 2016 Major game #1574. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021346
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021511@replay88.github.io
+UID:hsl-2021511@hslstats.ca
 DTSTAMP:20270213T191500Z
 DTSTART:20270213T191500Z
 DTEND:20270213T204500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Northern Hockey Club
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1739. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021511
+DESCRIPTION:HSL 2016 Major game #1739. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021511
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021525@replay88.github.io
+UID:hsl-2021525@hslstats.ca
 DTSTAMP:20270213T230000Z
 DTSTART:20270213T230000Z
 DTEND:20270214T003000Z
 SUMMARY:2016 Major: Northern Hockey Club at Caps Hockey Club
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1753. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021525
+DESCRIPTION:HSL 2016 Major game #1753. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021525
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021539@replay88.github.io
+UID:hsl-2021539@hslstats.ca
 DTSTAMP:20270214T161500Z
 DTSTART:20270214T161500Z
 DTEND:20270214T174500Z
 SUMMARY:2016 Major: Northern Hockey Club at Gorillas Hockey Academy
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1767. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021539
+DESCRIPTION:HSL 2016 Major game #1767. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021539
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021563@replay88.github.io
+UID:hsl-2021563@hslstats.ca
 DTSTAMP:20270214T194500Z
 DTSTART:20270214T194500Z
 DTEND:20270214T211500Z
 SUMMARY:2016 Major: Caps Hockey Club at Northern Hockey Club
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1791. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021563
+DESCRIPTION:HSL 2016 Major game #1791. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021563
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021692@replay88.github.io
+UID:hsl-2021692@hslstats.ca
 DTSTAMP:20270227T000000Z
 DTSTART:20270227T000000Z
 DTEND:20270227T013000Z
 SUMMARY:2016 Major: Queen City Young Guns at Northern Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1920. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021692
+DESCRIPTION:HSL 2016 Major game #1920. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021692
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021697@replay88.github.io
+UID:hsl-2021697@hslstats.ca
 DTSTAMP:20270227T191500Z
 DTSTART:20270227T191500Z
 DTEND:20270227T204500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Northern Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1925. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021697
+DESCRIPTION:HSL 2016 Major game #1925. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021697
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021699@replay88.github.io
+UID:hsl-2021699@hslstats.ca
 DTSTAMP:20270227T224500Z
 DTSTART:20270227T224500Z
 DTEND:20270228T001500Z
 SUMMARY:2016 Major: Northern Hockey Club at Young Kings Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1927. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021699
+DESCRIPTION:HSL 2016 Major game #1927. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021699
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021702@replay88.github.io
+UID:hsl-2021702@hslstats.ca
 DTSTAMP:20270228T140000Z
 DTSTART:20270228T140000Z
 DTEND:20270228T153000Z
 SUMMARY:2016 Major: Northern Hockey Club at Queen City Young Guns
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1930. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021702
+DESCRIPTION:HSL 2016 Major game #1930. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021702
 END:VEVENT
 END:VCALENDAR

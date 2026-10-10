@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:South Sask Academy (2015 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019921@replay88.github.io
+UID:hsl-2019921@hslstats.ca
 DTSTAMP:20260925T233000Z
 DTSTART:20260925T233000Z
 DTEND:20260926T010000Z
 SUMMARY:2015 Major: South Sask Academy 4 – MOB Hockey 6 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #149. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019921
+DESCRIPTION:HSL 2015 Major game #149. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019921
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019935@replay88.github.io
+UID:hsl-2019935@hslstats.ca
 DTSTAMP:20260926T154500Z
 DTSTART:20260926T154500Z
 DTEND:20260926T171500Z
 SUMMARY:2015 Major: South Sask Academy 7 – Rebels Hockey Academy 3 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #163. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019935
+DESCRIPTION:HSL 2015 Major game #163. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019935
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019959@replay88.github.io
+UID:hsl-2019959@hslstats.ca
 DTSTAMP:20260927T003000Z
 DTSTART:20260927T003000Z
 DTEND:20260927T020000Z
 SUMMARY:2015 Major: MOB Hockey 4 – South Sask Academy 7 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #187. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019959
+DESCRIPTION:HSL 2015 Major game #187. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019959
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019963@replay88.github.io
+UID:hsl-2019963@hslstats.ca
 DTSTAMP:20260927T140000Z
 DTSTART:20260927T140000Z
 DTEND:20260927T153000Z
 SUMMARY:2015 Major: Rebels Hockey Academy 4 – South Sask Academy 5 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 Major game #191. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019963
+DESCRIPTION:HSL 2015 Major game #191. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019963
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020050@replay88.github.io
+UID:hsl-2020050@hslstats.ca
 DTSTAMP:20261010T003000Z
 DTSTART:20261010T003000Z
 DTEND:20261010T020000Z
 SUMMARY:2015 Major: South Sask Academy 8 – Riggers Hockey Academy 4 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #278. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020050
+DESCRIPTION:HSL 2015 Major game #278. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020050
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020075@replay88.github.io
+UID:hsl-2020075@hslstats.ca
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2015 Major: South Sask Academy at Gorillas Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #303. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020075
+DESCRIPTION:HSL 2015 Major game #303. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020075
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020101@replay88.github.io
+UID:hsl-2020101@hslstats.ca
 DTSTAMP:20261010T224500Z
 DTSTART:20261010T224500Z
 DTEND:20261011T001500Z
 SUMMARY:2015 Major: Riggers Hockey Academy at South Sask Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #329. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020101
+DESCRIPTION:HSL 2015 Major game #329. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020101
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020128@replay88.github.io
+UID:hsl-2020128@hslstats.ca
 DTSTAMP:20261011T160000Z
 DTSTART:20261011T160000Z
 DTEND:20261011T173000Z
 SUMMARY:2015 Major: Gorillas Hockey Academy at South Sask Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #356. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020128
+DESCRIPTION:HSL 2015 Major game #356. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020128
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020397@replay88.github.io
+UID:hsl-2020397@hslstats.ca
 DTSTAMP:20261107T004500Z
 DTSTART:20261107T004500Z
 DTEND:20261107T021500Z
 SUMMARY:2015 Major: South Sask Academy at Calgary Crusaders
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #625. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020397
+DESCRIPTION:HSL 2015 Major game #625. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020397
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020430@replay88.github.io
+UID:hsl-2020430@hslstats.ca
 DTSTAMP:20261108T003000Z
 DTSTART:20261108T003000Z
 DTEND:20261108T020000Z
 SUMMARY:2015 Major: Calgary Crusaders at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #658. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020430
+DESCRIPTION:HSL 2015 Major game #658. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020430
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020433@replay88.github.io
+UID:hsl-2020433@hslstats.ca
 DTSTAMP:20261108T055800Z
 DTSTART:20261108T055800Z
 DTEND:20261108T072800Z
 SUMMARY:2015 Major: South Sask Academy at Sask Super Selects
 LOCATION:
-DESCRIPTION:HSL 2015 Major game #661. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020433
+DESCRIPTION:HSL 2015 Major game #661. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020433
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020451@replay88.github.io
+UID:hsl-2020451@hslstats.ca
 DTSTAMP:20261108T191500Z
 DTSTART:20261108T191500Z
 DTEND:20261108T204500Z
 SUMMARY:2015 Major: Sask Super Selects at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #679. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020451
+DESCRIPTION:HSL 2015 Major game #679. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020451
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020699@replay88.github.io
+UID:hsl-2020699@hslstats.ca
 DTSTAMP:20261204T231500Z
 DTSTART:20261204T231500Z
 DTEND:20261205T004500Z
 SUMMARY:2015 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #927. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020699
+DESCRIPTION:HSL 2015 Major game #927. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020699
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020719@replay88.github.io
+UID:hsl-2020719@hslstats.ca
 DTSTAMP:20261205T181500Z
 DTSTART:20261205T181500Z
 DTEND:20261205T194500Z
 SUMMARY:2015 Major: South Sask Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #947. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020719
+DESCRIPTION:HSL 2015 Major game #947. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020719
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020734@replay88.github.io
+UID:hsl-2020734@hslstats.ca
 DTSTAMP:20261205T233000Z
 DTSTART:20261205T233000Z
 DTEND:20261206T010000Z
 SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #962. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020734
+DESCRIPTION:HSL 2015 Major game #962. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020734
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020751@replay88.github.io
+UID:hsl-2020751@hslstats.ca
 DTSTAMP:20261206T161500Z
 DTSTART:20261206T161500Z
 DTEND:20261206T174500Z
 SUMMARY:2015 Major: Calgary Crusaders at South Sask Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #979. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020751
+DESCRIPTION:HSL 2015 Major game #979. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020751
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020901@replay88.github.io
+UID:hsl-2020901@hslstats.ca
 DTSTAMP:20261219T163000Z
 DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2015 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1129. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020901
+DESCRIPTION:HSL 2015 Major game #1129. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020901
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020915@replay88.github.io
+UID:hsl-2020915@hslstats.ca
 DTSTAMP:20261219T200000Z
 DTSTART:20261219T200000Z
 DTEND:20261219T213000Z
 SUMMARY:2015 Major: South Sask Academy at Riggers Hockey Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1143. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020915
+DESCRIPTION:HSL 2015 Major game #1143. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020915
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020939@replay88.github.io
+UID:hsl-2020939@hslstats.ca
 DTSTAMP:20261220T055800Z
 DTSTART:20261220T055800Z
 DTEND:20261220T072800Z
 SUMMARY:2015 Major: Riggers Hockey Academy at South Sask Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1167. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020939
+DESCRIPTION:HSL 2015 Major game #1167. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020939
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020941@replay88.github.io
+UID:hsl-2020941@hslstats.ca
 DTSTAMP:20261220T055800Z
 DTSTART:20261220T055800Z
 DTEND:20261220T072800Z
 SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1169. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020941
+DESCRIPTION:HSL 2015 Major game #1169. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020941
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021085@replay88.github.io
+UID:hsl-2021085@hslstats.ca
 DTSTAMP:20270109T011500Z
 DTSTART:20270109T011500Z
 DTEND:20270109T024500Z
 SUMMARY:2015 Major: South Sask Academy at Rebels Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #1313. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021085
+DESCRIPTION:HSL 2015 Major game #1313. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021085
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021089@replay88.github.io
+UID:hsl-2021089@hslstats.ca
 DTSTAMP:20270109T141500Z
 DTSTART:20270109T141500Z
 DTEND:20270109T154500Z
 SUMMARY:2015 Major: South Sask Academy at MOB Hockey
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #1317. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021089
+DESCRIPTION:HSL 2015 Major game #1317. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021089
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021118@replay88.github.io
+UID:hsl-2021118@hslstats.ca
 DTSTAMP:20270109T230000Z
 DTSTART:20270109T230000Z
 DTEND:20270110T003000Z
 SUMMARY:2015 Major: Rebels Hockey Academy at South Sask Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #1346. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021118
+DESCRIPTION:HSL 2015 Major game #1346. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021118
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021133@replay88.github.io
+UID:hsl-2021133@hslstats.ca
 DTSTAMP:20270110T160000Z
 DTSTART:20270110T160000Z
 DTEND:20270110T173000Z
 SUMMARY:2015 Major: MOB Hockey at South Sask Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #1361. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021133
+DESCRIPTION:HSL 2015 Major game #1361. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021133
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021296@replay88.github.io
+UID:hsl-2021296@hslstats.ca
 DTSTAMP:20270123T013000Z
 DTSTART:20270123T013000Z
 DTEND:20270123T030000Z
 SUMMARY:2015 Major: South Sask Academy at Gorillas Hockey Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1524. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021296
+DESCRIPTION:HSL 2015 Major game #1524. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021296
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021302@replay88.github.io
+UID:hsl-2021302@hslstats.ca
 DTSTAMP:20270123T150000Z
 DTSTART:20270123T150000Z
 DTEND:20270123T163000Z
 SUMMARY:2015 Major: South Sask Academy at Riggers Hockey Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1530. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021302
+DESCRIPTION:HSL 2015 Major game #1530. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021302
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021333@replay88.github.io
+UID:hsl-2021333@hslstats.ca
 DTSTAMP:20270123T224500Z
 DTSTART:20270123T224500Z
 DTEND:20270124T001500Z
 SUMMARY:2015 Major: Gorillas Hockey Academy at South Sask Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1561. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021333
+DESCRIPTION:HSL 2015 Major game #1561. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021333
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021343@replay88.github.io
+UID:hsl-2021343@hslstats.ca
 DTSTAMP:20270124T130000Z
 DTSTART:20270124T130000Z
 DTEND:20270124T143000Z
 SUMMARY:2015 Major: Riggers Hockey Academy at South Sask Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1571. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021343
+DESCRIPTION:HSL 2015 Major game #1571. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021343
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021441@replay88.github.io
+UID:hsl-2021441@hslstats.ca
 DTSTAMP:20270206T140000Z
 DTSTART:20270206T140000Z
 DTEND:20270206T153000Z
 SUMMARY:2015 Major: South Sask Academy at Sask Super Selects
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1669. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021441
+DESCRIPTION:HSL 2015 Major game #1669. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021441
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021456@replay88.github.io
+UID:hsl-2021456@hslstats.ca
 DTSTAMP:20270206T180000Z
 DTSTART:20270206T180000Z
 DTEND:20270206T193000Z
 SUMMARY:2015 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1684. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021456
+DESCRIPTION:HSL 2015 Major game #1684. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021456
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021488@replay88.github.io
+UID:hsl-2021488@hslstats.ca
 DTSTAMP:20270207T161500Z
 DTSTART:20270207T161500Z
 DTEND:20270207T174500Z
 SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1716. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021488
+DESCRIPTION:HSL 2015 Major game #1716. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021488
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021499@replay88.github.io
+UID:hsl-2021499@hslstats.ca
 DTSTAMP:20270207T201500Z
 DTSTART:20270207T201500Z
 DTEND:20270207T214500Z
 SUMMARY:2015 Major: Sask Super Selects at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1727. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021499
+DESCRIPTION:HSL 2015 Major game #1727. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021499
 END:VEVENT
 END:VCALENDAR

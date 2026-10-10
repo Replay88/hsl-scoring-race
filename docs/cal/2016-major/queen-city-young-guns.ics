@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Queen City Young Guns (2016 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019775@replay88.github.io
+UID:hsl-2019775@hslstats.ca
 DTSTAMP:20260918T203000Z
 DTSTART:20260918T203000Z
 DTEND:20260918T220000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 8 – Queen City Young Guns 8 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #3. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019775
+DESCRIPTION:HSL 2016 Major game #3. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019775
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019800@replay88.github.io
+UID:hsl-2019800@hslstats.ca
 DTSTAMP:20260919T014500Z
 DTSTART:20260919T014500Z
 DTEND:20260919T031500Z
 SUMMARY:2016 Major: Sauce Hockey Academy 2 – Queen City Young Guns 7 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #28. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019800
+DESCRIPTION:HSL 2016 Major game #28. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019800
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019842@replay88.github.io
+UID:hsl-2019842@hslstats.ca
 DTSTAMP:20260919T204500Z
 DTSTART:20260919T204500Z
 DTEND:20260919T221500Z
 SUMMARY:2016 Major: Queen City Young Guns 2 – Spartan Hockey Academy 9 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #70. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019842
+DESCRIPTION:HSL 2016 Major game #70. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019842
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019867@replay88.github.io
+UID:hsl-2019867@hslstats.ca
 DTSTAMP:20260920T013000Z
 DTSTART:20260920T013000Z
 DTEND:20260920T030000Z
 SUMMARY:2016 Major: Queen City Young Guns 3 – Sauce Hockey Academy 6 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #95. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019867
+DESCRIPTION:HSL 2016 Major game #95. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019867
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020051@replay88.github.io
+UID:hsl-2020051@hslstats.ca
 DTSTAMP:20261010T004500Z
 DTSTART:20261010T004500Z
 DTEND:20261010T021500Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M 8 – Queen City Young Guns 6 (Final)
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #279. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020051
+DESCRIPTION:HSL 2016 Major game #279. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020051
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020076@replay88.github.io
+UID:hsl-2020076@hslstats.ca
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2016 Major: Queen City Young Guns at Calgary Crusaders
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #304. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020076
+DESCRIPTION:HSL 2016 Major game #304. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020076
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020092@replay88.github.io
+UID:hsl-2020092@hslstats.ca
 DTSTAMP:20261010T210000Z
 DTSTART:20261010T210000Z
 DTEND:20261010T223000Z
 SUMMARY:2016 Major: Queen City Young Guns at Spartan Hockey Academy 17M
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #320. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020092
+DESCRIPTION:HSL 2016 Major game #320. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020092
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020122@replay88.github.io
+UID:hsl-2020122@hslstats.ca
 DTSTAMP:20261011T150000Z
 DTSTART:20261011T150000Z
 DTEND:20261011T163000Z
 SUMMARY:2016 Major: Calgary Crusaders at Queen City Young Guns
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #350. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020122
+DESCRIPTION:HSL 2016 Major game #350. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020122
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020242@replay88.github.io
+UID:hsl-2020242@hslstats.ca
 DTSTAMP:20261023T234500Z
 DTSTART:20261023T234500Z
 DTEND:20261024T011500Z
 SUMMARY:2016 Major: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #470. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020242
+DESCRIPTION:HSL 2016 Major game #470. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020242
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020252@replay88.github.io
+UID:hsl-2020252@hslstats.ca
 DTSTAMP:20261024T140000Z
 DTSTART:20261024T140000Z
 DTEND:20261024T153000Z
 SUMMARY:2016 Major: Queen City Young Guns at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #480. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020252
+DESCRIPTION:HSL 2016 Major game #480. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020252
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020277@replay88.github.io
+UID:hsl-2020277@hslstats.ca
 DTSTAMP:20261025T003000Z
 DTSTART:20261025T003000Z
 DTEND:20261025T020000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #505. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020277
+DESCRIPTION:HSL 2016 Major game #505. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020277
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020287@replay88.github.io
+UID:hsl-2020287@hslstats.ca
 DTSTAMP:20261025T154500Z
 DTSTART:20261025T154500Z
 DTEND:20261025T171500Z
 SUMMARY:2016 Major: MOB Hockey at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #515. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020287
+DESCRIPTION:HSL 2016 Major game #515. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020287
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020503@replay88.github.io
+UID:hsl-2020503@hslstats.ca
 DTSTAMP:20261120T220000Z
 DTSTART:20261120T220000Z
 DTEND:20261120T233000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #731. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020503
+DESCRIPTION:HSL 2016 Major game #731. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020503
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020558@replay88.github.io
+UID:hsl-2020558@hslstats.ca
 DTSTAMP:20261121T191500Z
 DTSTART:20261121T191500Z
 DTEND:20261121T204500Z
 SUMMARY:2016 Major: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #786. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020558
+DESCRIPTION:HSL 2016 Major game #786. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020558
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020572@replay88.github.io
+UID:hsl-2020572@hslstats.ca
 DTSTAMP:20261121T224500Z
 DTSTART:20261121T224500Z
 DTEND:20261122T001500Z
 SUMMARY:2016 Major: Queen City Young Guns at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #800. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020572
+DESCRIPTION:HSL 2016 Major game #800. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020572
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020596@replay88.github.io
+UID:hsl-2020596@hslstats.ca
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #824. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020596
+DESCRIPTION:HSL 2016 Major game #824. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020596
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020784@replay88.github.io
+UID:hsl-2020784@hslstats.ca
 DTSTAMP:20261212T013000Z
 DTSTART:20261212T013000Z
 DTEND:20261212T030000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Queen City Young Guns
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1012. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020784
+DESCRIPTION:HSL 2016 Major game #1012. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020784
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020800@replay88.github.io
+UID:hsl-2020800@hslstats.ca
 DTSTAMP:20261212T171500Z
 DTSTART:20261212T171500Z
 DTEND:20261212T184500Z
 SUMMARY:2016 Major: Queen City Young Guns at Gorillas Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1028. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020800
+DESCRIPTION:HSL 2016 Major game #1028. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020800
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020825@replay88.github.io
+UID:hsl-2020825@hslstats.ca
 DTSTAMP:20261212T223000Z
 DTSTART:20261212T223000Z
 DTEND:20261213T000000Z
 SUMMARY:2016 Major: Queen City Young Guns at Rebels Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1053. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020825
+DESCRIPTION:HSL 2016 Major game #1053. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020825
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020839@replay88.github.io
+UID:hsl-2020839@hslstats.ca
 DTSTAMP:20261213T140000Z
 DTSTART:20261213T140000Z
 DTEND:20261213T153000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Queen City Young Guns
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1067. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020839
+DESCRIPTION:HSL 2016 Major game #1067. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020839
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021166@replay88.github.io
+UID:hsl-2021166@hslstats.ca
 DTSTAMP:20270116T010000Z
 DTSTART:20270116T010000Z
 DTEND:20270116T023000Z
 SUMMARY:2016 Major: Queen City Young Guns at O2 Grizzlies
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #1394. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021166
+DESCRIPTION:HSL 2016 Major game #1394. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021166
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021173@replay88.github.io
+UID:hsl-2021173@hslstats.ca
 DTSTAMP:20270116T140000Z
 DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #1401. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021173
+DESCRIPTION:HSL 2016 Major game #1401. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021173
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021212@replay88.github.io
+UID:hsl-2021212@hslstats.ca
 DTSTAMP:20270116T210000Z
 DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:2016 Major: O2 Grizzlies at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #1440. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021212
+DESCRIPTION:HSL 2016 Major game #1440. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021212
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021259@replay88.github.io
+UID:hsl-2021259@hslstats.ca
 DTSTAMP:20270117T173000Z
 DTSTART:20270117T173000Z
 DTEND:20270117T190000Z
 SUMMARY:2016 Major: Queen City Young Guns at Warriors Hockey Academy (Sask)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #1487. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021259
+DESCRIPTION:HSL 2016 Major game #1487. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021259
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021538@replay88.github.io
+UID:hsl-2021538@hslstats.ca
 DTSTAMP:20270213T194500Z
 DTSTART:20270213T194500Z
 DTEND:20270213T211500Z
 SUMMARY:2016 Major: Young Kings Hockey at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2016 Major game #1766. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021538
+DESCRIPTION:HSL 2016 Major game #1766. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021538
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021551@replay88.github.io
+UID:hsl-2021551@hslstats.ca
 DTSTAMP:20270213T231500Z
 DTSTART:20270213T231500Z
 DTEND:20270214T004500Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2016 Major game #1779. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021551
+DESCRIPTION:HSL 2016 Major game #1779. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021551
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021574@replay88.github.io
+UID:hsl-2021574@hslstats.ca
 DTSTAMP:20270214T173000Z
 DTSTART:20270214T173000Z
 DTEND:20270214T190000Z
 SUMMARY:2016 Major: Queen City Young Guns at Young Kings Hockey
 LOCATION:Veren Place
-DESCRIPTION:HSL 2016 Major game #1802. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021574
+DESCRIPTION:HSL 2016 Major game #1802. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021574
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021583@replay88.github.io
+UID:hsl-2021583@hslstats.ca
 DTSTAMP:20270214T210000Z
 DTSTART:20270214T210000Z
 DTEND:20270214T223000Z
 SUMMARY:2016 Major: Queen City Young Guns at Warriors Hockey Academy (Sask)
 LOCATION:Veren Place
-DESCRIPTION:HSL 2016 Major game #1811. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021583
+DESCRIPTION:HSL 2016 Major game #1811. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021583
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021692@replay88.github.io
+UID:hsl-2021692@hslstats.ca
 DTSTAMP:20270227T000000Z
 DTSTART:20270227T000000Z
 DTEND:20270227T013000Z
 SUMMARY:2016 Major: Queen City Young Guns at Northern Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1920. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021692
+DESCRIPTION:HSL 2016 Major game #1920. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021692
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021695@replay88.github.io
+UID:hsl-2021695@hslstats.ca
 DTSTAMP:20270227T154500Z
 DTSTART:20270227T154500Z
 DTEND:20270227T171500Z
 SUMMARY:2016 Major: Queen City Young Guns at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1923. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021695
+DESCRIPTION:HSL 2016 Major game #1923. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021695
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021700@replay88.github.io
+UID:hsl-2021700@hslstats.ca
 DTSTAMP:20270228T003000Z
 DTSTART:20270228T003000Z
 DTEND:20270228T020000Z
 SUMMARY:2016 Major: Caps Hockey Club at Queen City Young Guns
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1928. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021700
+DESCRIPTION:HSL 2016 Major game #1928. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021700
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021702@replay88.github.io
+UID:hsl-2021702@hslstats.ca
 DTSTAMP:20270228T140000Z
 DTSTART:20270228T140000Z
 DTEND:20270228T153000Z
 SUMMARY:2016 Major: Northern Hockey Club at Queen City Young Guns
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1930. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021702
+DESCRIPTION:HSL 2016 Major game #1930. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021702
 END:VEVENT
 END:VCALENDAR

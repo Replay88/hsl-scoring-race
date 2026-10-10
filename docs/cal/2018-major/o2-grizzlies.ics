@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:O2 Grizzlies (2018 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019778@replay88.github.io
+UID:hsl-2019778@hslstats.ca
 DTSTAMP:20260918T220000Z
 DTSTART:20260918T220000Z
 DTEND:20260918T233000Z
 SUMMARY:2018 Major: O2 Grizzlies 3 – Young Kings Hockey 6 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #6. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019778
+DESCRIPTION:HSL 2018 Major game #6. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019778
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019828@replay88.github.io
+UID:hsl-2019828@hslstats.ca
 DTSTAMP:20260919T174500Z
 DTSTART:20260919T174500Z
 DTEND:20260919T191500Z
 SUMMARY:2018 Major: O2 Grizzlies 1 – Stars Hockey Academy 11 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #56. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019828
+DESCRIPTION:HSL 2018 Major game #56. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019828
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019858@replay88.github.io
+UID:hsl-2019858@hslstats.ca
 DTSTAMP:20260919T230000Z
 DTSTART:20260919T230000Z
 DTEND:20260920T003000Z
 SUMMARY:2018 Major: Young Kings Hockey 9 – O2 Grizzlies 2 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #86. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019858
+DESCRIPTION:HSL 2018 Major game #86. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019858
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019876@replay88.github.io
+UID:hsl-2019876@hslstats.ca
 DTSTAMP:20260920T143000Z
 DTSTART:20260920T143000Z
 DTEND:20260920T160000Z
 SUMMARY:2018 Major: Stars Hockey Academy 13 – O2 Grizzlies 1 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #104. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019876
+DESCRIPTION:HSL 2018 Major game #104. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019876
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020005@replay88.github.io
+UID:hsl-2020005@hslstats.ca
 DTSTAMP:20261003T191500Z
 DTSTART:20261003T191500Z
 DTEND:20261003T204500Z
 SUMMARY:2018 Major: O2 Grizzlies 2 – Stars Hockey Academy 10 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #233. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020005
+DESCRIPTION:HSL 2018 Major game #233. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020005
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020077@replay88.github.io
+UID:hsl-2020077@hslstats.ca
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at O2 Grizzlies
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #305. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020077
+DESCRIPTION:HSL 2018 Major game #305. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020077
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020125@replay88.github.io
+UID:hsl-2020125@hslstats.ca
 DTSTAMP:20261011T154500Z
 DTSTART:20261011T154500Z
 DTEND:20261011T171500Z
 SUMMARY:2018 Major: O2 Grizzlies at Rebels Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #353. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020125
+DESCRIPTION:HSL 2018 Major game #353. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020125
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020142@replay88.github.io
+UID:hsl-2020142@hslstats.ca
 DTSTAMP:20261011T191500Z
 DTSTART:20261011T191500Z
 DTEND:20261011T204500Z
 SUMMARY:2018 Major: O2 Grizzlies at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #370. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020142
+DESCRIPTION:HSL 2018 Major game #370. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020142
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020332@replay88.github.io
+UID:hsl-2020332@hslstats.ca
 DTSTAMP:20261031T144500Z
 DTSTART:20261031T144500Z
 DTEND:20261031T161500Z
 SUMMARY:2018 Major: O2 Grizzlies at MOB Hockey
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Major game #560. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020332
+DESCRIPTION:HSL 2018 Major game #560. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020332
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020354@replay88.github.io
+UID:hsl-2020354@hslstats.ca
 DTSTAMP:20261031T214500Z
 DTSTART:20261031T214500Z
 DTEND:20261031T231500Z
 SUMMARY:2018 Major: O2 Grizzlies at North Stars Academy Wild
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Major game #582. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020354
+DESCRIPTION:HSL 2018 Major game #582. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020354
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020373@replay88.github.io
+UID:hsl-2020373@hslstats.ca
 DTSTAMP:20261101T181500Z
 DTSTART:20261101T181500Z
 DTEND:20261101T194500Z
 SUMMARY:2018 Major: North Stars Academy Wild at O2 Grizzlies
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Major game #601. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020373
+DESCRIPTION:HSL 2018 Major game #601. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020373
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020432@replay88.github.io
+UID:hsl-2020432@hslstats.ca
 DTSTAMP:20261108T004500Z
 DTSTART:20261108T004500Z
 DTEND:20261108T021500Z
 SUMMARY:2018 Major: Calgary Crusaders at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Major game #660. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020432
+DESCRIPTION:HSL 2018 Major game #660. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020432
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020508@replay88.github.io
+UID:hsl-2020508@hslstats.ca
 DTSTAMP:20261120T223000Z
 DTSTART:20261120T223000Z
 DTEND:20261121T000000Z
 SUMMARY:2018 Major: O2 Grizzlies at Sauce Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #736. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020508
+DESCRIPTION:HSL 2018 Major game #736. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020508
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020637@replay88.github.io
+UID:hsl-2020637@hslstats.ca
 DTSTAMP:20261127T214500Z
 DTSTART:20261127T214500Z
 DTEND:20261127T231500Z
 SUMMARY:2018 Major: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #865. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020637
+DESCRIPTION:HSL 2018 Major game #865. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020637
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020647@replay88.github.io
+UID:hsl-2020647@hslstats.ca
 DTSTAMP:20261128T143000Z
 DTSTART:20261128T143000Z
 DTEND:20261128T160000Z
 SUMMARY:2018 Major: Sauce Hockey Academy at O2 Grizzlies
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #875. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020647
+DESCRIPTION:HSL 2018 Major game #875. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020647
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020661@replay88.github.io
+UID:hsl-2020661@hslstats.ca
 DTSTAMP:20261128T213000Z
 DTSTART:20261128T213000Z
 DTEND:20261128T230000Z
 SUMMARY:2018 Major: O2 Grizzlies at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #889. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020661
+DESCRIPTION:HSL 2018 Major game #889. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020661
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020677@replay88.github.io
+UID:hsl-2020677@hslstats.ca
 DTSTAMP:20261129T164500Z
 DTSTART:20261129T164500Z
 DTEND:20261129T181500Z
 SUMMARY:2018 Major: O2 Grizzlies at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #905. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020677
+DESCRIPTION:HSL 2018 Major game #905. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020677
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020723@replay88.github.io
+UID:hsl-2020723@hslstats.ca
 DTSTAMP:20261205T194500Z
 DTSTART:20261205T194500Z
 DTEND:20261205T211500Z
 SUMMARY:2018 Major: O2 Grizzlies at Gorillas Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #951. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020723
+DESCRIPTION:HSL 2018 Major game #951. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020723
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020877@replay88.github.io
+UID:hsl-2020877@hslstats.ca
 DTSTAMP:20261218T224500Z
 DTSTART:20261218T224500Z
 DTEND:20261219T001500Z
 SUMMARY:2018 Major: Queen City Young Guns at O2 Grizzlies
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1105. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020877
+DESCRIPTION:HSL 2018 Major game #1105. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020877
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020894@replay88.github.io
+UID:hsl-2020894@hslstats.ca
 DTSTAMP:20261219T144500Z
 DTSTART:20261219T144500Z
 DTEND:20261219T161500Z
 SUMMARY:2018 Major: Sask Super Selects at O2 Grizzlies
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1122. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020894
+DESCRIPTION:HSL 2018 Major game #1122. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020894
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020922@replay88.github.io
+UID:hsl-2020922@hslstats.ca
 DTSTAMP:20261219T214500Z
 DTSTART:20261219T214500Z
 DTEND:20261219T231500Z
 SUMMARY:2018 Major: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1150. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020922
+DESCRIPTION:HSL 2018 Major game #1150. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020922
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020952@replay88.github.io
+UID:hsl-2020952@hslstats.ca
 DTSTAMP:20261220T144500Z
 DTSTART:20261220T144500Z
 DTEND:20261220T161500Z
 SUMMARY:2018 Major: O2 Grizzlies at Queen City Young Guns
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1180. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020952
+DESCRIPTION:HSL 2018 Major game #1180. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020952
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021009@replay88.github.io
+UID:hsl-2021009@hslstats.ca
 DTSTAMP:20270102T211500Z
 DTSTART:20270102T211500Z
 DTEND:20270102T224500Z
 SUMMARY:2018 Major: O2 Grizzlies at Young Kings Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Major game #1237. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021009
+DESCRIPTION:HSL 2018 Major game #1237. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021009
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021068@replay88.github.io
+UID:hsl-2021068@hslstats.ca
 DTSTAMP:20270108T191500Z
 DTSTART:20270108T191500Z
 DTEND:20270108T204500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at O2 Grizzlies
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1296. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021068
+DESCRIPTION:HSL 2018 Major game #1296. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021068
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021081@replay88.github.io
+UID:hsl-2021081@hslstats.ca
 DTSTAMP:20270109T003000Z
 DTSTART:20270109T003000Z
 DTEND:20270109T020000Z
 SUMMARY:2018 Major: Aces Hockey Academy at O2 Grizzlies
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1309. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021081
+DESCRIPTION:HSL 2018 Major game #1309. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021081
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021104@replay88.github.io
+UID:hsl-2021104@hslstats.ca
 DTSTAMP:20270109T191500Z
 DTSTART:20270109T191500Z
 DTEND:20270109T204500Z
 SUMMARY:2018 Major: O2 Grizzlies at North Stars Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1332. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021104
+DESCRIPTION:HSL 2018 Major game #1332. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021104
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021322@replay88.github.io
+UID:hsl-2021322@hslstats.ca
 DTSTAMP:20270123T191500Z
 DTSTART:20270123T191500Z
 DTEND:20270123T204500Z
 SUMMARY:2018 Major: Gorillas Hockey Academy at O2 Grizzlies
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1550. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021322
+DESCRIPTION:HSL 2018 Major game #1550. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021322
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021361@replay88.github.io
+UID:hsl-2021361@hslstats.ca
 DTSTAMP:20270124T191500Z
 DTSTART:20270124T191500Z
 DTEND:20270124T204500Z
 SUMMARY:2018 Major: Capital City Knights at O2 Grizzlies
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1589. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021361
+DESCRIPTION:HSL 2018 Major game #1589. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021361
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021494@replay88.github.io
+UID:hsl-2021494@hslstats.ca
 DTSTAMP:20270207T184500Z
 DTSTART:20270207T184500Z
 DTEND:20270207T201500Z
 SUMMARY:2018 Major: O2 Grizzlies at Calgary Crusaders
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1722. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021494
+DESCRIPTION:HSL 2018 Major game #1722. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021494
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021628@replay88.github.io
+UID:hsl-2021628@hslstats.ca
 DTSTAMP:20270220T183000Z
 DTSTART:20270220T183000Z
 DTEND:20270220T200000Z
 SUMMARY:2018 Major: O2 Grizzlies at Sask Super Selects
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1856. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021628
+DESCRIPTION:HSL 2018 Major game #1856. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021628
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021651@replay88.github.io
+UID:hsl-2021651@hslstats.ca
 DTSTAMP:20270220T234500Z
 DTSTART:20270220T234500Z
 DTEND:20270221T011500Z
 SUMMARY:2018 Major: Queen City Young Guns at O2 Grizzlies
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1879. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021651
+DESCRIPTION:HSL 2018 Major game #1879. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021651
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021663@replay88.github.io
+UID:hsl-2021663@hslstats.ca
 DTSTAMP:20270221T171500Z
 DTSTART:20270221T171500Z
 DTEND:20270221T184500Z
 SUMMARY:2018 Major: Sask Super Selects at O2 Grizzlies
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1891. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021663
+DESCRIPTION:HSL 2018 Major game #1891. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021663
 END:VEVENT
 END:VCALENDAR

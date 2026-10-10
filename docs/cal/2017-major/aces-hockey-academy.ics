@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Aces Hockey Academy (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019806@replay88.github.io
+UID:hsl-2019806@hslstats.ca
 DTSTAMP:20260919T141500Z
 DTSTART:20260919T141500Z
 DTEND:20260919T154500Z
 SUMMARY:2017 Major: Calgary Crusaders 6 – Aces Hockey Academy 8 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #34. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019806
+DESCRIPTION:HSL 2017 Major game #34. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019806
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019884@replay88.github.io
+UID:hsl-2019884@hslstats.ca
 DTSTAMP:20260920T154500Z
 DTSTART:20260920T154500Z
 DTEND:20260920T171500Z
 SUMMARY:2017 Major: Stars Hockey Academy 2 – Aces Hockey Academy 6 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #112. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019884
+DESCRIPTION:HSL 2017 Major game #112. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019884
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019982@replay88.github.io
+UID:hsl-2019982@hslstats.ca
 DTSTAMP:20260927T194500Z
 DTSTART:20260927T194500Z
 DTEND:20260927T211500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 4 – Aces Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #210. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019982
+DESCRIPTION:HSL 2017 Major game #210. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019982
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019991@replay88.github.io
+UID:hsl-2019991@hslstats.ca
 DTSTAMP:20261002T230000Z
 DTSTART:20261002T230000Z
 DTEND:20261003T003000Z
 SUMMARY:2017 Major: North Stars Academy Wild 3 – Aces Hockey Academy 6 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #219. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019991
+DESCRIPTION:HSL 2017 Major game #219. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019991
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019998@replay88.github.io
+UID:hsl-2019998@hslstats.ca
 DTSTAMP:20261003T160000Z
 DTSTART:20261003T160000Z
 DTEND:20261003T173000Z
 SUMMARY:2017 Major: Aces Hockey Academy 10 – Wolverines Hockey Academy 3 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #226. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019998
+DESCRIPTION:HSL 2017 Major game #226. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019998
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020013@replay88.github.io
+UID:hsl-2020013@hslstats.ca
 DTSTAMP:20261003T230000Z
 DTSTART:20261003T230000Z
 DTEND:20261004T003000Z
 SUMMARY:2017 Major: MOB Hockey 9 – Aces Hockey Academy 6 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #241. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020013
+DESCRIPTION:HSL 2017 Major game #241. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020013
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020020@replay88.github.io
+UID:hsl-2020020@hslstats.ca
 DTSTAMP:20261004T154500Z
 DTSTART:20261004T154500Z
 DTEND:20261004T171500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 6 – Aces Hockey Academy 6 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #248. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020020
+DESCRIPTION:HSL 2017 Major game #248. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020020
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020303@replay88.github.io
+UID:hsl-2020303@hslstats.ca
 DTSTAMP:20261030T140000Z
 DTSTART:20261030T140000Z
 DTEND:20261030T153000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #531. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020303
+DESCRIPTION:HSL 2017 Major game #531. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020303
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020325@replay88.github.io
+UID:hsl-2020325@hslstats.ca
 DTSTAMP:20261031T130000Z
 DTSTART:20261031T130000Z
 DTEND:20261031T143000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #553. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020325
+DESCRIPTION:HSL 2017 Major game #553. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020325
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020350@replay88.github.io
+UID:hsl-2020350@hslstats.ca
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T213000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Aces Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #578. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020350
+DESCRIPTION:HSL 2017 Major game #578. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020350
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020365@replay88.github.io
+UID:hsl-2020365@hslstats.ca
 DTSTAMP:20261101T163000Z
 DTSTART:20261101T163000Z
 DTEND:20261101T180000Z
 SUMMARY:2017 Major: South Sask Academy at Aces Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #593. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020365
+DESCRIPTION:HSL 2017 Major game #593. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020365
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020452@replay88.github.io
+UID:hsl-2020452@hslstats.ca
 DTSTAMP:20261108T191500Z
 DTSTART:20261108T191500Z
 DTEND:20261108T204500Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #680. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020452
+DESCRIPTION:HSL 2017 Major game #680. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020452
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020545@replay88.github.io
+UID:hsl-2020545@hslstats.ca
 DTSTAMP:20261121T160000Z
 DTSTART:20261121T160000Z
 DTEND:20261121T173000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Gorillas Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #773. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020545
+DESCRIPTION:HSL 2017 Major game #773. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020545
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020561@replay88.github.io
+UID:hsl-2020561@hslstats.ca
 DTSTAMP:20261121T193000Z
 DTSTART:20261121T193000Z
 DTEND:20261121T210000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Stars Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #789. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020561
+DESCRIPTION:HSL 2017 Major game #789. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020561
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020625@replay88.github.io
+UID:hsl-2020625@hslstats.ca
 DTSTAMP:20261122T193000Z
 DTSTART:20261122T193000Z
 DTEND:20261122T210000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Aces Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #853. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020625
+DESCRIPTION:HSL 2017 Major game #853. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020625
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020790@replay88.github.io
+UID:hsl-2020790@hslstats.ca
 DTSTAMP:20261212T144500Z
 DTSTART:20261212T144500Z
 DTEND:20261212T161500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1018. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020790
+DESCRIPTION:HSL 2017 Major game #1018. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020790
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020830@replay88.github.io
+UID:hsl-2020830@hslstats.ca
 DTSTAMP:20261212T233000Z
 DTSTART:20261212T233000Z
 DTEND:20261213T010000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1058. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020830
+DESCRIPTION:HSL 2017 Major game #1058. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020830
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020847@replay88.github.io
+UID:hsl-2020847@hslstats.ca
 DTSTAMP:20261213T154500Z
 DTSTART:20261213T154500Z
 DTEND:20261213T171500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1075. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020847
+DESCRIPTION:HSL 2017 Major game #1075. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020847
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020861@replay88.github.io
+UID:hsl-2020861@hslstats.ca
 DTSTAMP:20261213T191500Z
 DTSTART:20261213T191500Z
 DTEND:20261213T204500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1089. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020861
+DESCRIPTION:HSL 2017 Major game #1089. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020861
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021067@replay88.github.io
+UID:hsl-2021067@hslstats.ca
 DTSTAMP:20270107T003000Z
 DTSTART:20270107T003000Z
 DTEND:20270107T020000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1295. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021067
+DESCRIPTION:HSL 2017 Major game #1295. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021067
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021181@replay88.github.io
+UID:hsl-2021181@hslstats.ca
 DTSTAMP:20270116T154500Z
 DTSTART:20270116T154500Z
 DTEND:20270116T171500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Aces Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1409. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021181
+DESCRIPTION:HSL 2017 Major game #1409. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021181
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021202@replay88.github.io
+UID:hsl-2021202@hslstats.ca
 DTSTAMP:20270116T191500Z
 DTSTART:20270116T191500Z
 DTEND:20270116T204500Z
 SUMMARY:2017 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1430. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021202
+DESCRIPTION:HSL 2017 Major game #1430. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021202
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021243@replay88.github.io
+UID:hsl-2021243@hslstats.ca
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
 DTEND:20270117T153000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1471. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021243
+DESCRIPTION:HSL 2017 Major game #1471. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021243
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021261@replay88.github.io
+UID:hsl-2021261@hslstats.ca
 DTSTAMP:20270117T173000Z
 DTSTART:20270117T173000Z
 DTEND:20270117T190000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Vipers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1489. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021261
+DESCRIPTION:HSL 2017 Major game #1489. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021261
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021276@replay88.github.io
+UID:hsl-2021276@hslstats.ca
 DTSTAMP:20270120T224500Z
 DTSTART:20270120T224500Z
 DTEND:20270121T001500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1504. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021276
+DESCRIPTION:HSL 2017 Major game #1504. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021276
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021374@replay88.github.io
+UID:hsl-2021374@hslstats.ca
 DTSTAMP:20270130T004500Z
 DTSTART:20270130T004500Z
 DTEND:20270130T021500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Aces Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1602. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021374
+DESCRIPTION:HSL 2017 Major game #1602. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021374
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021380@replay88.github.io
+UID:hsl-2021380@hslstats.ca
 DTSTAMP:20270130T154500Z
 DTSTART:20270130T154500Z
 DTEND:20270130T171500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1608. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021380
+DESCRIPTION:HSL 2017 Major game #1608. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021380
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021588@replay88.github.io
+UID:hsl-2021588@hslstats.ca
 DTSTAMP:20270218T003000Z
 DTSTART:20270218T003000Z
 DTEND:20270218T020000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1816. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021588
+DESCRIPTION:HSL 2017 Major game #1816. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021588
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021604@replay88.github.io
+UID:hsl-2021604@hslstats.ca
 DTSTAMP:20270220T011500Z
 DTSTART:20270220T011500Z
 DTEND:20270220T024500Z
 SUMMARY:2017 Major: MOB Hockey at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2017 Major game #1832. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021604
+DESCRIPTION:HSL 2017 Major game #1832. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021604
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021636@replay88.github.io
+UID:hsl-2021636@hslstats.ca
 DTSTAMP:20270220T201500Z
 DTSTART:20270220T201500Z
 DTEND:20270220T214500Z
 SUMMARY:2017 Major: Aces Hockey Academy at North Stars Academy Wild
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2017 Major game #1864. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021636
+DESCRIPTION:HSL 2017 Major game #1864. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021636
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021653@replay88.github.io
+UID:hsl-2021653@hslstats.ca
 DTSTAMP:20270221T001500Z
 DTSTART:20270221T001500Z
 DTEND:20270221T014500Z
 SUMMARY:2017 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2017 Major game #1881. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021653
+DESCRIPTION:HSL 2017 Major game #1881. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021653
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021659@replay88.github.io
+UID:hsl-2021659@hslstats.ca
 DTSTAMP:20270221T140000Z
 DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
 SUMMARY:2017 Major: North Stars Academy Wild at Aces Hockey Academy
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2017 Major game #1887. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021659
+DESCRIPTION:HSL 2017 Major game #1887. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021659
 END:VEVENT
 END:VCALENDAR

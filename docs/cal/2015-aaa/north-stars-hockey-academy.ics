@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:North Stars Hockey Academy (2015 AAA)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019815@replay88.github.io
+UID:hsl-2019815@hslstats.ca
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy 4 – HC Calgary Bandits 3 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #43. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019815
+DESCRIPTION:HSL 2015 AAA game #43. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019815
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019843@replay88.github.io
+UID:hsl-2019843@hslstats.ca
 DTSTAMP:20260919T210000Z
 DTSTART:20260919T210000Z
 DTEND:20260919T223000Z
 SUMMARY:2015 AAA: O2 Grizzlies 3 – North Stars Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #71. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019843
+DESCRIPTION:HSL 2015 AAA game #71. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019843
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019873@replay88.github.io
+UID:hsl-2019873@hslstats.ca
 DTSTAMP:20260920T140000Z
 DTSTART:20260920T140000Z
 DTEND:20260920T153000Z
 SUMMARY:2015 AAA: HC Calgary Bandits 6 – North Stars Hockey Academy 8 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #101. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019873
+DESCRIPTION:HSL 2015 AAA game #101. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019873
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019893@replay88.github.io
+UID:hsl-2019893@hslstats.ca
 DTSTAMP:20260920T173000Z
 DTSTART:20260920T173000Z
 DTEND:20260920T190000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy 5 – O2 Grizzlies 3 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #121. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019893
+DESCRIPTION:HSL 2015 AAA game #121. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019893
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020045@replay88.github.io
+UID:hsl-2020045@hslstats.ca
 DTSTAMP:20261009T234500Z
 DTSTART:20261009T234500Z
 DTEND:20261010T011500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy 5 – Capital City Knights 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #273. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020045
+DESCRIPTION:HSL 2015 AAA game #273. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020045
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020056@replay88.github.io
+UID:hsl-2020056@hslstats.ca
 DTSTAMP:20261010T140000Z
 DTSTART:20261010T140000Z
 DTEND:20261010T153000Z
 SUMMARY:2015 AAA: Capital City Knights at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #284. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020056
+DESCRIPTION:HSL 2015 AAA game #284. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020056
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020124@replay88.github.io
+UID:hsl-2020124@hslstats.ca
 DTSTAMP:20261011T154500Z
 DTSTART:20261011T154500Z
 DTEND:20261011T171500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #352. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020124
+DESCRIPTION:HSL 2015 AAA game #352. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020124
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020141@replay88.github.io
+UID:hsl-2020141@hslstats.ca
 DTSTAMP:20261011T191500Z
 DTSTART:20261011T191500Z
 DTEND:20261011T204500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #369. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020141
+DESCRIPTION:HSL 2015 AAA game #369. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020141
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020262@replay88.github.io
+UID:hsl-2020262@hslstats.ca
 DTSTAMP:20261024T183000Z
 DTSTART:20261024T183000Z
 DTEND:20261024T200000Z
 SUMMARY:2015 AAA: Queen City Young Guns at North Stars Hockey Academy
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #490. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020262
+DESCRIPTION:HSL 2015 AAA game #490. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020262
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020275@replay88.github.io
+UID:hsl-2020275@hslstats.ca
 DTSTAMP:20261024T234500Z
 DTSTART:20261024T234500Z
 DTEND:20261025T011500Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at North Stars Hockey Academy
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #503. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020275
+DESCRIPTION:HSL 2015 AAA game #503. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020275
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020280@replay88.github.io
+UID:hsl-2020280@hslstats.ca
 DTSTAMP:20261025T130000Z
 DTSTART:20261025T130000Z
 DTEND:20261025T143000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #508. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020280
+DESCRIPTION:HSL 2015 AAA game #508. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020280
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020293@replay88.github.io
+UID:hsl-2020293@hslstats.ca
 DTSTAMP:20261025T183000Z
 DTSTART:20261025T183000Z
 DTEND:20261025T200000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #521. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020293
+DESCRIPTION:HSL 2015 AAA game #521. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020293
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020505@replay88.github.io
+UID:hsl-2020505@hslstats.ca
 DTSTAMP:20261120T221500Z
 DTSTART:20261120T221500Z
 DTEND:20261120T234500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #733. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020505
+DESCRIPTION:HSL 2015 AAA game #733. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020505
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020525@replay88.github.io
+UID:hsl-2020525@hslstats.ca
 DTSTAMP:20261121T020000Z
 DTSTART:20261121T020000Z
 DTEND:20261121T033000Z
 SUMMARY:2015 AAA: Queen City Young Guns at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #753. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020525
+DESCRIPTION:HSL 2015 AAA game #753. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020525
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020555@replay88.github.io
+UID:hsl-2020555@hslstats.ca
 DTSTAMP:20261121T183000Z
 DTSTART:20261121T183000Z
 DTEND:20261121T200000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #783. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020555
+DESCRIPTION:HSL 2015 AAA game #783. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020555
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020570@replay88.github.io
+UID:hsl-2020570@hslstats.ca
 DTSTAMP:20261121T220000Z
 DTSTART:20261121T220000Z
 DTEND:20261121T233000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #798. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020570
+DESCRIPTION:HSL 2015 AAA game #798. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020570
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020768@replay88.github.io
+UID:hsl-2020768@hslstats.ca
 DTSTAMP:20261211T203000Z
 DTSTART:20261211T203000Z
 DTEND:20261211T220000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #996. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020768
+DESCRIPTION:HSL 2015 AAA game #996. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020768
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020796@replay88.github.io
+UID:hsl-2020796@hslstats.ca
 DTSTAMP:20261212T160000Z
 DTSTART:20261212T160000Z
 DTEND:20261212T173000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1024. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020796
+DESCRIPTION:HSL 2015 AAA game #1024. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020796
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020822@replay88.github.io
+UID:hsl-2020822@hslstats.ca
 DTSTAMP:20261212T214500Z
 DTSTART:20261212T214500Z
 DTEND:20261212T231500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1050. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020822
+DESCRIPTION:HSL 2015 AAA game #1050. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020822
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021073@replay88.github.io
+UID:hsl-2021073@hslstats.ca
 DTSTAMP:20270108T214500Z
 DTSTART:20270108T214500Z
 DTEND:20270108T231500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1301. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021073
+DESCRIPTION:HSL 2015 AAA game #1301. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021073
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021107@replay88.github.io
+UID:hsl-2021107@hslstats.ca
 DTSTAMP:20270109T193000Z
 DTSTART:20270109T193000Z
 DTEND:20270109T210000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1335. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021107
+DESCRIPTION:HSL 2015 AAA game #1335. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021107
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021144@replay88.github.io
+UID:hsl-2021144@hslstats.ca
 DTSTAMP:20270110T193000Z
 DTSTART:20270110T193000Z
 DTEND:20270110T210000Z
 SUMMARY:2015 AAA: Capital City Knights at North Stars Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1372. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021144
+DESCRIPTION:HSL 2015 AAA game #1372. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021144
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021287@replay88.github.io
+UID:hsl-2021287@hslstats.ca
 DTSTAMP:20270122T234500Z
 DTSTART:20270122T234500Z
 DTEND:20270123T011500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Warriors Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1515. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021287
+DESCRIPTION:HSL 2015 AAA game #1515. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021287
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021298@replay88.github.io
+UID:hsl-2021298@hslstats.ca
 DTSTAMP:20270123T140000Z
 DTSTART:20270123T140000Z
 DTEND:20270123T153000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1526. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021298
+DESCRIPTION:HSL 2015 AAA game #1526. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021298
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021332@replay88.github.io
+UID:hsl-2021332@hslstats.ca
 DTSTAMP:20270123T224500Z
 DTSTART:20270123T224500Z
 DTEND:20270124T001500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1560. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021332
+DESCRIPTION:HSL 2015 AAA game #1560. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021332
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021413@replay88.github.io
+UID:hsl-2021413@hslstats.ca
 DTSTAMP:20270131T183000Z
 DTSTART:20270131T183000Z
 DTEND:20270131T200000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Warriors Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1641. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021413
+DESCRIPTION:HSL 2015 AAA game #1641. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021413
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021451@replay88.github.io
+UID:hsl-2021451@hslstats.ca
 DTSTAMP:20270206T161500Z
 DTSTART:20270206T161500Z
 DTEND:20270206T174500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1679. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021451
+DESCRIPTION:HSL 2015 AAA game #1679. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021451
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021516@replay88.github.io
+UID:hsl-2021516@hslstats.ca
 DTSTAMP:20270213T010000Z
 DTSTART:20270213T010000Z
 DTEND:20270213T023000Z
 SUMMARY:2015 AAA: Spartan Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #1744. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021516
+DESCRIPTION:HSL 2015 AAA game #1744. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021516
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021530@replay88.github.io
+UID:hsl-2021530@hslstats.ca
 DTSTAMP:20270213T173000Z
 DTSTART:20270213T173000Z
 DTEND:20270213T190000Z
 SUMMARY:2015 AAA: O2 Grizzlies at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #1758. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021530
+DESCRIPTION:HSL 2015 AAA game #1758. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021530
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021555@replay88.github.io
+UID:hsl-2021555@hslstats.ca
 DTSTAMP:20270214T003000Z
 DTSTART:20270214T003000Z
 DTEND:20270214T020000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #1783. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021555
+DESCRIPTION:HSL 2015 AAA game #1783. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021555
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021567@replay88.github.io
+UID:hsl-2021567@hslstats.ca
 DTSTAMP:20270214T154500Z
 DTSTART:20270214T154500Z
 DTEND:20270214T171500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1795. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021567
+DESCRIPTION:HSL 2015 AAA game #1795. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021567
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021654@replay88.github.io
+UID:hsl-2021654@hslstats.ca
 DTSTAMP:20270221T003000Z
 DTSTART:20270221T003000Z
 DTEND:20270221T020000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1882. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021654
+DESCRIPTION:HSL 2015 AAA game #1882. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021654
 END:VEVENT
 END:VCALENDAR

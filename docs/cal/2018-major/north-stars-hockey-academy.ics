@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:North Stars Hockey Academy (2018 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019816@replay88.github.io
+UID:hsl-2019816@hslstats.ca
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2018 Major: Gorillas Hockey Academy 11 – North Stars Hockey Academy 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #44. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019816
+DESCRIPTION:HSL 2018 Major game #44. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019816
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019854@replay88.github.io
+UID:hsl-2019854@hslstats.ca
 DTSTAMP:20260919T224500Z
 DTSTART:20260919T224500Z
 DTEND:20260920T001500Z
 SUMMARY:2018 Major: North Stars Hockey Academy 0 – MOB Hockey 13 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #82. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019854
+DESCRIPTION:HSL 2018 Major game #82. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019854
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019894@replay88.github.io
+UID:hsl-2019894@hslstats.ca
 DTSTAMP:20260920T173000Z
 DTSTART:20260920T173000Z
 DTEND:20260920T190000Z
 SUMMARY:2018 Major: MOB Hockey 9 – North Stars Hockey Academy 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #122. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019894
+DESCRIPTION:HSL 2018 Major game #122. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019894
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019914@replay88.github.io
+UID:hsl-2019914@hslstats.ca
 DTSTAMP:20260920T224500Z
 DTSTART:20260920T224500Z
 DTEND:20260921T001500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy 10 – North Stars Hockey Academy 0 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #142. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019914
+DESCRIPTION:HSL 2018 Major game #142. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2019914
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020068@replay88.github.io
+UID:hsl-2020068@hslstats.ca
 DTSTAMP:20261010T160000Z
 DTSTART:20261010T160000Z
 DTEND:20261010T173000Z
 SUMMARY:2018 Major: Stars Hockey Academy at North Stars Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Major game #296. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020068
+DESCRIPTION:HSL 2018 Major game #296. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020068
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020104@replay88.github.io
+UID:hsl-2020104@hslstats.ca
 DTSTAMP:20261010T224500Z
 DTSTART:20261010T224500Z
 DTEND:20261011T001500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at MOB Hockey
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2018 Major game #332. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020104
+DESCRIPTION:HSL 2018 Major game #332. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020104
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020126@replay88.github.io
+UID:hsl-2020126@hslstats.ca
 DTSTAMP:20261011T154500Z
 DTSTART:20261011T154500Z
 DTEND:20261011T171500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Stars Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Major game #354. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020126
+DESCRIPTION:HSL 2018 Major game #354. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020126
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020149@replay88.github.io
+UID:hsl-2020149@hslstats.ca
 DTSTAMP:20261011T210000Z
 DTSTART:20261011T210000Z
 DTEND:20261011T223000Z
 SUMMARY:2018 Major: Capital City Knights at North Stars Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Major game #377. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020149
+DESCRIPTION:HSL 2018 Major game #377. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020149
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020311@replay88.github.io
+UID:hsl-2020311@hslstats.ca
 DTSTAMP:20261030T220000Z
 DTSTART:20261030T220000Z
 DTEND:20261030T233000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Sask Super Selects
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #539. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020311
+DESCRIPTION:HSL 2018 Major game #539. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020311
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020336@replay88.github.io
+UID:hsl-2020336@hslstats.ca
 DTSTAMP:20261031T154500Z
 DTSTART:20261031T154500Z
 DTEND:20261031T171500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #564. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020336
+DESCRIPTION:HSL 2018 Major game #564. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020336
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020358@replay88.github.io
+UID:hsl-2020358@hslstats.ca
 DTSTAMP:20261101T140000Z
 DTSTART:20261101T140000Z
 DTEND:20261101T153000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #586. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020358
+DESCRIPTION:HSL 2018 Major game #586. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020358
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020456@replay88.github.io
+UID:hsl-2020456@hslstats.ca
 DTSTAMP:20261108T210000Z
 DTSTART:20261108T210000Z
 DTEND:20261108T223000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Capital City Knights
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Major game #684. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020456
+DESCRIPTION:HSL 2018 Major game #684. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020456
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020643@replay88.github.io
+UID:hsl-2020643@hslstats.ca
 DTSTAMP:20261128T010000Z
 DTSTART:20261128T010000Z
 DTEND:20261128T023000Z
 SUMMARY:2018 Major: Queen City Young Guns at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #871. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020643
+DESCRIPTION:HSL 2018 Major game #871. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020643
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020689@replay88.github.io
+UID:hsl-2020689@hslstats.ca
 DTSTAMP:20261129T224500Z
 DTSTART:20261129T224500Z
 DTEND:20261130T001500Z
 SUMMARY:2018 Major: Capital City Knights at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #917. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020689
+DESCRIPTION:HSL 2018 Major game #917. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020689
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020881@replay88.github.io
+UID:hsl-2020881@hslstats.ca
 DTSTAMP:20261219T001500Z
 DTSTART:20261219T001500Z
 DTEND:20261219T014500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1109. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020881
+DESCRIPTION:HSL 2018 Major game #1109. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020881
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020899@replay88.github.io
+UID:hsl-2020899@hslstats.ca
 DTSTAMP:20261219T161500Z
 DTSTART:20261219T161500Z
 DTEND:20261219T174500Z
 SUMMARY:2018 Major: Aces Hockey Academy at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1127. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020899
+DESCRIPTION:HSL 2018 Major game #1127. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020899
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020921@replay88.github.io
+UID:hsl-2020921@hslstats.ca
 DTSTAMP:20261219T213000Z
 DTSTART:20261219T213000Z
 DTEND:20261219T230000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1149. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020921
+DESCRIPTION:HSL 2018 Major game #1149. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020921
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020969@replay88.github.io
+UID:hsl-2020969@hslstats.ca
 DTSTAMP:20261220T191500Z
 DTSTART:20261220T191500Z
 DTEND:20261220T204500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Aces Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1197. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020969
+DESCRIPTION:HSL 2018 Major game #1197. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2020969
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021034@replay88.github.io
+UID:hsl-2021034@hslstats.ca
 DTSTAMP:20270103T144500Z
 DTSTART:20270103T144500Z
 DTEND:20270103T161500Z
 SUMMARY:2018 Major: Aces Hockey Academy at North Stars Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Major game #1262. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021034
+DESCRIPTION:HSL 2018 Major game #1262. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021034
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021048@replay88.github.io
+UID:hsl-2021048@hslstats.ca
 DTSTAMP:20270103T181500Z
 DTSTART:20270103T181500Z
 DTEND:20270103T194500Z
 SUMMARY:2018 Major: Gorillas Hockey Academy at North Stars Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Major game #1276. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021048
+DESCRIPTION:HSL 2018 Major game #1276. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021048
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021075@replay88.github.io
+UID:hsl-2021075@hslstats.ca
 DTSTAMP:20270108T224500Z
 DTSTART:20270108T224500Z
 DTEND:20270109T001500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Young Kings Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1303. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021075
+DESCRIPTION:HSL 2018 Major game #1303. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021075
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021087@replay88.github.io
+UID:hsl-2021087@hslstats.ca
 DTSTAMP:20270109T140000Z
 DTSTART:20270109T140000Z
 DTEND:20270109T153000Z
 SUMMARY:2018 Major: Spartan Hockey Academy at North Stars Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1315. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021087
+DESCRIPTION:HSL 2018 Major game #1315. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021087
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021104@replay88.github.io
+UID:hsl-2021104@hslstats.ca
 DTSTAMP:20270109T191500Z
 DTSTART:20270109T191500Z
 DTEND:20270109T204500Z
 SUMMARY:2018 Major: O2 Grizzlies at North Stars Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1332. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021104
+DESCRIPTION:HSL 2018 Major game #1332. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021104
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021147@replay88.github.io
+UID:hsl-2021147@hslstats.ca
 DTSTAMP:20270110T210000Z
 DTSTART:20270110T210000Z
 DTEND:20270110T223000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Calgary Crusaders
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1375. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021147
+DESCRIPTION:HSL 2018 Major game #1375. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021147
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021313@replay88.github.io
+UID:hsl-2021313@hslstats.ca
 DTSTAMP:20270123T173000Z
 DTSTART:20270123T173000Z
 DTEND:20270123T190000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1541. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021313
+DESCRIPTION:HSL 2018 Major game #1541. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021313
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021328@replay88.github.io
+UID:hsl-2021328@hslstats.ca
 DTSTAMP:20270123T210000Z
 DTSTART:20270123T210000Z
 DTEND:20270123T223000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at North Stars Academy Wild
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1556. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021328
+DESCRIPTION:HSL 2018 Major game #1556. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021328
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021348@replay88.github.io
+UID:hsl-2021348@hslstats.ca
 DTSTAMP:20270124T140000Z
 DTSTART:20270124T140000Z
 DTEND:20270124T153000Z
 SUMMARY:2018 Major: North Stars Academy Wild at North Stars Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1576. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021348
+DESCRIPTION:HSL 2018 Major game #1576. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021348
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021357@replay88.github.io
+UID:hsl-2021357@hslstats.ca
 DTSTAMP:20270124T173000Z
 DTSTART:20270124T173000Z
 DTEND:20270124T190000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1585. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021357
+DESCRIPTION:HSL 2018 Major game #1585. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021357
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021505@replay88.github.io
+UID:hsl-2021505@hslstats.ca
 DTSTAMP:20270212T210000Z
 DTSTART:20270212T210000Z
 DTEND:20270212T223000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Sauce Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #1733. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021505
+DESCRIPTION:HSL 2018 Major game #1733. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021505
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021534@replay88.github.io
+UID:hsl-2021534@hslstats.ca
 DTSTAMP:20270213T183000Z
 DTSTART:20270213T183000Z
 DTEND:20270213T200000Z
 SUMMARY:2018 Major: Young Kings Hockey at North Stars Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1762. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021534
+DESCRIPTION:HSL 2018 Major game #1762. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021534
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021552@replay88.github.io
+UID:hsl-2021552@hslstats.ca
 DTSTAMP:20270213T233000Z
 DTSTART:20270213T233000Z
 DTEND:20270214T010000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #1780. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021552
+DESCRIPTION:HSL 2018 Major game #1780. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021552
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021571@replay88.github.io
+UID:hsl-2021571@hslstats.ca
 DTSTAMP:20270214T164500Z
 DTSTART:20270214T164500Z
 DTEND:20270214T181500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Young Kings Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1799. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021571
+DESCRIPTION:HSL 2018 Major game #1799. Stats: https://replay88.github.io/hsl-scoring-race/#2018-major/g/2021571
 END:VEVENT
 END:VCALENDAR

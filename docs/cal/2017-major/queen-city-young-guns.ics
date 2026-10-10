@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Queen City Young Guns (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019787@replay88.github.io
+UID:hsl-2019787@hslstats.ca
 DTSTAMP:20260918T234500Z
 DTSTART:20260918T234500Z
 DTEND:20260919T011500Z
 SUMMARY:2017 Major: Queen City Young Guns 8 – Young Kings Hockey 5 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #15. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019787
+DESCRIPTION:HSL 2017 Major game #15. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019787
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019833@replay88.github.io
+UID:hsl-2019833@hslstats.ca
 DTSTAMP:20260919T191500Z
 DTSTART:20260919T191500Z
 DTEND:20260919T204500Z
 SUMMARY:2017 Major: Young Kings Hockey 3 – Queen City Young Guns 6 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2017 Major game #61. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019833
+DESCRIPTION:HSL 2017 Major game #61. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019833
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019861@replay88.github.io
+UID:hsl-2019861@hslstats.ca
 DTSTAMP:20260920T001500Z
 DTSTART:20260920T001500Z
 DTEND:20260920T014500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 3 – Queen City Young Guns 10 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #89. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019861
+DESCRIPTION:HSL 2017 Major game #89. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019861
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019908@replay88.github.io
+UID:hsl-2019908@hslstats.ca
 DTSTAMP:20260920T204500Z
 DTSTART:20260920T204500Z
 DTEND:20260920T221500Z
 SUMMARY:2017 Major: Queen City Young Guns 7 – Warriors Hockey Academy (Sask) 1 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2017 Major game #136. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019908
+DESCRIPTION:HSL 2017 Major game #136. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019908
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019992@replay88.github.io
+UID:hsl-2019992@hslstats.ca
 DTSTAMP:20261002T234500Z
 DTSTART:20261002T234500Z
 DTEND:20261003T011500Z
 SUMMARY:2017 Major: Queen City Young Guns 5 – Gorillas Hockey Academy 4 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #220. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019992
+DESCRIPTION:HSL 2017 Major game #220. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019992
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020003@replay88.github.io
+UID:hsl-2020003@hslstats.ca
 DTSTAMP:20261003T181500Z
 DTSTART:20261003T181500Z
 DTEND:20261003T194500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 5 – Queen City Young Guns 11 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #231. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020003
+DESCRIPTION:HSL 2017 Major game #231. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020003
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020014@replay88.github.io
+UID:hsl-2020014@hslstats.ca
 DTSTAMP:20261003T233000Z
 DTSTART:20261003T233000Z
 DTEND:20261004T010000Z
 SUMMARY:2017 Major: Queen City Young Guns 4 – Saints Pro Hockey Academy 7 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #242. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020014
+DESCRIPTION:HSL 2017 Major game #242. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020014
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020021@replay88.github.io
+UID:hsl-2020021@hslstats.ca
 DTSTAMP:20261004T154500Z
 DTSTART:20261004T154500Z
 DTEND:20261004T171500Z
 SUMMARY:2017 Major: Gorillas Hockey Academy 6 – Queen City Young Guns 8 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #249. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020021
+DESCRIPTION:HSL 2017 Major game #249. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020021
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020312@replay88.github.io
+UID:hsl-2020312@hslstats.ca
 DTSTAMP:20261030T224500Z
 DTSTART:20261030T224500Z
 DTEND:20261031T001500Z
 SUMMARY:2017 Major: Queen City Young Guns at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #540. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020312
+DESCRIPTION:HSL 2017 Major game #540. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020312
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020325@replay88.github.io
+UID:hsl-2020325@hslstats.ca
 DTSTAMP:20261031T130000Z
 DTSTART:20261031T130000Z
 DTEND:20261031T143000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #553. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020325
+DESCRIPTION:HSL 2017 Major game #553. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020325
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020337@replay88.github.io
+UID:hsl-2020337@hslstats.ca
 DTSTAMP:20261031T163000Z
 DTSTART:20261031T163000Z
 DTEND:20261031T180000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Queen City Young Guns
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #565. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020337
+DESCRIPTION:HSL 2017 Major game #565. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020337
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020370@replay88.github.io
+UID:hsl-2020370@hslstats.ca
 DTSTAMP:20261101T173000Z
 DTSTART:20261101T173000Z
 DTEND:20261101T190000Z
 SUMMARY:2017 Major: North Stars Academy Wild at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #598. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020370
+DESCRIPTION:HSL 2017 Major game #598. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020370
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020527@replay88.github.io
+UID:hsl-2020527@hslstats.ca
 DTSTAMP:20261121T133000Z
 DTSTART:20261121T133000Z
 DTEND:20261121T150000Z
 SUMMARY:2017 Major: Queen City Young Guns at Sauce Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #755. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020527
+DESCRIPTION:HSL 2017 Major game #755. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020527
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020580@replay88.github.io
+UID:hsl-2020580@hslstats.ca
 DTSTAMP:20261122T000000Z
 DTSTART:20261122T000000Z
 DTEND:20261122T013000Z
 SUMMARY:2017 Major: Queen City Young Guns at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #808. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020580
+DESCRIPTION:HSL 2017 Major game #808. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020580
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020601@replay88.github.io
+UID:hsl-2020601@hslstats.ca
 DTSTAMP:20261122T151500Z
 DTSTART:20261122T151500Z
 DTEND:20261122T164500Z
 SUMMARY:2017 Major: Calgary Crusaders at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #829. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020601
+DESCRIPTION:HSL 2017 Major game #829. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020601
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020620@replay88.github.io
+UID:hsl-2020620@hslstats.ca
 DTSTAMP:20261122T184500Z
 DTSTART:20261122T184500Z
 DTEND:20261122T201500Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #848. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020620
+DESCRIPTION:HSL 2017 Major game #848. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020620
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020787@replay88.github.io
+UID:hsl-2020787@hslstats.ca
 DTSTAMP:20261212T140000Z
 DTSTART:20261212T140000Z
 DTEND:20261212T153000Z
 SUMMARY:2017 Major: South Sask Academy at Queen City Young Guns
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1015. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020787
+DESCRIPTION:HSL 2017 Major game #1015. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020787
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020820@replay88.github.io
+UID:hsl-2020820@hslstats.ca
 DTSTAMP:20261212T210000Z
 DTSTART:20261212T210000Z
 DTEND:20261212T223000Z
 SUMMARY:2017 Major: Queen City Young Guns at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1048. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020820
+DESCRIPTION:HSL 2017 Major game #1048. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020820
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020848@replay88.github.io
+UID:hsl-2020848@hslstats.ca
 DTSTAMP:20261213T154500Z
 DTSTART:20261213T154500Z
 DTEND:20261213T171500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Queen City Young Guns
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1076. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020848
+DESCRIPTION:HSL 2017 Major game #1076. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020848
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020862@replay88.github.io
+UID:hsl-2020862@hslstats.ca
 DTSTAMP:20261213T191500Z
 DTSTART:20261213T191500Z
 DTEND:20261213T204500Z
 SUMMARY:2017 Major: Queen City Young Guns at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1090. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020862
+DESCRIPTION:HSL 2017 Major game #1090. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020862
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021153@replay88.github.io
+UID:hsl-2021153@hslstats.ca
 DTSTAMP:20270115T221500Z
 DTSTART:20270115T221500Z
 DTEND:20270115T234500Z
 SUMMARY:2017 Major: Stars Hockey Academy at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1381. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021153
+DESCRIPTION:HSL 2017 Major game #1381. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021153
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021188@replay88.github.io
+UID:hsl-2021188@hslstats.ca
 DTSTAMP:20270116T164500Z
 DTSTART:20270116T164500Z
 DTEND:20270116T181500Z
 SUMMARY:2017 Major: Queen City Young Guns at Young Kings Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1416. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021188
+DESCRIPTION:HSL 2017 Major game #1416. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021188
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021220@replay88.github.io
+UID:hsl-2021220@hslstats.ca
 DTSTAMP:20270116T220000Z
 DTSTART:20270116T220000Z
 DTEND:20270116T233000Z
 SUMMARY:2017 Major: Queen City Young Guns at Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1448. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021220
+DESCRIPTION:HSL 2017 Major game #1448. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021220
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021235@replay88.github.io
+UID:hsl-2021235@hslstats.ca
 DTSTAMP:20270117T131500Z
 DTSTART:20270117T131500Z
 DTEND:20270117T144500Z
 SUMMARY:2017 Major: Queen City Young Guns at Sauce Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1463. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021235
+DESCRIPTION:HSL 2017 Major game #1463. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021235
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021378@replay88.github.io
+UID:hsl-2021378@hslstats.ca
 DTSTAMP:20270130T140000Z
 DTSTART:20270130T140000Z
 DTEND:20270130T153000Z
 SUMMARY:2017 Major: Queen City Young Guns at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1606. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021378
+DESCRIPTION:HSL 2017 Major game #1606. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021378
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021388@replay88.github.io
+UID:hsl-2021388@hslstats.ca
 DTSTAMP:20270130T191500Z
 DTSTART:20270130T191500Z
 DTEND:20270130T204500Z
 SUMMARY:2017 Major: MOB Hockey at Queen City Young Guns
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1616. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021388
+DESCRIPTION:HSL 2017 Major game #1616. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021388
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021407@replay88.github.io
+UID:hsl-2021407@hslstats.ca
 DTSTAMP:20270131T154500Z
 DTSTART:20270131T154500Z
 DTEND:20270131T171500Z
 SUMMARY:2017 Major: Queen City Young Guns at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1635. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021407
+DESCRIPTION:HSL 2017 Major game #1635. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021407
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021416@replay88.github.io
+UID:hsl-2021416@hslstats.ca
 DTSTAMP:20270131T191500Z
 DTSTART:20270131T191500Z
 DTEND:20270131T204500Z
 SUMMARY:2017 Major: North Stars Academy Wild at Queen City Young Guns
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1644. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021416
+DESCRIPTION:HSL 2017 Major game #1644. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021416
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021607@replay88.github.io
+UID:hsl-2021607@hslstats.ca
 DTSTAMP:20270220T140000Z
 DTSTART:20270220T140000Z
 DTEND:20270220T153000Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Queen City Young Guns
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1835. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021607
+DESCRIPTION:HSL 2017 Major game #1835. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021607
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021632@replay88.github.io
+UID:hsl-2021632@hslstats.ca
 DTSTAMP:20270220T191500Z
 DTSTART:20270220T191500Z
 DTEND:20270220T204500Z
 SUMMARY:2017 Major: Queen City Young Guns at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1860. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021632
+DESCRIPTION:HSL 2017 Major game #1860. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021632
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021655@replay88.github.io
+UID:hsl-2021655@hslstats.ca
 DTSTAMP:20270221T055800Z
 DTSTART:20270221T055800Z
 DTEND:20270221T072800Z
 SUMMARY:2017 Major: South Sask Academy at Queen City Young Guns
 LOCATION:
-DESCRIPTION:HSL 2017 Major game #1883. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021655
+DESCRIPTION:HSL 2017 Major game #1883. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021655
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021668@replay88.github.io
+UID:hsl-2021668@hslstats.ca
 DTSTAMP:20270221T154500Z
 DTSTART:20270221T154500Z
 DTEND:20270221T171500Z
 SUMMARY:2017 Major: Queen City Young Guns at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1896. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021668
+DESCRIPTION:HSL 2017 Major game #1896. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021668
 END:VEVENT
 END:VCALENDAR

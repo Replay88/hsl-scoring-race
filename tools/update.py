@@ -40,6 +40,9 @@ URL = "https://www.hockeysuperleague.ca/division/0/{}/game/view/{}"
 PATHS = ["32765", "28374", "0"]  # any division path serves any game
 ICS = "https://www.hockeysuperleague.ca/calendar/master-schedule/481.ics?SID={}&DID={}&TZ=America%2FEdmonton"
 PARSER = 3  # bump when the box-score parser changes so cached games get re-read
+# The site's public address. Switch to "hslstats.ca" once the domain points at GitHub Pages.
+SITE = "replay88.github.io/hsl-scoring-race"
+BASE = "https://" + SITE + "/"
 
 
 def fetch(gid):
@@ -423,12 +426,12 @@ def write_calendars(did, name, sched, G):
         if g:
             title = f"{s['away']} {g['vs']} – {s['home']} {g['hs']} (Final)"
         return "\r\n".join([
-            "BEGIN:VEVENT", f"UID:hsl-{gid}@replay88.github.io",
+            "BEGIN:VEVENT", f"UID:hsl-{gid}@hslstats.ca",
             "DTSTAMP:" + start.strftime("%Y%m%dT%H%M%SZ"),
             "DTSTART:" + start.strftime("%Y%m%dT%H%M%SZ"), "DTEND:" + end.strftime("%Y%m%dT%H%M%SZ"),
             "SUMMARY:" + ics_escape(f"{name}: {title}"),
             "LOCATION:" + ics_escape(s["loc"]),
-            "DESCRIPTION:" + ics_escape(f"HSL {name} game #{s['num']}. Stats: https://replay88.github.io/hsl-scoring-race/#{name[:4]}/g/{gid}"),
+            "DESCRIPTION:" + ics_escape(f"HSL {name} game #{s['num']}. Stats: {BASE}#{slug(name)}/g/{gid}"),
             "END:VEVENT"])
 
     def write(path, label, evs):
@@ -628,14 +631,15 @@ def build(state):
         open(os.path.join(ddir, slug(name) + ".json"), "w", encoding="utf-8").write(blob)
     open(os.path.join(ddir, "index.json"), "w", encoding="utf-8").write(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
     tpl = open(os.path.join(HERE, "page.tpl.html"), encoding="utf-8").read()
-    html = tpl.replace("__INDEX__", json.dumps(index, separators=(",", ":"), ensure_ascii=False)).replace("__UPDATED__", state["updated"])
+    html = (tpl.replace("__INDEX__", json.dumps(index, separators=(",", ":"), ensure_ascii=False))
+            .replace("__UPDATED__", state["updated"]).replace("__BASE__", BASE).replace("__SITE__", SITE))
     open(OUT, "w", encoding="utf-8").write(html)
     png = os.path.join(os.path.dirname(OUT), "og.png")
     if not changed and os.path.exists(png):
         return  # same numbers: leave the preview image byte-for-byte alone
     try:
         import og
-        og.render(index, png)
+        og.render(index, png, SITE)
     except Exception as e:  # the preview image is a nicety; never fail the run over it
         print(f"preview image skipped: {e}")
 

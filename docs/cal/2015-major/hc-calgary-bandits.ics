@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:HC Calgary Bandits (2015 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019930@replay88.github.io
+UID:hsl-2019930@hslstats.ca
 DTSTAMP:20260926T140000Z
 DTSTART:20260926T140000Z
 DTEND:20260926T153000Z
 SUMMARY:2015 Major: Riggers Hockey Academy 6 – HC Calgary Bandits 2 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #158. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019930
+DESCRIPTION:HSL 2015 Major game #158. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019930
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019945@replay88.github.io
+UID:hsl-2019945@hslstats.ca
 DTSTAMP:20260926T191500Z
 DTSTART:20260926T191500Z
 DTEND:20260926T204500Z
 SUMMARY:2015 Major: HC Calgary Bandits 0 – Gorillas Hockey Academy 7 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #173. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019945
+DESCRIPTION:HSL 2015 Major game #173. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019945
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019969@replay88.github.io
+UID:hsl-2019969@hslstats.ca
 DTSTAMP:20260927T154500Z
 DTSTART:20260927T154500Z
 DTEND:20260927T171500Z
 SUMMARY:2015 Major: HC Calgary Bandits 3 – Riggers Hockey Academy 5 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 Major game #197. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019969
+DESCRIPTION:HSL 2015 Major game #197. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019969
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020034@replay88.github.io
+UID:hsl-2020034@hslstats.ca
 DTSTAMP:20261009T214500Z
 DTSTART:20261009T214500Z
 DTEND:20261009T231500Z
 SUMMARY:2015 Major: MOB Hockey 6 – HC Calgary Bandits 0 (Final)
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #262. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020034
+DESCRIPTION:HSL 2015 Major game #262. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020034
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020057@replay88.github.io
+UID:hsl-2020057@hslstats.ca
 DTSTAMP:20261010T141500Z
 DTSTART:20261010T141500Z
 DTEND:20261010T154500Z
 SUMMARY:2015 Major: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #285. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020057
+DESCRIPTION:HSL 2015 Major game #285. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020057
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020087@replay88.github.io
+UID:hsl-2020087@hslstats.ca
 DTSTAMP:20261010T194500Z
 DTSTART:20261010T194500Z
 DTEND:20261010T211500Z
 SUMMARY:2015 Major: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #315. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020087
+DESCRIPTION:HSL 2015 Major game #315. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020087
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020117@replay88.github.io
+UID:hsl-2020117@hslstats.ca
 DTSTAMP:20261011T141500Z
 DTSTART:20261011T141500Z
 DTEND:20261011T154500Z
 SUMMARY:2015 Major: HC Calgary Bandits at MOB Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #345. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020117
+DESCRIPTION:HSL 2015 Major game #345. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020117
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020178@replay88.github.io
+UID:hsl-2020178@hslstats.ca
 DTSTAMP:20261017T154500Z
 DTSTART:20261017T154500Z
 DTEND:20261017T171500Z
 SUMMARY:2015 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #406. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020178
+DESCRIPTION:HSL 2015 Major game #406. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020178
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020389@replay88.github.io
+UID:hsl-2020389@hslstats.ca
 DTSTAMP:20261106T210000Z
 DTSTART:20261106T210000Z
 DTEND:20261106T223000Z
 SUMMARY:2015 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #617. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020389
+DESCRIPTION:HSL 2015 Major game #617. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020389
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020409@replay88.github.io
+UID:hsl-2020409@hslstats.ca
 DTSTAMP:20261107T171500Z
 DTSTART:20261107T171500Z
 DTEND:20261107T184500Z
 SUMMARY:2015 Major: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 Major game #637. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020409
+DESCRIPTION:HSL 2015 Major game #637. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020409
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020431@replay88.github.io
+UID:hsl-2020431@hslstats.ca
 DTSTAMP:20261108T003000Z
 DTSTART:20261108T003000Z
 DTEND:20261108T020000Z
 SUMMARY:2015 Major: Gorillas Hockey Academy at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #659. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020431
+DESCRIPTION:HSL 2015 Major game #659. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020431
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020453@replay88.github.io
+UID:hsl-2020453@hslstats.ca
 DTSTAMP:20261108T193000Z
 DTSTART:20261108T193000Z
 DTEND:20261108T210000Z
 SUMMARY:2015 Major: MOB Hockey at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #681. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020453
+DESCRIPTION:HSL 2015 Major game #681. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020453
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020699@replay88.github.io
+UID:hsl-2020699@hslstats.ca
 DTSTAMP:20261204T231500Z
 DTSTART:20261204T231500Z
 DTEND:20261205T004500Z
 SUMMARY:2015 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #927. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020699
+DESCRIPTION:HSL 2015 Major game #927. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020699
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020720@replay88.github.io
+UID:hsl-2020720@hslstats.ca
 DTSTAMP:20261205T183000Z
 DTSTART:20261205T183000Z
 DTEND:20261205T200000Z
 SUMMARY:2015 Major: Sask Super Selects at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #948. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020720
+DESCRIPTION:HSL 2015 Major game #948. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020720
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020734@replay88.github.io
+UID:hsl-2020734@hslstats.ca
 DTSTAMP:20261205T233000Z
 DTSTART:20261205T233000Z
 DTEND:20261206T010000Z
 SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #962. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020734
+DESCRIPTION:HSL 2015 Major game #962. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020734
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020749@replay88.github.io
+UID:hsl-2020749@hslstats.ca
 DTSTAMP:20261206T154500Z
 DTSTART:20261206T154500Z
 DTEND:20261206T171500Z
 SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #977. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020749
+DESCRIPTION:HSL 2015 Major game #977. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020749
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020901@replay88.github.io
+UID:hsl-2020901@hslstats.ca
 DTSTAMP:20261219T163000Z
 DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2015 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1129. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020901
+DESCRIPTION:HSL 2015 Major game #1129. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020901
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020937@replay88.github.io
+UID:hsl-2020937@hslstats.ca
 DTSTAMP:20261220T011500Z
 DTSTART:20261220T011500Z
 DTEND:20261220T024500Z
 SUMMARY:2015 Major: Sask Super Selects at HC Calgary Bandits
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1165. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020937
+DESCRIPTION:HSL 2015 Major game #1165. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020937
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020940@replay88.github.io
+UID:hsl-2020940@hslstats.ca
 DTSTAMP:20261220T055800Z
 DTSTART:20261220T055800Z
 DTEND:20261220T072800Z
 SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1168. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020940
+DESCRIPTION:HSL 2015 Major game #1168. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020940
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020941@replay88.github.io
+UID:hsl-2020941@hslstats.ca
 DTSTAMP:20261220T055800Z
 DTSTART:20261220T055800Z
 DTEND:20261220T072800Z
 SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1169. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020941
+DESCRIPTION:HSL 2015 Major game #1169. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020941
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021012@replay88.github.io
+UID:hsl-2021012@hslstats.ca
 DTSTAMP:20270102T220000Z
 DTSTART:20270102T220000Z
 DTEND:20270102T233000Z
 SUMMARY:2015 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #1240. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021012
+DESCRIPTION:HSL 2015 Major game #1240. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021012
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021023@replay88.github.io
+UID:hsl-2021023@hslstats.ca
 DTSTAMP:20270103T004500Z
 DTSTART:20270103T004500Z
 DTEND:20270103T021500Z
 SUMMARY:2015 Major: HC Calgary Bandits at Gorillas Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #1251. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021023
+DESCRIPTION:HSL 2015 Major game #1251. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021023
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021039@replay88.github.io
+UID:hsl-2021039@hslstats.ca
 DTSTAMP:20270103T160000Z
 DTSTART:20270103T160000Z
 DTEND:20270103T173000Z
 SUMMARY:2015 Major: Gorillas Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #1267. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021039
+DESCRIPTION:HSL 2015 Major game #1267. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021039
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021046@replay88.github.io
+UID:hsl-2021046@hslstats.ca
 DTSTAMP:20270103T174500Z
 DTSTART:20270103T174500Z
 DTEND:20270103T191500Z
 SUMMARY:2015 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #1274. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021046
+DESCRIPTION:HSL 2015 Major game #1274. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021046
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021293@replay88.github.io
+UID:hsl-2021293@hslstats.ca
 DTSTAMP:20270123T010000Z
 DTSTART:20270123T010000Z
 DTEND:20270123T023000Z
 SUMMARY:2015 Major: HC Calgary Bandits at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2015 Major game #1521. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021293
+DESCRIPTION:HSL 2015 Major game #1521. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021293
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021299@replay88.github.io
+UID:hsl-2021299@hslstats.ca
 DTSTAMP:20270123T140000Z
 DTSTART:20270123T140000Z
 DTEND:20270123T153000Z
 SUMMARY:2015 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2015 Major game #1527. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021299
+DESCRIPTION:HSL 2015 Major game #1527. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021299
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021315@replay88.github.io
+UID:hsl-2021315@hslstats.ca
 DTSTAMP:20270123T174500Z
 DTSTART:20270123T174500Z
 DTEND:20270123T191500Z
 SUMMARY:2015 Major: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2015 Major game #1543. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021315
+DESCRIPTION:HSL 2015 Major game #1543. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021315
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021411@replay88.github.io
+UID:hsl-2021411@hslstats.ca
 DTSTAMP:20270131T173000Z
 DTSTART:20270131T173000Z
 DTEND:20270131T190000Z
 SUMMARY:2015 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #1639. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021411
+DESCRIPTION:HSL 2015 Major game #1639. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021411
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021438@replay88.github.io
+UID:hsl-2021438@hslstats.ca
 DTSTAMP:20270206T011500Z
 DTSTART:20270206T011500Z
 DTEND:20270206T024500Z
 SUMMARY:2015 Major: Sask Super Selects at HC Calgary Bandits
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1666. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021438
+DESCRIPTION:HSL 2015 Major game #1666. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021438
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021456@replay88.github.io
+UID:hsl-2021456@hslstats.ca
 DTSTAMP:20270206T180000Z
 DTSTART:20270206T180000Z
 DTEND:20270206T193000Z
 SUMMARY:2015 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1684. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021456
+DESCRIPTION:HSL 2015 Major game #1684. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021456
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021468@replay88.github.io
+UID:hsl-2021468@hslstats.ca
 DTSTAMP:20270206T220000Z
 DTSTART:20270206T220000Z
 DTEND:20270206T233000Z
 SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1696. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021468
+DESCRIPTION:HSL 2015 Major game #1696. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021468
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021488@replay88.github.io
+UID:hsl-2021488@hslstats.ca
 DTSTAMP:20270207T161500Z
 DTSTART:20270207T161500Z
 DTEND:20270207T174500Z
 SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #1716. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021488
+DESCRIPTION:HSL 2015 Major game #1716. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021488
 END:VEVENT
 END:VCALENDAR

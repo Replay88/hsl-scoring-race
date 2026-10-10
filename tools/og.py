@@ -11,7 +11,7 @@ def font(name, size):
     return ImageFont.truetype(os.path.join(FONTS, name), size)
 
 
-def render(index, path):
+def render(index, path, site="replay88.github.io/hsl-scoring-race"):
     W, H = 1200, 630
     bg, fg, muted, accent, line = (14, 18, 24), (232, 236, 242), (152, 162, 179), (255, 77, 99), (42, 50, 64)
     im = Image.new("RGB", (W, H), bg)
@@ -34,5 +34,5 @@ def render(index, path):
         p = str(pts)
         tw = d.textlength(p, font=font("Oswald-SemiBold.ttf", 40))
         d.text((cx + colw - 40 - tw, cy - 2), p, font=font("Oswald-SemiBold.ttf", 40), fill=fg)
-    d.text((60, H - 48), "replay88.github.io/hsl-scoring-race", font=font("Barlow-Medium.ttf", 22), fill=muted)
+    d.text((60, H - 48), site, font=font("Barlow-Medium.ttf", 22), fill=muted)
     im.save(path, optimize=True)

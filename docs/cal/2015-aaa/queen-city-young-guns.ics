@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Queen City Young Guns (2015 AAA)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019773@replay88.github.io
+UID:hsl-2019773@hslstats.ca
 DTSTAMP:20260918T183000Z
 DTSTART:20260918T183000Z
 DTEND:20260918T200000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) 1 – Queen City Young Guns 6 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019773
+DESCRIPTION:HSL 2015 AAA game #1. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019773
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019797@replay88.github.io
+UID:hsl-2019797@hslstats.ca
 DTSTAMP:20260919T013000Z
 DTSTART:20260919T013000Z
 DTEND:20260919T030000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 8 – Queen City Young Guns 0 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #25. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019797
+DESCRIPTION:HSL 2015 AAA game #25. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019797
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019814@replay88.github.io
+UID:hsl-2019814@hslstats.ca
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2015 AAA: Queen City Young Guns 8 – Warriors Hockey Academy (Sask) 6 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2015 AAA game #42. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019814
+DESCRIPTION:HSL 2015 AAA game #42. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019814
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019868@replay88.github.io
+UID:hsl-2019868@hslstats.ca
 DTSTAMP:20260920T020000Z
 DTSTART:20260920T020000Z
 DTEND:20260920T033000Z
 SUMMARY:2015 AAA: Queen City Young Guns 2 – Saints Pro Hockey Academy 5 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #96. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2019868
+DESCRIPTION:HSL 2015 AAA game #96. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019868
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020053@replay88.github.io
+UID:hsl-2020053@hslstats.ca
 DTSTAMP:20261010T013000Z
 DTSTART:20261010T013000Z
 DTEND:20261010T030000Z
 SUMMARY:2015 AAA: Spartan Hockey Academy 1 – Queen City Young Guns 5 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #281. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020053
+DESCRIPTION:HSL 2015 AAA game #281. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020053
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020074@replay88.github.io
+UID:hsl-2020074@hslstats.ca
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2015 AAA: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #302. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020074
+DESCRIPTION:HSL 2015 AAA game #302. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020074
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020100@replay88.github.io
+UID:hsl-2020100@hslstats.ca
 DTSTAMP:20261010T224500Z
 DTSTART:20261010T224500Z
 DTEND:20261011T001500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Spartan Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #328. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020100
+DESCRIPTION:HSL 2015 AAA game #328. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020100
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020114@replay88.github.io
+UID:hsl-2020114@hslstats.ca
 DTSTAMP:20261011T140000Z
 DTSTART:20261011T140000Z
 DTEND:20261011T153000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #342. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020114
+DESCRIPTION:HSL 2015 AAA game #342. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020114
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020262@replay88.github.io
+UID:hsl-2020262@hslstats.ca
 DTSTAMP:20261024T183000Z
 DTSTART:20261024T183000Z
 DTEND:20261024T200000Z
 SUMMARY:2015 AAA: Queen City Young Guns at North Stars Hockey Academy
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #490. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020262
+DESCRIPTION:HSL 2015 AAA game #490. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020262
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020271@replay88.github.io
+UID:hsl-2020271@hslstats.ca
 DTSTAMP:20261024T220000Z
 DTSTART:20261024T220000Z
 DTEND:20261024T233000Z
 SUMMARY:2015 AAA: Spartan Hockey Academy at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #499. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020271
+DESCRIPTION:HSL 2015 AAA game #499. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020271
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020280@replay88.github.io
+UID:hsl-2020280@hslstats.ca
 DTSTAMP:20261025T130000Z
 DTSTART:20261025T130000Z
 DTEND:20261025T143000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #508. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020280
+DESCRIPTION:HSL 2015 AAA game #508. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020280
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020299@replay88.github.io
+UID:hsl-2020299@hslstats.ca
 DTSTAMP:20261025T201500Z
 DTSTART:20261025T201500Z
 DTEND:20261025T214500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Spartan Hockey Academy
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #527. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020299
+DESCRIPTION:HSL 2015 AAA game #527. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020299
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020525@replay88.github.io
+UID:hsl-2020525@hslstats.ca
 DTSTAMP:20261121T020000Z
 DTSTART:20261121T020000Z
 DTEND:20261121T033000Z
 SUMMARY:2015 AAA: Queen City Young Guns at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #753. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020525
+DESCRIPTION:HSL 2015 AAA game #753. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020525
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020537@replay88.github.io
+UID:hsl-2020537@hslstats.ca
 DTSTAMP:20261121T150000Z
 DTSTART:20261121T150000Z
 DTEND:20261121T163000Z
 SUMMARY:2015 AAA: Queen City Young Guns at O2 Grizzlies
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #765. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020537
+DESCRIPTION:HSL 2015 AAA game #765. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020537
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020570@replay88.github.io
+UID:hsl-2020570@hslstats.ca
 DTSTAMP:20261121T220000Z
 DTSTART:20261121T220000Z
 DTEND:20261121T233000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #798. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020570
+DESCRIPTION:HSL 2015 AAA game #798. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020570
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020592@replay88.github.io
+UID:hsl-2020592@hslstats.ca
 DTSTAMP:20261122T133000Z
 DTSTART:20261122T133000Z
 DTEND:20261122T150000Z
 SUMMARY:2015 AAA: O2 Grizzlies at Queen City Young Guns
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #820. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020592
+DESCRIPTION:HSL 2015 AAA game #820. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020592
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020781@replay88.github.io
+UID:hsl-2020781@hslstats.ca
 DTSTAMP:20261212T004500Z
 DTSTART:20261212T004500Z
 DTEND:20261212T021500Z
 SUMMARY:2015 AAA: Queen City Young Guns at HC Calgary Bandits
 LOCATION:Rouleau Skating Arena
-DESCRIPTION:HSL 2015 AAA game #1009. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020781
+DESCRIPTION:HSL 2015 AAA game #1009. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020781
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020802@replay88.github.io
+UID:hsl-2020802@hslstats.ca
 DTSTAMP:20261212T161500Z
 DTSTART:20261212T161500Z
 DTEND:20261212T174500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Capital City Knights
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1030. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020802
+DESCRIPTION:HSL 2015 AAA game #1030. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020802
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020834@replay88.github.io
+UID:hsl-2020834@hslstats.ca
 DTSTAMP:20261212T231500Z
 DTSTART:20261212T231500Z
 DTEND:20261213T004500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1062. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020834
+DESCRIPTION:HSL 2015 AAA game #1062. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020834
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020837@replay88.github.io
+UID:hsl-2020837@hslstats.ca
 DTSTAMP:20261213T133000Z
 DTSTART:20261213T133000Z
 DTEND:20261213T150000Z
 SUMMARY:2015 AAA: Capital City Knights at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #1065. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2020837
+DESCRIPTION:HSL 2015 AAA game #1065. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020837
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021082@replay88.github.io
+UID:hsl-2021082@hslstats.ca
 DTSTAMP:20270109T004500Z
 DTSTART:20270109T004500Z
 DTEND:20270109T021500Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1310. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021082
+DESCRIPTION:HSL 2015 AAA game #1310. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021082
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021092@replay88.github.io
+UID:hsl-2021092@hslstats.ca
 DTSTAMP:20270109T154500Z
 DTSTART:20270109T154500Z
 DTEND:20270109T171500Z
 SUMMARY:2015 AAA: Queen City Young Guns at O2 Grizzlies
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1320. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021092
+DESCRIPTION:HSL 2015 AAA game #1320. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021092
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021114@replay88.github.io
+UID:hsl-2021114@hslstats.ca
 DTSTAMP:20270109T224500Z
 DTSTART:20270109T224500Z
 DTEND:20270110T001500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Warriors Hockey Academy (Sask)
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1342. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021114
+DESCRIPTION:HSL 2015 AAA game #1342. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021114
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021129@replay88.github.io
+UID:hsl-2021129@hslstats.ca
 DTSTAMP:20270110T150000Z
 DTSTART:20270110T150000Z
 DTEND:20270110T163000Z
 SUMMARY:2015 AAA: O2 Grizzlies at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1357. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021129
+DESCRIPTION:HSL 2015 AAA game #1357. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021129
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021280@replay88.github.io
+UID:hsl-2021280@hslstats.ca
 DTSTAMP:20270122T220000Z
 DTSTART:20270122T220000Z
 DTEND:20270122T233000Z
 SUMMARY:2015 AAA: Queen City Young Guns at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1508. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021280
+DESCRIPTION:HSL 2015 AAA game #1508. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021280
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021295@replay88.github.io
+UID:hsl-2021295@hslstats.ca
 DTSTAMP:20270123T013000Z
 DTSTART:20270123T013000Z
 DTEND:20270123T030000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1523. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021295
+DESCRIPTION:HSL 2015 AAA game #1523. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021295
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021303@replay88.github.io
+UID:hsl-2021303@hslstats.ca
 DTSTAMP:20270123T154500Z
 DTSTART:20270123T154500Z
 DTEND:20270123T171500Z
 SUMMARY:2015 AAA: Capital City Knights at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1531. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021303
+DESCRIPTION:HSL 2015 AAA game #1531. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021303
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021320@replay88.github.io
+UID:hsl-2021320@hslstats.ca
 DTSTAMP:20270123T191500Z
 DTSTART:20270123T191500Z
 DTEND:20270123T204500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1548. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021320
+DESCRIPTION:HSL 2015 AAA game #1548. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021320
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021515@replay88.github.io
+UID:hsl-2021515@hslstats.ca
 DTSTAMP:20270213T004500Z
 DTSTART:20270213T004500Z
 DTEND:20270213T021500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1743. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021515
+DESCRIPTION:HSL 2015 AAA game #1743. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021515
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021532@replay88.github.io
+UID:hsl-2021532@hslstats.ca
 DTSTAMP:20270213T180000Z
 DTSTART:20270213T180000Z
 DTEND:20270213T193000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1760. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021532
+DESCRIPTION:HSL 2015 AAA game #1760. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021532
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021546@replay88.github.io
+UID:hsl-2021546@hslstats.ca
 DTSTAMP:20270213T213000Z
 DTSTART:20270213T213000Z
 DTEND:20270213T230000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1774. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021546
+DESCRIPTION:HSL 2015 AAA game #1774. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021546
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021579@replay88.github.io
+UID:hsl-2021579@hslstats.ca
 DTSTAMP:20270214T191500Z
 DTSTART:20270214T191500Z
 DTEND:20270214T204500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Warriors Hockey Academy
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1807. Stats: https://replay88.github.io/hsl-scoring-race/#2015/g/2021579
+DESCRIPTION:HSL 2015 AAA game #1807. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021579
 END:VEVENT
 END:VCALENDAR

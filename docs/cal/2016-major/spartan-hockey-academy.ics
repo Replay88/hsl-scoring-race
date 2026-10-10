@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Spartan Hockey Academy (2016 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019775@replay88.github.io
+UID:hsl-2019775@hslstats.ca
 DTSTAMP:20260918T203000Z
 DTSTART:20260918T203000Z
 DTEND:20260918T220000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 8 – Queen City Young Guns 8 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2016 Major game #3. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019775
+DESCRIPTION:HSL 2016 Major game #3. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019775
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019804@replay88.github.io
+UID:hsl-2019804@hslstats.ca
 DTSTAMP:20260919T140000Z
 DTSTART:20260919T140000Z
 DTEND:20260919T153000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) 1 – Spartan Hockey Academy 16 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2016 Major game #32. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019804
+DESCRIPTION:HSL 2016 Major game #32. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019804
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019842@replay88.github.io
+UID:hsl-2019842@hslstats.ca
 DTSTAMP:20260919T204500Z
 DTSTART:20260919T204500Z
 DTEND:20260919T221500Z
 SUMMARY:2016 Major: Queen City Young Guns 2 – Spartan Hockey Academy 9 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2016 Major game #70. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019842
+DESCRIPTION:HSL 2016 Major game #70. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019842
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019900@replay88.github.io
+UID:hsl-2019900@hslstats.ca
 DTSTAMP:20260920T190000Z
 DTSTART:20260920T190000Z
 DTEND:20260920T203000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 16 – Warriors Hockey Academy (Sask) 3 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2016 Major game #128. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2019900
+DESCRIPTION:HSL 2016 Major game #128. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019900
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020031@replay88.github.io
+UID:hsl-2020031@hslstats.ca
 DTSTAMP:20261009T194500Z
 DTSTART:20261009T194500Z
 DTEND:20261009T211500Z
 SUMMARY:2016 Major: Spartan Hockey Academy 4 – Rebels Hockey Academy 5 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #259. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020031
+DESCRIPTION:HSL 2016 Major game #259. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020031
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020059@replay88.github.io
+UID:hsl-2020059@hslstats.ca
 DTSTAMP:20261010T143000Z
 DTSTART:20261010T143000Z
 DTEND:20261010T160000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Aces Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #287. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020059
+DESCRIPTION:HSL 2016 Major game #287. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020059
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020111@replay88.github.io
+UID:hsl-2020111@hslstats.ca
 DTSTAMP:20261011T010000Z
 DTSTART:20261011T010000Z
 DTEND:20261011T023000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #339. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020111
+DESCRIPTION:HSL 2016 Major game #339. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020111
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020145@replay88.github.io
+UID:hsl-2020145@hslstats.ca
 DTSTAMP:20261011T194500Z
 DTSTART:20261011T194500Z
 DTEND:20261011T211500Z
 SUMMARY:2016 Major: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #373. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020145
+DESCRIPTION:HSL 2016 Major game #373. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020145
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020238@replay88.github.io
+UID:hsl-2020238@hslstats.ca
 DTSTAMP:20261023T220000Z
 DTSTART:20261023T220000Z
 DTEND:20261023T233000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #466. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020238
+DESCRIPTION:HSL 2016 Major game #466. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020238
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020264@replay88.github.io
+UID:hsl-2020264@hslstats.ca
 DTSTAMP:20261024T191500Z
 DTSTART:20261024T191500Z
 DTEND:20261024T204500Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #492. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020264
+DESCRIPTION:HSL 2016 Major game #492. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020264
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020272@replay88.github.io
+UID:hsl-2020272@hslstats.ca
 DTSTAMP:20261024T224500Z
 DTSTART:20261024T224500Z
 DTEND:20261025T001500Z
 SUMMARY:2016 Major: MOB Hockey at Spartan Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #500. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020272
+DESCRIPTION:HSL 2016 Major game #500. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020272
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020300@replay88.github.io
+UID:hsl-2020300@hslstats.ca
 DTSTAMP:20261025T204500Z
 DTSTART:20261025T204500Z
 DTEND:20261025T221500Z
 SUMMARY:2016 Major: Caps Hockey Club at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2016 Major game #528. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020300
+DESCRIPTION:HSL 2016 Major game #528. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020300
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020500@replay88.github.io
+UID:hsl-2020500@hslstats.ca
 DTSTAMP:20261120T203000Z
 DTSTART:20261120T203000Z
 DTEND:20261120T220000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #728. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020500
+DESCRIPTION:HSL 2016 Major game #728. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020500
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020532@replay88.github.io
+UID:hsl-2020532@hslstats.ca
 DTSTAMP:20261121T140000Z
 DTSTART:20261121T140000Z
 DTEND:20261121T153000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Gorillas Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #760. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020532
+DESCRIPTION:HSL 2016 Major game #760. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020532
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020567@replay88.github.io
+UID:hsl-2020567@hslstats.ca
 DTSTAMP:20261121T210000Z
 DTSTART:20261121T210000Z
 DTEND:20261121T223000Z
 SUMMARY:2016 Major: Northern Hockey Club at Spartan Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #795. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020567
+DESCRIPTION:HSL 2016 Major game #795. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020567
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020632@replay88.github.io
+UID:hsl-2020632@hslstats.ca
 DTSTAMP:20261122T210000Z
 DTSTART:20261122T210000Z
 DTEND:20261122T223000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Spartan Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #860. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020632
+DESCRIPTION:HSL 2016 Major game #860. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020632
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020704@replay88.github.io
+UID:hsl-2020704@hslstats.ca
 DTSTAMP:20261205T010000Z
 DTSTART:20261205T010000Z
 DTEND:20261205T023000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #932. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020704
+DESCRIPTION:HSL 2016 Major game #932. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020704
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020722@replay88.github.io
+UID:hsl-2020722@hslstats.ca
 DTSTAMP:20261205T191500Z
 DTSTART:20261205T191500Z
 DTEND:20261205T204500Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #950. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020722
+DESCRIPTION:HSL 2016 Major game #950. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020722
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020958@replay88.github.io
+UID:hsl-2020958@hslstats.ca
 DTSTAMP:20261220T161500Z
 DTSTART:20261220T161500Z
 DTEND:20261220T174500Z
 SUMMARY:2016 Major: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1186. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2020958
+DESCRIPTION:HSL 2016 Major game #1186. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020958
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021006@replay88.github.io
+UID:hsl-2021006@hslstats.ca
 DTSTAMP:20270102T201500Z
 DTSTART:20270102T201500Z
 DTEND:20270102T214500Z
 SUMMARY:2016 Major: O2 Grizzlies at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Major game #1234. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021006
+DESCRIPTION:HSL 2016 Major game #1234. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021006
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021183@replay88.github.io
+UID:hsl-2021183@hslstats.ca
 DTSTAMP:20270116T160000Z
 DTSTART:20270116T160000Z
 DTEND:20270116T173000Z
 SUMMARY:2016 Major: Young Kings Hockey at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1411. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021183
+DESCRIPTION:HSL 2016 Major game #1411. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021183
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021203@replay88.github.io
+UID:hsl-2021203@hslstats.ca
 DTSTAMP:20270116T193000Z
 DTSTART:20270116T193000Z
 DTEND:20270116T210000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1431. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021203
+DESCRIPTION:HSL 2016 Major game #1431. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021203
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021242@replay88.github.io
+UID:hsl-2021242@hslstats.ca
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
 DTEND:20270117T153000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1470. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021242
+DESCRIPTION:HSL 2016 Major game #1470. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021242
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021260@replay88.github.io
+UID:hsl-2021260@hslstats.ca
 DTSTAMP:20270117T173000Z
 DTSTART:20270117T173000Z
 DTEND:20270117T190000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1488. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021260
+DESCRIPTION:HSL 2016 Major game #1488. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021260
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021409@replay88.github.io
+UID:hsl-2021409@hslstats.ca
 DTSTAMP:20270131T164500Z
 DTSTART:20270131T164500Z
 DTEND:20270131T181500Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Major game #1637. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021409
+DESCRIPTION:HSL 2016 Major game #1637. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021409
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021467@replay88.github.io
+UID:hsl-2021467@hslstats.ca
 DTSTAMP:20270206T213000Z
 DTSTART:20270206T213000Z
 DTEND:20270206T230000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Spartan Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Major game #1695. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021467
+DESCRIPTION:HSL 2016 Major game #1695. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021467
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021537@replay88.github.io
+UID:hsl-2021537@hslstats.ca
 DTSTAMP:20270213T193000Z
 DTSTART:20270213T193000Z
 DTEND:20270213T210000Z
 SUMMARY:2016 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1765. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021537
+DESCRIPTION:HSL 2016 Major game #1765. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021537
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021556@replay88.github.io
+UID:hsl-2021556@hslstats.ca
 DTSTAMP:20270214T003000Z
 DTSTART:20270214T003000Z
 DTEND:20270214T020000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1784. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021556
+DESCRIPTION:HSL 2016 Major game #1784. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021556
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021575@replay88.github.io
+UID:hsl-2021575@hslstats.ca
 DTSTAMP:20270214T180000Z
 DTSTART:20270214T180000Z
 DTEND:20270214T193000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1803. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021575
+DESCRIPTION:HSL 2016 Major game #1803. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021575
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021625@replay88.github.io
+UID:hsl-2021625@hslstats.ca
 DTSTAMP:20270220T174500Z
 DTSTART:20270220T174500Z
 DTEND:20270220T191500Z
 SUMMARY:2016 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1853. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021625
+DESCRIPTION:HSL 2016 Major game #1853. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021625
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021674@replay88.github.io
+UID:hsl-2021674@hslstats.ca
 DTSTAMP:20270221T164500Z
 DTSTART:20270221T164500Z
 DTEND:20270221T181500Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Spartan Hockey Academy 17M
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1902. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021674
+DESCRIPTION:HSL 2016 Major game #1902. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021674
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021689@replay88.github.io
+UID:hsl-2021689@hslstats.ca
 DTSTAMP:20270221T220000Z
 DTSTART:20270221T220000Z
 DTEND:20270221T233000Z
 SUMMARY:2016 Major: O2 Grizzlies at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1917. Stats: https://replay88.github.io/hsl-scoring-race/#2016/g/2021689
+DESCRIPTION:HSL 2016 Major game #1917. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021689
 END:VEVENT
 END:VCALENDAR

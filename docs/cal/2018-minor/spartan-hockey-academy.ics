@@ -5,291 +5,291 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Spartan Hockey Academy (2018 Minor)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019807@replay88.github.io
+UID:hsl-2019807@hslstats.ca
 DTSTAMP:20260919T144500Z
 DTSTART:20260919T144500Z
 DTEND:20260919T161500Z
 SUMMARY:2018 Minor: HC Calgary Bandits 11 – Spartan Hockey Academy 1 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #35. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019807
+DESCRIPTION:HSL 2018 Minor game #35. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019807
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019849@replay88.github.io
+UID:hsl-2019849@hslstats.ca
 DTSTAMP:20260919T214500Z
 DTSTART:20260919T214500Z
 DTEND:20260919T231500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy 5 – South Sask Academy 4 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #77. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019849
+DESCRIPTION:HSL 2018 Minor game #77. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019849
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019877@replay88.github.io
+UID:hsl-2019877@hslstats.ca
 DTSTAMP:20260920T144500Z
 DTSTART:20260920T144500Z
 DTEND:20260920T161500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy 1 – HC Calgary Bandits 7 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #105. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019877
+DESCRIPTION:HSL 2018 Minor game #105. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019877
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019898@replay88.github.io
+UID:hsl-2019898@hslstats.ca
 DTSTAMP:20260920T181500Z
 DTSTART:20260920T181500Z
 DTEND:20260920T194500Z
 SUMMARY:2018 Minor: South Sask Academy 8 – Spartan Hockey Academy 5 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #126. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019898
+DESCRIPTION:HSL 2018 Minor game #126. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019898
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020158@replay88.github.io
+UID:hsl-2020158@hslstats.ca
 DTSTAMP:20261016T210000Z
 DTSTART:20261016T210000Z
 DTEND:20261016T223000Z
 SUMMARY:2018 Minor: YYC Jays at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #386. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020158
+DESCRIPTION:HSL 2018 Minor game #386. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020158
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020192@replay88.github.io
+UID:hsl-2020192@hslstats.ca
 DTSTAMP:20261017T191500Z
 DTSTART:20261017T191500Z
 DTEND:20261017T204500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #420. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020192
+DESCRIPTION:HSL 2018 Minor game #420. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020192
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020217@replay88.github.io
+UID:hsl-2020217@hslstats.ca
 DTSTAMP:20261018T151500Z
 DTSTART:20261018T151500Z
 DTEND:20261018T164500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #445. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020217
+DESCRIPTION:HSL 2018 Minor game #445. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020217
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020236@replay88.github.io
+UID:hsl-2020236@hslstats.ca
 DTSTAMP:20261018T210000Z
 DTSTART:20261018T210000Z
 DTEND:20261018T223000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #464. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020236
+DESCRIPTION:HSL 2018 Minor game #464. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020236
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020408@replay88.github.io
+UID:hsl-2020408@hslstats.ca
 DTSTAMP:20261107T161500Z
 DTSTART:20261107T161500Z
 DTEND:20261107T174500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Coast 2 Coast
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #636. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020408
+DESCRIPTION:HSL 2018 Minor game #636. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020408
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020419@replay88.github.io
+UID:hsl-2020419@hslstats.ca
 DTSTAMP:20261107T194500Z
 DTSTART:20261107T194500Z
 DTEND:20261107T211500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #647. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020419
+DESCRIPTION:HSL 2018 Minor game #647. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020419
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020442@replay88.github.io
+UID:hsl-2020442@hslstats.ca
 DTSTAMP:20261108T160000Z
 DTSTART:20261108T160000Z
 DTEND:20261108T173000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #670. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020442
+DESCRIPTION:HSL 2018 Minor game #670. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020442
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020458@replay88.github.io
+UID:hsl-2020458@hslstats.ca
 DTSTAMP:20261108T213000Z
 DTSTART:20261108T213000Z
 DTEND:20261108T230000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #686. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020458
+DESCRIPTION:HSL 2018 Minor game #686. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020458
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020529@replay88.github.io
+UID:hsl-2020529@hslstats.ca
 DTSTAMP:20261121T140000Z
 DTSTART:20261121T140000Z
 DTEND:20261121T153000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #757. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020529
+DESCRIPTION:HSL 2018 Minor game #757. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020529
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020550@replay88.github.io
+UID:hsl-2020550@hslstats.ca
 DTSTAMP:20261121T173000Z
 DTSTART:20261121T173000Z
 DTEND:20261121T190000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #778. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020550
+DESCRIPTION:HSL 2018 Minor game #778. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020550
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020593@replay88.github.io
+UID:hsl-2020593@hslstats.ca
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020593
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020593
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020622@replay88.github.io
+UID:hsl-2020622@hslstats.ca
 DTSTAMP:20261122T191500Z
 DTSTART:20261122T191500Z
 DTEND:20261122T204500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #850. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020622
+DESCRIPTION:HSL 2018 Minor game #850. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020622
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020701@replay88.github.io
+UID:hsl-2020701@hslstats.ca
 DTSTAMP:20261205T003000Z
 DTSTART:20261205T003000Z
 DTEND:20261205T020000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Coast 2 Coast
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #929. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020701
+DESCRIPTION:HSL 2018 Minor game #929. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020701
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020709@replay88.github.io
+UID:hsl-2020709@hslstats.ca
 DTSTAMP:20261205T144500Z
 DTSTART:20261205T144500Z
 DTEND:20261205T161500Z
 SUMMARY:2018 Minor: Northern Hockey Club at Spartan Hockey Academy
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #937. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020709
+DESCRIPTION:HSL 2018 Minor game #937. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020709
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020729@replay88.github.io
+UID:hsl-2020729@hslstats.ca
 DTSTAMP:20261205T214500Z
 DTSTART:20261205T214500Z
 DTEND:20261205T231500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #957. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020729
+DESCRIPTION:HSL 2018 Minor game #957. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020729
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020747@replay88.github.io
+UID:hsl-2020747@hslstats.ca
 DTSTAMP:20261206T154500Z
 DTSTART:20261206T154500Z
 DTEND:20261206T171500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #975. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020747
+DESCRIPTION:HSL 2018 Minor game #975. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020747
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020760@replay88.github.io
+UID:hsl-2020760@hslstats.ca
 DTSTAMP:20261206T194500Z
 DTSTART:20261206T194500Z
 DTEND:20261206T211500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #988. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020760
+DESCRIPTION:HSL 2018 Minor game #988. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020760
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020866@replay88.github.io
+UID:hsl-2020866@hslstats.ca
 DTSTAMP:20261213T213000Z
 DTSTART:20261213T213000Z
 DTEND:20261213T230000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #1094. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020866
+DESCRIPTION:HSL 2018 Minor game #1094. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020866
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020989@replay88.github.io
+UID:hsl-2020989@hslstats.ca
 DTSTAMP:20270102T174500Z
 DTSTART:20270102T174500Z
 DTEND:20270102T191500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at South Sask Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1217. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020989
+DESCRIPTION:HSL 2018 Minor game #1217. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020989
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021008@replay88.github.io
+UID:hsl-2021008@hslstats.ca
 DTSTAMP:20270102T230000Z
 DTSTART:20270102T230000Z
 DTEND:20270103T003000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1236. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021008
+DESCRIPTION:HSL 2018 Minor game #1236. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021008
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021026@replay88.github.io
+UID:hsl-2021026@hslstats.ca
 DTSTAMP:20270103T144500Z
 DTSTART:20270103T144500Z
 DTEND:20270103T161500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1254. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021026
+DESCRIPTION:HSL 2018 Minor game #1254. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021026
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021062@replay88.github.io
+UID:hsl-2021062@hslstats.ca
 DTSTAMP:20270103T200000Z
 DTSTART:20270103T200000Z
 DTEND:20270103T213000Z
 SUMMARY:2018 Minor: YYC Jays at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1290. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021062
+DESCRIPTION:HSL 2018 Minor game #1290. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021062
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021165@replay88.github.io
+UID:hsl-2021165@hslstats.ca
 DTSTAMP:20270116T004500Z
 DTSTART:20270116T004500Z
 DTEND:20270116T021500Z
 SUMMARY:2018 Minor: South Sask Academy at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1393. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021165
+DESCRIPTION:HSL 2018 Minor game #1393. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021165
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021172@replay88.github.io
+UID:hsl-2021172@hslstats.ca
 DTSTAMP:20270116T140000Z
 DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1400. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021172
+DESCRIPTION:HSL 2018 Minor game #1400. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021172
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021210@replay88.github.io
+UID:hsl-2021210@hslstats.ca
 DTSTAMP:20270116T210000Z
 DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1438. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021210
+DESCRIPTION:HSL 2018 Minor game #1438. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021210
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021367@replay88.github.io
+UID:hsl-2021367@hslstats.ca
 DTSTAMP:20270124T180000Z
 DTSTART:20270124T180000Z
 DTEND:20270124T193000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Minor game #1595. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021367
+DESCRIPTION:HSL 2018 Minor game #1595. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021367
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021533@replay88.github.io
+UID:hsl-2021533@hslstats.ca
 DTSTAMP:20270213T181500Z
 DTSTART:20270213T181500Z
 DTEND:20270213T194500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Minor game #1761. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021533
+DESCRIPTION:HSL 2018 Minor game #1761. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021533
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021566@replay88.github.io
+UID:hsl-2021566@hslstats.ca
 DTSTAMP:20270214T154500Z
 DTSTART:20270214T154500Z
 DTEND:20270214T171500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Minor game #1794. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021566
+DESCRIPTION:HSL 2018 Minor game #1794. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021566
 END:VEVENT
 END:VCALENDAR
