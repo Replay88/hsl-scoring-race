@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "hsl-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cache/state.json docs/index.html docs/og.png
+          git add cache/state.json docs
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Update stats $(date '+%b %-d %-I:%M %p')"
           git push

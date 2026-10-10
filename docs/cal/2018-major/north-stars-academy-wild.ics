@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Stars Academy Wild (2018 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019779@replay88.github.io
+DTSTAMP:20260918T220000Z
+DTSTART:20260918T220000Z
+DTEND:20260918T233000Z
+SUMMARY:2018 Major: North Stars Academy Wild 0 – Aces Hockey Academy 9 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #7. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019779
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019825@replay88.github.io
+DTSTAMP:20260919T173000Z
+DTSTART:20260919T173000Z
+DTEND:20260919T190000Z
+SUMMARY:2018 Major: North Stars Academy Wild 2 – MOB Hockey 9 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #53. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019825
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019885@replay88.github.io
+DTSTAMP:20260920T154500Z
+DTSTART:20260920T154500Z
+DTEND:20260920T171500Z
+SUMMARY:2018 Major: Aces Hockey Academy 13 – North Stars Academy Wild 2 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #113. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019885
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019902@replay88.github.io
+DTSTAMP:20260920T191500Z
+DTSTART:20260920T191500Z
+DTEND:20260920T204500Z
+SUMMARY:2018 Major: Saints Pro Hockey Academy 3 – North Stars Academy Wild 0 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #130. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019902
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020037@replay88.github.io
+DTSTAMP:20261009T223000Z
+DTSTART:20261009T223000Z
+DTEND:20261010T000000Z
+SUMMARY:2018 Major: North Stars Academy Wild 5 – Aces Hockey Academy 6 (Final)
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2018 Major game #265. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020037
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020084@replay88.github.io
+DTSTAMP:20261010T191500Z
+DTSTART:20261010T191500Z
+DTEND:20261010T204500Z
+SUMMARY:2018 Major: MOB Hockey at North Stars Academy Wild
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2018 Major game #312. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020084
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020115@replay88.github.io
+DTSTAMP:20261011T140000Z
+DTSTART:20261011T140000Z
+DTEND:20261011T153000Z
+SUMMARY:2018 Major: North Stars Academy Wild at MOB Hockey
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #343. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020115
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020135@replay88.github.io
+DTSTAMP:20261011T173000Z
+DTSTART:20261011T173000Z
+DTEND:20261011T190000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Capital City Knights
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #363. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020135
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020313@replay88.github.io
+DTSTAMP:20261030T224500Z
+DTSTART:20261030T224500Z
+DTEND:20261031T001500Z
+SUMMARY:2018 Major: North Stars Academy Wild at Sauce Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #541. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020313
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020354@replay88.github.io
+DTSTAMP:20261031T214500Z
+DTSTART:20261031T214500Z
+DTEND:20261031T231500Z
+SUMMARY:2018 Major: O2 Grizzlies at North Stars Academy Wild
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #582. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020354
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020373@replay88.github.io
+DTSTAMP:20261101T181500Z
+DTSTART:20261101T181500Z
+DTEND:20261101T194500Z
+SUMMARY:2018 Major: North Stars Academy Wild at O2 Grizzlies
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #601. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020373
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020383@replay88.github.io
+DTSTAMP:20261101T214500Z
+DTSTART:20261101T214500Z
+DTEND:20261101T231500Z
+SUMMARY:2018 Major: Calgary Crusaders at North Stars Academy Wild
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #611. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020383
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020664@replay88.github.io
+DTSTAMP:20261128T230000Z
+DTSTART:20261128T230000Z
+DTEND:20261129T003000Z
+SUMMARY:2018 Major: Young Kings Hockey at North Stars Academy Wild
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #892. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020664
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020686@replay88.github.io
+DTSTAMP:20261129T210000Z
+DTSTART:20261129T210000Z
+DTEND:20261129T223000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #914. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020686
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020908@replay88.github.io
+DTSTAMP:20261219T181500Z
+DTSTART:20261219T181500Z
+DTEND:20261219T194500Z
+SUMMARY:2018 Major: Queen City Young Guns at North Stars Academy Wild
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1136. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020908
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020931@replay88.github.io
+DTSTAMP:20261219T233000Z
+DTSTART:20261219T233000Z
+DTEND:20261220T010000Z
+SUMMARY:2018 Major: Sask Super Selects at North Stars Academy Wild
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1159. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020931
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020942@replay88.github.io
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2018 Major: North Stars Academy Wild at Spartan Hockey Academy
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1170. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020942
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020944@replay88.github.io
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T143000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Sask Super Selects
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1172. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020944
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021083@replay88.github.io
+DTSTAMP:20270109T004500Z
+DTSTART:20270109T004500Z
+DTEND:20270109T021500Z
+SUMMARY:2018 Major: Stars Hockey Academy at North Stars Academy Wild
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1311. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021083
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021105@replay88.github.io
+DTSTAMP:20270109T191500Z
+DTSTART:20270109T191500Z
+DTEND:20270109T204500Z
+SUMMARY:2018 Major: North Stars Academy Wild at Queen City Young Guns
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1333. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021105
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021116@replay88.github.io
+DTSTAMP:20270109T224500Z
+DTSTART:20270109T224500Z
+DTEND:20270110T001500Z
+SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Academy Wild
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1344. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021116
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021137@replay88.github.io
+DTSTAMP:20270110T173000Z
+DTSTART:20270110T173000Z
+DTEND:20270110T190000Z
+SUMMARY:2018 Major: Sask Super Selects at North Stars Academy Wild
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1365. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021137
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021197@replay88.github.io
+DTSTAMP:20270116T181500Z
+DTSTART:20270116T181500Z
+DTEND:20270116T194500Z
+SUMMARY:2018 Major: Capital City Knights at North Stars Academy Wild
+LOCATION:Nexsource 1
+DESCRIPTION:HSL 2018 Major game #1425. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021197
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021218@replay88.github.io
+DTSTAMP:20270116T214500Z
+DTSTART:20270116T214500Z
+DTEND:20270116T231500Z
+SUMMARY:2018 Major: North Stars Academy Wild at Saints Pro Hockey Academy
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2018 Major game #1446. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021218
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021292@replay88.github.io
+DTSTAMP:20270123T004500Z
+DTSTART:20270123T004500Z
+DTEND:20270123T021500Z
+SUMMARY:2018 Major: North Stars Academy Wild at Rebels Hockey Academy
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1520. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021292
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021328@replay88.github.io
+DTSTAMP:20270123T210000Z
+DTSTART:20270123T210000Z
+DTEND:20270123T223000Z
+SUMMARY:2018 Major: North Stars Hockey Academy at North Stars Academy Wild
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1556. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021328
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021340@replay88.github.io
+DTSTAMP:20270124T003000Z
+DTSTART:20270124T003000Z
+DTEND:20270124T020000Z
+SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Academy Wild
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1568. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021340
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021348@replay88.github.io
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T153000Z
+SUMMARY:2018 Major: North Stars Academy Wild at North Stars Hockey Academy
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1576. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021348
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021594@replay88.github.io
+DTSTAMP:20270219T230000Z
+DTSTART:20270219T230000Z
+DTEND:20270220T003000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at North Stars Academy Wild
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1822. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021594
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021629@replay88.github.io
+DTSTAMP:20270220T183000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T200000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Capital City Knights
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1857. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021629
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021679@replay88.github.io
+DTSTAMP:20270221T173000Z
+DTSTART:20270221T173000Z
+DTEND:20270221T190000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Gorillas Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1907. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021679
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021688@replay88.github.io
+DTSTAMP:20270221T210000Z
+DTSTART:20270221T210000Z
+DTEND:20270221T223000Z
+SUMMARY:2018 Major: Saints Pro Hockey Academy at North Stars Academy Wild
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1916. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021688
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Capital City Knights (2018 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019789@replay88.github.io
+DTSTAMP:20260918T234500Z
+DTSTART:20260918T234500Z
+DTEND:20260919T011500Z
+SUMMARY:2018 Major: Capital City Knights 1 – Rebels Hockey Academy 15 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #17. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019789
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019834@replay88.github.io
+DTSTAMP:20260919T191500Z
+DTSTART:20260919T191500Z
+DTEND:20260919T204500Z
+SUMMARY:2018 Major: Rebels Hockey Academy 12 – Capital City Knights 3 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #62. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019834
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019863@replay88.github.io
+DTSTAMP:20260920T003000Z
+DTSTART:20260920T003000Z
+DTEND:20260920T020000Z
+SUMMARY:2018 Major: Aces Hockey Academy 13 – Capital City Knights 1 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #91. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019863
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019911@replay88.github.io
+DTSTAMP:20260920T210000Z
+DTSTART:20260920T210000Z
+DTEND:20260920T223000Z
+SUMMARY:2018 Major: Capital City Knights 0 – Aces Hockey Academy 14 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #139. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019911
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020032@replay88.github.io
+DTSTAMP:20261009T204500Z
+DTSTART:20261009T204500Z
+DTEND:20261009T221500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy 9 – Capital City Knights 4 (Final)
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2018 Major game #260. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020032
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020079@replay88.github.io
+DTSTAMP:20261010T174500Z
+DTSTART:20261010T174500Z
+DTEND:20261010T191500Z
+SUMMARY:2018 Major: Capital City Knights at Gorillas Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #307. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020079
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020135@replay88.github.io
+DTSTAMP:20261011T173000Z
+DTSTART:20261011T173000Z
+DTEND:20261011T190000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Capital City Knights
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #363. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020135
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020149@replay88.github.io
+DTSTAMP:20261011T210000Z
+DTSTART:20261011T210000Z
+DTEND:20261011T223000Z
+SUMMARY:2018 Major: Capital City Knights at North Stars Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #377. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020149
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020323@replay88.github.io
+DTSTAMP:20261031T013000Z
+DTSTART:20261031T013000Z
+DTEND:20261031T030000Z
+SUMMARY:2018 Major: Capital City Knights at Saints Pro Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #551. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020323
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020349@replay88.github.io
+DTSTAMP:20261031T191500Z
+DTSTART:20261031T191500Z
+DTEND:20261031T204500Z
+SUMMARY:2018 Major: Capital City Knights at Rebels Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #577. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020349
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020381@replay88.github.io
+DTSTAMP:20261101T210000Z
+DTSTART:20261101T210000Z
+DTEND:20261101T223000Z
+SUMMARY:2018 Major: Saints Pro Hockey Academy at Capital City Knights
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #609. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020381
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020456@replay88.github.io
+DTSTAMP:20261108T210000Z
+DTSTART:20261108T210000Z
+DTEND:20261108T223000Z
+SUMMARY:2018 Major: North Stars Hockey Academy at Capital City Knights
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2018 Major game #684. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020456
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020678@replay88.github.io
+DTSTAMP:20261129T173000Z
+DTSTART:20261129T173000Z
+DTEND:20261129T190000Z
+SUMMARY:2018 Major: MOB Hockey at Capital City Knights
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #906. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020678
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020689@replay88.github.io
+DTSTAMP:20261129T224500Z
+DTSTART:20261129T224500Z
+DTEND:20261130T001500Z
+SUMMARY:2018 Major: Capital City Knights at North Stars Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #917. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020689
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020772@replay88.github.io
+DTSTAMP:20261211T221500Z
+DTSTART:20261211T221500Z
+DTEND:20261211T234500Z
+SUMMARY:2018 Major: Young Kings Hockey at Capital City Knights
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Major game #1000. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020772
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020789@replay88.github.io
+DTSTAMP:20261212T143000Z
+DTSTART:20261212T143000Z
+DTEND:20261212T160000Z
+SUMMARY:2018 Major: Sauce Hockey Academy at Capital City Knights
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Major game #1017. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020789
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020831@replay88.github.io
+DTSTAMP:20261212T233000Z
+DTSTART:20261212T233000Z
+DTEND:20261213T010000Z
+SUMMARY:2018 Major: Capital City Knights at Young Kings Hockey
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2018 Major game #1059. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020831
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020851@replay88.github.io
+DTSTAMP:20261213T161500Z
+DTSTART:20261213T161500Z
+DTEND:20261213T174500Z
+SUMMARY:2018 Major: Capital City Knights at Sauce Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2018 Major game #1079. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020851
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021058@replay88.github.io
+DTSTAMP:20270103T204500Z
+DTSTART:20270103T204500Z
+DTEND:20270103T221500Z
+SUMMARY:2018 Major: Aces Hockey Academy at Capital City Knights
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Major game #1286. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021058
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021071@replay88.github.io
+DTSTAMP:20270108T211500Z
+DTSTART:20270108T211500Z
+DTEND:20270108T224500Z
+SUMMARY:2018 Major: Capital City Knights at Sask Super Selects
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1299. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021071
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021088@replay88.github.io
+DTSTAMP:20270109T140000Z
+DTSTART:20270109T140000Z
+DTEND:20270109T153000Z
+SUMMARY:2018 Major: Capital City Knights at Queen City Young Guns
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1316. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021088
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021143@replay88.github.io
+DTSTAMP:20270110T191500Z
+DTSTART:20270110T191500Z
+DTEND:20270110T204500Z
+SUMMARY:2018 Major: Capital City Knights at Stars Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1371. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021143
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021197@replay88.github.io
+DTSTAMP:20270116T181500Z
+DTSTART:20270116T181500Z
+DTEND:20270116T194500Z
+SUMMARY:2018 Major: Capital City Knights at North Stars Academy Wild
+LOCATION:Nexsource 1
+DESCRIPTION:HSL 2018 Major game #1425. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021197
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021275@replay88.github.io
+DTSTAMP:20270117T220000Z
+DTSTART:20270117T220000Z
+DTEND:20270117T233000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Capital City Knights
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #1503. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021275
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021279@replay88.github.io
+DTSTAMP:20270122T210000Z
+DTSTART:20270122T210000Z
+DTEND:20270122T223000Z
+SUMMARY:2018 Major: Calgary Crusaders at Capital City Knights
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1507. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021279
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021314@replay88.github.io
+DTSTAMP:20270123T173000Z
+DTSTART:20270123T173000Z
+DTEND:20270123T190000Z
+SUMMARY:2018 Major: Spartan Hockey Academy at Capital City Knights
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1542. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021314
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021341@replay88.github.io
+DTSTAMP:20270124T003000Z
+DTSTART:20270124T003000Z
+DTEND:20270124T020000Z
+SUMMARY:2018 Major: Sauce Hockey Academy at Capital City Knights
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1569. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021341
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021361@replay88.github.io
+DTSTAMP:20270124T191500Z
+DTSTART:20270124T191500Z
+DTEND:20270124T204500Z
+SUMMARY:2018 Major: Capital City Knights at O2 Grizzlies
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1589. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021361
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021586@replay88.github.io
+DTSTAMP:20270214T224500Z
+DTSTART:20270214T224500Z
+DTEND:20270215T001500Z
+SUMMARY:2018 Major: Capital City Knights at Saints Pro Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #1814. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021586
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021602@replay88.github.io
+DTSTAMP:20270220T004500Z
+DTSTART:20270220T004500Z
+DTEND:20270220T021500Z
+SUMMARY:2018 Major: Capital City Knights at MOB Hockey
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1830. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021602
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021629@replay88.github.io
+DTSTAMP:20270220T183000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T200000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Capital City Knights
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1857. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021629
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021661@replay88.github.io
+DTSTAMP:20270221T140000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T153000Z
+SUMMARY:2018 Major: MOB Hockey at Capital City Knights
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1889. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021661
+END:VEVENT
+END:VCALENDAR

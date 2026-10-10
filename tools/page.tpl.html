@@ -158,7 +158,7 @@ footer a{color:var(--accent)}
 <script>
 const DATA=__DATA__;
 const DIVKEYS={"2018":"2018 Major","2017":"2017 Major"};
-const SECS=[["leaders","Leaders"],["standings","Standings"],["goalies","Goalies"],["race","Points race"],["scores","Scores"],["schedule","Schedule"],["records","Records"]];
+const SECS=[["leaders","Leaders"],["standings","Standings"],["goalies","Goalies"],["race","Points race"],["scores","Scores"],["schedule","Schedule"],["records","Records"],["recap","Recap"]];
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const slug=s=>String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
@@ -213,6 +213,8 @@ function render(){
   else if(sec==='scores') v.innerHTML=scores(dk);
   else if(sec==='schedule') v.innerHTML=schedule(dk);
   else if(sec==='records') v.innerHTML=records(dk);
+  else if(sec==='recap') v.innerHTML=recap(dk);
+  if(sec==='recap') wireCopy();
   if(sec==='race') drawRace(dk);
   if(sec==='leaders') wireLeaders(dk);
   v.querySelectorAll('button.star').forEach(b=>b.onclick=()=>{const k=b.dataset.k, l=FOLLOW[dk]=FOLLOW[dk]||[]; const i=l.indexOf(k); i<0?l.push(k):l.splice(i,1); saveFollow(); render();});
@@ -295,19 +297,60 @@ function drawRace(dk){
 function gameCard(dk,gid,extra){
   const g=DATA[DIVKEYS[dk]].G[gid]; if(!g) return '';
   const hw=g.hs>g.vs, aw=g.vs>g.hs;
-  return `<a class="game" href="${G(dk,gid)}"><span class="t r ${aw?'w':hw?'lo':''}">${esc(g.away)}</span><span class="sc"><span class="${aw?'w':'lo'}">${g.vs}</span> – <span class="${hw?'w':'lo'}">${g.hs}</span></span><span class="t ${hw?'w':aw?'lo':''}">${esc(g.home)}</span><span class="meta"><span>${extra||''}${g.status.replace('Final','Final').replace('Final SO','Final (SO)')}</span><span>${esc(g.rink)}</span>${g.shots[g.home]&&g.shots[g.away]?`<span>Shots ${g.shots[g.away].slice(-1)}–${g.shots[g.home].slice(-1)}</span>`:''}</span></a>`;
+  return `<a class="game" href="${G(dk,gid)}"><span class="t r ${aw?'w':hw?'lo':''}">${esc(g.away)}</span><span class="sc"><span class="${aw?'w':'lo'}">${g.vs}</span> – <span class="${hw?'w':'lo'}">${g.hs}</span></span><span class="t ${hw?'w':aw?'lo':''}">${esc(g.home)}</span><span class="meta"><span>${fmtDay(g.day,1)}${g.time?' · '+esc(g.time):''} · ${g.status==='Final SO'?'Final (SO)':esc(g.status)}</span><span>${esc(g.rink)}</span>${g.shots[g.home]&&g.shots[g.away]?`<span>Shots ${g.shots[g.away].slice(-1)}–${g.shots[g.home].slice(-1)}</span>`:''}</span></a>`;
 }
+const TODAY=new Date().toISOString().slice(0,10);
+const CAL=dk=>`replay88.github.io/hsl-scoring-race/cal/${slug(DIVKEYS[dk])}/`;
+const calBtn=(dk,file,label)=>`<a class="star" style="display:inline-block;font-family:var(--data);font-size:14px;padding:7px 12px;border:1px solid var(--line);border-radius:6px;background:var(--surface)" href="webcal://${CAL(dk)}${file}.ics">📅 ${label}</a>`;
+function rec(dk,team){const s=DATA[DIVKEYS[dk]].standings.find(x=>x.team===team); return s?{txt:`${s.W}-${s.L}-${s.T}`,rank:DATA[DIVKEYS[dk]].standings.indexOf(s)+1,s}:{txt:'0-0-0',rank:'–'};}
+function h2h(dk,a,b){const D=DATA[DIVKEYS[dk]]; const gs=Object.entries(D.G).filter(([,g])=>(g.home===a&&g.away===b)||(g.home===b&&g.away===a)).sort((x,y)=>y[1].day.localeCompare(x[1].day)); let w=0,l=0,t=0; gs.forEach(([,g])=>{const gf=g.home===a?g.hs:g.vs, ga=g.home===a?g.vs:g.hs; gf>ga?w++:gf<ga?l++:t++;}); return {w,l,t,n:gs.length,last:gs[0]};}
+function topScorer(dk,team){return DATA[DIVKEYS[dk]].rows.find(r=>r[1]===team);}
+function weekendGames(dk){const u=DATA[DIVKEYS[dk]].upcoming.filter(g=>g.day>=TODAY); if(!u.length) return []; const first=u[0].day; const [Y,M,Dd]=first.split('-').map(Number); const d0=new Date(Y,M-1,Dd); const dow=d0.getDay(); const end=new Date(d0); end.setDate(d0.getDate()+(dow===0?0:dow===6?1:dow===5?2:2)); const endS=end.toISOString().slice(0,10); return u.filter(g=>g.day<=endS);}
+function weekend(dk){
+  const D=DATA[DIVKEYS[dk]], w=weekendGames(dk); if(!w.length) return '';
+  const days=[...new Set(w.map(g=>g.day))], span=days.length>1?fmtDay(days[0],1)+' – '+fmtDay(days[days.length-1],1):fmtDay(days[0],1);
+  const row=g=>{const a=rec(dk,g.away), h=rec(dk,g.home), x=h2h(dk,g.away,g.home); const ta=topScorer(dk,g.away), th=topScorer(dk,g.home);
+    return `<tr><td class="l" style="color:var(--muted);white-space:normal;min-width:70px">${days.length>1?fmtDay(g.day)+'<br>':''}${esc(g.time)}</td><td class="l player">${T(dk,g.away)} <span style="color:var(--muted);font-weight:400">(${a.txt}, ${a.rank}${['st','nd','rd'][a.rank-1]||'th'})</span><br><span style="color:var(--muted);font-weight:400">at</span> ${T(dk,g.home)} <span style="color:var(--muted);font-weight:400">(${h.txt}, ${h.rank}${['st','nd','rd'][h.rank-1]||'th'})</span><span class="t">${x.n?`Season series: ${esc(short(g.away))} ${x.w}-${x.l}-${x.t} · last meeting <a class="lnk" href="${G(dk,x.last[0])}">${x.last[1].home===g.home?x.last[1].vs+'–'+x.last[1].hs:x.last[1].hs+'–'+x.last[1].vs}</a> on ${fmtDay(x.last[1].day)}`:'First meeting this season'}${ta||th?` · Top scorers: ${ta?P(dk,D.rows.indexOf(ta))+' '+ta[6]:''}${ta&&th?', ':''}${th?P(dk,D.rows.indexOf(th))+' '+th[6]:''}`:''}</span></td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`;};
+  return `<div class="card"><h2>This weekend<small>${esc(span)} · ${w.length} games</small></h2><div class="tbl"><table><tbody>${w.map(row).join('')}</tbody></table></div><p class="note">Records and season series as of the last update. <a class="lnk" href="${href(dk,'schedule')}">Full schedule</a></p></div>`;
+}
+function recapText(dk){
+  const D=DATA[DIVKEYS[dk]], n=DIVKEYS[dk], lo=D.days.length?D.days[D.days.length-1]:null; if(!lo) return 'No games yet.';
+  const [Y,M,Dd]=lo.split('-').map(Number); const from=new Date(Y,M-1,Dd-2).toISOString().slice(0,10);
+  const wk=Object.entries(D.G).filter(([,g])=>g.day>=from).sort((a,b)=>a[1].day.localeCompare(b[1].day)||a[0].localeCompare(b[0]));
+  const L=[]; L.push(`HSL ${n} – weekend recap, ${D.hotspan}`); L.push('');
+  L.push('RESULTS'); let day=''; wk.forEach(([gid,g])=>{ if(g.day!==day){day=g.day;L.push(fmtDay(day,1));} L.push(`  ${short(g.away)} ${g.vs}, ${short(g.home)} ${g.hs}${g.status==='Final SO'?' (SO)':''}`); });
+  L.push(''); L.push('STANDINGS (top 5)'); D.standings.slice(0,5).forEach((s,i)=>L.push(`  ${i+1}. ${short(s.team)} ${s.W}-${s.L}-${s.T}, ${s.PTS} pts`));
+  L.push(''); L.push('SCORING LEADERS'); D.rows.slice(0,5).forEach(r=>L.push(`  ${r[10]}. ${r[0]} (${short(r[1])}) ${r[6]} pts, ${r[4]}G ${r[5]}A in ${r[3]} GP${r[11]>0?' ▲'+r[11]:r[11]<0?' ▼'+(-r[11]):''}`));
+  if(D.hot.length){L.push(''); L.push('HOT THIS WEEKEND'); D.hot.slice(0,5).forEach(h=>L.push(`  ${h[0]} (${short(h[1])}) ${h[5]} pts, ${h[3]}G ${h[4]}A in ${h[2]} GP`));}
+  const hats=D.hats.filter(h=>h[0]>=from); if(hats.length){L.push(''); L.push('HAT TRICKS'); hats.forEach(h=>{const r=D.rows[h[1]], g=D.G[h[2]], opp=g.home===r[1]?g.away:g.home; L.push(`  ${r[0]} (${short(r[1])}) ${h[3]}G ${h[4]}A vs ${short(opp)}`);});}
+  const gq=D.goalies.map(q=>{const l=q.log.filter(x=>x[5]&&D.G[x[0]]&&D.G[x[0]].day>=from); const sa=l.reduce((a,x)=>a+x[3],0), sv=l.reduce((a,x)=>a+x[4],0); return {q,sa,sv};}).filter(x=>x.sa>=15).sort((a,b)=>b.sv/b.sa-a.sv/a.sa)[0];
+  if(gq){L.push(''); L.push('GOALIE OF THE WEEKEND'); L.push(`  ${gq.q.name} (${short(gq.q.team)}) ${gq.sv}/${gq.sa} saves, .${Math.round(gq.sv/gq.sa*1000)}`);}
+  const w=weekendGames(dk); if(w.length){L.push(''); L.push('NEXT UP'); let d2=''; w.forEach(g=>{ if(g.day!==d2){d2=g.day;L.push(fmtDay(d2,1));} L.push(`  ${g.time} ${short(g.away)} at ${short(g.home)}, ${g.loc}`); });}
+  L.push(''); L.push('Full stats: https://replay88.github.io/hsl-scoring-race/#'+dk+'/leaders');
+  return L.join('\n');
+}
+function recap(dk){
+  const txt=recapText(dk);
+  return `<div class="card"><h2>Weekend recap<small>ready to paste into the team chat</small></h2><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="star" id="copyBtn">Copy recap</button><span class="note" id="copyMsg" style="align-self:center"></span></div><textarea id="recapTxt" readonly style="width:100%;min-height:420px;font:13.5px/1.45 ui-monospace,Menlo,Consolas,monospace;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:10px;resize:vertical">${esc(txt)}</textarea><p class="note">Built from the last weekend with games. Edit the text before you send it if you like.</p></div>`;
+}
+function wireCopy(){const b=$('#copyBtn'), ta=$('#recapTxt'); if(!b) return; b.onclick=async()=>{try{await navigator.clipboard.writeText(ta.value); $('#copyMsg').textContent='Copied.';}catch(e){ta.focus(); ta.select(); $('#copyMsg').textContent='Press Ctrl/Cmd+C to copy.';}};}
 function scores(dk){
   const D=DATA[DIVKEYS[dk]], gids=Object.keys(D.G).sort((a,b)=>D.G[b].day.localeCompare(D.G[a].day)||b.localeCompare(a));
   const days=[...new Set(gids.map(g=>D.G[g].day))];
   const gw=D.gotw, lab={closest:'Closest finish',blowout:'Biggest blowout',goals:'Most goals',shots:'Most shots'};
   const gotw=Object.keys(gw).length?`<div class="card"><h2>Games of the weekend<small>${esc(D.hotspan)}</small></h2><div class="gotw">${Object.entries(gw).map(([k,gid])=>{const g=D.G[gid];const sh=g.shots[g.home]&&g.shots[g.away]?g.shots[g.away].slice(-1)+'–'+g.shots[g.home].slice(-1)+' shots':'';return `<a href="${G(dk,gid)}"><span class="k">${lab[k]}</span><span class="v">${esc(short(g.away))} ${g.vs}, ${esc(short(g.home))} ${g.hs}</span><span class="s">${fmtDay(g.day,1)}${k==='shots'&&sh?' · '+sh:''}</span></a>`;}).join('')}</div></div>`:'';
-  return gotw+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="gl">${gids.filter(g=>D.G[g].day===d).map(g=>gameCard(dk,g,D.G[g].time?D.G[g].time+' · ':'')).join('')}</div></div>`).join('');
+  return weekend(dk)+gotw+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="gl">${gids.filter(g=>D.G[g].day===d).map(g=>gameCard(dk,g)).join('')}</div></div>`).join('');
 }
 function schedule(dk){
-  const u=DATA[DIVKEYS[dk]].upcoming; if(!u.length) return '<p class="empty">No upcoming games on the league calendar.</p>';
+  const D=DATA[DIVKEYS[dk]], all=D.upcoming.filter(g=>g.day>=TODAY);
+  const teams=[...new Set(D.standings.map(s=>s.team).concat(all.flatMap(g=>[g.home,g.away])))].sort();
+  const subs=`<div class="card"><h2>Add to your phone's calendar</h2><p class="note" style="margin:0">Subscribe once and every game shows up in your calendar with the rink, and scores fill in after the game. Pick a team, or take the whole division.</p><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><select id="calTeam" aria-label="Team calendar" style="font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg)"><option value="all">Whole division (${esc(DIVKEYS[dk])})</option>${teams.map(t=>`<option value="${esc(slug(t))}">${esc(t)}</option>`).join('')}</select>${calBtn(dk,'all','Subscribe')}</div><p class="note" style="margin:0">On iPhone the link opens Calendar and asks to subscribe. On Android, copy the address and add it in Google Calendar under "From URL": <code id="calUrl" style="user-select:all">https://${CAL(dk)}all.ics</code></p></div>`;
+  if(!all.length) return subs+'<p class="empty">No upcoming games on the league calendar.</p>';
+  const cutoff=new Date(Date.now()+15*864e5).toISOString().slice(0,10);
+  const u=all.filter(g=>g.day<=cutoff).length?all.filter(g=>g.day<=cutoff):all.slice(0,20);
   const days=[...new Set(u.map(g=>g.day))];
-  return days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="tbl"><table><tbody>${u.filter(g=>g.day===d).map(g=>`<tr><td class="l" style="width:84px">${esc(g.time)}</td><td class="l player">${T(dk,g.away)} <span style="color:var(--muted);font-weight:400">at</span> ${T(dk,g.home)}</td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`).join('')}</tbody></table></div></div>`).join('')+'<p class="note">From the league calendar; times are Mountain. Showing the next 40 games.</p>';
+  setTimeout(()=>{const sel=$('#calTeam'); if(!sel) return; sel.onchange=()=>{const f=sel.value; sel.parentElement.querySelector('a.star').href=`webcal://${CAL(dk)}${f}.ics`; $('#calUrl').textContent=`https://${CAL(dk)}${f}.ics`;};},0);
+  return subs+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="tbl"><table><tbody>${u.filter(g=>g.day===d).map(g=>`<tr><td class="l" style="width:84px">${esc(g.time)}</td><td class="l player">${T(dk,g.away)} <span style="color:var(--muted);font-weight:400">at</span> ${T(dk,g.home)}</td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`).join('')}</tbody></table></div></div>`).join('')+`<p class="note">From the league calendar; times are Mountain. Showing the next two weeks (${u.length} games of ${all.length} left on the schedule).</p>`;
 }
 function records(dk){
   const D=DATA[DIVKEYS[dk]];
@@ -349,8 +392,8 @@ function team(dk,id){
   <div class="stats">${stat(s.GP,'GP')}${stat(s.GF,'GF')}${stat(s.GA,'GA')}${stat((s.DIFF>0?'+':'')+s.DIFF,'Diff')}${stat((s.GF/s.GP).toFixed(1),'GF/GP')}${stat((s.GA/s.GP).toFixed(1),'GA/GP')}${stat(s.SGP?(s.SF/s.SGP).toFixed(1):'–','Shots/GP')}${stat(s.SGP?(s.SA/s.SGP).toFixed(1):'–','Shots vs/GP')}${stat(s.PPG,'PP goals')}${stat(s.PIM,'PIM')}</div>
   <div class="card"><h2>Roster<small>${roster.length} skaters, by points</small></h2><div class="tbl"><table><thead><tr><th class="l">#</th><th class="l">Player</th><th>GP</th><th>G</th><th>A</th><th>PTS</th><th class="hide-s">P/GP</th><th class="hide-s">PPG</th><th>PIM</th></tr></thead><tbody>${roster.map(r=>`<tr${isFollowed(dk,r)?' class="me"':''}><td class="l rk">${esc(r[2])}</td><td class="l player">${P(dk,D.rows.indexOf(r))}<span class="t">Ranked #${r[10]} in division</span></td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td class="pts">${r[6]}</td><td class="hide-s">${r[3]?(r[6]/r[3]).toFixed(2):'0'}</td><td class="hide-s">${r[8]}</td><td>${r[7]}</td></tr>`).join('')}</tbody></table></div></div>
   ${gls.length?`<div class="card"><h2>Goalies</h2><div class="tbl"><table>${GHEAD}<tbody>${goalieRows(dk,gls)}</tbody></table></div></div>`:''}
-  <div class="two"><div class="card"><h2>Results</h2><div class="gl">${results.map(([gid,g])=>gameCard(dk,gid,fmtDay(g.day,1)+' · ')).join('')}</div></div>
-  <div class="card"><h2>Up next</h2>${up.length?`<div class="tbl"><table><tbody>${up.map(g=>`<tr><td class="l" style="color:var(--muted)">${fmtDay(g.day,1)}<br>${esc(g.time)}</td><td class="l player">${g.home===name?'vs '+T(dk,g.away,1):'at '+T(dk,g.home,1)}<span class="t">${esc(g.loc)}</span></td></tr>`).join('')}</tbody></table></div>`:'<p class="note">Nothing on the league calendar.</p>'}</div></div>`;
+  <div class="two"><div class="card"><h2>Results</h2><div class="gl">${results.map(([gid,g])=>gameCard(dk,gid)).join('')}</div></div>
+  <div class="card"><h2>Up next</h2><div>${calBtn(dk,slug(name),'Add games to my calendar')}</div>${up.length?`<div class="tbl"><table><tbody>${up.map(g=>`<tr><td class="l" style="color:var(--muted)">${fmtDay(g.day,1)}<br>${esc(g.time)}</td><td class="l player">${g.home===name?'vs '+T(dk,g.away,1):'at '+T(dk,g.home,1)}<span class="t">${esc(g.loc)}</span></td></tr>`).join('')}</tbody></table></div>`:'<p class="note">Nothing on the league calendar.</p>'}</div></div>`;
 }
 function game(dk,gid){
   const D=DATA[DIVKEYS[dk]], g=D.G[gid], I=IDX[dk];

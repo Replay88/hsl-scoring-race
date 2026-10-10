@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Gorillas Hockey Academy (2018 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019798@replay88.github.io
+DTSTAMP:20260919T013000Z
+DTSTART:20260919T013000Z
+DTEND:20260919T030000Z
+SUMMARY:2018 Major: MOB Hockey 8 – Gorillas Hockey Academy 6 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #26. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019798
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019816@replay88.github.io
+DTSTAMP:20260919T154500Z
+DTSTART:20260919T154500Z
+DTEND:20260919T171500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy 11 – North Stars Hockey Academy 2 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #44. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019816
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019845@replay88.github.io
+DTSTAMP:20260919T210000Z
+DTSTART:20260919T210000Z
+DTEND:20260919T223000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy 9 – Saints Pro Hockey Academy 11 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #73. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019845
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019874@replay88.github.io
+DTSTAMP:20260920T140000Z
+DTSTART:20260920T140000Z
+DTEND:20260920T153000Z
+SUMMARY:2018 Major: Rebels Hockey Academy 11 – Gorillas Hockey Academy 1 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #102. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2019874
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020032@replay88.github.io
+DTSTAMP:20261009T204500Z
+DTSTART:20261009T204500Z
+DTEND:20261009T221500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy 9 – Capital City Knights 4 (Final)
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2018 Major game #260. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020032
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020058@replay88.github.io
+DTSTAMP:20261010T141500Z
+DTSTART:20261010T141500Z
+DTEND:20261010T154500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Aces Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #286. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020058
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020079@replay88.github.io
+DTSTAMP:20261010T174500Z
+DTSTART:20261010T174500Z
+DTEND:20261010T191500Z
+SUMMARY:2018 Major: Capital City Knights at Gorillas Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #307. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020079
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020143@replay88.github.io
+DTSTAMP:20261011T191500Z
+DTSTART:20261011T191500Z
+DTEND:20261011T204500Z
+SUMMARY:2018 Major: Aces Hockey Academy at Gorillas Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #371. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020143
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020326@replay88.github.io
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T143000Z
+SUMMARY:2018 Major: Sauce Hockey Academy at Gorillas Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #554. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020326
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020351@replay88.github.io
+DTSTAMP:20261031T200000Z
+DTSTART:20261031T200000Z
+DTEND:20261031T213000Z
+SUMMARY:2018 Major: Queen City Young Guns at Gorillas Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #579. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020351
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020366@replay88.github.io
+DTSTAMP:20261101T163000Z
+DTSTART:20261101T163000Z
+DTEND:20261101T180000Z
+SUMMARY:2018 Major: Spartan Hockey Academy at Gorillas Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #594. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020366
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020379@replay88.github.io
+DTSTAMP:20261101T200000Z
+DTSTART:20261101T200000Z
+DTEND:20261101T213000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Sauce Hockey Academy
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Major game #607. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020379
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020649@replay88.github.io
+DTSTAMP:20261128T160000Z
+DTSTART:20261128T160000Z
+DTEND:20261128T173000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Rebels Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #877. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020649
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020686@replay88.github.io
+DTSTAMP:20261129T210000Z
+DTSTART:20261129T210000Z
+DTEND:20261129T223000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #914. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020686
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020723@replay88.github.io
+DTSTAMP:20261205T194500Z
+DTSTART:20261205T194500Z
+DTEND:20261205T211500Z
+SUMMARY:2018 Major: O2 Grizzlies at Gorillas Hockey Academy
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #951. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020723
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020893@replay88.github.io
+DTSTAMP:20261219T143000Z
+DTSTART:20261219T143000Z
+DTEND:20261219T160000Z
+SUMMARY:2018 Major: Saints Pro Hockey Academy at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #1121. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020893
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020921@replay88.github.io
+DTSTAMP:20261219T213000Z
+DTSTART:20261219T213000Z
+DTEND:20261219T230000Z
+SUMMARY:2018 Major: North Stars Hockey Academy at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #1149. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020921
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020946@replay88.github.io
+DTSTAMP:20261220T140000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T153000Z
+SUMMARY:2018 Major: Rebels Hockey Academy at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #1174. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020946
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020961@replay88.github.io
+DTSTAMP:20261220T173000Z
+DTSTART:20261220T173000Z
+DTEND:20261220T190000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Calgary Crusaders
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #1189. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2020961
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021048@replay88.github.io
+DTSTAMP:20270103T181500Z
+DTSTART:20270103T181500Z
+DTEND:20270103T194500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Major game #1276. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021048
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021069@replay88.github.io
+DTSTAMP:20270108T193000Z
+DTSTART:20270108T193000Z
+DTEND:20270108T210000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at MOB Hockey
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1297. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021069
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021093@replay88.github.io
+DTSTAMP:20270109T154500Z
+DTSTART:20270109T154500Z
+DTEND:20270109T171500Z
+SUMMARY:2018 Major: Sask Super Selects at Gorillas Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1321. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021093
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021109@replay88.github.io
+DTSTAMP:20270109T210000Z
+DTSTART:20270109T210000Z
+DTEND:20270109T223000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Stars Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1337. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021109
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021196@replay88.github.io
+DTSTAMP:20270116T181500Z
+DTSTART:20270116T181500Z
+DTEND:20270116T194500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Aces Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Major game #1424. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021196
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021275@replay88.github.io
+DTSTAMP:20270117T220000Z
+DTSTART:20270117T220000Z
+DTEND:20270117T233000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Capital City Knights
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #1503. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021275
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021322@replay88.github.io
+DTSTAMP:20270123T191500Z
+DTSTART:20270123T191500Z
+DTEND:20270123T204500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at O2 Grizzlies
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1550. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021322
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021358@replay88.github.io
+DTSTAMP:20270124T173000Z
+DTSTART:20270124T173000Z
+DTEND:20270124T190000Z
+SUMMARY:2018 Major: Young Kings Hockey at Gorillas Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1586. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021358
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021363@replay88.github.io
+DTSTAMP:20270124T210000Z
+DTSTART:20270124T210000Z
+DTEND:20270124T223000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Spartan Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1591. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021363
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021594@replay88.github.io
+DTSTAMP:20270219T230000Z
+DTSTART:20270219T230000Z
+DTEND:20270220T003000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at North Stars Academy Wild
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1822. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021594
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021611@replay88.github.io
+DTSTAMP:20270220T150000Z
+DTSTART:20270220T150000Z
+DTEND:20270220T163000Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1839. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021611
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021637@replay88.github.io
+DTSTAMP:20270220T201500Z
+DTSTART:20270220T201500Z
+DTEND:20270220T214500Z
+SUMMARY:2018 Major: MOB Hockey at Gorillas Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1865. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021637
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021679@replay88.github.io
+DTSTAMP:20270221T173000Z
+DTSTART:20270221T173000Z
+DTEND:20270221T190000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Gorillas Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1907. Stats: https://replay88.github.io/hsl-scoring-race/#2018/g/2021679
+END:VEVENT
+END:VCALENDAR

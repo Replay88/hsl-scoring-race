@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Scoring Race//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Stars Hockey Academy (2017 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019817@replay88.github.io
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T173000Z
+SUMMARY:2017 Major: Stars Hockey Academy 3 – Gorillas Hockey Academy 3 (Final)
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2017 Major game #45. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019817
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019857@replay88.github.io
+DTSTAMP:20260919T230000Z
+DTSTART:20260919T230000Z
+DTEND:20260920T003000Z
+SUMMARY:2017 Major: Stars Hockey Academy 0 – Saints Pro Hockey Academy 13 (Final)
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2017 Major game #85. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019857
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019884@replay88.github.io
+DTSTAMP:20260920T154500Z
+DTSTART:20260920T154500Z
+DTEND:20260920T171500Z
+SUMMARY:2017 Major: Stars Hockey Academy 2 – Aces Hockey Academy 6 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2017 Major game #112. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019884
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019903@replay88.github.io
+DTSTAMP:20260920T193000Z
+DTSTART:20260920T193000Z
+DTEND:20260920T210000Z
+SUMMARY:2017 Major: Stars Hockey Academy 6 – Wolverines Hockey Academy 9 (Final)
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2017 Major game #131. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2019903
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020067@replay88.github.io
+DTSTAMP:20261010T160000Z
+DTSTART:20261010T160000Z
+DTEND:20261010T173000Z
+SUMMARY:2017 Major: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:Vauxhall Recreation Centre
+DESCRIPTION:HSL 2017 Major game #295. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020067
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020085@replay88.github.io
+DTSTAMP:20261010T193000Z
+DTSTART:20261010T193000Z
+DTEND:20261010T210000Z
+SUMMARY:2017 Major: Calgary Crusaders at Stars Hockey Academy
+LOCATION:Vauxhall Recreation Centre
+DESCRIPTION:HSL 2017 Major game #313. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020085
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020140@replay88.github.io
+DTSTAMP:20261011T183000Z
+DTSTART:20261011T183000Z
+DTEND:20261011T200000Z
+SUMMARY:2017 Major: Stars Hockey Academy at Calgary Crusaders
+LOCATION:Vauxhall Recreation Centre
+DESCRIPTION:HSL 2017 Major game #368. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020140
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020152@replay88.github.io
+DTSTAMP:20261011T220000Z
+DTSTART:20261011T220000Z
+DTEND:20261011T233000Z
+SUMMARY:2017 Major: Young Kings Hockey at Stars Hockey Academy
+LOCATION:Vauxhall Recreation Centre
+DESCRIPTION:HSL 2017 Major game #380. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020152
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020310@replay88.github.io
+DTSTAMP:20261030T214500Z
+DTSTART:20261030T214500Z
+DTEND:20261030T231500Z
+SUMMARY:2017 Major: Stars Hockey Academy at MOB Hockey
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #538. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020310
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020341@replay88.github.io
+DTSTAMP:20261031T173000Z
+DTSTART:20261031T173000Z
+DTEND:20261031T190000Z
+SUMMARY:2017 Major: Stars Hockey Academy at Warriors Hockey Academy (Sask)
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #569. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020341
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020375@replay88.github.io
+DTSTAMP:20261101T181500Z
+DTSTART:20261101T181500Z
+DTEND:20261101T194500Z
+SUMMARY:2017 Major: Stars Hockey Academy at Young Kings Hockey
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #603. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020375
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020384@replay88.github.io
+DTSTAMP:20261101T223000Z
+DTSTART:20261101T223000Z
+DTEND:20261102T000000Z
+SUMMARY:2017 Major: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #612. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020384
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020519@replay88.github.io
+DTSTAMP:20261121T004500Z
+DTSTART:20261121T004500Z
+DTEND:20261121T021500Z
+SUMMARY:2017 Major: MOB Hockey at Stars Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2017 Major game #747. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020519
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020561@replay88.github.io
+DTSTAMP:20261121T193000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T210000Z
+SUMMARY:2017 Major: Aces Hockey Academy at Stars Hockey Academy
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2017 Major game #789. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020561
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020576@replay88.github.io
+DTSTAMP:20261121T230000Z
+DTSTART:20261121T230000Z
+DTEND:20261122T003000Z
+SUMMARY:2017 Major: Stars Hockey Academy at MOB Hockey
+LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DESCRIPTION:HSL 2017 Major game #804. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020576
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020612@replay88.github.io
+DTSTAMP:20261122T173000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T190000Z
+SUMMARY:2017 Major: Stars Hockey Academy at North Stars Academy Wild
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2017 Major game #840. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020612
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020777@replay88.github.io
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
+SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Stars Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #1005. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020777
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020798@replay88.github.io
+DTSTAMP:20261212T163000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T180000Z
+SUMMARY:2017 Major: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #1026. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020798
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020823@replay88.github.io
+DTSTAMP:20261212T214500Z
+DTSTART:20261212T214500Z
+DTEND:20261212T231500Z
+SUMMARY:2017 Major: Stars Hockey Academy at Warriors Hockey Academy (Sask)
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #1051. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020823
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020856@replay88.github.io
+DTSTAMP:20261213T173000Z
+DTSTART:20261213T173000Z
+DTEND:20261213T190000Z
+SUMMARY:2017 Major: Young Kings Hockey at Stars Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #1084. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2020856
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021153@replay88.github.io
+DTSTAMP:20270115T221500Z
+DTSTART:20270115T221500Z
+DTEND:20270115T234500Z
+SUMMARY:2017 Major: Stars Hockey Academy at Queen City Young Guns
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2017 Major game #1381. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021153
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021182@replay88.github.io
+DTSTAMP:20270116T154500Z
+DTSTART:20270116T154500Z
+DTEND:20270116T171500Z
+SUMMARY:2017 Major: South Sask Academy at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2017 Major game #1410. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021182
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021220@replay88.github.io
+DTSTAMP:20270116T220000Z
+DTSTART:20270116T220000Z
+DTEND:20270116T233000Z
+SUMMARY:2017 Major: Queen City Young Guns at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2017 Major game #1448. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021220
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021263@replay88.github.io
+DTSTAMP:20270117T184500Z
+DTSTART:20270117T184500Z
+DTEND:20270117T201500Z
+SUMMARY:2017 Major: Saints Pro Hockey Academy at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2017 Major game #1491. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021263
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021452@replay88.github.io
+DTSTAMP:20270206T164500Z
+DTSTART:20270206T164500Z
+DTEND:20270206T181500Z
+SUMMARY:2017 Major: Sauce Hockey Academy at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1680. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021452
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021464@replay88.github.io
+DTSTAMP:20270206T201500Z
+DTSTART:20270206T201500Z
+DTEND:20270206T214500Z
+SUMMARY:2017 Major: Vipers Hockey Academy at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1692. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021464
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021482@replay88.github.io
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T153000Z
+SUMMARY:2017 Major: Stars Hockey Academy at Vipers Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1710. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021482
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021492@replay88.github.io
+DTSTAMP:20270207T173000Z
+DTSTART:20270207T173000Z
+DTEND:20270207T190000Z
+SUMMARY:2017 Major: Stars Hockey Academy at Sauce Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1720. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021492
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021593@replay88.github.io
+DTSTAMP:20270219T230000Z
+DTSTART:20270219T230000Z
+DTEND:20270220T003000Z
+SUMMARY:2017 Major: Calgary Crusaders at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1821. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021593
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021614@replay88.github.io
+DTSTAMP:20270220T154500Z
+DTSTART:20270220T154500Z
+DTEND:20270220T171500Z
+SUMMARY:2017 Major: Wolverines Hockey Academy at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1842. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021614
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021648@replay88.github.io
+DTSTAMP:20270220T224500Z
+DTSTART:20270220T224500Z
+DTEND:20270221T001500Z
+SUMMARY:2017 Major: Sauce Hockey Academy at Stars Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1876. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021648
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021669@replay88.github.io
+DTSTAMP:20270221T154500Z
+DTSTART:20270221T154500Z
+DTEND:20270221T171500Z
+SUMMARY:2017 Major: Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1897. Stats: https://replay88.github.io/hsl-scoring-race/#2017/g/2021669
+END:VEVENT
+END:VCALENDAR

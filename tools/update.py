@@ -309,6 +309,53 @@ def mmdd(day):
     return dt.date.fromisoformat(day).strftime("%b %-d")
 
 
+def slug(s):
+    return re.sub(r"-+$|^-+", "", re.sub(r"[^a-z0-9]+", "-", s.lower()))
+
+
+def ics_escape(s):
+    return s.replace("\\", "\\\\").replace(",", "\\,").replace(";", "\\;")
+
+
+def write_calendars(did, name, sched, G):
+    """One subscribable .ics per team (and one per division) in docs/cal/<div>/."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo("America/Edmonton")
+    folder = os.path.join(os.path.dirname(OUT), "cal", slug(name))
+    os.makedirs(folder, exist_ok=True)
+    games = [(gid, s) for gid, s in sched.items() if s["div"] == did]
+    teams = sorted({s["home"] for _, s in games} | {s["away"] for _, s in games})
+
+    def event(gid, s):
+        hh, mm = divmod(s["sort"], 60)
+        y, m, d_ = map(int, s["day"].split("-"))
+        start = dt.datetime(y, m, d_, hh, mm, tzinfo=tz).astimezone(dt.timezone.utc)
+        end = start + dt.timedelta(minutes=90)
+        g = G.get(gid)
+        title = f"{s['away']} at {s['home']}"
+        if g:
+            title = f"{s['away']} {g['vs']} – {s['home']} {g['hs']} (Final)"
+        return "\r\n".join([
+            "BEGIN:VEVENT", f"UID:hsl-{gid}@replay88.github.io",
+            "DTSTAMP:" + start.strftime("%Y%m%dT%H%M%SZ"),
+            "DTSTART:" + start.strftime("%Y%m%dT%H%M%SZ"), "DTEND:" + end.strftime("%Y%m%dT%H%M%SZ"),
+            "SUMMARY:" + ics_escape(f"{name}: {title}"),
+            "LOCATION:" + ics_escape(s["loc"]),
+            "DESCRIPTION:" + ics_escape(f"HSL {name} game #{s['num']}. Stats: https://replay88.github.io/hsl-scoring-race/#{name[:4]}/g/{gid}"),
+            "END:VEVENT"])
+
+    def write(path, label, evs):
+        body = "\r\n".join(["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//HSL Scoring Race//EN", "CALSCALE:GREGORIAN",
+                             "X-WR-CALNAME:" + ics_escape(label), "X-WR-TIMEZONE:America/Edmonton"] + evs + ["END:VCALENDAR"]) + "\r\n"
+        open(path, "w", encoding="utf-8", newline="").write(body)
+
+    ordered = sorted(games, key=lambda x: (x[1]["day"], x[1]["sort"]))
+    write(os.path.join(folder, "all.ics"), f"HSL {name}", [event(gid, s) for gid, s in ordered])
+    for team in teams:
+        write(os.path.join(folder, slug(team) + ".ics"), f"{team} ({name})",
+              [event(gid, s) for gid, s in ordered if team in (s["home"], s["away"])])
+
+
 def build(state):
     data = {}
     games = state["games"]
@@ -468,7 +515,8 @@ def build(state):
         # --- upcoming ---
         upcoming = sorted((dict(gid=gid, day=s["day"], time=s["time"], home=s["home"], away=s["away"], loc=s["loc"])
                            for gid, s in sched.items() if s["div"] == d and not s["final"] and s["day"] >= today),
-                          key=lambda s: (s["day"], sched[s["gid"]]["sort"]))[:40]
+                          key=lambda s: (s["day"], sched[s["gid"]]["sort"]))
+        write_calendars(d, name, sched, G)
 
         state.setdefault("ranks_new", {})[name] = ranks
         thru = mmdd(last) if last else "-"
