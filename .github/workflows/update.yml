@@ -2,11 +2,12 @@ name: Update scoring race
 
 on:
   schedule:
-    # Alberta game days (Fri-Sun), every 2 hours 8am-midnight Mountain (UTC-6/-7)
-    - cron: "0 14-22/2 * * 5,6,0"
-    - cron: "0 0-6/2 * * 6,0,1"
-    # once a day the rest of the week, ~7am Mountain
-    - cron: "0 13 * * 1-4"
+    # GitHub often runs cron late or skips top-of-the-hour slots, so run often and off the hour.
+    # Game days (Fri-Sun, Mountain): every 30 min from 8:17am to 11:47pm
+    - cron: "17,47 14-23 * * 5,6,0"
+    - cron: "17,47 0-5 * * 6,0,1"
+    # Weekdays: every 2 hours from 7:17am
+    - cron: "17 13-23/2 * * 1-4"
   workflow_dispatch: {}
 
 permissions:
