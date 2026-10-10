@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:North Stars Hockey Academy (2015 Minor)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019826@hslstats.ca
+UID:hsl-2019826@hslstats.com
 DTSTAMP:20260919T174500Z
 DTSTART:20260919T174500Z
 DTEND:20260919T191500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy 10 – Alberta Pro Hockey 0 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #54. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2019826
+DESCRIPTION:HSL 2015 Minor game #54. Stats: https://hslstats.com/#2015-minor/g/2019826
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019890@hslstats.ca
+UID:hsl-2019890@hslstats.com
 DTSTAMP:20260920T171500Z
 DTSTART:20260920T171500Z
 DTEND:20260920T184500Z
 SUMMARY:2015 Minor: Alberta Pro Hockey 4 – North Stars Hockey Academy 12 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #118. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2019890
+DESCRIPTION:HSL 2015 Minor game #118. Stats: https://hslstats.com/#2015-minor/g/2019890
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019977@hslstats.ca
+UID:hsl-2019977@hslstats.com
 DTSTAMP:20260927T181500Z
 DTSTART:20260927T181500Z
 DTEND:20260927T194500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy 10 – Alberta Pro Hockey 1 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #205. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2019977
+DESCRIPTION:HSL 2015 Minor game #205. Stats: https://hslstats.com/#2015-minor/g/2019977
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020046@hslstats.ca
+UID:hsl-2020046@hslstats.com
 DTSTAMP:20261010T001500Z
 DTSTART:20261010T001500Z
 DTEND:20261010T014500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy 4 – Bow Valley Jr. Bigfoot 2 (Final)
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2015 Minor game #274. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020046
+DESCRIPTION:HSL 2015 Minor game #274. Stats: https://hslstats.com/#2015-minor/g/2020046
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020073@hslstats.ca
+UID:hsl-2020073@hslstats.com
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2015 Minor: Riggers Hockey Academy (F) at North Stars Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2015 Minor game #301. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020073
+DESCRIPTION:HSL 2015 Minor game #301. Stats: https://hslstats.com/#2015-minor/g/2020073
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020095@hslstats.ca
+UID:hsl-2020095@hslstats.com
 DTSTAMP:20261010T211500Z
 DTSTART:20261010T211500Z
 DTEND:20261010T224500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2015 Minor game #323. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020095
+DESCRIPTION:HSL 2015 Minor game #323. Stats: https://hslstats.com/#2015-minor/g/2020095
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020116@hslstats.ca
+UID:hsl-2020116@hslstats.com
 DTSTAMP:20261011T141500Z
 DTSTART:20261011T141500Z
 DTEND:20261011T154500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy (F)
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2015 Minor game #344. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020116
+DESCRIPTION:HSL 2015 Minor game #344. Stats: https://hslstats.com/#2015-minor/g/2020116
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020156@hslstats.ca
+UID:hsl-2020156@hslstats.com
 DTSTAMP:20261015T003000Z
 DTSTART:20261015T003000Z
 DTEND:20261015T020000Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 Minor game #384. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020156
+DESCRIPTION:HSL 2015 Minor game #384. Stats: https://hslstats.com/#2015-minor/g/2020156
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020314@hslstats.ca
+UID:hsl-2020314@hslstats.com
 DTSTAMP:20261030T230000Z
 DTSTART:20261030T230000Z
 DTEND:20261031T003000Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #542. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020314
+DESCRIPTION:HSL 2015 Minor game #542. Stats: https://hslstats.com/#2015-minor/g/2020314
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020334@hslstats.ca
+UID:hsl-2020334@hslstats.com
 DTSTAMP:20261031T154500Z
 DTSTART:20261031T154500Z
 DTEND:20261031T171500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy (F) at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #562. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020334
+DESCRIPTION:HSL 2015 Minor game #562. Stats: https://hslstats.com/#2015-minor/g/2020334
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020385@hslstats.ca
+UID:hsl-2020385@hslstats.com
 DTSTAMP:20261101T224500Z
 DTSTART:20261101T224500Z
 DTEND:20261102T001500Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #613. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020385
+DESCRIPTION:HSL 2015 Minor game #613. Stats: https://hslstats.com/#2015-minor/g/2020385
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020486@hslstats.ca
+UID:hsl-2020486@hslstats.com
 DTSTAMP:20261115T004500Z
 DTSTART:20261115T004500Z
 DTEND:20261115T021500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy (F)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Minor game #714. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020486
+DESCRIPTION:HSL 2015 Minor game #714. Stats: https://hslstats.com/#2015-minor/g/2020486
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020523@hslstats.ca
+UID:hsl-2020523@hslstats.com
 DTSTAMP:20261121T014500Z
 DTSTART:20261121T014500Z
 DTEND:20261121T031500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #751. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020523
+DESCRIPTION:HSL 2015 Minor game #751. Stats: https://hslstats.com/#2015-minor/g/2020523
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020547@hslstats.ca
+UID:hsl-2020547@hslstats.com
 DTSTAMP:20261121T164500Z
 DTSTART:20261121T164500Z
 DTEND:20261121T181500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #775. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020547
+DESCRIPTION:HSL 2015 Minor game #775. Stats: https://hslstats.com/#2015-minor/g/2020547
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020562@hslstats.ca
+UID:hsl-2020562@hslstats.com
 DTSTAMP:20261121T201500Z
 DTSTART:20261121T201500Z
 DTEND:20261121T214500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #790. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020562
+DESCRIPTION:HSL 2015 Minor game #790. Stats: https://hslstats.com/#2015-minor/g/2020562
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020769@hslstats.ca
+UID:hsl-2020769@hslstats.com
 DTSTAMP:20261211T213000Z
 DTSTART:20261211T213000Z
 DTEND:20261211T230000Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #997. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020769
+DESCRIPTION:HSL 2015 Minor game #997. Stats: https://hslstats.com/#2015-minor/g/2020769
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020799@hslstats.ca
+UID:hsl-2020799@hslstats.com
 DTSTAMP:20261212T164500Z
 DTSTART:20261212T164500Z
 DTEND:20261212T181500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #1027. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020799
+DESCRIPTION:HSL 2015 Minor game #1027. Stats: https://hslstats.com/#2015-minor/g/2020799
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020832@hslstats.ca
+UID:hsl-2020832@hslstats.com
 DTSTAMP:20261212T234500Z
 DTSTART:20261212T234500Z
 DTEND:20261213T011500Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #1060. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020832
+DESCRIPTION:HSL 2015 Minor game #1060. Stats: https://hslstats.com/#2015-minor/g/2020832
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020918@hslstats.ca
+UID:hsl-2020918@hslstats.com
 DTSTAMP:20261219T210000Z
 DTSTART:20261219T210000Z
 DTEND:20261219T223000Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Alberta Pro Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2015 Minor game #1146. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020918
+DESCRIPTION:HSL 2015 Minor game #1146. Stats: https://hslstats.com/#2015-minor/g/2020918
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020953@hslstats.ca
+UID:hsl-2020953@hslstats.com
 DTSTAMP:20261220T153000Z
 DTSTART:20261220T153000Z
 DTEND:20261220T170000Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2015 Minor game #1181. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020953
+DESCRIPTION:HSL 2015 Minor game #1181. Stats: https://hslstats.com/#2015-minor/g/2020953
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020967@hslstats.ca
+UID:hsl-2020967@hslstats.com
 DTSTAMP:20261220T184500Z
 DTSTART:20261220T184500Z
 DTEND:20261220T201500Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at North Stars Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2015 Minor game #1195. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2020967
+DESCRIPTION:HSL 2015 Minor game #1195. Stats: https://hslstats.com/#2015-minor/g/2020967
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021005@hslstats.ca
+UID:hsl-2021005@hslstats.com
 DTSTAMP:20270102T201500Z
 DTSTART:20270102T201500Z
 DTEND:20270102T214500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Minor game #1233. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021005
+DESCRIPTION:HSL 2015 Minor game #1233. Stats: https://hslstats.com/#2015-minor/g/2021005
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021015@hslstats.ca
+UID:hsl-2021015@hslstats.com
 DTSTAMP:20270102T230000Z
 DTSTART:20270102T230000Z
 DTEND:20270103T003000Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Minor game #1243. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021015
+DESCRIPTION:HSL 2015 Minor game #1243. Stats: https://hslstats.com/#2015-minor/g/2021015
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021032@hslstats.ca
+UID:hsl-2021032@hslstats.com
 DTSTAMP:20270103T143000Z
 DTSTART:20270103T143000Z
 DTEND:20270103T160000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Minor game #1260. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021032
+DESCRIPTION:HSL 2015 Minor game #1260. Stats: https://hslstats.com/#2015-minor/g/2021032
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021277@hslstats.ca
+UID:hsl-2021277@hslstats.com
 DTSTAMP:20270121T003000Z
 DTSTART:20270121T003000Z
 DTEND:20270121T020000Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 Minor game #1505. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021277
+DESCRIPTION:HSL 2015 Minor game #1505. Stats: https://hslstats.com/#2015-minor/g/2021277
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021339@hslstats.ca
+UID:hsl-2021339@hslstats.com
 DTSTAMP:20270124T003000Z
 DTSTART:20270124T003000Z
 DTEND:20270124T020000Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #1567. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021339
+DESCRIPTION:HSL 2015 Minor game #1567. Stats: https://hslstats.com/#2015-minor/g/2021339
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021368@hslstats.ca
+UID:hsl-2021368@hslstats.com
 DTSTAMP:20270129T220000Z
 DTSTART:20270129T220000Z
 DTEND:20270129T233000Z
 SUMMARY:2015 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1596. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021368
+DESCRIPTION:HSL 2015 Minor game #1596. Stats: https://hslstats.com/#2015-minor/g/2021368
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021399@hslstats.ca
+UID:hsl-2021399@hslstats.com
 DTSTAMP:20270131T003000Z
 DTSTART:20270131T003000Z
 DTEND:20270131T020000Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1627. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021399
+DESCRIPTION:HSL 2015 Minor game #1627. Stats: https://hslstats.com/#2015-minor/g/2021399
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021598@hslstats.ca
+UID:hsl-2021598@hslstats.com
 DTSTAMP:20270219T234500Z
 DTSTART:20270219T234500Z
 DTEND:20270220T011500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy (F) at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #1826. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021598
+DESCRIPTION:HSL 2015 Minor game #1826. Stats: https://hslstats.com/#2015-minor/g/2021598
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021612@hslstats.ca
+UID:hsl-2021612@hslstats.com
 DTSTAMP:20270220T154500Z
 DTSTART:20270220T154500Z
 DTEND:20270220T171500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #1840. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021612
+DESCRIPTION:HSL 2015 Minor game #1840. Stats: https://hslstats.com/#2015-minor/g/2021612
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021647@hslstats.ca
+UID:hsl-2021647@hslstats.com
 DTSTAMP:20270220T224500Z
 DTSTART:20270220T224500Z
 DTEND:20270221T001500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy (F)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #1875. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021647
+DESCRIPTION:HSL 2015 Minor game #1875. Stats: https://hslstats.com/#2015-minor/g/2021647
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021667@hslstats.ca
+UID:hsl-2021667@hslstats.com
 DTSTAMP:20270221T154500Z
 DTSTART:20270221T154500Z
 DTEND:20270221T171500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #1895. Stats: https://replay88.github.io/hsl-scoring-race/#2015-minor/g/2021667
+DESCRIPTION:HSL 2015 Minor game #1895. Stats: https://hslstats.com/#2015-minor/g/2021667
 END:VEVENT
 END:VCALENDAR

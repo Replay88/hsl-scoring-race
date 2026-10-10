@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:North Stars Academy Wild (2014 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019786@hslstats.ca
+UID:hsl-2019786@hslstats.com
 DTSTAMP:20260918T234500Z
 DTSTART:20260918T234500Z
 DTEND:20260919T011500Z
 SUMMARY:2014 Major: South Sask Academy 5 – North Stars Academy Wild 8 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #14. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019786
+DESCRIPTION:HSL 2014 Major game #14. Stats: https://hslstats.com/#2014-major/g/2019786
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019836@hslstats.ca
+UID:hsl-2019836@hslstats.com
 DTSTAMP:20260919T193000Z
 DTSTART:20260919T193000Z
 DTEND:20260919T210000Z
 SUMMARY:2014 Major: North Stars Academy Wild 6 – South Sask Academy 7 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #64. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019836
+DESCRIPTION:HSL 2014 Major game #64. Stats: https://hslstats.com/#2014-major/g/2019836
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019948@hslstats.ca
+UID:hsl-2019948@hslstats.com
 DTSTAMP:20260926T201500Z
 DTSTART:20260926T201500Z
 DTEND:20260926T214500Z
 SUMMARY:2014 Major: Wolverines Hockey Academy 4 – North Stars Academy Wild 4 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 Major game #176. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019948
+DESCRIPTION:HSL 2014 Major game #176. Stats: https://hslstats.com/#2014-major/g/2019948
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019975@hslstats.ca
+UID:hsl-2019975@hslstats.com
 DTSTAMP:20260927T173000Z
 DTSTART:20260927T173000Z
 DTEND:20260927T190000Z
 SUMMARY:2014 Major: North Stars Academy Wild 3 – Wolverines Hockey Academy 7 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 Major game #203. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019975
+DESCRIPTION:HSL 2014 Major game #203. Stats: https://hslstats.com/#2014-major/g/2019975
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020167@hslstats.ca
+UID:hsl-2020167@hslstats.com
 DTSTAMP:20261017T001500Z
 DTSTART:20261017T001500Z
 DTEND:20261017T014500Z
 SUMMARY:2014 Major: North Stars Academy Wild at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #395. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020167
+DESCRIPTION:HSL 2014 Major game #395. Stats: https://hslstats.com/#2014-major/g/2020167
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020181@hslstats.ca
+UID:hsl-2020181@hslstats.com
 DTSTAMP:20261017T161500Z
 DTSTART:20261017T161500Z
 DTEND:20261017T174500Z
 SUMMARY:2014 Major: Caps Hockey Club at North Stars Academy Wild
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #409. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020181
+DESCRIPTION:HSL 2014 Major game #409. Stats: https://hslstats.com/#2014-major/g/2020181
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020198@hslstats.ca
+UID:hsl-2020198@hslstats.com
 DTSTAMP:20261017T204500Z
 DTSTART:20261017T204500Z
 DTEND:20261017T221500Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at North Stars Academy Wild
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #426. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020198
+DESCRIPTION:HSL 2014 Major game #426. Stats: https://hslstats.com/#2014-major/g/2020198
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020228@hslstats.ca
+UID:hsl-2020228@hslstats.com
 DTSTAMP:20261018T183000Z
 DTSTART:20261018T183000Z
 DTEND:20261018T200000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #456. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020228
+DESCRIPTION:HSL 2014 Major game #456. Stats: https://hslstats.com/#2014-major/g/2020228
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020307@hslstats.ca
+UID:hsl-2020307@hslstats.com
 DTSTAMP:20261030T210000Z
 DTSTART:20261030T210000Z
 DTEND:20261030T223000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #535. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020307
+DESCRIPTION:HSL 2014 Major game #535. Stats: https://hslstats.com/#2014-major/g/2020307
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020322@hslstats.ca
+UID:hsl-2020322@hslstats.com
 DTSTAMP:20261031T013000Z
 DTSTART:20261031T013000Z
 DTEND:20261031T030000Z
 SUMMARY:2014 Major: North Stars Academy Wild at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #550. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020322
+DESCRIPTION:HSL 2014 Major game #550. Stats: https://hslstats.com/#2014-major/g/2020322
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020339@hslstats.ca
+UID:hsl-2020339@hslstats.com
 DTSTAMP:20261031T164500Z
 DTSTART:20261031T164500Z
 DTEND:20261031T181500Z
 SUMMARY:2014 Major: HC Calgary Bandits at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #567. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020339
+DESCRIPTION:HSL 2014 Major game #567. Stats: https://hslstats.com/#2014-major/g/2020339
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020367@hslstats.ca
+UID:hsl-2020367@hslstats.com
 DTSTAMP:20261101T164500Z
 DTSTART:20261101T164500Z
 DTEND:20261101T181500Z
 SUMMARY:2014 Major: Capital City Knights at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #595. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020367
+DESCRIPTION:HSL 2014 Major game #595. Stats: https://hslstats.com/#2014-major/g/2020367
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020715@hslstats.ca
+UID:hsl-2020715@hslstats.com
 DTSTAMP:20261205T173000Z
 DTSTART:20261205T173000Z
 DTEND:20261205T190000Z
 SUMMARY:2014 Major: North Stars Academy Wild at HC Calgary Bandits
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2014 Major game #943. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020715
+DESCRIPTION:HSL 2014 Major game #943. Stats: https://hslstats.com/#2014-major/g/2020715
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020728@hslstats.ca
+UID:hsl-2020728@hslstats.com
 DTSTAMP:20261205T213000Z
 DTSTART:20261205T213000Z
 DTEND:20261205T230000Z
 SUMMARY:2014 Major: HC Calgary Bandits at North Stars Academy Wild
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2014 Major game #956. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020728
+DESCRIPTION:HSL 2014 Major game #956. Stats: https://hslstats.com/#2014-major/g/2020728
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020776@hslstats.ca
+UID:hsl-2020776@hslstats.com
 DTSTAMP:20261211T233000Z
 DTSTART:20261211T233000Z
 DTEND:20261212T010000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Capital City Knights
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1004. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020776
+DESCRIPTION:HSL 2014 Major game #1004. Stats: https://hslstats.com/#2014-major/g/2020776
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020786@hslstats.ca
+UID:hsl-2020786@hslstats.com
 DTSTAMP:20261212T134500Z
 DTSTART:20261212T134500Z
 DTEND:20261212T151500Z
 SUMMARY:2014 Major: Capital City Knights at North Stars Academy Wild
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1014. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020786
+DESCRIPTION:HSL 2014 Major game #1014. Stats: https://hslstats.com/#2014-major/g/2020786
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020806@hslstats.ca
+UID:hsl-2020806@hslstats.com
 DTSTAMP:20261212T181500Z
 DTSTART:20261212T181500Z
 DTEND:20261212T194500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at North Stars Academy Wild
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1034. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020806
+DESCRIPTION:HSL 2014 Major game #1034. Stats: https://hslstats.com/#2014-major/g/2020806
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020852@hslstats.ca
+UID:hsl-2020852@hslstats.com
 DTSTAMP:20261213T170000Z
 DTSTART:20261213T170000Z
 DTEND:20261213T183000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1080. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020852
+DESCRIPTION:HSL 2014 Major game #1080. Stats: https://hslstats.com/#2014-major/g/2020852
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020884@hslstats.ca
+UID:hsl-2020884@hslstats.com
 DTSTAMP:20261219T004500Z
 DTSTART:20261219T004500Z
 DTEND:20261219T021500Z
 SUMMARY:2014 Major: North Stars Academy Wild at Caps Hockey Club
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 Major game #1112. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020884
+DESCRIPTION:HSL 2014 Major game #1112. Stats: https://hslstats.com/#2014-major/g/2020884
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020900@hslstats.ca
+UID:hsl-2020900@hslstats.com
 DTSTAMP:20261219T163000Z
 DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at North Stars Academy Wild
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 Major game #1128. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020900
+DESCRIPTION:HSL 2014 Major game #1128. Stats: https://hslstats.com/#2014-major/g/2020900
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020917@hslstats.ca
+UID:hsl-2020917@hslstats.com
 DTSTAMP:20261219T204500Z
 DTSTART:20261219T204500Z
 DTEND:20261219T221500Z
 SUMMARY:2014 Major: Caps Hockey Club at North Stars Academy Wild
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 Major game #1145. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020917
+DESCRIPTION:HSL 2014 Major game #1145. Stats: https://hslstats.com/#2014-major/g/2020917
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020975@hslstats.ca
+UID:hsl-2020975@hslstats.com
 DTSTAMP:20261220T210000Z
 DTSTART:20261220T210000Z
 DTEND:20261220T223000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 Major game #1203. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020975
+DESCRIPTION:HSL 2014 Major game #1203. Stats: https://hslstats.com/#2014-major/g/2020975
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021076@hslstats.ca
+UID:hsl-2021076@hslstats.com
 DTSTAMP:20270108T230000Z
 DTSTART:20270108T230000Z
 DTEND:20270109T003000Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at North Stars Academy Wild
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1304. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021076
+DESCRIPTION:HSL 2014 Major game #1304. Stats: https://hslstats.com/#2014-major/g/2021076
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021097@hslstats.ca
+UID:hsl-2021097@hslstats.com
 DTSTAMP:20270109T171500Z
 DTSTART:20270109T171500Z
 DTEND:20270109T184500Z
 SUMMARY:2014 Major: North Stars Academy Wild at Bow Valley Jr. Bigfoot
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1325. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021097
+DESCRIPTION:HSL 2014 Major game #1325. Stats: https://hslstats.com/#2014-major/g/2021097
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021119@hslstats.ca
+UID:hsl-2021119@hslstats.com
 DTSTAMP:20270109T233000Z
 DTSTART:20270109T233000Z
 DTEND:20270110T010000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Spartan Hockey Academy 15M
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1347. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021119
+DESCRIPTION:HSL 2014 Major game #1347. Stats: https://hslstats.com/#2014-major/g/2021119
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021135@hslstats.ca
+UID:hsl-2021135@hslstats.com
 DTSTAMP:20270110T171500Z
 DTSTART:20270110T171500Z
 DTEND:20270110T184500Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at North Stars Academy Wild
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1363. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021135
+DESCRIPTION:HSL 2014 Major game #1363. Stats: https://hslstats.com/#2014-major/g/2021135
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021294@hslstats.ca
+UID:hsl-2021294@hslstats.com
 DTSTAMP:20270123T013000Z
 DTSTART:20270123T013000Z
 DTEND:20270123T030000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1522. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021294
+DESCRIPTION:HSL 2014 Major game #1522. Stats: https://hslstats.com/#2014-major/g/2021294
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021309@hslstats.ca
+UID:hsl-2021309@hslstats.com
 DTSTAMP:20270123T161500Z
 DTSTART:20270123T161500Z
 DTEND:20270123T174500Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at North Stars Academy Wild
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1537. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021309
+DESCRIPTION:HSL 2014 Major game #1537. Stats: https://hslstats.com/#2014-major/g/2021309
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021431@hslstats.ca
+UID:hsl-2021431@hslstats.com
 DTSTAMP:20270205T230000Z
 DTSTART:20270205T230000Z
 DTEND:20270206T003000Z
 SUMMARY:2014 Major: South Sask Academy at North Stars Academy Wild
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #1659. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021431
+DESCRIPTION:HSL 2014 Major game #1659. Stats: https://hslstats.com/#2014-major/g/2021431
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021446@hslstats.ca
+UID:hsl-2021446@hslstats.com
 DTSTAMP:20270206T154500Z
 DTSTART:20270206T154500Z
 DTEND:20270206T171500Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at North Stars Academy Wild
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #1674. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021446
+DESCRIPTION:HSL 2014 Major game #1674. Stats: https://hslstats.com/#2014-major/g/2021446
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021474@hslstats.ca
+UID:hsl-2021474@hslstats.com
 DTSTAMP:20270206T234500Z
 DTSTART:20270206T234500Z
 DTEND:20270207T011500Z
 SUMMARY:2014 Major: North Stars Academy Wild at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #1702. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021474
+DESCRIPTION:HSL 2014 Major game #1702. Stats: https://hslstats.com/#2014-major/g/2021474
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021480@hslstats.ca
+UID:hsl-2021480@hslstats.com
 DTSTAMP:20270207T140000Z
 DTSTART:20270207T140000Z
 DTEND:20270207T153000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Spartan Hockey Academy 15M
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #1708. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021480
+DESCRIPTION:HSL 2014 Major game #1708. Stats: https://hslstats.com/#2014-major/g/2021480
 END:VEVENT
 END:VCALENDAR

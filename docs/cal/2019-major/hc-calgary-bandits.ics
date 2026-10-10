@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:HC Calgary Bandits (2019 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019918@hslstats.ca
+UID:hsl-2019918@hslstats.com
 DTSTAMP:20260925T223000Z
 DTSTART:20260925T223000Z
 DTEND:20260926T000000Z
 SUMMARY:2019 Major: HC Calgary Bandits 8 – Capital City Knights 1 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #146. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019918
+DESCRIPTION:HSL 2019 Major game #146. Stats: https://hslstats.com/#2019-major/g/2019918
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019939@hslstats.ca
+UID:hsl-2019939@hslstats.com
 DTSTAMP:20260926T170000Z
 DTSTART:20260926T170000Z
 DTEND:20260926T183000Z
 SUMMARY:2019 Major: HC Calgary Bandits 9 – Rebels Hockey Academy 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #167. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019939
+DESCRIPTION:HSL 2019 Major game #167. Stats: https://hslstats.com/#2019-major/g/2019939
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019953@hslstats.ca
+UID:hsl-2019953@hslstats.com
 DTSTAMP:20260926T214500Z
 DTSTART:20260926T214500Z
 DTEND:20260926T231500Z
 SUMMARY:2019 Major: Capital City Knights 0 – HC Calgary Bandits 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #181. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019953
+DESCRIPTION:HSL 2019 Major game #181. Stats: https://hslstats.com/#2019-major/g/2019953
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019974@hslstats.ca
+UID:hsl-2019974@hslstats.com
 DTSTAMP:20260927T170000Z
 DTSTART:20260927T170000Z
 DTEND:20260927T183000Z
 SUMMARY:2019 Major: Riggers Hockey Academy 11 – HC Calgary Bandits 1 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #202. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2019974
+DESCRIPTION:HSL 2019 Major game #202. Stats: https://hslstats.com/#2019-major/g/2019974
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020161@hslstats.ca
+UID:hsl-2020161@hslstats.com
 DTSTAMP:20261016T221500Z
 DTSTART:20261016T221500Z
 DTEND:20261016T234500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #389. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020161
+DESCRIPTION:HSL 2019 Major game #389. Stats: https://hslstats.com/#2019-major/g/2020161
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020185@hslstats.ca
+UID:hsl-2020185@hslstats.com
 DTSTAMP:20261017T170000Z
 DTSTART:20261017T170000Z
 DTEND:20261017T183000Z
 SUMMARY:2019 Major: Young Kings Hockey at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #413. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020185
+DESCRIPTION:HSL 2019 Major game #413. Stats: https://hslstats.com/#2019-major/g/2020185
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020196@hslstats.ca
+UID:hsl-2020196@hslstats.com
 DTSTAMP:20261017T200000Z
 DTSTART:20261017T200000Z
 DTEND:20261017T213000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #424. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020196
+DESCRIPTION:HSL 2019 Major game #424. Stats: https://hslstats.com/#2019-major/g/2020196
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020225@hslstats.ca
+UID:hsl-2020225@hslstats.com
 DTSTAMP:20261018T170000Z
 DTSTART:20261018T170000Z
 DTEND:20261018T183000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #453. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020225
+DESCRIPTION:HSL 2019 Major game #453. Stats: https://hslstats.com/#2019-major/g/2020225
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020465@hslstats.ca
+UID:hsl-2020465@hslstats.com
 DTSTAMP:20261113T234500Z
 DTSTART:20261113T234500Z
 DTEND:20261114T011500Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #693. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020465
+DESCRIPTION:HSL 2019 Major game #693. Stats: https://hslstats.com/#2019-major/g/2020465
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020474@hslstats.ca
+UID:hsl-2020474@hslstats.com
 DTSTAMP:20261114T174500Z
 DTSTART:20261114T174500Z
 DTEND:20261114T191500Z
 SUMMARY:2019 Major: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #702. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020474
+DESCRIPTION:HSL 2019 Major game #702. Stats: https://hslstats.com/#2019-major/g/2020474
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020485@hslstats.ca
+UID:hsl-2020485@hslstats.com
 DTSTAMP:20261114T234500Z
 DTSTART:20261114T234500Z
 DTEND:20261115T011500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Saints Pro Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #713. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020485
+DESCRIPTION:HSL 2019 Major game #713. Stats: https://hslstats.com/#2019-major/g/2020485
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020489@hslstats.ca
+UID:hsl-2020489@hslstats.com
 DTSTAMP:20261115T150000Z
 DTSTART:20261115T150000Z
 DTEND:20261115T163000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2019 Major game #717. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020489
+DESCRIPTION:HSL 2019 Major game #717. Stats: https://hslstats.com/#2019-major/g/2020489
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020636@hslstats.ca
+UID:hsl-2020636@hslstats.com
 DTSTAMP:20261127T210000Z
 DTSTART:20261127T210000Z
 DTEND:20261127T223000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #864. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020636
+DESCRIPTION:HSL 2019 Major game #864. Stats: https://hslstats.com/#2019-major/g/2020636
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020653@hslstats.ca
+UID:hsl-2020653@hslstats.com
 DTSTAMP:20261128T174500Z
 DTSTART:20261128T174500Z
 DTEND:20261128T191500Z
 SUMMARY:2019 Major: MOB Hockey at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #881. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020653
+DESCRIPTION:HSL 2019 Major game #881. Stats: https://hslstats.com/#2019-major/g/2020653
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020665@hslstats.ca
+UID:hsl-2020665@hslstats.com
 DTSTAMP:20261128T230000Z
 DTSTART:20261128T230000Z
 DTEND:20261129T003000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #893. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020665
+DESCRIPTION:HSL 2019 Major game #893. Stats: https://hslstats.com/#2019-major/g/2020665
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020673@hslstats.ca
+UID:hsl-2020673@hslstats.com
 DTSTAMP:20261129T150000Z
 DTSTART:20261129T150000Z
 DTEND:20261129T163000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #901. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020673
+DESCRIPTION:HSL 2019 Major game #901. Stats: https://hslstats.com/#2019-major/g/2020673
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020870@hslstats.ca
+UID:hsl-2020870@hslstats.com
 DTSTAMP:20261218T200000Z
 DTSTART:20261218T200000Z
 DTEND:20261218T213000Z
 SUMMARY:2019 Major: Young Kings Hockey at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1098. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020870
+DESCRIPTION:HSL 2019 Major game #1098. Stats: https://hslstats.com/#2019-major/g/2020870
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020906@hslstats.ca
+UID:hsl-2020906@hslstats.com
 DTSTAMP:20261219T180000Z
 DTSTART:20261219T180000Z
 DTEND:20261219T193000Z
 SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1134. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020906
+DESCRIPTION:HSL 2019 Major game #1134. Stats: https://hslstats.com/#2019-major/g/2020906
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020923@hslstats.ca
+UID:hsl-2020923@hslstats.com
 DTSTAMP:20261219T214500Z
 DTSTART:20261219T214500Z
 DTEND:20261219T231500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Young Kings Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1151. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020923
+DESCRIPTION:HSL 2019 Major game #1151. Stats: https://hslstats.com/#2019-major/g/2020923
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020970@hslstats.ca
+UID:hsl-2020970@hslstats.com
 DTSTAMP:20261220T193000Z
 DTSTART:20261220T193000Z
 DTEND:20261220T210000Z
 SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1198. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2020970
+DESCRIPTION:HSL 2019 Major game #1198. Stats: https://hslstats.com/#2019-major/g/2020970
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021003@hslstats.ca
+UID:hsl-2021003@hslstats.com
 DTSTAMP:20270102T194500Z
 DTSTART:20270102T194500Z
 DTEND:20270102T211500Z
 SUMMARY:2019 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1231. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021003
+DESCRIPTION:HSL 2019 Major game #1231. Stats: https://hslstats.com/#2019-major/g/2021003
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021020@hslstats.ca
+UID:hsl-2021020@hslstats.com
 DTSTAMP:20270102T234500Z
 DTSTART:20270102T234500Z
 DTEND:20270103T011500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1248. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021020
+DESCRIPTION:HSL 2019 Major game #1248. Stats: https://hslstats.com/#2019-major/g/2021020
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021059@hslstats.ca
+UID:hsl-2021059@hslstats.com
 DTSTAMP:20270103T204500Z
 DTSTART:20270103T204500Z
 DTEND:20270103T221500Z
 SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1287. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021059
+DESCRIPTION:HSL 2019 Major game #1287. Stats: https://hslstats.com/#2019-major/g/2021059
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021154@hslstats.ca
+UID:hsl-2021154@hslstats.com
 DTSTAMP:20270115T221500Z
 DTSTART:20270115T221500Z
 DTEND:20270115T234500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1382. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021154
+DESCRIPTION:HSL 2019 Major game #1382. Stats: https://hslstats.com/#2019-major/g/2021154
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021179@hslstats.ca
+UID:hsl-2021179@hslstats.com
 DTSTAMP:20270116T153000Z
 DTSTART:20270116T153000Z
 DTEND:20270116T170000Z
 SUMMARY:2019 Major: HC Calgary Bandits at MOB Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1407. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021179
+DESCRIPTION:HSL 2019 Major game #1407. Stats: https://hslstats.com/#2019-major/g/2021179
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021200@hslstats.ca
+UID:hsl-2021200@hslstats.com
 DTSTAMP:20270116T184500Z
 DTSTART:20270116T184500Z
 DTEND:20270116T201500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1428. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021200
+DESCRIPTION:HSL 2019 Major game #1428. Stats: https://hslstats.com/#2019-major/g/2021200
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021248@hslstats.ca
+UID:hsl-2021248@hslstats.com
 DTSTAMP:20270117T153000Z
 DTSTART:20270117T153000Z
 DTEND:20270117T170000Z
 SUMMARY:2019 Major: MOB Hockey at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1476. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021248
+DESCRIPTION:HSL 2019 Major game #1476. Stats: https://hslstats.com/#2019-major/g/2021248
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021458@hslstats.ca
+UID:hsl-2021458@hslstats.com
 DTSTAMP:20270206T183000Z
 DTSTART:20270206T183000Z
 DTEND:20270206T200000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2019 Major game #1686. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021458
+DESCRIPTION:HSL 2019 Major game #1686. Stats: https://hslstats.com/#2019-major/g/2021458
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021531@hslstats.ca
+UID:hsl-2021531@hslstats.com
 DTSTAMP:20270213T174500Z
 DTSTART:20270213T174500Z
 DTEND:20270213T191500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Saints Pro Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1759. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021531
+DESCRIPTION:HSL 2019 Major game #1759. Stats: https://hslstats.com/#2019-major/g/2021531
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021549@hslstats.ca
+UID:hsl-2021549@hslstats.com
 DTSTAMP:20270213T224500Z
 DTSTART:20270213T224500Z
 DTEND:20270214T001500Z
 SUMMARY:2019 Major: Spartan Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1777. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021549
+DESCRIPTION:HSL 2019 Major game #1777. Stats: https://hslstats.com/#2019-major/g/2021549
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021584@hslstats.ca
+UID:hsl-2021584@hslstats.com
 DTSTAMP:20270214T211500Z
 DTSTART:20270214T211500Z
 DTEND:20270214T224500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1812. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021584
+DESCRIPTION:HSL 2019 Major game #1812. Stats: https://hslstats.com/#2019-major/g/2021584
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021595@hslstats.ca
+UID:hsl-2021595@hslstats.com
 DTSTAMP:20270219T231500Z
 DTSTART:20270219T231500Z
 DTEND:20270220T004500Z
 SUMMARY:2019 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2019 Major game #1823. Stats: https://replay88.github.io/hsl-scoring-race/#2019-major/g/2021595
+DESCRIPTION:HSL 2019 Major game #1823. Stats: https://hslstats.com/#2019-major/g/2021595
 END:VEVENT
 END:VCALENDAR

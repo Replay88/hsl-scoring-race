@@ -28,13 +28,24 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install --quiet pillow
-      - name: Pull new games and rebuild the page
+      - name: Pull new games and rebuild the site
         run: python3 -I tools/update.py
+      - name: Weekend digest (only if secrets are set)
+        env:
+          DIGEST_DIVISIONS: ${{ secrets.DIGEST_DIVISIONS }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+        run: python3 -I tools/digest.py
       - name: Commit if anything changed
         run: |
           git config user.name "hsl-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cache/state.json docs
+          git add cache/state.json cache/digest.json docs 2>/dev/null || git add cache/state.json docs
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Update stats $(date '+%b %-d %-I:%M %p')"
           git push

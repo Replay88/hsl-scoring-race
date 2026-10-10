@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:O2 Grizzlies (2014 AAA)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019799@hslstats.ca
+UID:hsl-2019799@hslstats.com
 DTSTAMP:20260919T014500Z
 DTSTART:20260919T014500Z
 DTEND:20260919T031500Z
 SUMMARY:2014 AAA: O2 Grizzlies 7 – MOB Hockey 2 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #27. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2019799
+DESCRIPTION:HSL 2014 AAA game #27. Stats: https://hslstats.com/#2014-aaa/g/2019799
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019813@hslstats.ca
+UID:hsl-2019813@hslstats.com
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2014 AAA: Stars Hockey Academy 5 – O2 Grizzlies 12 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #41. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2019813
+DESCRIPTION:HSL 2014 AAA game #41. Stats: https://hslstats.com/#2014-aaa/g/2019813
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019883@hslstats.ca
+UID:hsl-2019883@hslstats.com
 DTSTAMP:20260920T154500Z
 DTSTART:20260920T154500Z
 DTEND:20260920T171500Z
 SUMMARY:2014 AAA: O2 Grizzlies 4 – Calgary Crusaders 7 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #111. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2019883
+DESCRIPTION:HSL 2014 AAA game #111. Stats: https://hslstats.com/#2014-aaa/g/2019883
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020072@hslstats.ca
+UID:hsl-2020072@hslstats.com
 DTSTAMP:20261010T171500Z
 DTSTART:20261010T171500Z
 DTEND:20261010T184500Z
 SUMMARY:2014 AAA: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2014 AAA game #300. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020072
+DESCRIPTION:HSL 2014 AAA game #300. Stats: https://hslstats.com/#2014-aaa/g/2020072
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020189@hslstats.ca
+UID:hsl-2020189@hslstats.com
 DTSTAMP:20261017T183000Z
 DTSTART:20261017T183000Z
 DTEND:20261017T200000Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at O2 Grizzlies
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 AAA game #417. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020189
+DESCRIPTION:HSL 2014 AAA game #417. Stats: https://hslstats.com/#2014-aaa/g/2020189
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020259@hslstats.ca
+UID:hsl-2020259@hslstats.com
 DTSTAMP:20261024T173000Z
 DTSTART:20261024T173000Z
 DTEND:20261024T190000Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at O2 Grizzlies
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #487. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020259
+DESCRIPTION:HSL 2014 AAA game #487. Stats: https://hslstats.com/#2014-aaa/g/2020259
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020274@hslstats.ca
+UID:hsl-2020274@hslstats.com
 DTSTAMP:20261024T230000Z
 DTSTART:20261024T230000Z
 DTEND:20261025T003000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Caps Hockey Club
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #502. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020274
+DESCRIPTION:HSL 2014 AAA game #502. Stats: https://hslstats.com/#2014-aaa/g/2020274
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020289@hslstats.ca
+UID:hsl-2020289@hslstats.com
 DTSTAMP:20261025T171500Z
 DTSTART:20261025T171500Z
 DTEND:20261025T184500Z
 SUMMARY:2014 AAA: O2 Grizzlies at Riggers Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #517. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020289
+DESCRIPTION:HSL 2014 AAA game #517. Stats: https://hslstats.com/#2014-aaa/g/2020289
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020460@hslstats.ca
+UID:hsl-2020460@hslstats.com
 DTSTAMP:20261113T204500Z
 DTSTART:20261113T204500Z
 DTEND:20261113T221500Z
 SUMMARY:2014 AAA: Caps Hockey Club at O2 Grizzlies
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #688. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020460
+DESCRIPTION:HSL 2014 AAA game #688. Stats: https://hslstats.com/#2014-aaa/g/2020460
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020467@hslstats.ca
+UID:hsl-2020467@hslstats.com
 DTSTAMP:20261114T011500Z
 DTSTART:20261114T011500Z
 DTEND:20261114T024500Z
 SUMMARY:2014 AAA: MOB Hockey at O2 Grizzlies
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #695. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020467
+DESCRIPTION:HSL 2014 AAA game #695. Stats: https://hslstats.com/#2014-aaa/g/2020467
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020468@hslstats.ca
+UID:hsl-2020468@hslstats.com
 DTSTAMP:20261114T140000Z
 DTSTART:20261114T140000Z
 DTEND:20261114T153000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 AAA game #696. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020468
+DESCRIPTION:HSL 2014 AAA game #696. Stats: https://hslstats.com/#2014-aaa/g/2020468
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020475@hslstats.ca
+UID:hsl-2020475@hslstats.com
 DTSTAMP:20261114T180000Z
 DTSTART:20261114T180000Z
 DTEND:20261114T193000Z
 SUMMARY:2014 AAA: O2 Grizzlies at MOB Hockey
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #703. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020475
+DESCRIPTION:HSL 2014 AAA game #703. Stats: https://hslstats.com/#2014-aaa/g/2020475
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020650@hslstats.ca
+UID:hsl-2020650@hslstats.com
 DTSTAMP:20261128T161500Z
 DTSTART:20261128T161500Z
 DTEND:20261128T174500Z
 SUMMARY:2014 AAA: Calgary Crusaders at O2 Grizzlies
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #878. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020650
+DESCRIPTION:HSL 2014 AAA game #878. Stats: https://hslstats.com/#2014-aaa/g/2020650
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020663@hslstats.ca
+UID:hsl-2020663@hslstats.com
 DTSTAMP:20261128T230000Z
 DTSTART:20261128T230000Z
 DTEND:20261129T003000Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at O2 Grizzlies
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #891. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020663
+DESCRIPTION:HSL 2014 AAA game #891. Stats: https://hslstats.com/#2014-aaa/g/2020663
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020670@hslstats.ca
+UID:hsl-2020670@hslstats.com
 DTSTAMP:20261129T140000Z
 DTSTART:20261129T140000Z
 DTEND:20261129T153000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Stars Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #898. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020670
+DESCRIPTION:HSL 2014 AAA game #898. Stats: https://hslstats.com/#2014-aaa/g/2020670
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020679@hslstats.ca
+UID:hsl-2020679@hslstats.com
 DTSTAMP:20261129T183000Z
 DTSTART:20261129T183000Z
 DTEND:20261129T200000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #907. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020679
+DESCRIPTION:HSL 2014 AAA game #907. Stats: https://hslstats.com/#2014-aaa/g/2020679
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020829@hslstats.ca
+UID:hsl-2020829@hslstats.com
 DTSTAMP:20261212T231500Z
 DTSTART:20261212T231500Z
 DTEND:20261213T004500Z
 SUMMARY:2014 AAA: Stars Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2014 AAA game #1057. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020829
+DESCRIPTION:HSL 2014 AAA game #1057. Stats: https://hslstats.com/#2014-aaa/g/2020829
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020872@hslstats.ca
+UID:hsl-2020872@hslstats.com
 DTSTAMP:20261218T210000Z
 DTSTART:20261218T210000Z
 DTEND:20261218T223000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Saints Pro Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 AAA game #1100. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020872
+DESCRIPTION:HSL 2014 AAA game #1100. Stats: https://hslstats.com/#2014-aaa/g/2020872
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020889@hslstats.ca
+UID:hsl-2020889@hslstats.com
 DTSTAMP:20261219T140000Z
 DTSTART:20261219T140000Z
 DTEND:20261219T153000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Caps Hockey Club
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 AAA game #1117. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020889
+DESCRIPTION:HSL 2014 AAA game #1117. Stats: https://hslstats.com/#2014-aaa/g/2020889
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020910@hslstats.ca
+UID:hsl-2020910@hslstats.com
 DTSTAMP:20261219T184500Z
 DTSTART:20261219T184500Z
 DTEND:20261219T201500Z
 SUMMARY:2014 AAA: MOB Hockey at O2 Grizzlies
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1138. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020910
+DESCRIPTION:HSL 2014 AAA game #1138. Stats: https://hslstats.com/#2014-aaa/g/2020910
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020972@hslstats.ca
+UID:hsl-2020972@hslstats.com
 DTSTAMP:20261220T194500Z
 DTSTART:20261220T194500Z
 DTEND:20261220T211500Z
 SUMMARY:2014 AAA: Caps Hockey Club at O2 Grizzlies
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1200. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2020972
+DESCRIPTION:HSL 2014 AAA game #1200. Stats: https://hslstats.com/#2014-aaa/g/2020972
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021162@hslstats.ca
+UID:hsl-2021162@hslstats.com
 DTSTAMP:20270116T000000Z
 DTSTART:20270116T000000Z
 DTEND:20270116T013000Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at O2 Grizzlies
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #1390. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021162
+DESCRIPTION:HSL 2014 AAA game #1390. Stats: https://hslstats.com/#2014-aaa/g/2021162
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021191@hslstats.ca
+UID:hsl-2021191@hslstats.com
 DTSTAMP:20270116T173000Z
 DTSTART:20270116T173000Z
 DTEND:20270116T190000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Spartan Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #1419. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021191
+DESCRIPTION:HSL 2014 AAA game #1419. Stats: https://hslstats.com/#2014-aaa/g/2021191
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021229@hslstats.ca
+UID:hsl-2021229@hslstats.com
 DTSTAMP:20270116T234500Z
 DTSTART:20270116T234500Z
 DTEND:20270117T011500Z
 SUMMARY:2014 AAA: O2 Grizzlies at Riggers Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #1457. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021229
+DESCRIPTION:HSL 2014 AAA game #1457. Stats: https://hslstats.com/#2014-aaa/g/2021229
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021384@hslstats.ca
+UID:hsl-2021384@hslstats.com
 DTSTAMP:20270130T180000Z
 DTSTART:20270130T180000Z
 DTEND:20270130T193000Z
 SUMMARY:2014 AAA: Calgary Crusaders at O2 Grizzlies
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1612. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021384
+DESCRIPTION:HSL 2014 AAA game #1612. Stats: https://hslstats.com/#2014-aaa/g/2021384
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021395@hslstats.ca
+UID:hsl-2021395@hslstats.com
 DTSTAMP:20270130T223000Z
 DTSTART:20270130T223000Z
 DTEND:20270131T000000Z
 SUMMARY:2014 AAA: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1623. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021395
+DESCRIPTION:HSL 2014 AAA game #1623. Stats: https://hslstats.com/#2014-aaa/g/2021395
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021405@hslstats.ca
+UID:hsl-2021405@hslstats.com
 DTSTAMP:20270131T151500Z
 DTSTART:20270131T151500Z
 DTEND:20270131T164500Z
 SUMMARY:2014 AAA: O2 Grizzlies at Spartan Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 AAA game #1633. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021405
+DESCRIPTION:HSL 2014 AAA game #1633. Stats: https://hslstats.com/#2014-aaa/g/2021405
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021417@hslstats.ca
+UID:hsl-2021417@hslstats.com
 DTSTAMP:20270131T200000Z
 DTSTART:20270131T200000Z
 DTEND:20270131T213000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Calgary Crusaders
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 AAA game #1645. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021417
+DESCRIPTION:HSL 2014 AAA game #1645. Stats: https://hslstats.com/#2014-aaa/g/2021417
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021573@hslstats.ca
+UID:hsl-2021573@hslstats.com
 DTSTAMP:20270214T173000Z
 DTSTART:20270214T173000Z
 DTEND:20270214T190000Z
 SUMMARY:2014 AAA: Spartan Hockey Academy at O2 Grizzlies
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1801. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021573
+DESCRIPTION:HSL 2014 AAA game #1801. Stats: https://hslstats.com/#2014-aaa/g/2021573
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021596@hslstats.ca
+UID:hsl-2021596@hslstats.com
 DTSTAMP:20270219T233000Z
 DTSTART:20270219T233000Z
 DTEND:20270220T010000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1824. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021596
+DESCRIPTION:HSL 2014 AAA game #1824. Stats: https://hslstats.com/#2014-aaa/g/2021596
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021617@hslstats.ca
+UID:hsl-2021617@hslstats.com
 DTSTAMP:20270220T161500Z
 DTSTART:20270220T161500Z
 DTEND:20270220T174500Z
 SUMMARY:2014 AAA: O2 Grizzlies at Stars Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1845. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021617
+DESCRIPTION:HSL 2014 AAA game #1845. Stats: https://hslstats.com/#2014-aaa/g/2021617
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021635@hslstats.ca
+UID:hsl-2021635@hslstats.com
 DTSTAMP:20270220T201500Z
 DTSTART:20270220T201500Z
 DTEND:20270220T214500Z
 SUMMARY:2014 AAA: Calgary Crusaders at O2 Grizzlies
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 AAA game #1863. Stats: https://replay88.github.io/hsl-scoring-race/#2014-aaa/g/2021635
+DESCRIPTION:HSL 2014 AAA game #1863. Stats: https://hslstats.com/#2014-aaa/g/2021635
 END:VEVENT
 END:VCALENDAR

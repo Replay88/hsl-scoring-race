@@ -17,7 +17,7 @@ def render(index, path, site="replay88.github.io/hsl-scoring-race"):
     im = Image.new("RGB", (W, H), bg)
     d = ImageDraw.Draw(im)
     d.rectangle([0, 0, 14, H], fill=accent)
-    d.text((60, 40), "HSL SCORING RACE", font=font("Oswald-SemiBold.ttf", 60), fill=fg)
+    d.text((60, 40), "HSL STATISTICS", font=font("Oswald-SemiBold.ttf", 60), fill=fg)
     d.text((62, 112), "Points leaders, standings, goalies and schedules for every Hockey Super League division",
            font=font("Barlow-Medium.ttf", 24), fill=muted)
     d.line([60, 156, W - 60, 156], fill=line, width=2)

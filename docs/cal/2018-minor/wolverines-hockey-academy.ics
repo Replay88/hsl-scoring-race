@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Wolverines Hockey Academy (2018 Minor)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019812@hslstats.ca
+UID:hsl-2019812@hslstats.com
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2018 Minor: Northern Hockey Club 10 – Wolverines Hockey Academy 2 (Final)
 LOCATION:Cenovus Energy Hub - Coop Community Ice
-DESCRIPTION:HSL 2018 Minor game #40. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019812
+DESCRIPTION:HSL 2018 Minor game #40. Stats: https://hslstats.com/#2018-minor/g/2019812
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019872@hslstats.ca
+UID:hsl-2019872@hslstats.com
 DTSTAMP:20260920T140000Z
 DTSTART:20260920T140000Z
 DTEND:20260920T153000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy 4 – Northern Hockey Club 7 (Final)
 LOCATION:Cenovus Energy Hub - Coop Community Ice
-DESCRIPTION:HSL 2018 Minor game #100. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019872
+DESCRIPTION:HSL 2018 Minor game #100. Stats: https://hslstats.com/#2018-minor/g/2019872
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019973@hslstats.ca
+UID:hsl-2019973@hslstats.com
 DTSTAMP:20260927T163000Z
 DTSTART:20260927T163000Z
 DTEND:20260927T180000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy 18 – Riggers Hockey Academy 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Minor game #201. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2019973
+DESCRIPTION:HSL 2018 Minor game #201. Stats: https://hslstats.com/#2018-minor/g/2019973
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020027@hslstats.ca
+UID:hsl-2020027@hslstats.com
 DTSTAMP:20261009T140000Z
 DTSTART:20261009T140000Z
 DTEND:20261009T153000Z
 SUMMARY:2018 Minor: Northern Hockey Club 11 – Wolverines Hockey Academy 1 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #255. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020027
+DESCRIPTION:HSL 2018 Minor game #255. Stats: https://hslstats.com/#2018-minor/g/2020027
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020081@hslstats.ca
+UID:hsl-2020081@hslstats.com
 DTSTAMP:20261010T181500Z
 DTSTART:20261010T181500Z
 DTEND:20261010T194500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Coast 2 Coast
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #309. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020081
+DESCRIPTION:HSL 2018 Minor game #309. Stats: https://hslstats.com/#2018-minor/g/2020081
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020146@hslstats.ca
+UID:hsl-2020146@hslstats.com
 DTSTAMP:20261011T200000Z
 DTSTART:20261011T200000Z
 DTEND:20261011T213000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #374. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020146
+DESCRIPTION:HSL 2018 Minor game #374. Stats: https://hslstats.com/#2018-minor/g/2020146
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020155@hslstats.ca
+UID:hsl-2020155@hslstats.com
 DTSTAMP:20261014T224500Z
 DTSTART:20261014T224500Z
 DTEND:20261015T001500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #383. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020155
+DESCRIPTION:HSL 2018 Minor game #383. Stats: https://hslstats.com/#2018-minor/g/2020155
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020392@hslstats.ca
+UID:hsl-2020392@hslstats.com
 DTSTAMP:20261106T224500Z
 DTSTART:20261106T224500Z
 DTEND:20261107T001500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at South Sask Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #620. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020392
+DESCRIPTION:HSL 2018 Minor game #620. Stats: https://hslstats.com/#2018-minor/g/2020392
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020411@hslstats.ca
+UID:hsl-2020411@hslstats.com
 DTSTAMP:20261107T173000Z
 DTSTART:20261107T173000Z
 DTEND:20261107T190000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #639. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020411
+DESCRIPTION:HSL 2018 Minor game #639. Stats: https://hslstats.com/#2018-minor/g/2020411
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020427@hslstats.ca
+UID:hsl-2020427@hslstats.com
 DTSTAMP:20261107T224500Z
 DTSTART:20261107T224500Z
 DTEND:20261108T001500Z
 SUMMARY:2018 Minor: South Sask Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #655. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020427
+DESCRIPTION:HSL 2018 Minor game #655. Stats: https://hslstats.com/#2018-minor/g/2020427
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020450@hslstats.ca
+UID:hsl-2020450@hslstats.com
 DTSTAMP:20261108T191500Z
 DTSTART:20261108T191500Z
 DTEND:20261108T204500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #678. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020450
+DESCRIPTION:HSL 2018 Minor game #678. Stats: https://hslstats.com/#2018-minor/g/2020450
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020496@hslstats.ca
+UID:hsl-2020496@hslstats.com
 DTSTAMP:20261115T213000Z
 DTSTART:20261115T213000Z
 DTEND:20261115T230000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #724. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020496
+DESCRIPTION:HSL 2018 Minor game #724. Stats: https://hslstats.com/#2018-minor/g/2020496
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020550@hslstats.ca
+UID:hsl-2020550@hslstats.com
 DTSTAMP:20261121T173000Z
 DTSTART:20261121T173000Z
 DTEND:20261121T190000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #778. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020550
+DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/#2018-minor/g/2020550
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020565@hslstats.ca
+UID:hsl-2020565@hslstats.com
 DTSTAMP:20261121T210000Z
 DTSTART:20261121T210000Z
 DTEND:20261121T223000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #793. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020565
+DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/#2018-minor/g/2020565
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020605@hslstats.ca
+UID:hsl-2020605@hslstats.com
 DTSTAMP:20261122T154500Z
 DTSTART:20261122T154500Z
 DTEND:20261122T171500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #833. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020605
+DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/#2018-minor/g/2020605
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020622@hslstats.ca
+UID:hsl-2020622@hslstats.com
 DTSTAMP:20261122T191500Z
 DTSTART:20261122T191500Z
 DTEND:20261122T204500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #850. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020622
+DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/#2018-minor/g/2020622
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020705@hslstats.ca
+UID:hsl-2020705@hslstats.com
 DTSTAMP:20261205T130000Z
 DTSTART:20261205T130000Z
 DTEND:20261205T143000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #933. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020705
+DESCRIPTION:HSL 2018 Minor game #933. Stats: https://hslstats.com/#2018-minor/g/2020705
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020714@hslstats.ca
+UID:hsl-2020714@hslstats.com
 DTSTAMP:20261205T163000Z
 DTSTART:20261205T163000Z
 DTEND:20261205T180000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Coast 2 Coast
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #942. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020714
+DESCRIPTION:HSL 2018 Minor game #942. Stats: https://hslstats.com/#2018-minor/g/2020714
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020741@hslstats.ca
+UID:hsl-2020741@hslstats.com
 DTSTAMP:20261206T055800Z
 DTSTART:20261206T055800Z
 DTEND:20261206T072800Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:
-DESCRIPTION:HSL 2018 Minor game #969. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020741
+DESCRIPTION:HSL 2018 Minor game #969. Stats: https://hslstats.com/#2018-minor/g/2020741
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020747@hslstats.ca
+UID:hsl-2020747@hslstats.com
 DTSTAMP:20261206T154500Z
 DTSTART:20261206T154500Z
 DTEND:20261206T171500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #975. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020747
+DESCRIPTION:HSL 2018 Minor game #975. Stats: https://hslstats.com/#2018-minor/g/2020747
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020760@hslstats.ca
+UID:hsl-2020760@hslstats.com
 DTSTAMP:20261206T194500Z
 DTSTART:20261206T194500Z
 DTEND:20261206T211500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #988. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020760
+DESCRIPTION:HSL 2018 Minor game #988. Stats: https://hslstats.com/#2018-minor/g/2020760
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020990@hslstats.ca
+UID:hsl-2020990@hslstats.com
 DTSTAMP:20270102T163000Z
 DTSTART:20270102T163000Z
 DTEND:20270102T180000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Northern Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1218. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2020990
+DESCRIPTION:HSL 2018 Minor game #1218. Stats: https://hslstats.com/#2018-minor/g/2020990
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021004@hslstats.ca
+UID:hsl-2021004@hslstats.com
 DTSTAMP:20270102T200000Z
 DTSTART:20270102T200000Z
 DTEND:20270102T213000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at HC Calgary Bandits
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1232. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021004
+DESCRIPTION:HSL 2018 Minor game #1232. Stats: https://hslstats.com/#2018-minor/g/2021004
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021040@hslstats.ca
+UID:hsl-2021040@hslstats.com
 DTSTAMP:20270103T163000Z
 DTSTART:20270103T163000Z
 DTEND:20270103T180000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1268. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021040
+DESCRIPTION:HSL 2018 Minor game #1268. Stats: https://hslstats.com/#2018-minor/g/2021040
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021055@hslstats.ca
+UID:hsl-2021055@hslstats.com
 DTSTAMP:20270103T200000Z
 DTSTART:20270103T200000Z
 DTEND:20270103T213000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1283. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021055
+DESCRIPTION:HSL 2018 Minor game #1283. Stats: https://hslstats.com/#2018-minor/g/2021055
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021091@hslstats.ca
+UID:hsl-2021091@hslstats.com
 DTSTAMP:20270109T154500Z
 DTSTART:20270109T154500Z
 DTEND:20270109T171500Z
 SUMMARY:2018 Minor: YYC Jays at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #1319. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021091
+DESCRIPTION:HSL 2018 Minor game #1319. Stats: https://hslstats.com/#2018-minor/g/2021091
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021108@hslstats.ca
+UID:hsl-2021108@hslstats.com
 DTSTAMP:20270109T210000Z
 DTSTART:20270109T210000Z
 DTEND:20270109T223000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at YYC Jays
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #1336. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021108
+DESCRIPTION:HSL 2018 Minor game #1336. Stats: https://hslstats.com/#2018-minor/g/2021108
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021156@hslstats.ca
+UID:hsl-2021156@hslstats.com
 DTSTAMP:20270115T230000Z
 DTSTART:20270115T230000Z
 DTEND:20270116T003000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1384. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021156
+DESCRIPTION:HSL 2018 Minor game #1384. Stats: https://hslstats.com/#2018-minor/g/2021156
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021172@hslstats.ca
+UID:hsl-2021172@hslstats.com
 DTSTAMP:20270116T140000Z
 DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1400. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021172
+DESCRIPTION:HSL 2018 Minor game #1400. Stats: https://hslstats.com/#2018-minor/g/2021172
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021190@hslstats.ca
+UID:hsl-2021190@hslstats.com
 DTSTAMP:20270116T173000Z
 DTSTART:20270116T173000Z
 DTEND:20270116T190000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1418. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021190
+DESCRIPTION:HSL 2018 Minor game #1418. Stats: https://hslstats.com/#2018-minor/g/2021190
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021466@hslstats.ca
+UID:hsl-2021466@hslstats.com
 DTSTAMP:20270206T213000Z
 DTSTART:20270206T213000Z
 DTEND:20270206T230000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at South Sask Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1694. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021466
+DESCRIPTION:HSL 2018 Minor game #1694. Stats: https://hslstats.com/#2018-minor/g/2021466
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021500@hslstats.ca
+UID:hsl-2021500@hslstats.com
 DTSTAMP:20270207T210000Z
 DTSTART:20270207T210000Z
 DTEND:20270207T223000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Wolverines Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1728. Stats: https://replay88.github.io/hsl-scoring-race/#2018-minor/g/2021500
+DESCRIPTION:HSL 2018 Minor game #1728. Stats: https://hslstats.com/#2018-minor/g/2021500
 END:VEVENT
 END:VCALENDAR

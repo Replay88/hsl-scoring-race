@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Caps Hockey Club (2014 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019860@hslstats.ca
+UID:hsl-2019860@hslstats.com
 DTSTAMP:20260919T233000Z
 DTSTART:20260919T233000Z
 DTEND:20260920T010000Z
 SUMMARY:2014 Major: Riggers Hockey Academy 0 – Caps Hockey Club 6 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #88. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019860
+DESCRIPTION:HSL 2014 Major game #88. Stats: https://hslstats.com/#2014-major/g/2019860
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019899@hslstats.ca
+UID:hsl-2019899@hslstats.com
 DTSTAMP:20260920T190000Z
 DTSTART:20260920T190000Z
 DTEND:20260920T203000Z
 SUMMARY:2014 Major: Caps Hockey Club 7 – Riggers Hockey Academy 3 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #127. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019899
+DESCRIPTION:HSL 2014 Major game #127. Stats: https://hslstats.com/#2014-major/g/2019899
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019984@hslstats.ca
+UID:hsl-2019984@hslstats.com
 DTSTAMP:20260927T200000Z
 DTSTART:20260927T200000Z
 DTEND:20260927T213000Z
 SUMMARY:2014 Major: Caps Hockey Club 9 – Capital City Knights 3 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #212. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019984
+DESCRIPTION:HSL 2014 Major game #212. Stats: https://hslstats.com/#2014-major/g/2019984
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020167@hslstats.ca
+UID:hsl-2020167@hslstats.com
 DTSTAMP:20261017T001500Z
 DTSTART:20261017T001500Z
 DTEND:20261017T014500Z
 SUMMARY:2014 Major: North Stars Academy Wild at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #395. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020167
+DESCRIPTION:HSL 2014 Major game #395. Stats: https://hslstats.com/#2014-major/g/2020167
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020181@hslstats.ca
+UID:hsl-2020181@hslstats.com
 DTSTAMP:20261017T161500Z
 DTSTART:20261017T161500Z
 DTEND:20261017T174500Z
 SUMMARY:2014 Major: Caps Hockey Club at North Stars Academy Wild
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #409. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020181
+DESCRIPTION:HSL 2014 Major game #409. Stats: https://hslstats.com/#2014-major/g/2020181
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020221@hslstats.ca
+UID:hsl-2020221@hslstats.com
 DTSTAMP:20261018T161500Z
 DTSTART:20261018T161500Z
 DTEND:20261018T174500Z
 SUMMARY:2014 Major: Capital City Knights at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #449. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020221
+DESCRIPTION:HSL 2014 Major game #449. Stats: https://hslstats.com/#2014-major/g/2020221
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020150@hslstats.ca
+UID:hsl-2020150@hslstats.com
 DTSTAMP:20261026T000000Z
 DTSTART:20261026T000000Z
 DTEND:20261026T013000Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at Caps Hockey Club
 LOCATION:Enoch Recreation Center
-DESCRIPTION:HSL 2014 Major game #378. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020150
+DESCRIPTION:HSL 2014 Major game #378. Stats: https://hslstats.com/#2014-major/g/2020150
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020333@hslstats.ca
+UID:hsl-2020333@hslstats.com
 DTSTAMP:20261031T150000Z
 DTSTART:20261031T150000Z
 DTEND:20261031T163000Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at Caps Hockey Club
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #561. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020333
+DESCRIPTION:HSL 2014 Major game #561. Stats: https://hslstats.com/#2014-major/g/2020333
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020346@hslstats.ca
+UID:hsl-2020346@hslstats.com
 DTSTAMP:20261031T190000Z
 DTSTART:20261031T190000Z
 DTEND:20261031T203000Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Caps Hockey Club
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #574. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020346
+DESCRIPTION:HSL 2014 Major game #574. Stats: https://hslstats.com/#2014-major/g/2020346
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020357@hslstats.ca
+UID:hsl-2020357@hslstats.com
 DTSTAMP:20261101T140000Z
 DTSTART:20261101T140000Z
 DTEND:20261101T153000Z
 SUMMARY:2014 Major: Caps Hockey Club at Spartan Hockey Academy 15M
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #585. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020357
+DESCRIPTION:HSL 2014 Major game #585. Stats: https://hslstats.com/#2014-major/g/2020357
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020371@hslstats.ca
+UID:hsl-2020371@hslstats.com
 DTSTAMP:20261101T180000Z
 DTSTART:20261101T180000Z
 DTEND:20261101T193000Z
 SUMMARY:2014 Major: Caps Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #599. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020371
+DESCRIPTION:HSL 2014 Major game #599. Stats: https://hslstats.com/#2014-major/g/2020371
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020455@hslstats.ca
+UID:hsl-2020455@hslstats.com
 DTSTAMP:20261108T210000Z
 DTSTART:20261108T210000Z
 DTEND:20261108T223000Z
 SUMMARY:2014 Major: Caps Hockey Club at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #683. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020455
+DESCRIPTION:HSL 2014 Major game #683. Stats: https://hslstats.com/#2014-major/g/2020455
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020554@hslstats.ca
+UID:hsl-2020554@hslstats.com
 DTSTAMP:20261121T180000Z
 DTSTART:20261121T180000Z
 DTEND:20261121T193000Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Caps Hockey Club
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #782. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020554
+DESCRIPTION:HSL 2014 Major game #782. Stats: https://hslstats.com/#2014-major/g/2020554
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020569@hslstats.ca
+UID:hsl-2020569@hslstats.com
 DTSTAMP:20261121T220000Z
 DTSTART:20261121T220000Z
 DTEND:20261121T233000Z
 SUMMARY:2014 Major: South Sask Academy at Caps Hockey Club
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #797. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020569
+DESCRIPTION:HSL 2014 Major game #797. Stats: https://hslstats.com/#2014-major/g/2020569
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020626@hslstats.ca
+UID:hsl-2020626@hslstats.com
 DTSTAMP:20261122T194500Z
 DTSTART:20261122T194500Z
 DTEND:20261122T211500Z
 SUMMARY:2014 Major: Caps Hockey Club at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2014 Major game #854. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020626
+DESCRIPTION:HSL 2014 Major game #854. Stats: https://hslstats.com/#2014-major/g/2020626
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020635@hslstats.ca
+UID:hsl-2020635@hslstats.com
 DTSTAMP:20261126T000000Z
 DTSTART:20261126T000000Z
 DTEND:20261126T013000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 Major game #863. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020635
+DESCRIPTION:HSL 2014 Major game #863. Stats: https://hslstats.com/#2014-major/g/2020635
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020795@hslstats.ca
+UID:hsl-2020795@hslstats.com
 DTSTAMP:20261212T160000Z
 DTSTART:20261212T160000Z
 DTEND:20261212T173000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Caps Hockey Club
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1023. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020795
+DESCRIPTION:HSL 2014 Major game #1023. Stats: https://hslstats.com/#2014-major/g/2020795
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020884@hslstats.ca
+UID:hsl-2020884@hslstats.com
 DTSTAMP:20261219T004500Z
 DTSTART:20261219T004500Z
 DTEND:20261219T021500Z
 SUMMARY:2014 Major: North Stars Academy Wild at Caps Hockey Club
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 Major game #1112. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020884
+DESCRIPTION:HSL 2014 Major game #1112. Stats: https://hslstats.com/#2014-major/g/2020884
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020917@hslstats.ca
+UID:hsl-2020917@hslstats.com
 DTSTAMP:20261219T204500Z
 DTSTART:20261219T204500Z
 DTEND:20261219T221500Z
 SUMMARY:2014 Major: Caps Hockey Club at North Stars Academy Wild
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 Major game #1145. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020917
+DESCRIPTION:HSL 2014 Major game #1145. Stats: https://hslstats.com/#2014-major/g/2020917
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020978@hslstats.ca
+UID:hsl-2020978@hslstats.com
 DTSTAMP:20261220T220000Z
 DTSTART:20261220T220000Z
 DTEND:20261220T233000Z
 SUMMARY:2014 Major: Caps Hockey Club at Capital City Knights
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 Major game #1206. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020978
+DESCRIPTION:HSL 2014 Major game #1206. Stats: https://hslstats.com/#2014-major/g/2020978
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021080@hslstats.ca
+UID:hsl-2021080@hslstats.com
 DTSTAMP:20270109T001500Z
 DTSTART:20270109T001500Z
 DTEND:20270109T014500Z
 SUMMARY:2014 Major: South Sask Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1308. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021080
+DESCRIPTION:HSL 2014 Major game #1308. Stats: https://hslstats.com/#2014-major/g/2021080
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021096@hslstats.ca
+UID:hsl-2021096@hslstats.com
 DTSTAMP:20270109T161500Z
 DTSTART:20270109T161500Z
 DTEND:20270109T174500Z
 SUMMARY:2014 Major: Caps Hockey Club at HC Calgary Bandits
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1324. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021096
+DESCRIPTION:HSL 2014 Major game #1324. Stats: https://hslstats.com/#2014-major/g/2021096
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021120@hslstats.ca
+UID:hsl-2021120@hslstats.com
 DTSTAMP:20270109T234500Z
 DTSTART:20270109T234500Z
 DTEND:20270110T011500Z
 SUMMARY:2014 Major: Caps Hockey Club at South Sask Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1348. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021120
+DESCRIPTION:HSL 2014 Major game #1348. Stats: https://hslstats.com/#2014-major/g/2021120
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021139@hslstats.ca
+UID:hsl-2021139@hslstats.com
 DTSTAMP:20270110T180000Z
 DTSTART:20270110T180000Z
 DTEND:20270110T193000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1367. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021139
+DESCRIPTION:HSL 2014 Major game #1367. Stats: https://hslstats.com/#2014-major/g/2021139
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021187@hslstats.ca
+UID:hsl-2021187@hslstats.com
 DTSTAMP:20270116T163000Z
 DTSTART:20270116T163000Z
 DTEND:20270116T180000Z
 SUMMARY:2014 Major: Capital City Knights at Caps Hockey Club
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 Major game #1415. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021187
+DESCRIPTION:HSL 2014 Major game #1415. Stats: https://hslstats.com/#2014-major/g/2021187
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021278@hslstats.ca
+UID:hsl-2021278@hslstats.com
 DTSTAMP:20270122T210000Z
 DTSTART:20270122T210000Z
 DTEND:20270122T223000Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1506. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021278
+DESCRIPTION:HSL 2014 Major game #1506. Stats: https://hslstats.com/#2014-major/g/2021278
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021325@hslstats.ca
+UID:hsl-2021325@hslstats.com
 DTSTAMP:20270123T204500Z
 DTSTART:20270123T204500Z
 DTEND:20270123T221500Z
 SUMMARY:2014 Major: Caps Hockey Club at Spartan Hockey Academy 15M
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1553. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021325
+DESCRIPTION:HSL 2014 Major game #1553. Stats: https://hslstats.com/#2014-major/g/2021325
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021342@hslstats.ca
+UID:hsl-2021342@hslstats.com
 DTSTAMP:20270124T011500Z
 DTSTART:20270124T011500Z
 DTEND:20270124T024500Z
 SUMMARY:2014 Major: Caps Hockey Club at HC Calgary Bandits
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1570. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021342
+DESCRIPTION:HSL 2014 Major game #1570. Stats: https://hslstats.com/#2014-major/g/2021342
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021362@hslstats.ca
+UID:hsl-2021362@hslstats.com
 DTSTAMP:20270124T204500Z
 DTSTART:20270124T204500Z
 DTEND:20270124T221500Z
 SUMMARY:2014 Major: Caps Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1590. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021362
+DESCRIPTION:HSL 2014 Major game #1590. Stats: https://hslstats.com/#2014-major/g/2021362
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021440@hslstats.ca
+UID:hsl-2021440@hslstats.com
 DTSTAMP:20270206T140000Z
 DTSTART:20270206T140000Z
 DTEND:20270206T153000Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1668. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021440
+DESCRIPTION:HSL 2014 Major game #1668. Stats: https://hslstats.com/#2014-major/g/2021440
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021471@hslstats.ca
+UID:hsl-2021471@hslstats.com
 DTSTAMP:20270206T224500Z
 DTSTART:20270206T224500Z
 DTEND:20270207T001500Z
 SUMMARY:2014 Major: Caps Hockey Club at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1699. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021471
+DESCRIPTION:HSL 2014 Major game #1699. Stats: https://hslstats.com/#2014-major/g/2021471
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021502@hslstats.ca
+UID:hsl-2021502@hslstats.com
 DTSTAMP:20270207T221500Z
 DTSTART:20270207T221500Z
 DTEND:20270207T234500Z
 SUMMARY:2014 Major: Caps Hockey Club at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1730. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021502
+DESCRIPTION:HSL 2014 Major game #1730. Stats: https://hslstats.com/#2014-major/g/2021502
 END:VEVENT
 END:VCALENDAR

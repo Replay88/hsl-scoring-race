@@ -5,7 +5,7 @@ score of every game that's gone final since last time (cached in
 cache/pages), then rebuilds docs/index.html (and docs/og.png when the
 numbers change).
 
-    python3 -I tools/update.py            # from the "HSL Scoring Race" folder
+    python3 -I tools/update.py            # from the site folder
 """
 import concurrent.futures as cf
 import datetime as dt
@@ -27,21 +27,43 @@ PAGES = os.path.join(CACHE, "pages")
 STATE = os.path.join(CACHE, "state.json")
 OUT = os.path.join(ROOT, "docs", "index.html")
 
-LEAGUE = "13952"  # HSL 2026-27 season
-DIVS = {  # every HSL division, youngest first, AAA > Major > Minor within a birth year.
-    # The league labels the Minor tier with the bare year ("2018"); we call it "2018 Minor".
-    "37783": "2019 Major",
-    "32765": "2018 Major", "32764": "2018 Minor",
-    "28374": "2017 Major", "32763": "2017 Minor",
-    "23374": "2016 Major", "32762": "2016 Minor",
-    "37782": "2015 AAA", "23373": "2015 Major", "28373": "2015 Minor",
-    "32761": "2014 AAA", "23371": "2014 Major"}
+# Seasons on the league site (its "SID"), newest first. The first one is the live season;
+# older ones are read once and then frozen.
+SEASONS = [("13952", "2026-27"), ("11823", "2025-26")]
+CURRENT = SEASONS[0][0]
 URL = "https://www.hockeysuperleague.ca/division/0/{}/game/view/{}"
 PATHS = ["32765", "28374", "0"]  # any division path serves any game
-ICS = "https://www.hockeysuperleague.ca/calendar/master-schedule/481.ics?SID={}&DID={}&TZ=America%2FEdmonton"
+ICS = "https://www.hockeysuperleague.ca/calendar/master-schedule/481.ics?SID={}&TZ=America%2FEdmonton"
+# Game types. The league's feed doesn't say whether a game is regular season, playoffs,
+# exhibition or a tournament, so date ranges are set here by hand when the league
+# announces them. Anything not listed counts as regular season. Only "Regular" games
+# feed the leaders and standings; the rest show on the Scores tab with a label.
+GAME_TYPES = {  # season id -> list of (label, first day, last day, division name or None for all)
+    "13952": [],
+    "11823": [],
+}
+
+
+def div_name(label):
+    """The league labels the Minor tier with the bare year ("2018"); we call it "2018 Minor"."""
+    return label + " Minor" if re.fullmatch(r"\d{4}", label) else label
+
+
+def div_order(name):
+    """Youngest birth year first; AAA > Major > Minor within a year."""
+    y = re.match(r"\d{4}", name)
+    tier = {"AAA": 0, "Major": 1, "Minor": 2}.get(name.split(" ")[-1], 1)
+    return (-int(y.group()) if y else 0, tier, name)
+
+
+def game_type(sid, g):
+    for label, lo, hi, div in GAME_TYPES.get(sid, []):
+        if lo <= g["day"] <= hi and (div is None or div == g["div"]):
+            return label
+    return "Regular"
 PARSER = 3  # bump when the box-score parser changes so cached games get re-read
 # The site's public address. Switch to "hslstats.com" once the domain points at GitHub Pages.
-SITE = "replay88.github.io/hsl-scoring-race"
+SITE = "hslstats.com"
 BASE = "https://" + SITE + "/"
 
 
@@ -215,24 +237,25 @@ def text_from(html):
         os.unlink(f.name)
 
 
-def schedule(did):
-    """Every game in a division from the league's calendar feed."""
-    req = urllib.request.Request(ICS.format(LEAGUE, did), headers={"User-Agent": "Mozilla/5.0"})
+def schedule(sid):
+    """Every game of a season, all divisions, from the league's calendar feed."""
+    req = urllib.request.Request(ICS.format(sid), headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         ics = r.read().decode("utf-8", "ignore").replace("\r\n ", "").replace("\n ", "")
     out = {}
     for ev in ics.split("BEGIN:VEVENT")[1:]:
         uid = re.search(r"UID:leaguegame-(\d+)", ev)
         start = re.search(r"DTSTART[^:]*:(\d{8})T(\d{4})", ev)
-        summ = re.search(r"SUMMARY:[^:]*: (.+?) vs (.+)", ev)
+        summ = re.search(r"SUMMARY:([^:]*): (.+?) vs (.+)", ev)
         if not (uid and start and summ):
             continue
         day = dt.datetime.strptime(start.group(1), "%Y%m%d").date().isoformat()
         hh, mm = int(start.group(2)[:2]), start.group(2)[2:]
         loc = re.search(r"LOCATION:(.+)", ev)
         num = re.search(r"Game #(\d+)", ev)
-        out[uid.group(1)] = dict(div=did, day=day, time=f"{(hh - 1) % 12 + 1}:{mm} {'AM' if hh < 12 else 'PM'}",
-                                 sort=hh * 60 + int(mm), home=summ.group(1).strip(), away=summ.group(2).strip(),
+        out[uid.group(1)] = dict(div=div_name(summ.group(1).strip()), day=day,
+                                 time=f"{(hh - 1) % 12 + 1}:{mm} {'AM' if hh < 12 else 'PM'}",
+                                 sort=hh * 60 + int(mm), home=summ.group(2).strip(), away=summ.group(3).strip(),
                                  loc=loc.group(1).split("\\,")[0].strip() if loc else "",
                                  num=num.group(1) if num else "", final="Final" in ev)
     return out
@@ -321,63 +344,90 @@ def load(gid):
 
 def main():
     os.makedirs(PAGES, exist_ok=True)
-    state = json.load(open(STATE)) if os.path.exists(STATE) else {"games": {}}
-    games = state["games"]
-
-    # the calendar feed is the source of truth for which games exist and are final
-    sched = {}
-    for did, name in DIVS.items():
-        try:
-            sched.update(schedule(did))
-        except Exception as e:
-            print(f"could not read the {name} calendar feed ({e}); nothing changed")
-            return
-    todo = [gid for gid, s in sched.items()
-            if s["final"] and not (games.get(gid) and games[gid]["status"].startswith("Final")
-                                   and games[gid].get("parser") == PARSER)]
-    print(f"{len(sched)} scheduled games, {sum(1 for s in sched.values() if s['final'])} final, {len(todo)} to read", flush=True)
-
-    errors = []
+    state = json.load(open(STATE)) if os.path.exists(STATE) else {}
+    if "games" in state and "seasons" not in state:  # older state layout
+        state = {"seasons": {CURRENT: {"games": state["games"], "sched": state.get("sched", {}),
+                                       "ranks": state.get("ranks", {}), "sig": state.get("sig"),
+                                       "updated": state.get("updated")}},
+                 "logos": state.get("logos", {}), "logo_files": state.get("logo_files", {}),
+                 "updated": state.get("updated")}
+    state.setdefault("seasons", {})
     logos = state.setdefault("logos", {})
     if not logos:  # first time: mine every cached page
         for f in os.listdir(PAGES):
             find_logos(open(os.path.join(PAGES, f), encoding="utf-8", errors="ignore").read(), logos)
+    today = dt.date.today().isoformat()
+    failures = 0
 
-    def work(gid):
+    for sid, label in SEASONS:
+        S = state["seasons"].setdefault(sid, {"games": {}, "sched": {}, "ranks": {}})
+        if S.get("frozen"):
+            continue
         try:
-            html, cached = load(gid)
-            g = examine(gid, html)
-            find_logos(html, logos)
-            if not g or not g["status"].startswith("Final"):
-                return gid, None, None  # calendar says final but the page isn't yet; next run
-            g["div"] = sched[gid]["div"]  # trust the calendar's division, not the roster links
-            if not cached:
-                open(os.path.join(PAGES, f"{gid}.html"), "w", encoding="utf-8").write(html)
-            return gid, g, None
+            sched = schedule(sid)
         except Exception as e:
-            return gid, None, e
+            print(f"could not read the {label} calendar feed ({e}); that season is unchanged")
+            failures += 1
+            continue
+        games = S["games"]
+        todo = [gid for gid, s in sched.items()
+                if s["final"] and not (games.get(gid) and games[gid]["status"].startswith("Final")
+                                       and games[gid].get("parser") == PARSER)]
+        if sid != CURRENT:
+            todo = todo[:150]  # old seasons fill in a chunk per run; no rush
+        print(f"{label}: {len(sched)} scheduled games, {sum(1 for s in sched.values() if s['final'])} final, "
+              f"{len(todo)} to read", flush=True)
+        errors = []
 
-    with cf.ThreadPoolExecutor(3) as ex:
-        for gid, g, err in ex.map(work, todo):
-            if err is not None:
-                errors.append(gid)
-            elif g:
-                games[gid] = g
-    games = {k: v for k, v in games.items() if k in sched and v}  # drop cancelled / stray games
+        def work(gid):
+            try:
+                html, cached = load(gid)
+                g = examine(gid, html)
+                find_logos(html, logos)
+                if not g or not g["status"].startswith("Final"):
+                    return gid, None, None  # calendar says final but the page isn't yet; next run
+                g["div"] = sched[gid]["div"]  # trust the calendar's division, not the roster links
+                if not cached:
+                    open(os.path.join(PAGES, f"{gid}.html"), "w", encoding="utf-8").write(html)
+                return gid, g, None
+            except Exception as e:
+                return gid, None, e
 
-    state["games"] = games
-    state["sched"] = sched
-    state["logo_files"] = fetch_logos(logos, {s["home"] for s in sched.values()} | {s["away"] for s in sched.values()})
+        with cf.ThreadPoolExecutor(3) as ex:
+            for gid, g, err in ex.map(work, todo):
+                if err is not None:
+                    errors.append(gid)
+                elif g:
+                    games[gid] = g
+        if todo and len(errors) > 0.3 * len(todo):
+            print(f"{label}: {len(errors)} of {len(todo)} pages failed (e.g. {errors[:3]}); the site is probably down")
+            failures += 1
+        S["games"] = {k: v for k, v in games.items() if k in sched and v}  # drop cancelled / stray games
+        for gid, g in S["games"].items():
+            g["div"] = sched[gid]["div"]  # the calendar's division name, always
+        S["sched"] = sched
+        if sid != CURRENT and not errors and not todo:
+            last = max((s["day"] for s in sched.values()), default="")
+            if last and last < (dt.date.fromisoformat(today) - dt.timedelta(days=60)).isoformat():
+                S["frozen"] = True  # past season fully read; never fetch it again
+        if errors:
+            print(f"{label}: pages that failed (will retry next run): {errors}")
+
+    cur = state["seasons"][CURRENT]
+    teams = {s["home"] for s in cur["sched"].values()} | {s["away"] for s in cur["sched"].values()}
+    state["logo_files"] = fetch_logos(logos, teams)
     build(state)
     json.dump(state, open(STATE, "w"), separators=(",", ":"))
-    finals = [g for g in games.values() if g.get("div") in DIVS and g["status"].startswith("Final")]
-    for d, name in DIVS.items():
-        n = [g for g in finals if g["div"] == d]
-        bad = [g["gid"] for g in n if sum(p["G"] for p in g["players"]) != sum(map(int, re.findall(r"\d+", g["score"])))]
-        print(f"{name}: {len(n)} final games, last {max((g['day'] for g in n), default='-')}"
-              + (f", goal totals off vs score in {bad}" if bad else ""))
-    print(f"pages that failed (will retry next run): {errors}" if errors else "all pages read")
+    for sid, label in SEASONS:
+        S = state["seasons"][sid]
+        for name in sorted({g["div"] for g in S["games"].values() if g.get("div")}, key=div_order):
+            n = [g for g in S["games"].values() if g["div"] == name and g["status"].startswith("Final")]
+            bad = [g["gid"] for g in n if sum(p["G"] for p in g["players"]) != sum(map(int, re.findall(r"\d+", g["score"])))]
+            print(f"{label} {name}: {len(n)} final games, last {max((g['day'] for g in n), default='-')}"
+                  + (f", box score off vs score in {len(bad)}" if bad else ""))
     print(OUT)
+    if failures:
+        sys.exit(f"{failures} problem(s) this run; see above")
 
 
 def key(p):
@@ -435,7 +485,7 @@ def write_calendars(did, name, sched, G):
             "END:VEVENT"])
 
     def write(path, label, evs):
-        body = "\r\n".join(["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//HSL Scoring Race//EN", "CALSCALE:GREGORIAN",
+        body = "\r\n".join(["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//HSL Statistics//EN", "CALSCALE:GREGORIAN",
                              "X-WR-CALNAME:" + ics_escape(label), "X-WR-TIMEZONE:America/Edmonton"] + evs + ["END:VCALENDAR"]) + "\r\n"
         open(path, "w", encoding="utf-8", newline="").write(body)
 
@@ -446,22 +496,37 @@ def write_calendars(did, name, sched, G):
               [event(gid, s) for gid, s in ordered if team in (s["home"], s["away"])])
 
 
-def build(state):
+def weekend_window(sched, today):
+    """The next game day on or after today, through that weekend's Sunday."""
+    days = sorted({s["day"] for s in sched.values() if not s["final"] and s["day"] >= today})
+    if not days:
+        return None, None
+    d0 = dt.date.fromisoformat(days[0])
+    ahead = {4: 2, 5: 1, 6: 0}.get(d0.weekday(), 2)  # Fri->Sun, Sat->Sun, Sun->Sun, weekday -> +2
+    return days[0], (d0 + dt.timedelta(days=ahead)).isoformat()
+
+
+def build_season(state, sid, today):
+    S = state["seasons"][sid]
+    games, sched = S["games"], S["sched"]
     data = {}
-    games = state["games"]
-    sched = state.get("sched", {})
-    for d, name in DIVS.items():
-        gs = sorted((g for g in games.values() if g and g.get("div") == d and g["status"].startswith("Final")),
-                    key=lambda g: (g["day"], sched.get(g["gid"], {}).get("sort", 0), g["gid"]))
+    names = sorted({s["div"] for s in sched.values()}, key=div_order)
+    for name in names:
+        d = name
+        allg = sorted((g for g in games.values() if g and g.get("div") == d and g["status"].startswith("Final")),
+                      key=lambda g: (g["day"], sched.get(g["gid"], {}).get("sort", 0), g["gid"]))
+        for g in allg:
+            g["type"] = game_type(sid, g)
+        gs = [g for g in allg if g["type"] == "Regular"]
         days = sorted({g["day"] for g in gs})
         last = days[-1] if days else None
 
         # --- games (results + box scores) ---
         G = {}
-        for g in gs:
+        for g in allg:
             h, a = map(int, re.findall(r"\d+", g["score"]))
             G[g["gid"]] = dict(day=g["day"], time=sched.get(g["gid"], {}).get("time", ""), rink=g["rink"],
-                               home=g["home"], away=g["away"], hs=h, vs=a, status=g["status"],
+                               home=g["home"], away=g["away"], hs=h, vs=a, status=g["status"], type=g["type"],
                                periods=g.get("scoring", {}), shots=g.get("shots", {}), events=g.get("events", []),
                                goalies=[dict(team=q["team"], name=nice(q["name"]), num=q["num"], MIN=round(q["MIN"]),
                                              GA=q["GA"], SA=q["SA"], SV=q["SV"]) for q in g.get("goalies", [])],
@@ -485,7 +550,7 @@ def build(state):
             if agg[k][6] != prev:
                 r, prev = i + 1, agg[k][6]
             ranks[k] = r
-        old = state.get("ranks", {}).get(name, {})
+        old = S.get("ranks", {}).get(name, {})
         rows = []
         for k in order:
             # name team num GP G A PTS PIM PPG GWG rank move log
@@ -605,36 +670,127 @@ def build(state):
         upcoming = sorted((dict(gid=gid, day=s["day"], time=s["time"], home=s["home"], away=s["away"], loc=s["loc"])
                            for gid, s in sched.items() if s["div"] == d and not s["final"]),
                           key=lambda s: (s["day"], sched[s["gid"]]["sort"]))
-        write_calendars(d, name, sched, G)
+        if sid == CURRENT:
+            write_calendars(d, name, sched, G)
 
-        state.setdefault("ranks_new", {})[name] = ranks
+        S.setdefault("ranks_new", {})[name] = ranks
         thru = mmdd(last) if last else "-"
         data[name] = dict(games=len(gs), thru=thru, days=days, rows=rows, hot=hot, hotspan=span, race=race,
-                          standings=standings, goalies=goalies, G=G, hats=hats, bigs=bigs, gotw=gotw, upcoming=upcoming)
+                          standings=standings, goalies=goalies, G=G, hats=hats, bigs=bigs, gotw=gotw, upcoming=upcoming,
+                          types=sorted({g["type"] for g in allg if g["type"] != "Regular"}))
+        data[name]["recap"] = recap_text(sid, name, data[name], sched, today)
+    return data
 
-    # one data file per division, loaded by the page on demand
+
+def recap_text(sid, name, D, sched, today):
+    """Plain-text weekend recap, ready to paste into a group chat."""
+    if not D["days"]:
+        return "No games yet."
+    last = D["days"][-1]
+    lo = (dt.date.fromisoformat(last) - dt.timedelta(days=2)).isoformat()
+    G = D["G"]
+    wk = sorted(((gid, g) for gid, g in G.items() if g["day"] >= lo), key=lambda x: (x[1]["day"], sched.get(x[0], {}).get("sort", 0)))
+    L = [f"HSL {name} – weekend recap, {D['hotspan']}", "", "RESULTS"]
+    day = ""
+    for gid, g in wk:
+        if g["day"] != day:
+            day = g["day"]
+            L.append(dt.date.fromisoformat(day).strftime("%a %b %-d"))
+        L.append(f"  {short(g['away'])} {g['vs']}, {short(g['home'])} {g['hs']}{' (SO)' if g['status'] == 'Final SO' else ''}")
+    L += ["", "STANDINGS (top 5)"] + [f"  {i + 1}. {short(s['team'])} {s['W']}-{s['L']}-{s['T']}, {s['PTS']} pts" for i, s in enumerate(D["standings"][:5])]
+    L += ["", "SCORING LEADERS"]
+    for r in D["rows"][:5]:
+        m = r[11]
+        L.append(f"  {r[10]}. {r[0]} ({short(r[1])}) {r[6]} pts, {r[4]}G {r[5]}A in {r[3]} GP" + (f" ▲{m}" if m and m > 0 else f" ▼{-m}" if m and m < 0 else ""))
+    if D["hot"]:
+        L += ["", "HOT THIS WEEKEND"] + [f"  {h[0]} ({short(h[1])}) {h[5]} pts, {h[3]}G {h[4]}A in {h[2]} GP" for h in D["hot"][:5]]
+    hats = [h for h in D["hats"] if h[0] >= lo]
+    if hats:
+        L += ["", "HAT TRICKS"]
+        for h in hats:
+            r, g = D["rows"][h[1]], G[h[2]]
+            L.append(f"  {r[0]} ({short(r[1])}) {h[3]}G {h[4]}A vs {short(g['away'] if g['home'] == r[1] else g['home'])}")
+    best = None
+    for q in D["goalies"]:
+        l = [x for x in q["log"] if x[5] and x[0] in G and G[x[0]]["day"] >= lo]
+        sa, sv = sum(x[3] for x in l), sum(x[4] for x in l)
+        if sa >= 15 and (best is None or sv / sa > best[1] / best[2]):
+            best = (q, sv, sa)
+    if best:
+        q, sv, sa = best
+        L += ["", "GOALIE OF THE WEEKEND", f"  {q['name']} ({short(q['team'])}) {sv}/{sa} saves, .{round(sv / sa * 1000):03d}"]
+    lo2, hi2 = weekend_window({k: v for k, v in sched.items() if v["div"] == name}, today)
+    if lo2:
+        up = [u for u in D["upcoming"] if lo2 <= u["day"] <= hi2]
+        if up:
+            L += ["", "NEXT UP"]
+            day = ""
+            for u in up:
+                if u["day"] != day:
+                    day = u["day"]
+                    L.append(dt.date.fromisoformat(day).strftime("%a %b %-d"))
+                L.append(f"  {u['time']} {short(u['away'])} at {short(u['home'])}, {u['loc']}")
+    L += ["", f"Full stats: {BASE}#{slug(name)}/leaders"]
+    return "\n".join(L)
+
+
+def short(team):
+    return team.replace(" Hockey Academy", "").replace(" Hockey Club", "").replace(" Hockey", "")
+
+
+def build(state):
+    today = dt.date.today().isoformat()
     ddir = os.path.join(os.path.dirname(OUT), "data")
     os.makedirs(ddir, exist_ok=True)
-    blobs = {name: json.dumps(v, separators=(",", ":"), ensure_ascii=False) for name, v in data.items()}
-    sig = hashlib.sha1("".join(blobs[n] for n in sorted(blobs)).encode()).hexdigest()
-    changed = sig != state.get("sig")
-    if changed:  # numbers changed: stamp the time and roll the rank snapshot
-        state["sig"] = sig
-        state["updated"] = dt.datetime.now().strftime("%b %-d, %Y %-I:%M %p")
-        state["ranks"] = state["ranks_new"]
-    state.pop("ranks_new", None)
-    index = dict(updated=state["updated"], logos=state.get("logo_files", {}), divisions=[
-        dict(key=slug(name), name=name, games=v["games"], thru=v["thru"],
-             leader=(v["rows"][0][:2] + [v["rows"][0][6]]) if v["rows"] else None)
-        for name, v in data.items()])
-    for name, blob in blobs.items():
-        open(os.path.join(ddir, slug(name) + ".json"), "w", encoding="utf-8").write(blob)
+    seasons_out, blobs = [], {}
+    for sid, label in SEASONS:
+        S = state["seasons"].get(sid)
+        if not S or not S.get("sched"):
+            continue
+        data = build_season(state, sid, today)
+        sdir = os.path.join(ddir, label)
+        os.makedirs(sdir, exist_ok=True)
+        # league-wide player index for this season (search across divisions)
+        players = [[r[0], r[1], slug(n), r[3], r[4], r[5], r[6], slug(r[0] + " " + short(r[1]))]
+                   for n, v in data.items() for r in v["rows"]]
+        open(os.path.join(sdir, "players.json"), "w", encoding="utf-8").write(json.dumps(players, separators=(",", ":"), ensure_ascii=False))
+        divs = []
+        for n, v in data.items():
+            blob = json.dumps(v, separators=(",", ":"), ensure_ascii=False)
+            blobs[(label, n)] = blob
+            open(os.path.join(sdir, slug(n) + ".json"), "w", encoding="utf-8").write(blob)
+            divs.append(dict(key=slug(n), name=n, games=v["games"], thru=v["thru"],
+                             leader=(v["rows"][0][:2] + [v["rows"][0][6]]) if v["rows"] else None,
+                             top=v["standings"][0]["team"] if v["standings"] else None,
+                             weekend=len([u for u in v["upcoming"] if (lambda w: w[0] and w[0] <= u["day"] <= w[1])(weekend_window({k: s for k, s in S["sched"].items() if s["div"] == n}, today))]) if sid == CURRENT else 0,
+                             hot=[[h[0], h[1], h[5], h[6]] for h in v["hot"][:3]],
+                             movers=sorted(([r[0], r[1], r[6], r[11], r[10]] for r in v["rows"] if r[11] and r[11] >= 3), key=lambda x: -x[3])[:3],
+                             hats=[[h[0], v["rows"][h[1]][0], v["rows"][h[1]][1], h[3], h[4]] for h in v["hats"]
+                                   if v["days"] and h[0] >= (dt.date.fromisoformat(v["days"][-1]) - dt.timedelta(days=2)).isoformat()]))
+        seasons_out.append(dict(key=label, divisions=divs, current=sid == CURRENT))
+        sig = hashlib.sha1("".join(blobs[(label, n)] for n in sorted(data)).encode()).hexdigest()
+        if sig != S.get("sig"):  # numbers changed: stamp the time and roll the rank snapshot
+            S["sig"] = sig
+            S["updated"] = dt.datetime.now().strftime("%b %-d, %Y %-I:%M %p")
+            S["ranks"] = S.get("ranks_new", {})
+            if sid == CURRENT:
+                state["updated"] = S["updated"]
+                state["changed"] = True
+        S.pop("ranks_new", None)
+        if sid == CURRENT:
+            write_cards(data, S["sched"], state.get("logo_files", {}), today)
+
+    state.setdefault("updated", dt.datetime.now().strftime("%b %-d, %Y %-I:%M %p"))
+    index = dict(updated=state["updated"], logos=state.get("logo_files", {}), seasons=seasons_out,
+                 divisions=next((s["divisions"] for s in seasons_out if s["current"]), []))
     open(os.path.join(ddir, "index.json"), "w", encoding="utf-8").write(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
     tpl = open(os.path.join(HERE, "page.tpl.html"), encoding="utf-8").read()
     html = (tpl.replace("__INDEX__", json.dumps(index, separators=(",", ":"), ensure_ascii=False))
             .replace("__UPDATED__", state["updated"]).replace("__BASE__", BASE).replace("__SITE__", SITE))
     open(OUT, "w", encoding="utf-8").write(html)
+    write_icons()
     png = os.path.join(os.path.dirname(OUT), "og.png")
+    changed = state.pop("changed", False)
     if not changed and os.path.exists(png):
         return  # same numbers: leave the preview image byte-for-byte alone
     try:
@@ -642,6 +798,128 @@ def build(state):
         og.render(index, png, SITE)
     except Exception as e:  # the preview image is a nicety; never fail the run over it
         print(f"preview image skipped: {e}")
+
+
+def write_if_changed(path, data):
+    if os.path.exists(path) and open(path, "rb").read() == data:
+        return
+    open(path, "wb").write(data)
+
+
+def write_icons():
+    """Site icon + web app manifest, drawn once."""
+    folder = os.path.dirname(OUT)
+    svg = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#0e1218"/>'
+           '<rect x="0" y="0" width="7" height="64" rx="3" fill="#ff4d63"/>'
+           '<text x="37" y="43" text-anchor="middle" font-family="Oswald,Impact,Arial Narrow,sans-serif" font-weight="700" '
+           'font-size="30" fill="#e8ecf2" letter-spacing="1">HSL</text></svg>')
+    write_if_changed(os.path.join(folder, "icon.svg"), svg.encode())
+    manifest = json.dumps(dict(name="HSL Statistics", short_name="HSL Stats", start_url="./", display="standalone",
+                               background_color="#0e1218", theme_color="#0e1218",
+                               icons=[dict(src="icon-192.png", sizes="192x192", type="image/png"),
+                                      dict(src="icon-512.png", sizes="512x512", type="image/png")]), indent=1)
+    write_if_changed(os.path.join(folder, "manifest.webmanifest"), manifest.encode())
+    if all(os.path.exists(os.path.join(folder, f)) for f in ("icon-192.png", "icon-512.png", "apple-touch-icon.png")):
+        return
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+        for size, fn in ((512, "icon-512.png"), (192, "icon-192.png"), (180, "apple-touch-icon.png")):
+            im = Image.new("RGBA", (size, size), (14, 18, 24, 255))
+            d = ImageDraw.Draw(im)
+            d.rounded_rectangle([0, 0, size - 1, size - 1], radius=size // 5, fill=(14, 18, 24, 255))
+            d.rectangle([0, 0, size // 9, size], fill=(255, 77, 99, 255))
+            f = ImageFont.truetype(os.path.join(HERE, "fonts", "Oswald-SemiBold.ttf"), int(size * 0.5))
+            tw = d.textlength("HSL", font=f)
+            d.text(((size + size // 9) / 2 - tw / 2, size * 0.22), "HSL", font=f, fill=(232, 236, 242, 255))
+            # corners: keep them transparent outside the rounded square
+            mask = Image.new("L", (size, size), 0)
+            ImageDraw.Draw(mask).rounded_rectangle([0, 0, size - 1, size - 1], radius=size // 5, fill=255)
+            im.putalpha(mask)
+            im.save(os.path.join(folder, fn), optimize=True)
+    except Exception as e:
+        print(f"icons skipped: {e}")
+
+
+def write_cards(data, sched, logo_files, today):
+    """A square 'this weekend' image per team, for dropping into a group chat."""
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except Exception:
+        return
+    folder = os.path.join(os.path.dirname(OUT), "cards")
+    os.makedirs(folder, exist_ok=True)
+    logos_dir = os.path.dirname(OUT)
+    fonts = os.path.join(HERE, "fonts")
+    F = lambda n, s: ImageFont.truetype(os.path.join(fonts, n), s)
+    bg, fg, muted, accent, line = (14, 18, 24), (232, 236, 242), (152, 162, 179), (255, 77, 99), (42, 50, 64)
+    wanted = set()
+    for name, D in data.items():
+        lo, hi = weekend_window({k: s for k, s in sched.items() if s["div"] == name}, today)
+        if not lo:
+            continue
+        teams = {u["home"] for u in D["upcoming"]} | {u["away"] for u in D["upcoming"]}
+        sdir = os.path.join(folder, slug(name))
+        os.makedirs(sdir, exist_ok=True)
+        for team in sorted(teams):
+            games = [u for u in D["upcoming"] if lo <= u["day"] <= hi and team in (u["home"], u["away"])]
+            if not games:
+                continue
+            W = H = 1080
+            im = Image.new("RGB", (W, H), bg)
+            d = ImageDraw.Draw(im)
+            d.rectangle([0, 0, 16, H], fill=accent)
+            y = 70
+            lf = logo_files.get(team)
+            if lf:
+                try:
+                    lg = Image.open(os.path.join(logos_dir, lf)).convert("RGBA")
+                    lg.thumbnail((120, 120))
+                    im.paste(lg, (70, y), lg)
+                    x0 = 215
+                except Exception:
+                    x0 = 70
+            else:
+                x0 = 70
+            d.text((x0, y - 4), team.upper()[:26], font=F("Oswald-SemiBold.ttf", 58), fill=fg)
+            d.text((x0 + 2, y + 66), f"{name} · This weekend", font=F("Barlow-Medium.ttf", 32), fill=accent)
+            y = 240
+            d.line([70, y - 20, W - 70, y - 20], fill=line, width=2)
+            st = next((s for s in D["standings"] if s["team"] == team), None)
+            if st:
+                d.text((70, y - 8), f"{st['W']}-{st['L']}-{st['T']}, {st['PTS']} pts, {D['standings'].index(st) + 1}{['st', 'nd', 'rd'][D['standings'].index(st)] if D['standings'].index(st) < 3 else 'th'} of {len(D['standings'])}",
+                       font=F("Barlow-Medium.ttf", 30), fill=muted)
+                y += 60
+            for u in games[:5]:
+                opp = u["away"] if u["home"] == team else u["home"]
+                vs = "vs" if u["home"] == team else "at"
+                d.text((70, y), dt.date.fromisoformat(u["day"]).strftime("%a %b %-d").upper() + "  ·  " + u["time"],
+                       font=F("Oswald-SemiBold.ttf", 34), fill=accent)
+                lo_ = logo_files.get(opp)
+                x = 70
+                if lo_:
+                    try:
+                        lg = Image.open(os.path.join(logos_dir, lo_)).convert("RGBA")
+                        lg.thumbnail((72, 72))
+                        im.paste(lg, (70, y + 50), lg)
+                        x = 160
+                    except Exception:
+                        pass
+                d.text((x, y + 50), f"{vs} {opp}"[:34], font=F("Barlow-Medium.ttf", 44), fill=fg)
+                d.text((x, y + 104), u["loc"][:48], font=F("Barlow-Medium.ttf", 28), fill=muted)
+                y += 168
+            d.text((70, H - 70), SITE, font=F("Barlow-Medium.ttf", 26), fill=muted)
+            from io import BytesIO
+            buf = BytesIO()
+            im.save(buf, "PNG", optimize=True)
+            path = os.path.join(sdir, slug(team) + ".png")
+            write_if_changed(path, buf.getvalue())
+            wanted.add(path)
+    # drop cards for teams that have nothing this weekend
+    for root, _, files in os.walk(folder):
+        for f in files:
+            p_ = os.path.join(root, f)
+            if p_ not in wanted:
+                os.remove(p_)
 
 
 if __name__ == "__main__":

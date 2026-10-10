@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Points leaders, standings, goalies, scores, schedules and player profiles for every Hockey Super League division.">
-<meta property="og:title" content="HSL Scoring Race">
+<meta property="og:title" content="HSL Statistics">
 <meta property="og:description" content="Points leaders, standings, goalies, scores and schedules for every HSL division. Updates itself after every game.">
 <meta property="og:image" content="__BASE__og.png">
 <meta property="og:image:width" content="1200">
@@ -12,7 +12,12 @@
 <meta property="og:url" content="__BASE__">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<title>HSL Scoring Race</title>
+<title>HSL Statistics</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0e1218">
+<meta name="apple-mobile-web-app-title" content="HSL Stats">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600&family=Barlow+Semi+Condensed:wght@500;600&display=swap">
 <style>
@@ -92,7 +97,7 @@ td.pts{font-weight:600;font-size:16px}
 td.rk{color:var(--muted)}
 tr.top td.rk{color:var(--accent);font-weight:600}
 tr.me td{background:color-mix(in srgb,var(--star) 12%,transparent)}
-td.mv{font-size:12.5px;font-weight:600;min-width:38px}
+td.mv,span.mv{font-size:11.5px;font-weight:600}
 .mv .up{color:var(--up)}.mv .down{color:var(--down)}.mv .same{color:var(--muted);font-weight:400}.mv .new{color:var(--muted);font-weight:400;font-size:11px;letter-spacing:.06em}
 tbody tr:hover td{background:var(--accent-soft)}
 .form{display:inline-flex;gap:3px}
@@ -153,6 +158,33 @@ footer{color:var(--muted);font-size:12.5px;max-width:72ch;border-top:1px solid v
 footer b{color:var(--fg);font-weight:600}
 footer a{color:var(--accent)}
 [hidden]{display:none!important}
+.topbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:space-between}
+.topbar .right{display:flex;gap:8px;align-items:center}
+.topbar select,.topbar button{font:inherit;font-family:var(--data);font-size:14px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);cursor:pointer}
+.banner{background:var(--accent-soft);border:1px solid var(--accent);border-radius:8px;padding:10px 12px;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.dcard{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px;display:flex;flex-direction:column;gap:6px;min-width:0;color:inherit}
+.dcard:hover{border-color:var(--accent)}
+.dcard h3{margin:0;font-family:var(--display);font-size:20px;text-transform:uppercase;letter-spacing:.03em;color:var(--accent)}
+.dcard .ln{display:flex;align-items:center;gap:8px;min-width:0}
+.dcard .ln b{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dcard .ln span{color:var(--muted);font-size:13px;white-space:nowrap}
+.dcard .k{font-family:var(--data);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.dcard .foot{font-family:var(--data);font-size:12.5px;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;margin-top:2px}
+.search{position:relative}
+.search ul{list-style:none;margin:4px 0 0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:8px;max-height:320px;overflow:auto}
+.search li a{display:flex;justify-content:space-between;gap:10px;padding:8px 10px;border-bottom:1px solid var(--line)}
+.search li:last-child a{border-bottom:0}
+.search li a:hover{background:var(--accent-soft)}
+.search li .m{color:var(--muted);font-family:var(--data);font-size:13px;white-space:nowrap}
+.cmp{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;align-items:center;font-family:var(--data)}
+.cmp .n{font-family:var(--body);font-weight:600;font-size:18px}
+.cmp .v{font-family:var(--display);font-size:26px;font-variant-numeric:tabular-nums}
+.cmp .v.win{color:var(--accent)}
+.cmp .k{text-align:center;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.cmp .r{text-align:right}
+.tag{font-family:var(--data);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);border:1px solid var(--accent);border-radius:4px;padding:1px 6px}
+.card img.share{max-width:360px;width:100%;border-radius:8px;border:1px solid var(--line)}
 @media (max-width:520px){.podium{grid-template-columns:1fr}.hide-s{display:none}.game .sc{font-size:20px}}
 @media (prefers-reduced-motion:no-preference){.subtabs a,.tabs a{transition:color .15s,background .15s}}
 </style>
@@ -160,31 +192,46 @@ footer a{color:var(--accent)}
 <body>
 <div class="wrap">
 <header>
-  <h1>HSL <span id="divTitle">2018 Major</span> Scoring Race</h1>
+  <h1>HSL <span id="divTitle">2018 Major</span> Statistics</h1>
   <p>Every final in every Hockey Super League division, 2026-27 season, tallied from the official box scores.</p>
 </header>
-<nav class="tabs" aria-label="Division" id="divTabs"></nav>
+<div class="topbar"><nav class="tabs" aria-label="Division" id="divTabs" style="flex:1 1 auto;min-width:0"></nav><div class="right"><select id="seasonSel" aria-label="Season"></select><button id="themeBtn" aria-label="Switch light or dark" title="Light / dark">◐</button></div></div>
+<div class="banner" id="banner" hidden></div>
 <nav class="subtabs" aria-label="Section" id="secTabs"></nav>
 <main id="view" style="display:contents"></main>
-<footer><p style="margin:0 0 8px"><b>A fun fan site, made by a hockey parent. Not affiliated with, endorsed by, or run by the Hockey Super League or any of its teams. Non-commercial: no ads, nothing for sale.</b> Team names and logos belong to their clubs. Every stat here comes from the league's public box scores; if you're a parent or club and would like a name, photo or logo removed or a stat corrected, get in touch and it'll be done promptly. <span id="contact">Contact: coming soon.</span></p>Covers all 12 HSL divisions. Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated __UPDATED__. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up in the skater list too. The +/− column is the change in rank since the numbers last changed. Tap any player, team or score for more.</footer>
+<footer><p style="margin:0 0 8px"><b>A fun fan site, made by a hockey parent. Not affiliated with, endorsed by, or run by the Hockey Super League or any of its teams. Non-commercial: no ads, nothing for sale.</b> Team names and logos belong to their clubs. Every stat here comes from the league's public box scores; if you're a parent or club and would like a name, photo or logo removed or a stat corrected, get in touch and it'll be done promptly. <span id="contact">Contact: <a class="lnk" href="mailto:hello@hslstats.com">hello@hslstats.com</a></span></p>Covers all 12 HSL divisions. Source: box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, last updated __UPDATED__. Ties in points break on goals. GP counts games a player was listed in the box score, so goalies show up in the skater list too. A small ▲ or ▼ beside a rank is how far the player moved since the numbers last changed. Tap any player, team or score for more.</footer>
 </div>
 <script>
 const INDEX=__INDEX__;
-const DIVKEYS={}; INDEX.divisions.forEach(d=>DIVKEYS[d.key]=d.name);
-const DATA={}; // division name -> data, loaded on demand from data/<key>.json
-const IDX={};
+const CUR=INDEX.seasons.find(s=>s.current).key;
+let SEASON=CUR;                       // season shown right now
+const DIVK={}; INDEX.seasons.forEach(s=>{DIVK[s.key]={}; s.divisions.forEach(d=>DIVK[s.key][d.key]=d.name);});
+let DIVKEYS=DIVK[CUR];
+const DATA={}, IDX={}, PLAYERS={};    // keyed by season|division, loaded on demand
+const DD=dk=>DATA[SEASON+'|'+dk];
+const II=dk=>IDX[SEASON+'|'+dk];
+const V='?v='+encodeURIComponent(INDEX.updated);
 async function load(dk){
-  const dn=DIVKEYS[dk]; if(DATA[dn]) return DATA[dn];
-  const r=await fetch(`data/${dk}.json?v=${encodeURIComponent(INDEX.updated)}`); if(!r.ok) throw new Error('load');
-  const D=await r.json(); DATA[dn]=D; index(dk,D); return D;
+  const k=SEASON+'|'+dk; if(DATA[k]) return DATA[k];
+  const r=await fetch(`data/${SEASON}/${dk}.json${V}`); if(!r.ok) throw new Error('load');
+  const D=await r.json(); DATA[k]=D; index(k,D); return D;
 }
-function index(dk,D){
+async function loadPlayers(){
+  if(PLAYERS[SEASON]) return PLAYERS[SEASON];
+  const r=await fetch(`data/${SEASON}/players.json${V}`); if(!r.ok) throw new Error('load');
+  return PLAYERS[SEASON]=await r.json();
+}
+function index(k,D){
   const byKey={}, bySlug={}, box={}, teamSlug={};
   D.rows.forEach((r,i)=>{ byKey[r[1]+'|'+r[0]]=i; bySlug[slug(r[0]+' '+short(r[1]))]=i;
     r[12].forEach(l=>(box[l[0]]=box[l[0]]||[]).push([i,l[1],l[2],l[3]])); });
   D.standings.forEach(s=>teamSlug[slug(s.team)]=s.team);
-  IDX[dk]={byKey,bySlug,box,teamSlug};
+  IDX[k]={byKey,bySlug,box,teamSlug};
 }
+// ---- theme (follows the phone unless you pick one) ----
+let THEME=''; try{THEME=localStorage.getItem('hslTheme')||''}catch(e){}
+function applyTheme(){ if(THEME) document.documentElement.setAttribute('data-theme',THEME); else document.documentElement.removeAttribute('data-theme'); }
+applyTheme();
 const SECS=[["leaders","Leaders"],["standings","Standings"],["goalies","Goalies"],["race","Points race"],["scores","Scores"],["schedule","Schedule"],["records","Records"],["recap","Recap"]];
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -199,35 +246,56 @@ let FOLLOW={}; try{FOLLOW=JSON.parse(localStorage.getItem('hslFollow')||'{}')}ca
 const saveFollow=()=>{try{localStorage.setItem('hslFollow',JSON.stringify(FOLLOW))}catch(e){}};
 const isFollowed=(dk,r)=>(FOLLOW[dk]||[]).includes(r[1]+'|'+r[0]);
 
-// ---- routing: #2018/leaders, #2018/p/<player-slug>, #2018/t/<team-slug>, #2018/g/<gid> ----
-let route={dk:'2018-major',sec:'leaders',id:''}, key=6;
+// ---- routing: #home · #2018-major/leaders · #2018-major/p/<player> · /t/<team> · /g/<gid> · /c/<a>/<b> · /h/<teamA>/<teamB>
+//      past seasons: #s2025-26/2017-major/leaders
+let route={dk:'',sec:'home',id:''}, key=6;
 function parse(){
-  const h=location.hash.replace(/^#\/?/,'').split('/');
+  let h=location.hash.replace(/^#\/?/,'').split('/');
+  SEASON=CUR;
+  if(/^s\d{4}-\d{2}$/.test(h[0])&&DIVK[h[0].slice(1)]){ SEASON=h[0].slice(1); h=h.slice(1); }
+  DIVKEYS=DIVK[SEASON];
+  if(!h[0]||h[0]==='home'){ route={dk:'',sec:'home',id:''}; return; }
   let dk=DIVKEYS[h[0]]?h[0]:DIVKEYS[h[0]+'-major']?h[0]+'-major':null; // old links used the bare year for Major
-  if(!dk){ try{dk=localStorage.getItem('hslDiv2')}catch(e){} dk=DIVKEYS[dk]?dk:'2018-major'; }
+  if(!dk){ route={dk:'',sec:'home',id:''}; return; }
   let sec=h[1]||'leaders', id=h.slice(2).join('/');
-  if(!['p','t','g'].includes(sec)&&!SECS.some(s=>s[0]===sec)) sec='leaders';
-  route={dk,sec,id}; try{localStorage.setItem('hslDiv2',dk)}catch(e){}
+  if(!['p','t','g','c','h'].includes(sec)&&!SECS.some(s=>s[0]===sec)) sec='leaders';
+  route={dk,sec,id};
 }
-const href=(dk,sec,id)=>'#'+dk+'/'+sec+(id?'/'+id:'');
-const P=(dk,i,nologo)=>{const r=DATA[DIVKEYS[dk]].rows[i]; return `<a class="lnk" href="${href(dk,'p',slug(r[0]+' '+short(r[1])))}">${nologo?'':logo(r[1])}${esc(r[0])}</a>`;};
+const sp=()=>SEASON===CUR?'':'s'+SEASON+'/';
+const href=(dk,sec,id)=>'#'+sp()+dk+'/'+sec+(id?'/'+id:'');
+const hrefS=(season,dk,sec)=>'#'+(season===CUR?'':'s'+season+'/')+(dk?dk+'/'+sec:'home');
+const P=(dk,i,nologo)=>{const r=DD(dk).rows[i]; return `<a class="lnk" href="${href(dk,'p',slug(r[0]+' '+short(r[1])))}">${nologo?'':logo(r[1])}${esc(r[0])}</a>`;};
 const LOGOS=INDEX.logos||{};
 const logo=(t,sz)=>LOGOS[t]?`<img class="logo" src="${esc(LOGOS[t])}" alt="" width="${sz||20}" height="${sz||20}" loading="lazy">`:'';
 const T=(dk,t,s)=>`<a class="lnk tl" href="${href(dk,'t',slug(t))}">${logo(t)}${esc(s?short(t):t)}</a>`;
 const G=(dk,gid)=>href(dk,'g',gid);
 
 let seq=0;
+function chrome(dk,sec){
+  const past=SEASON!==CUR;
+  $('#divTitle').textContent=dk?DIVKEYS[dk]:(past?SEASON:'');
+  document.querySelector('header p').textContent=past?`The ${SEASON} season, every division, from the league's box scores.`:'Every final in every Hockey Super League division, 2026-27 season, tallied from the official box scores.';
+  $('#divTabs').innerHTML=`<a href="${hrefS(SEASON,'','')}" aria-current="${!dk}">Home</a>`+Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g','c','h'].includes(sec)||sec==='home'?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('');
+  $('#secTabs').innerHTML=dk?SECS.filter(([s])=>!(past&&s==='schedule')).map(([s,l])=>`<a href="${href(dk,s)}" aria-current="${s===sec}">${l}</a>`).join(''):'';
+  $('#secTabs').hidden=!dk;
+  const sel=$('#seasonSel'); sel.innerHTML=INDEX.seasons.map(s=>`<option value="${s.key}"${s.key===SEASON?' selected':''}>${s.key}${s.current?' (live)':''}</option>`).join('');
+  sel.onchange=()=>{const s=sel.value; const dk2=dk&&DIVK[s][dk]?dk:''; location.hash=hrefS(s,dk2,dk2?'leaders':'');};
+  $('#themeBtn').onclick=()=>{const sys=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'; const now=THEME||sys; THEME=now==='dark'?'light':'dark'; try{localStorage.setItem('hslTheme',THEME)}catch(e){} applyTheme();};
+  const b=$('#banner'); b.hidden=true;
+  if(!past){ const ageDays=(Date.now()-new Date(INDEX.updated))/864e5; if(ageDays>6){ b.textContent=`Heads up: the stats were last refreshed ${INDEX.updated}. If games have been played since, the automatic update may be stuck.`; b.hidden=false; } }
+}
 async function render(){
   parse();
   let {dk,sec,id}=route;
   const my=++seq;
-  $('#divTitle').textContent=DIVKEYS[dk];
-  if(!DATA[DIVKEYS[dk]]){ $('#view').innerHTML='<p class="empty">Loading…</p>'; try{await load(dk);}catch(e){ if(my===seq) $('#view').innerHTML='<p class="empty">Could not load that division. Check your connection and try again.</p>'; return; } if(my!==seq) return; }
-  const dn=DIVKEYS[dk], D=DATA[dn];
-  $('#divTabs').innerHTML=Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g'].includes(sec)?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('');
-  $('#secTabs').innerHTML=SECS.map(([s,l])=>`<a href="${href(dk,s)}" aria-current="${s===sec}">${l}</a>`).join('');
+  chrome(dk,sec);
   const v=$('#view');
-  if(sec==='p') v.innerHTML=player(dk,id);
+  if(sec==='home'){ v.innerHTML=home(); wireHome(); window.scrollTo(0,0); return; }
+  if(!DD(dk)){ v.innerHTML='<p class="empty">Loading…</p>'; try{await load(dk);}catch(e){ if(my===seq) v.innerHTML='<p class="empty">Could not load that division. Check your connection and try again.</p>'; return; } if(my!==seq) return; }
+  const dn=DIVKEYS[dk], D=DD(dk);
+  if(sec==='c') v.innerHTML=compare(dk,id);
+  else if(sec==='h') v.innerHTML=h2hPage(dk,id);
+  else if(sec==='p') v.innerHTML=player(dk,id);
   else if(sec==='t') v.innerHTML=team(dk,id);
   else if(sec==='g') v.innerHTML=game(dk,id);
   else if(sec==='leaders') v.innerHTML=leaders(dk);
@@ -240,29 +308,32 @@ async function render(){
   else if(sec==='recap') v.innerHTML=recap(dk);
   if(sec==='recap') wireCopy();
   if(sec==='race') drawRace(dk);
+  if(sec==='c') drawRace(dk, id.split('/').map(s=>II(dk).bySlug[s]).filter(i=>i!=null));
   if(sec==='leaders') wireLeaders(dk);
+  if(sec==='p') wireCompare(dk,id);
+  if(sec==='t') wireH2H(dk,id);
   v.querySelectorAll('button.star').forEach(b=>b.onclick=()=>{const k=b.dataset.k, l=FOLLOW[dk]=FOLLOW[dk]||[]; const i=l.indexOf(k); i<0?l.push(k):l.splice(i,1); saveFollow(); render();});
-  if(['p','t','g'].includes(sec)) window.scrollTo(0,0);
+  if(['p','t','g','c','h'].includes(sec)) window.scrollTo(0,0);
   const cur=document.querySelector('#divTabs a[aria-current="true"]'); if(cur) cur.scrollIntoView({block:'nearest',inline:'nearest'});
 }
 
 // ---- views ----
 function followStrip(dk){
-  const D=DATA[DIVKEYS[dk]], I=IDX[dk], l=(FOLLOW[dk]||[]).map(k=>I.byKey[k]).filter(i=>i!=null);
+  const D=DD(dk), I=II(dk), l=(FOLLOW[dk]||[]).map(k=>I.byKey[k]).filter(i=>i!=null);
   if(!l.length) return '';
   return `<div class="strip follow"><h2>Following</h2><ul>${l.map(i=>{const r=D.rows[i];return `<li><b>${P(dk,i)}</b> <span>#${r[10]} · ${r[6]} pts (${r[4]}G ${r[5]}A) · ${esc(short(r[1]))}</span></li>`;}).join('')}</ul></div>`;
 }
 function leaders(dk){
-  const D=DATA[DIVKEYS[dk]];
+  const D=DD(dk);
   return followStrip(dk)+
   `<div class="podium">${D.rows.slice(0,3).map((r,i)=>`<div class="pod"><span class="rk">${['1st','2nd','3rd'][i]}</span><span class="nm">${P(dk,i)}</span><span class="tm">${T(dk,r[1]).replace(/<img[^>]*>/,'')} · #${esc(r[2])}</span><span class="pts">${r[6]}<small>PTS · ${r[4]}G ${r[5]}A · ${r[3]} GP</small></span></div>`).join('')}</div>`+
   (D.hot.length?`<div class="strip"><h2>Hot this weekend · ${esc(D.hotspan)}</h2><ul>${D.hot.map(h=>`<li><b>${P(dk,h[6])}</b> <span>${h[5]} pts · ${h[3]}G ${h[4]}A in ${h[2]} GP · ${esc(short(h[1]))}</span></li>`).join('')}</ul></div>`:'')+
   `<div class="controls"><input id="q" type="search" placeholder="Find a player" aria-label="Find a player"><select id="team" aria-label="Team"><option value="">All teams</option>${[...new Set(D.rows.map(r=>r[1]))].sort().map(t=>`<option>${esc(t)}</option>`).join('')}</select></div>
   <div class="meta" id="meta"></div>
-  <div class="tbl"><table><thead><tr><th class="l">#</th><th class="l" title="Change since the last update">+/−</th><th class="l">Player</th><th><button data-k="3">GP</button></th><th><button data-k="4">G</button></th><th><button data-k="5">A</button></th><th><button data-k="6">PTS</button></th><th class="hide-s"><button data-k="13">P/GP</button></th><th class="hide-s"><button data-k="8">PPG</button></th><th class="hide-s"><button data-k="7">PIM</button></th></tr></thead><tbody id="rows"></tbody></table></div>`;
+  <div class="tbl"><table><thead><tr><th class="l" title="Rank, and change since the last update">#</th><th class="l">Player</th><th><button data-k="3">GP</button></th><th><button data-k="4">G</button></th><th><button data-k="5">A</button></th><th><button data-k="6">PTS</button></th><th class="hide-s"><button data-k="13">P/GP</button></th><th class="hide-s"><button data-k="8">PPG</button></th><th class="hide-s"><button data-k="7">PIM</button></th></tr></thead><tbody id="rows"></tbody></table></div>`;
 }
 function wireLeaders(dk){
-  const D=DATA[DIVKEYS[dk]], all=D.rows.map((r,i)=>[...r, r[3]?r[6]/r[3]:0, i]); // ...rank(10) move(11) log(12) ppg(13) idx(14)
+  const D=DD(dk), all=D.rows.map((r,i)=>[...r, r[3]?r[6]/r[3]:0, i]); // ...rank(10) move(11) log(12) ppg(13) idx(14)
   const draw=()=>{
     const q=$('#q').value.trim().toLowerCase(), tm=$('#team').value;
     let list=all.filter(r=>(!tm||r[1]===tm)&&(!q||r[0].toLowerCase().includes(q)));
@@ -270,13 +341,13 @@ function wireLeaders(dk){
     document.querySelectorAll('#view th button').forEach(b=>b.parentElement.toggleAttribute('aria-sort',+b.dataset.k===key));
     document.querySelectorAll('#view th[aria-sort]').forEach(th=>th.setAttribute('aria-sort','descending'));
     $('#meta').textContent=`${D.games} games through ${D.thru} · ${all.length} players · showing ${list.length}`;
-    $('#rows').innerHTML=list.length?list.map(r=>`<tr class="${r[10]<=10?'top':''}${isFollowed(dk,r)?' me':''}"><td class="l rk">${r[10]}</td><td class="l mv">${mv(r[11])}</td><td class="l player">${P(dk,r[14],1)}<span class="t">${T(dk,r[1])} · #${esc(r[2])}</span></td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td class="pts">${r[6]}</td><td class="hide-s">${r[13].toFixed(2)}</td><td class="hide-s">${r[8]}</td><td class="hide-s">${r[7]}</td></tr>`).join(''):'<tr><td colspan="10" class="empty">No players match that search.</td></tr>';
+    $('#rows').innerHTML=list.length?list.map(r=>`<tr class="${r[10]<=10?'top':''}${isFollowed(dk,r)?' me':''}"><td class="l rk">${r[10]}${r[11]?`<span class="mv" style="margin-left:5px">${mv(r[11])}</span>`:''}</td><td class="l player">${P(dk,r[14],1)}<span class="t">${T(dk,r[1])} · #${esc(r[2])}</span></td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td class="pts">${r[6]}</td><td class="hide-s">${r[13].toFixed(2)}</td><td class="hide-s">${r[8]}</td><td class="hide-s">${r[7]}</td></tr>`).join(''):'<tr><td colspan="9" class="empty">No players match that search.</td></tr>';
   };
   document.querySelectorAll('#view th button').forEach(b=>b.onclick=()=>{key=+b.dataset.k;draw();});
   $('#q').oninput=draw; $('#team').onchange=draw; draw();
 }
 function standings(dk){
-  const D=DATA[DIVKEYS[dk]];
+  const D=DD(dk);
   return `<div class="tbl"><table><thead><tr><th class="l">#</th><th class="l">Team</th><th>GP</th><th>W</th><th>L</th><th>T</th><th>PTS</th><th class="hide-s">PTS%</th><th>GF</th><th>GA</th><th>DIFF</th><th class="hide-s">Streak</th><th class="hide-s l">Last 5</th></tr></thead><tbody>${D.standings.map((s,i)=>`<tr><td class="l rk">${i+1}</td><td class="l player">${T(dk,s.team)}</td><td>${s.GP}</td><td>${s.W}</td><td>${s.L}</td><td>${s.T}</td><td class="pts">${s.PTS}</td><td class="hide-s">${s.PCT.toFixed(3)}</td><td>${s.GF}</td><td>${s.GA}</td><td>${s.DIFF>0?'+':''}${s.DIFF}</td><td class="hide-s">${s.streak}</td><td class="hide-s l"><span class="form">${s.last5.map(x=>`<i class="${x}">${x}</i>`).join('')}</span></td></tr>`).join('')}</tbody></table></div>
   <p class="note">Two points for a win, one for a tie, same as the league table. Shootout games count at the tied score for goals for and against.</p>`;
 }
@@ -285,16 +356,19 @@ function goalieRows(dk,g){
 }
 const GHEAD='<thead><tr><th class="l">#</th><th class="l">Goalie</th><th>GP</th><th>W</th><th>L</th><th>T</th><th>SV%</th><th>GAA</th><th class="hide-s">SA</th><th class="hide-s">SV</th><th>GA</th><th>SO</th><th class="hide-s" title="Games with full stats">GS</th></tr></thead>';
 function goalies(dk){
-  const g=DATA[DIVKEYS[dk]].goalies;
+  const g=DD(dk).goalies;
   return `<div class="tbl"><table>${GHEAD}<tbody>${g.length?goalieRows(dk,g):'<tr><td colspan="13" class="empty">No goalie stats yet.</td></tr>'}</tbody></table></div>
   <p class="note">Scorekeepers don't record shots and minutes in every game. SV%, GAA, shots and shutouts only count games with full stats (GS); goalies with fewer than two such games are listed below the qualifiers. Wins and losses go to the goalie who played the most minutes. GAA is per 55-minute game.</p>`;
 }
 function raceShell(){return `<div class="card chart" id="chart"><h2>Points race, top 8</h2><div class="legend" id="legend"></div><div style="position:relative" id="chartBox"><svg id="raceSvg" viewBox="0 0 860 420" role="img" aria-labelledby="raceTitle"><title id="raceTitle">Cumulative points by game day for the top eight scorers</title></svg><div class="tip" id="tip"></div></div></div>`;}
-function drawRace(dk){
-  const D=DATA[DIVKEYS[dk]], svg=$('#raceSvg'); if(!svg) return;
+function drawRace(dk,only){
+  const D=DD(dk), svg=$('#raceSvg'); if(!svg) return;
   const W=Math.max(420,Math.round($('#chartBox').clientWidth||860)), H=W<600?380:420, m={t:16,r:W<600?96:118,b:34,l:36};
   svg.setAttribute('viewBox',`0 0 ${W} ${H}`);
-  const days=D.days, n=days.length, series=D.race;
+  const days=D.days, n=days.length;
+  let series=D.race;
+  if(only){ // cumulative points for exactly these players, from their game logs
+    series=only.map(i=>{const r=D.rows[i]; const byDay={}; r[12].forEach(l=>{const g=D.G[l[0]]; if(g) byDay[g.day]=(byDay[g.day]||0)+l[1]+l[2];}); let c=0; return [r[0],r[1],days.map(d=>c+=(byDay[d]||0)),i];}); }
   if(n<2||!series.length){svg.innerHTML='<text x="20" y="40" fill="currentColor">Not enough games yet.</text>';$('#legend').innerHTML='';return;}
   const maxY=Math.max(5,...series.map(s=>s[2][n-1]));
   const x=i=>m.l+(W-m.l-m.r)*i/(n-1), y=v=>m.t+(H-m.t-m.b)*(1-v/maxY);
@@ -320,26 +394,26 @@ function drawRace(dk){
   hit.onmouseleave=hit.ontouchend=()=>{xh.style.display='none';tip.style.display='none';};
 }
 function gameCard(dk,gid,extra){
-  const g=DATA[DIVKEYS[dk]].G[gid]; if(!g) return '';
+  const g=DD(dk).G[gid]; if(!g) return '';
   const hw=g.hs>g.vs, aw=g.vs>g.hs;
-  return `<a class="game" href="${G(dk,gid)}"><span class="t r ${aw?'w':hw?'lo':''}">${logo(g.away)}<span>${esc(g.away)}</span></span><span class="sc"><span class="${aw?'w':'lo'}">${g.vs}</span> – <span class="${hw?'w':'lo'}">${g.hs}</span></span><span class="t ${hw?'w':aw?'lo':''}"><span style="text-align:right">${esc(g.home)}</span>${logo(g.home)}</span><span class="meta"><span>${fmtDay(g.day,1)}${g.time?' · '+esc(g.time):''} · ${g.status==='Final SO'?'Final (SO)':esc(g.status)}</span><span>${esc(g.rink)}</span>${g.shots[g.home]&&g.shots[g.away]?`<span>Shots ${g.shots[g.away].slice(-1)}–${g.shots[g.home].slice(-1)}</span>`:''}</span></a>`;
+  return `<a class="game" href="${G(dk,gid)}"><span class="t r ${aw?'w':hw?'lo':''}">${logo(g.away)}<span>${esc(g.away)}</span></span><span class="sc"><span class="${aw?'w':'lo'}">${g.vs}</span> – <span class="${hw?'w':'lo'}">${g.hs}</span></span><span class="t ${hw?'w':aw?'lo':''}"><span style="text-align:right">${esc(g.home)}</span>${logo(g.home)}</span><span class="meta"><span>${fmtDay(g.day,1)}${g.time?' · '+esc(g.time):''} · ${g.status==='Final SO'?'Final (SO)':esc(g.status)}</span>${g.type&&g.type!=='Regular'?`<span class="tag">${esc(g.type)}</span>`:''}<span>${esc(g.rink)}</span>${g.shots[g.home]&&g.shots[g.away]?`<span>Shots ${g.shots[g.away].slice(-1)}–${g.shots[g.home].slice(-1)}</span>`:''}</span></a>`;
 }
 const TODAY=new Date().toISOString().slice(0,10);
 const CAL=dk=>`__SITE__/cal/${slug(DIVKEYS[dk])}/`;
 const calBtn=(dk,file,label)=>`<a class="star" style="display:inline-block;font-family:var(--data);font-size:14px;padding:7px 12px;border:1px solid var(--line);border-radius:6px;background:var(--surface)" href="webcal://${CAL(dk)}${file}.ics">📅 ${label}</a>`;
-function rec(dk,team){const s=DATA[DIVKEYS[dk]].standings.find(x=>x.team===team); return s?{txt:`${s.W}-${s.L}-${s.T}`,rank:DATA[DIVKEYS[dk]].standings.indexOf(s)+1,s}:{txt:'0-0-0',rank:'–'};}
-function h2h(dk,a,b){const D=DATA[DIVKEYS[dk]]; const gs=Object.entries(D.G).filter(([,g])=>(g.home===a&&g.away===b)||(g.home===b&&g.away===a)).sort((x,y)=>y[1].day.localeCompare(x[1].day)); let w=0,l=0,t=0; gs.forEach(([,g])=>{const gf=g.home===a?g.hs:g.vs, ga=g.home===a?g.vs:g.hs; gf>ga?w++:gf<ga?l++:t++;}); return {w,l,t,n:gs.length,last:gs[0]};}
-function topScorer(dk,team){return DATA[DIVKEYS[dk]].rows.find(r=>r[1]===team);}
-function weekendGames(dk){const u=DATA[DIVKEYS[dk]].upcoming.filter(g=>g.day>=TODAY); if(!u.length) return []; const first=u[0].day; const [Y,M,Dd]=first.split('-').map(Number); const d0=new Date(Y,M-1,Dd); const dow=d0.getDay(); const end=new Date(d0); end.setDate(d0.getDate()+(dow===0?0:dow===6?1:dow===5?2:2)); const endS=end.toISOString().slice(0,10); return u.filter(g=>g.day<=endS);}
+function rec(dk,team){const s=DD(dk).standings.find(x=>x.team===team); return s?{txt:`${s.W}-${s.L}-${s.T}`,rank:DD(dk).standings.indexOf(s)+1,s}:{txt:'0-0-0',rank:'–'};}
+function h2h(dk,a,b){const D=DD(dk); const gs=Object.entries(D.G).filter(([,g])=>(g.home===a&&g.away===b)||(g.home===b&&g.away===a)).sort((x,y)=>y[1].day.localeCompare(x[1].day)); let w=0,l=0,t=0; gs.forEach(([,g])=>{const gf=g.home===a?g.hs:g.vs, ga=g.home===a?g.vs:g.hs; gf>ga?w++:gf<ga?l++:t++;}); return {w,l,t,n:gs.length,last:gs[0]};}
+function topScorer(dk,team){return DD(dk).rows.find(r=>r[1]===team);}
+function weekendGames(dk){const u=DD(dk).upcoming.filter(g=>g.day>=TODAY); if(!u.length) return []; const first=u[0].day; const [Y,M,Dd]=first.split('-').map(Number); const d0=new Date(Y,M-1,Dd); const dow=d0.getDay(); const end=new Date(d0); end.setDate(d0.getDate()+(dow===0?0:dow===6?1:dow===5?2:2)); const endS=end.toISOString().slice(0,10); return u.filter(g=>g.day<=endS);}
 function weekend(dk){
-  const D=DATA[DIVKEYS[dk]], w=weekendGames(dk); if(!w.length) return '';
+  const D=DD(dk), w=weekendGames(dk); if(!w.length) return '';
   const days=[...new Set(w.map(g=>g.day))], span=days.length>1?fmtDay(days[0],1)+' – '+fmtDay(days[days.length-1],1):fmtDay(days[0],1);
   const row=g=>{const a=rec(dk,g.away), h=rec(dk,g.home), x=h2h(dk,g.away,g.home); const ta=topScorer(dk,g.away), th=topScorer(dk,g.home);
     return `<tr><td class="l" style="color:var(--muted);white-space:normal;min-width:70px">${days.length>1?fmtDay(g.day)+'<br>':''}${esc(g.time)}</td><td class="l player">${T(dk,g.away)} <span style="color:var(--muted);font-weight:400">(${a.txt}, ${a.rank}${['st','nd','rd'][a.rank-1]||'th'})</span><br><span style="color:var(--muted);font-weight:400">at</span> ${T(dk,g.home)} <span style="color:var(--muted);font-weight:400">(${h.txt}, ${h.rank}${['st','nd','rd'][h.rank-1]||'th'})</span><span class="t">${x.n?`Season series: ${esc(short(g.away))} ${x.w}-${x.l}-${x.t} · last meeting <a class="lnk" href="${G(dk,x.last[0])}">${x.last[1].home===g.home?x.last[1].vs+'–'+x.last[1].hs:x.last[1].hs+'–'+x.last[1].vs}</a> on ${fmtDay(x.last[1].day)}`:'First meeting this season'}${ta||th?` · Top scorers: ${ta?P(dk,D.rows.indexOf(ta))+' '+ta[6]:''}${ta&&th?', ':''}${th?P(dk,D.rows.indexOf(th))+' '+th[6]:''}`:''}</span></td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`;};
   return `<div class="card"><h2>This weekend<small>${esc(span)} · ${w.length} games</small></h2><div class="tbl"><table><tbody>${w.map(row).join('')}</tbody></table></div><p class="note">Records and season series as of the last update. <a class="lnk" href="${href(dk,'schedule')}">Full schedule</a></p></div>`;
 }
 function recapText(dk){
-  const D=DATA[DIVKEYS[dk]], n=DIVKEYS[dk], lo=D.days.length?D.days[D.days.length-1]:null; if(!lo) return 'No games yet.';
+  const D=DD(dk), n=DIVKEYS[dk], lo=D.days.length?D.days[D.days.length-1]:null; if(!lo) return 'No games yet.';
   const [Y,M,Dd]=lo.split('-').map(Number); const from=new Date(Y,M-1,Dd-2).toISOString().slice(0,10);
   const wk=Object.entries(D.G).filter(([,g])=>g.day>=from).sort((a,b)=>a[1].day.localeCompare(b[1].day)||a[0].localeCompare(b[0]));
   const L=[]; L.push(`HSL ${n} – weekend recap, ${D.hotspan}`); L.push('');
@@ -355,19 +429,20 @@ function recapText(dk){
   return L.join('\n');
 }
 function recap(dk){
-  const txt=recapText(dk);
+  const txt=DD(dk).recap||recapText(dk);
   return `<div class="card"><h2>Weekend recap<small>ready to paste into the team chat</small></h2><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="star" id="copyBtn">Copy recap</button><span class="note" id="copyMsg" style="align-self:center"></span></div><textarea id="recapTxt" readonly style="width:100%;min-height:420px;font:13.5px/1.45 ui-monospace,Menlo,Consolas,monospace;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:10px;resize:vertical">${esc(txt)}</textarea><p class="note">Built from the last weekend with games. Edit the text before you send it if you like.</p></div>`;
 }
 function wireCopy(){const b=$('#copyBtn'), ta=$('#recapTxt'); if(!b) return; b.onclick=async()=>{try{await navigator.clipboard.writeText(ta.value); $('#copyMsg').textContent='Copied.';}catch(e){ta.focus(); ta.select(); $('#copyMsg').textContent='Press Ctrl/Cmd+C to copy.';}};}
 function scores(dk){
-  const D=DATA[DIVKEYS[dk]], gids=Object.keys(D.G).sort((a,b)=>D.G[b].day.localeCompare(D.G[a].day)||b.localeCompare(a));
+  const D=DD(dk), gids=Object.keys(D.G).sort((a,b)=>D.G[b].day.localeCompare(D.G[a].day)||b.localeCompare(a));
   const days=[...new Set(gids.map(g=>D.G[g].day))];
   const gw=D.gotw, lab={closest:'Closest finish',blowout:'Biggest blowout',goals:'Most goals',shots:'Most shots'};
   const gotw=Object.keys(gw).length?`<div class="card"><h2>Games of the weekend<small>${esc(D.hotspan)}</small></h2><div class="gotw">${Object.entries(gw).map(([k,gid])=>{const g=D.G[gid];const sh=g.shots[g.home]&&g.shots[g.away]?g.shots[g.away].slice(-1)+'–'+g.shots[g.home].slice(-1)+' shots':'';return `<a href="${G(dk,gid)}"><span class="k">${lab[k]}</span><span class="v">${esc(short(g.away))} ${g.vs}, ${esc(short(g.home))} ${g.hs}</span><span class="s">${fmtDay(g.day,1)}${k==='shots'&&sh?' · '+sh:''}</span></a>`;}).join('')}</div></div>`:'';
-  return weekend(dk)+gotw+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="gl">${gids.filter(g=>D.G[g].day===d).map(g=>gameCard(dk,g)).join('')}</div></div>`).join('');
+  const typeNote=D.types&&D.types.length?`<p class="note">${D.types.join(', ')} games are listed here with a label but don't count toward leaders or standings.</p>`:'';
+  return weekend(dk)+gotw+typeNote+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="gl">${gids.filter(g=>D.G[g].day===d).map(g=>gameCard(dk,g)).join('')}</div></div>`).join('');
 }
 function schedule(dk){
-  const D=DATA[DIVKEYS[dk]], all=D.upcoming.filter(g=>g.day>=TODAY);
+  const D=DD(dk), all=D.upcoming.filter(g=>g.day>=TODAY);
   const teams=[...new Set(D.standings.map(s=>s.team).concat(all.flatMap(g=>[g.home,g.away])))].sort();
   const subs=`<div class="card"><h2>Add to your phone's calendar</h2><p class="note" style="margin:0">Subscribe once and every game shows up in your calendar with the rink, and scores fill in after the game. Pick a team, or take the whole division.</p><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><select id="calTeam" aria-label="Team calendar" style="font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg)"><option value="all">Whole division (${esc(DIVKEYS[dk])})</option>${teams.map(t=>`<option value="${esc(slug(t))}">${esc(t)}</option>`).join('')}</select>${calBtn(dk,'all','Subscribe')}</div><p class="note" style="margin:0">On iPhone the link opens Calendar and asks to subscribe. On Android, copy the address and add it in Google Calendar under "From URL": <code id="calUrl" style="user-select:all">https://${CAL(dk)}all.ics</code></p></div>`;
   if(!all.length) return subs+'<p class="empty">No upcoming games on the league calendar.</p>';
@@ -378,15 +453,77 @@ function schedule(dk){
   return subs+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="tbl"><table><tbody>${u.filter(g=>g.day===d).map(g=>`<tr><td class="l" style="width:84px">${esc(g.time)}</td><td class="l player">${T(dk,g.away)} <span style="color:var(--muted);font-weight:400">at</span> ${T(dk,g.home)}</td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`).join('')}</tbody></table></div></div>`).join('')+`<p class="note">From the league calendar; times are Mountain. Showing the next two weeks (${u.length} games of ${all.length} left on the schedule).</p>`;
 }
 function records(dk){
-  const D=DATA[DIVKEYS[dk]];
+  const D=DD(dk);
   const counts={}; D.hats.forEach(h=>counts[h[1]]=(counts[h[1]]||0)+1);
   const most=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,5);
   const row=h=>{const g=D.G[h[2]], r=D.rows[h[1]], opp=g.home===r[1]?g.away:g.home; return `<tr><td class="l" style="color:var(--muted)">${fmtDay(h[0])}</td><td class="l player">${P(dk,h[1])}<span class="t">${esc(short(r[1]))}</span></td><td class="l">vs ${T(dk,opp,1)} <a class="lnk" href="${G(dk,h[2])}" style="color:var(--muted)">${g.home===r[1]?g.hs+'–'+g.vs:g.vs+'–'+g.hs}</a></td><td>${h[3]}</td><td>${h[4]}</td><td class="pts">${h[3]+h[4]}</td></tr>`;};
   return `<div class="card"><h2>Hat tricks<small>${D.hats.length} so far</small></h2>${most.length?`<div class="legend">${most.map(([i,c])=>`<span>${P(dk,+i)} <span style="color:var(--muted)">× ${c}</span></span>`).join('')}</div>`:''}<div class="tbl"><table><thead><tr><th class="l">Date</th><th class="l">Player</th><th class="l">Game</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>${D.hats.length?D.hats.map(row).join(''):'<tr><td colspan="6" class="empty">None yet.</td></tr>'}</tbody></table></div></div>
   <div class="card"><h2>Biggest games<small>4+ points</small></h2><div class="tbl"><table><thead><tr><th class="l">Date</th><th class="l">Player</th><th class="l">Game</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>${D.bigs.length?D.bigs.map(row).join(''):'<tr><td colspan="6" class="empty">None yet.</td></tr>'}</tbody></table></div></div>`;
 }
+function home(){
+  const past=SEASON!==CUR, S=INDEX.seasons.find(s=>s.key===SEASON);
+  const cards=S.divisions.map(d=>`<a class="dcard" href="${hrefS(SEASON,d.key,'leaders')}"><h3>${esc(d.name)}</h3>
+    ${d.leader?`<div class="k">Points leader</div><div class="ln">${logo(d.leader[1],22)}<b>${esc(d.leader[0])}</b><span>${d.leader[2]} pts</span></div>`:'<div class="k">No games yet</div>'}
+    ${d.top?`<div class="k">First place</div><div class="ln">${logo(d.top,22)}<b>${esc(d.top)}</b></div>`:''}
+    <div class="foot"><span>${d.games} games${d.thru!=='-'?' · through '+esc(d.thru):''}</span>${!past&&d.weekend?`<span>${d.weekend} this weekend</span>`:''}</div></a>`).join('');
+  const movers=S.divisions.flatMap(d=>d.movers.map(m=>[...m,d])).sort((a,b)=>b[3]-a[3]).slice(0,8);
+  const hats=S.divisions.flatMap(d=>d.hats.map(h=>[...h,d])).sort((a,b)=>b[3]-a[3]||b[4]-a[4]).slice(0,10);
+  const hot=S.divisions.flatMap(d=>d.hot.map(h=>[...h,d])).sort((a,b)=>b[2]-a[2]).slice(0,8);
+  return `<div class="search"><input id="gq" type="search" placeholder="Find any player in the league…" aria-label="Find a player" autocomplete="off" style="width:100%;font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)"><ul id="gres" hidden></ul></div>
+  <div class="grid">${cards}</div>
+  ${!past&&(hot.length||movers.length||hats.length)?`<div class="two">
+    ${hot.length?`<div class="card"><h2>Hot this weekend<small>league-wide</small></h2><div class="tbl"><table><tbody>${hot.map(h=>`<tr><td class="l player"><a class="lnk" href="${hrefS(SEASON,h[4].key,'leaders')}">${logo(h[1])}${esc(h[0])}</a><span class="t">${esc(short(h[1]))} · ${esc(h[4].name)}</span></td><td class="pts">${h[2]}</td></tr>`).join('')}</tbody></table></div></div>`:''}
+    ${movers.length?`<div class="card"><h2>Biggest movers<small>rank gained since last update</small></h2><div class="tbl"><table><tbody>${movers.map(m=>`<tr><td class="l player"><a class="lnk" href="${hrefS(SEASON,m[5].key,'leaders')}">${logo(m[1])}${esc(m[0])}</a><span class="t">${esc(short(m[1]))} · ${esc(m[5].name)} · now #${m[4]}</span></td><td class="mv"><span class="up">▲${m[3]}</span></td></tr>`).join('')}</tbody></table></div></div>`:''}
+    ${hats.length?`<div class="card"><h2>Hat tricks this weekend<small>league-wide</small></h2><div class="tbl"><table><tbody>${hats.map(h=>`<tr><td class="l player"><a class="lnk" href="${hrefS(SEASON,h[5].key,'records')}">${logo(h[2])}${esc(h[1])}</a><span class="t">${esc(short(h[2]))} · ${esc(h[5].name)} · ${fmtDay(h[0])}</span></td><td class="pts">${h[3]}G ${h[4]}A</td></tr>`).join('')}</tbody></table></div></div>`:''}
+  </div>`:''}
+  <p class="note">${past?`Final numbers for ${SEASON}.`:`Pick a division for leaders, standings, goalies, scores, schedules and player pages. Stats refresh automatically after games (last: ${esc(INDEX.updated)}).`}</p>`;
+}
+function wireHome(){
+  const q=$('#gq'), res=$('#gres'); if(!q) return;
+  let list=null;
+  q.oninput=async()=>{const s=q.value.trim().toLowerCase(); if(s.length<2){res.hidden=true;return;} if(!list){try{list=await loadPlayers();}catch(e){return;}} const hits=list.filter(p=>p[0].toLowerCase().includes(s)).sort((a,b)=>b[6]-a[6]).slice(0,25);
+    res.innerHTML=hits.length?hits.map(p=>`<li><a href="${hrefS(SEASON,p[2],'p')+'/'+p[7]}"><span>${logo(p[1])}${esc(p[0])} <span class="m">${esc(short(p[1]))} · ${esc(DIVKEYS[p[2]]||p[2])}</span></span><span class="m">${p[6]} pts · ${p[4]}G ${p[5]}A · ${p[3]} GP</span></a></li>`).join(''):'<li><a><span class="m">No one by that name.</span></a></li>'; res.hidden=false;};
+  q.onfocus=()=>{if(q.value.trim().length>=2) res.hidden=false;};
+}
+function statRow(k,a,b,fmt){const f=fmt||(x=>x); const ba=a>b, bb=b>a; return `<div class="v ${ba?'win':''}">${f(a)}</div><div class="k">${k}</div><div class="v r ${bb?'win':''}">${f(b)}</div>`;}
+function compare(dk,id){
+  const D=DD(dk), I=II(dk), [sa,sb]=id.split('/'), a=D.rows[I.bySlug[sa]], b=D.rows[I.bySlug[sb]];
+  if(!a||!b) return `<p class="empty">Pick two players to compare. <a class="lnk" href="${href(dk,'leaders')}">Back to leaders</a></p>`;
+  const ia=I.bySlug[sa], ib=I.bySlug[sb];
+  const ppg=r=>r[3]?r[6]/r[3]:0, best=r=>Math.max(0,...r[12].map(l=>l[1]+l[2])), hats=r=>r[12].filter(l=>l[1]>=3).length, multi=r=>r[12].filter(l=>l[1]+l[2]>=2).length;
+  return `<a class="back" href="${href(dk,'p',sa)}">← ${esc(a[0])}</a>
+  <div class="card"><h2>Head to head<small>${esc(DIVKEYS[dk])}</small></h2>
+  <div class="cmp"><div class="n">${P(dk,ia)}<span class="t" style="display:block;font-weight:400;color:var(--muted);font-size:13px">${esc(short(a[1]))} · #${esc(a[2])} · ranked #${a[10]}</span></div><div class="k">vs</div><div class="n r">${P(dk,ib)}<span class="t" style="display:block;font-weight:400;color:var(--muted);font-size:13px">${esc(short(b[1]))} · #${esc(b[2])} · ranked #${b[10]}</span></div>
+  ${statRow('Points',a[6],b[6])}${statRow('Goals',a[4],b[4])}${statRow('Assists',a[5],b[5])}${statRow('Games',a[3],b[3])}${statRow('Pts / game',ppg(a),ppg(b),x=>x.toFixed(2))}${statRow('PP goals',a[8],b[8])}${statRow('Game winners',a[9],b[9])}${statRow('Hat tricks',hats(a),hats(b))}${statRow('Multi-pt games',multi(a),multi(b))}${statRow('Best game',best(a),best(b))}${statRow('PIM',a[7],b[7])}</div></div>
+  <div class="card chart" id="chart"><h2>Points race</h2><div class="legend" id="legend"></div><div style="position:relative" id="chartBox"><svg id="raceSvg" viewBox="0 0 860 420" role="img" aria-labelledby="raceTitle"><title id="raceTitle">Cumulative points by game day</title></svg><div class="tip" id="tip"></div></div></div>`;
+}
+function wireCompare(dk,id){
+  const D=DD(dk), I=II(dk), sel=$('#cmpSel'); if(!sel) return;
+  sel.innerHTML='<option value="">Compare with…</option>'+D.rows.map((r,i)=>i!==I.bySlug[id]?`<option value="${esc(slug(r[0]+' '+short(r[1])))}">${esc(r[0])} (${esc(short(r[1]))}, ${r[6]} pts)</option>`:'').join('');
+  sel.onchange=()=>{ if(sel.value) location.hash=href(dk,'c',id+'/'+sel.value); };
+}
+function h2hPage(dk,id){
+  const D=DD(dk), I=II(dk), [sa,sb]=id.split('/'), A=I.teamSlug[sa], B=I.teamSlug[sb];
+  if(!A||!B) return `<p class="empty">Pick two teams. <a class="lnk" href="${href(dk,'standings')}">Back to standings</a></p>`;
+  const gs=Object.entries(D.G).filter(([,g])=>(g.home===A&&g.away===B)||(g.home===B&&g.away===A)).sort((x,y)=>y[1].day.localeCompare(x[1].day));
+  let w=0,l=0,t=0,gf=0,ga=0; gs.forEach(([,g])=>{const f=g.home===A?g.hs:g.vs, a=g.home===A?g.vs:g.hs; gf+=f; ga+=a; f>a?w++:f<a?l++:t++;});
+  const scorers=team=>{const tot={}; gs.forEach(([gid])=>(I.box[gid]||[]).forEach(b=>{if(D.rows[b[0]][1]===team){const o=tot[b[0]]=tot[b[0]]||[0,0]; o[0]+=b[1]; o[1]+=b[2];}})); return Object.entries(tot).sort((x,y)=>(y[1][0]+y[1][1])-(x[1][0]+x[1][1])).slice(0,5);};
+  const up=D.upcoming.filter(u=>(u.home===A&&u.away===B)||(u.home===B&&u.away===A)).slice(0,3);
+  const sc=team=>`<div class="card"><h2>${T(dk,team,1)}<small>top scorers in these games</small></h2>${scorers(team).length?`<div class="tbl"><table><tbody>${scorers(team).map(([i,[g,a]])=>`<tr><td class="l player">${P(dk,+i,1)}</td><td>${g}G ${a}A</td><td class="pts">${g+a}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No meetings yet.</p>'}</div>`;
+  return `<a class="back" href="${href(dk,'t',sa)}">← ${esc(A)}</a>
+  <div class="prof"><div><h2>${logo(A,40)}${esc(short(A))} <span style="color:var(--muted)">vs</span> ${logo(B,40)}${esc(short(B))}</h2><div class="sub">${gs.length?`${esc(short(A))} ${w>l?'leads':w<l?'trails':'even'} ${w}-${l}-${t} · goals ${gf}–${ga} · ${gs.length} meeting${gs.length>1?'s':''} this season`:'No meetings yet this season'}</div></div></div>
+  ${gs.length?`<div class="gl">${gs.map(([gid])=>gameCard(dk,gid)).join('')}</div>`:''}
+  ${up.length?`<div class="card"><h2>Next meeting${up.length>1?'s':''}</h2><div class="tbl"><table><tbody>${up.map(u=>`<tr><td class="l" style="color:var(--muted)">${fmtDay(u.day,1)}<br>${esc(u.time)}</td><td class="l player">${T(dk,u.away,1)} at ${T(dk,u.home,1)}<span class="t">${esc(u.loc)}</span></td></tr>`).join('')}</tbody></table></div></div>`:''}
+  <div class="two">${sc(A)}${sc(B)}</div>`;
+}
+function wireH2H(dk,id){
+  const D=DD(dk), sel=$('#h2hSel'); if(!sel) return;
+  const name=II(dk).teamSlug[id];
+  sel.innerHTML='<option value="">Head to head vs…</option>'+D.standings.filter(s=>s.team!==name).map(s=>`<option value="${esc(slug(s.team))}">${esc(s.team)}</option>`).join('');
+  sel.onchange=()=>{ if(sel.value) location.hash=href(dk,'h',id+'/'+sel.value); };
+}
 function player(dk,id){
-  const D=DATA[DIVKEYS[dk]], I=IDX[dk], i=I.bySlug[id];
+  const D=DD(dk), I=II(dk), i=I.bySlug[id];
   if(i==null) return `<p class="empty">No player at that link. <a class="lnk" href="${href(dk,'leaders')}">Back to leaders</a></p>`;
   const r=D.rows[i], k=r[1]+'|'+r[0], fol=isFollowed(dk,r);
   const log=r[12].map(l=>({gid:l[0],g:D.G[l[0]],G:l[1],A:l[2],PIM:l[3]})).filter(x=>x.g).sort((a,b)=>b.g.day.localeCompare(a.g.day)||b.gid.localeCompare(a.gid));
@@ -396,7 +533,7 @@ function player(dk,id){
   const gl=D.goalies.find(q=>q.team===r[1]&&q.name===r[0]);
   const stat=(v,l)=>`<div class="stat"><b>${v}</b><span>${l}</span></div>`;
   return `<a class="back" href="${href(dk,'leaders')}">← ${esc(DIVKEYS[dk])} leaders</a>
-  <div class="prof"><div><h2>${logo(r[1],40)}${esc(r[0])}</h2><div class="sub">${T(dk,r[1]).replace(/<img[^>]*>/,'')} · #${esc(r[2])} · Ranked <b>#${r[10]}</b> of ${D.rows.length} ${mv(r[11])!=='<span class="same">–</span>'?'<span class="mv">'+mv(r[11])+'</span>':''}</div></div><button class="star" data-k="${esc(k)}" aria-pressed="${fol}">${fol?'★ Following':'☆ Follow'}</button></div>
+  <div class="prof"><div><h2>${logo(r[1],40)}${esc(r[0])}</h2><div class="sub">${T(dk,r[1]).replace(/<img[^>]*>/,'')} · #${esc(r[2])} · Ranked <b>#${r[10]}</b> of ${D.rows.length} ${mv(r[11])!=='<span class="same">–</span>'?'<span class="mv">'+mv(r[11])+'</span>':''}</div></div><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="star" data-k="${esc(k)}" aria-pressed="${fol}">${fol?'★ Following':'☆ Follow'}</button><select id="cmpSel" aria-label="Compare with" style="font:inherit;font-family:var(--data);font-size:14px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);max-width:260px"></select></div></div>
   <div class="stats">${stat(r[3],'GP')}${stat(r[4],'G')}${stat(r[5],'A')}${stat(r[6],'PTS')}${stat(r[3]?(r[6]/r[3]).toFixed(2):'0','P/GP')}${stat(r[8],'PPG')}${stat(r[9],'GWG')}${stat(r[7],'PIM')}</div>
   <div class="stats">${stat(streak,'Point streak')}${stat(multi,'Multi-pt games')}${stat(hats,'Hat tricks')}${stat(best,'Best game')}</div>
   ${gl?`<div class="card"><h2>Goaltending</h2><div class="tbl"><table>${GHEAD}<tbody>${goalieRows(dk,[gl])}</tbody></table></div></div>`:''}
@@ -404,7 +541,7 @@ function player(dk,id){
   <p class="note">Following a player pins them to the top of the leaders page on this phone or computer only.</p>`;
 }
 function team(dk,id){
-  const D=DATA[DIVKEYS[dk]], name=IDX[dk].teamSlug[id];
+  const D=DD(dk), name=II(dk).teamSlug[id];
   const s=D.standings.find(x=>x.team===name);
   if(!s) return `<p class="empty">No team at that link. <a class="lnk" href="${href(dk,'standings')}">Back to standings</a></p>`;
   const rank=D.standings.indexOf(s)+1, stat=(v,l)=>`<div class="stat"><b>${v}</b><span>${l}</span></div>`;
@@ -413,15 +550,15 @@ function team(dk,id){
   const results=s.games.map(g=>[g,D.G[g]]).filter(x=>x[1]).sort((a,b)=>b[1].day.localeCompare(a[1].day)||b[0].localeCompare(a[0]));
   const up=D.upcoming.filter(u=>u.home===name||u.away===name).slice(0,6);
   return `<a class="back" href="${href(dk,'standings')}">← ${esc(DIVKEYS[dk])} standings</a>
-  <div class="prof"><div><h2>${logo(name,40)}${esc(name)}</h2><div class="sub">${rank}${['st','nd','rd'][rank-1]||'th'} in ${esc(DIVKEYS[dk])} · ${s.W}-${s.L}-${s.T} · ${s.PTS} pts · streak ${s.streak} · <span class="form">${s.last5.map(x=>`<i class="${x}">${x}</i>`).join('')}</span></div></div></div>
+  <div class="prof"><div><h2>${logo(name,40)}${esc(name)}</h2><div class="sub">${rank}${['st','nd','rd'][rank-1]||'th'} in ${esc(DIVKEYS[dk])} · ${s.W}-${s.L}-${s.T} · ${s.PTS} pts · streak ${s.streak} · <span class="form">${s.last5.map(x=>`<i class="${x}">${x}</i>`).join('')}</span></div></div><select id="h2hSel" aria-label="Head to head" style="font:inherit;font-family:var(--data);font-size:14px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);max-width:260px"></select></div>
   <div class="stats">${stat(s.GP,'GP')}${stat(s.GF,'GF')}${stat(s.GA,'GA')}${stat((s.DIFF>0?'+':'')+s.DIFF,'Diff')}${stat((s.GF/s.GP).toFixed(1),'GF/GP')}${stat((s.GA/s.GP).toFixed(1),'GA/GP')}${stat(s.SGP?(s.SF/s.SGP).toFixed(1):'–','Shots/GP')}${stat(s.SGP?(s.SA/s.SGP).toFixed(1):'–','Shots vs/GP')}${stat(s.PPG,'PP goals')}${stat(s.PIM,'PIM')}</div>
   <div class="card"><h2>Roster<small>${roster.length} skaters, by points</small></h2><div class="tbl"><table><thead><tr><th class="l">#</th><th class="l">Player</th><th>GP</th><th>G</th><th>A</th><th>PTS</th><th class="hide-s">P/GP</th><th class="hide-s">PPG</th><th>PIM</th></tr></thead><tbody>${roster.map(r=>`<tr${isFollowed(dk,r)?' class="me"':''}><td class="l rk">${esc(r[2])}</td><td class="l player">${P(dk,D.rows.indexOf(r),1)}<span class="t">Ranked #${r[10]} in division</span></td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td class="pts">${r[6]}</td><td class="hide-s">${r[3]?(r[6]/r[3]).toFixed(2):'0'}</td><td class="hide-s">${r[8]}</td><td>${r[7]}</td></tr>`).join('')}</tbody></table></div></div>
   ${gls.length?`<div class="card"><h2>Goalies</h2><div class="tbl"><table>${GHEAD}<tbody>${goalieRows(dk,gls)}</tbody></table></div></div>`:''}
   <div class="two"><div class="card"><h2>Results</h2><div class="gl">${results.map(([gid,g])=>gameCard(dk,gid)).join('')}</div></div>
-  <div class="card"><h2>Up next</h2><div>${calBtn(dk,slug(name),'Add games to my calendar')}</div>${up.length?`<div class="tbl"><table><tbody>${up.map(g=>`<tr><td class="l" style="color:var(--muted)">${fmtDay(g.day,1)}<br>${esc(g.time)}</td><td class="l player">${g.home===name?'vs '+T(dk,g.away,1):'at '+T(dk,g.home,1)}<span class="t">${esc(g.loc)}</span></td></tr>`).join('')}</tbody></table></div>`:'<p class="note">Nothing on the league calendar.</p>'}</div></div>`;
+  <div class="card"><h2>Up next</h2><div>${calBtn(dk,slug(name),'Add games to my calendar')}</div>${SEASON===CUR&&up.length?`<div><div style="font-family:var(--data);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:6px">Weekend card for the group chat (press and hold to save or share)</div><img class="share" src="cards/${slug(DIVKEYS[dk])}/${slug(name)}.png${V}" alt="This weekend for ${esc(name)}" loading="lazy" onerror="this.parentElement.hidden=true"></div>`:''}${up.length?`<div class="tbl"><table><tbody>${up.map(g=>`<tr><td class="l" style="color:var(--muted)">${fmtDay(g.day,1)}<br>${esc(g.time)}</td><td class="l player">${g.home===name?'vs '+T(dk,g.away,1):'at '+T(dk,g.home,1)}<span class="t">${esc(g.loc)}</span></td></tr>`).join('')}</tbody></table></div>`:'<p class="note">Nothing on the league calendar.</p>'}</div></div>`;
 }
 function game(dk,gid){
-  const D=DATA[DIVKEYS[dk]], g=D.G[gid], I=IDX[dk];
+  const D=DD(dk), g=D.G[gid], I=II(dk);
   if(!g) return `<p class="empty">No game at that link. <a class="lnk" href="${href(dk,'scores')}">Back to scores</a></p>`;
   const pers=[...new Set(g.events.map(e=>e.per))];
   const pname=(team,n,num)=>{const i=I.byKey[team+'|'+n]; return i!=null?P(dk,i):esc(n);};

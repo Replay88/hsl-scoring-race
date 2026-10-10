@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Warriors Hockey Academy (Sask) (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019823@hslstats.ca
+UID:hsl-2019823@hslstats.com
 DTSTAMP:20260919T173000Z
 DTSTART:20260919T173000Z
 DTEND:20260919T190000Z
 SUMMARY:2017 Major: Spartan Hockey Academy 7 – Warriors Hockey Academy (Sask) 6 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2017 Major game #51. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019823
+DESCRIPTION:HSL 2017 Major game #51. Stats: https://hslstats.com/#2017-major/g/2019823
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019861@hslstats.ca
+UID:hsl-2019861@hslstats.com
 DTSTAMP:20260920T001500Z
 DTSTART:20260920T001500Z
 DTEND:20260920T014500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 3 – Queen City Young Guns 10 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #89. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019861
+DESCRIPTION:HSL 2017 Major game #89. Stats: https://hslstats.com/#2017-major/g/2019861
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019892@hslstats.ca
+UID:hsl-2019892@hslstats.com
 DTSTAMP:20260920T171500Z
 DTSTART:20260920T171500Z
 DTEND:20260920T184500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 4 – Spartan Hockey Academy 6 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2017 Major game #120. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019892
+DESCRIPTION:HSL 2017 Major game #120. Stats: https://hslstats.com/#2017-major/g/2019892
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019908@hslstats.ca
+UID:hsl-2019908@hslstats.com
 DTSTAMP:20260920T204500Z
 DTSTART:20260920T204500Z
 DTEND:20260920T221500Z
 SUMMARY:2017 Major: Queen City Young Guns 7 – Warriors Hockey Academy (Sask) 1 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2017 Major game #136. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019908
+DESCRIPTION:HSL 2017 Major game #136. Stats: https://hslstats.com/#2017-major/g/2019908
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019996@hslstats.ca
+UID:hsl-2019996@hslstats.com
 DTSTAMP:20261003T013000Z
 DTSTART:20261003T013000Z
 DTEND:20261003T030000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 0 – Saints Pro Hockey Academy 9 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #224. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019996
+DESCRIPTION:HSL 2017 Major game #224. Stats: https://hslstats.com/#2017-major/g/2019996
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020003@hslstats.ca
+UID:hsl-2020003@hslstats.com
 DTSTAMP:20261003T181500Z
 DTSTART:20261003T181500Z
 DTEND:20261003T194500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 5 – Queen City Young Guns 11 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #231. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020003
+DESCRIPTION:HSL 2017 Major game #231. Stats: https://hslstats.com/#2017-major/g/2020003
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020010@hslstats.ca
+UID:hsl-2020010@hslstats.com
 DTSTAMP:20261003T214500Z
 DTSTART:20261003T214500Z
 DTEND:20261003T231500Z
 SUMMARY:2017 Major: Gorillas Hockey Academy 8 – Warriors Hockey Academy (Sask) 3 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #238. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020010
+DESCRIPTION:HSL 2017 Major game #238. Stats: https://hslstats.com/#2017-major/g/2020010
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020024@hslstats.ca
+UID:hsl-2020024@hslstats.com
 DTSTAMP:20261004T173000Z
 DTSTART:20261004T173000Z
 DTEND:20261004T190000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) 7 – South Sask Academy 2 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #252. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020024
+DESCRIPTION:HSL 2017 Major game #252. Stats: https://hslstats.com/#2017-major/g/2020024
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020316@hslstats.ca
+UID:hsl-2020316@hslstats.com
 DTSTAMP:20261030T233000Z
 DTSTART:20261030T233000Z
 DTEND:20261031T010000Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #544. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020316
+DESCRIPTION:HSL 2017 Major game #544. Stats: https://hslstats.com/#2017-major/g/2020316
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020328@hslstats.ca
+UID:hsl-2020328@hslstats.com
 DTSTAMP:20261031T140000Z
 DTSTART:20261031T140000Z
 DTEND:20261031T153000Z
 SUMMARY:2017 Major: Young Kings Hockey at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #556. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020328
+DESCRIPTION:HSL 2017 Major game #556. Stats: https://hslstats.com/#2017-major/g/2020328
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020341@hslstats.ca
+UID:hsl-2020341@hslstats.com
 DTSTAMP:20261031T173000Z
 DTSTART:20261031T173000Z
 DTEND:20261031T190000Z
 SUMMARY:2017 Major: Stars Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #569. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020341
+DESCRIPTION:HSL 2017 Major game #569. Stats: https://hslstats.com/#2017-major/g/2020341
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020362@hslstats.ca
+UID:hsl-2020362@hslstats.com
 DTSTAMP:20261101T144500Z
 DTSTART:20261101T144500Z
 DTEND:20261101T161500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #590. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020362
+DESCRIPTION:HSL 2017 Major game #590. Stats: https://hslstats.com/#2017-major/g/2020362
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020516@hslstats.ca
+UID:hsl-2020516@hslstats.com
 DTSTAMP:20261121T001500Z
 DTSTART:20261121T001500Z
 DTEND:20261121T014500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Sauce Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #744. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020516
+DESCRIPTION:HSL 2017 Major game #744. Stats: https://hslstats.com/#2017-major/g/2020516
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020556@hslstats.ca
+UID:hsl-2020556@hslstats.com
 DTSTAMP:20261121T184500Z
 DTSTART:20261121T184500Z
 DTEND:20261121T201500Z
 SUMMARY:2017 Major: Young Kings Hockey at Warriors Hockey Academy (Sask)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #784. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020556
+DESCRIPTION:HSL 2017 Major game #784. Stats: https://hslstats.com/#2017-major/g/2020556
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020571@hslstats.ca
+UID:hsl-2020571@hslstats.com
 DTSTAMP:20261121T221500Z
 DTSTART:20261121T221500Z
 DTEND:20261121T234500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #799. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020571
+DESCRIPTION:HSL 2017 Major game #799. Stats: https://hslstats.com/#2017-major/g/2020571
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020619@hslstats.ca
+UID:hsl-2020619@hslstats.com
 DTSTAMP:20261122T184500Z
 DTSTART:20261122T184500Z
 DTEND:20261122T201500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #847. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020619
+DESCRIPTION:HSL 2017 Major game #847. Stats: https://hslstats.com/#2017-major/g/2020619
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020777@hslstats.ca
+UID:hsl-2020777@hslstats.com
 DTSTAMP:20261211T233000Z
 DTSTART:20261211T233000Z
 DTEND:20261212T010000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Stars Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1005. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020777
+DESCRIPTION:HSL 2017 Major game #1005. Stats: https://hslstats.com/#2017-major/g/2020777
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020807@hslstats.ca
+UID:hsl-2020807@hslstats.com
 DTSTAMP:20261212T181500Z
 DTSTART:20261212T181500Z
 DTEND:20261212T194500Z
 SUMMARY:2017 Major: Calgary Crusaders at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1035. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020807
+DESCRIPTION:HSL 2017 Major game #1035. Stats: https://hslstats.com/#2017-major/g/2020807
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020823@hslstats.ca
+UID:hsl-2020823@hslstats.com
 DTSTAMP:20261212T214500Z
 DTSTART:20261212T214500Z
 DTEND:20261212T231500Z
 SUMMARY:2017 Major: Stars Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1051. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020823
+DESCRIPTION:HSL 2017 Major game #1051. Stats: https://hslstats.com/#2017-major/g/2020823
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020840@hslstats.ca
+UID:hsl-2020840@hslstats.com
 DTSTAMP:20261213T140000Z
 DTSTART:20261213T140000Z
 DTEND:20261213T153000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1068. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020840
+DESCRIPTION:HSL 2017 Major game #1068. Stats: https://hslstats.com/#2017-major/g/2020840
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021157@hslstats.ca
+UID:hsl-2021157@hslstats.com
 DTSTAMP:20270115T230000Z
 DTSTART:20270115T230000Z
 DTEND:20270116T003000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1385. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021157
+DESCRIPTION:HSL 2017 Major game #1385. Stats: https://hslstats.com/#2017-major/g/2021157
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021193@hslstats.ca
+UID:hsl-2021193@hslstats.com
 DTSTAMP:20270116T173000Z
 DTSTART:20270116T173000Z
 DTEND:20270116T190000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1421. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021193
+DESCRIPTION:HSL 2017 Major game #1421. Stats: https://hslstats.com/#2017-major/g/2021193
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021222@hslstats.ca
+UID:hsl-2021222@hslstats.com
 DTSTAMP:20270116T224500Z
 DTSTART:20270116T224500Z
 DTEND:20270117T001500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1450. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021222
+DESCRIPTION:HSL 2017 Major game #1450. Stats: https://hslstats.com/#2017-major/g/2021222
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021243@hslstats.ca
+UID:hsl-2021243@hslstats.com
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
 DTEND:20270117T153000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1471. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021243
+DESCRIPTION:HSL 2017 Major game #1471. Stats: https://hslstats.com/#2017-major/g/2021243
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021374@hslstats.ca
+UID:hsl-2021374@hslstats.com
 DTSTAMP:20270130T004500Z
 DTSTART:20270130T004500Z
 DTEND:20270130T021500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Aces Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1602. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021374
+DESCRIPTION:HSL 2017 Major game #1602. Stats: https://hslstats.com/#2017-major/g/2021374
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021380@hslstats.ca
+UID:hsl-2021380@hslstats.com
 DTSTAMP:20270130T154500Z
 DTSTART:20270130T154500Z
 DTEND:20270130T171500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1608. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021380
+DESCRIPTION:HSL 2017 Major game #1608. Stats: https://hslstats.com/#2017-major/g/2021380
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021393@hslstats.ca
+UID:hsl-2021393@hslstats.com
 DTSTAMP:20270130T210000Z
 DTSTART:20270130T210000Z
 DTEND:20270130T223000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1621. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021393
+DESCRIPTION:HSL 2017 Major game #1621. Stats: https://hslstats.com/#2017-major/g/2021393
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021403@hslstats.ca
+UID:hsl-2021403@hslstats.com
 DTSTAMP:20270131T140000Z
 DTSTART:20270131T140000Z
 DTEND:20270131T153000Z
 SUMMARY:2017 Major: North Stars Academy Wild at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1631. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021403
+DESCRIPTION:HSL 2017 Major game #1631. Stats: https://hslstats.com/#2017-major/g/2021403
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021613@hslstats.ca
+UID:hsl-2021613@hslstats.com
 DTSTAMP:20270220T154500Z
 DTSTART:20270220T154500Z
 DTEND:20270220T171500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1841. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021613
+DESCRIPTION:HSL 2017 Major game #1841. Stats: https://hslstats.com/#2017-major/g/2021613
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021638@hslstats.ca
+UID:hsl-2021638@hslstats.com
 DTSTAMP:20270220T210000Z
 DTSTART:20270220T210000Z
 DTEND:20270220T223000Z
 SUMMARY:2017 Major: South Sask Academy at Warriors Hockey Academy (Sask)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1866. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021638
+DESCRIPTION:HSL 2017 Major game #1866. Stats: https://hslstats.com/#2017-major/g/2021638
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021658@hslstats.ca
+UID:hsl-2021658@hslstats.com
 DTSTAMP:20270221T140000Z
 DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1886. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021658
+DESCRIPTION:HSL 2017 Major game #1886. Stats: https://hslstats.com/#2017-major/g/2021658
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021675@hslstats.ca
+UID:hsl-2021675@hslstats.com
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
 DTEND:20270221T190000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1903. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021675
+DESCRIPTION:HSL 2017 Major game #1903. Stats: https://hslstats.com/#2017-major/g/2021675
 END:VEVENT
 END:VCALENDAR

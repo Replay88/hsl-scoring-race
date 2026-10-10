@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Young Kings Hockey (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019787@hslstats.ca
+UID:hsl-2019787@hslstats.com
 DTSTAMP:20260918T234500Z
 DTSTART:20260918T234500Z
 DTEND:20260919T011500Z
 SUMMARY:2017 Major: Queen City Young Guns 8 – Young Kings Hockey 5 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2017 Major game #15. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019787
+DESCRIPTION:HSL 2017 Major game #15. Stats: https://hslstats.com/#2017-major/g/2019787
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019833@hslstats.ca
+UID:hsl-2019833@hslstats.com
 DTSTAMP:20260919T191500Z
 DTSTART:20260919T191500Z
 DTEND:20260919T204500Z
 SUMMARY:2017 Major: Young Kings Hockey 3 – Queen City Young Guns 6 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2017 Major game #61. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019833
+DESCRIPTION:HSL 2017 Major game #61. Stats: https://hslstats.com/#2017-major/g/2019833
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019862@hslstats.ca
+UID:hsl-2019862@hslstats.com
 DTSTAMP:20260920T003000Z
 DTSTART:20260920T003000Z
 DTEND:20260920T020000Z
 SUMMARY:2017 Major: Young Kings Hockey 2 – South Sask Academy 6 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2017 Major game #90. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019862
+DESCRIPTION:HSL 2017 Major game #90. Stats: https://hslstats.com/#2017-major/g/2019862
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019871@hslstats.ca
+UID:hsl-2019871@hslstats.com
 DTSTAMP:20260920T134500Z
 DTSTART:20260920T134500Z
 DTEND:20260920T151500Z
 SUMMARY:2017 Major: South Sask Academy 3 – Young Kings Hockey 7 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2017 Major game #99. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019871
+DESCRIPTION:HSL 2017 Major game #99. Stats: https://hslstats.com/#2017-major/g/2019871
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020078@hslstats.ca
+UID:hsl-2020078@hslstats.com
 DTSTAMP:20261010T174500Z
 DTSTART:20261010T174500Z
 DTEND:20261010T191500Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Young Kings Hockey
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #306. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020078
+DESCRIPTION:HSL 2017 Major game #306. Stats: https://hslstats.com/#2017-major/g/2020078
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020106@hslstats.ca
+UID:hsl-2020106@hslstats.com
 DTSTAMP:20261010T230000Z
 DTSTART:20261010T230000Z
 DTEND:20261011T003000Z
 SUMMARY:2017 Major: Young Kings Hockey at Calgary Crusaders
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #334. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020106
+DESCRIPTION:HSL 2017 Major game #334. Stats: https://hslstats.com/#2017-major/g/2020106
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020132@hslstats.ca
+UID:hsl-2020132@hslstats.com
 DTSTAMP:20261011T164500Z
 DTSTART:20261011T164500Z
 DTEND:20261011T181500Z
 SUMMARY:2017 Major: Young Kings Hockey at Sauce Hockey Academy
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #360. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020132
+DESCRIPTION:HSL 2017 Major game #360. Stats: https://hslstats.com/#2017-major/g/2020132
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020152@hslstats.ca
+UID:hsl-2020152@hslstats.com
 DTSTAMP:20261011T220000Z
 DTSTART:20261011T220000Z
 DTEND:20261011T233000Z
 SUMMARY:2017 Major: Young Kings Hockey at Stars Hockey Academy
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2017 Major game #380. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020152
+DESCRIPTION:HSL 2017 Major game #380. Stats: https://hslstats.com/#2017-major/g/2020152
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020328@hslstats.ca
+UID:hsl-2020328@hslstats.com
 DTSTAMP:20261031T140000Z
 DTSTART:20261031T140000Z
 DTEND:20261031T153000Z
 SUMMARY:2017 Major: Young Kings Hockey at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #556. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020328
+DESCRIPTION:HSL 2017 Major game #556. Stats: https://hslstats.com/#2017-major/g/2020328
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020348@hslstats.ca
+UID:hsl-2020348@hslstats.com
 DTSTAMP:20261031T191500Z
 DTSTART:20261031T191500Z
 DTEND:20261031T204500Z
 SUMMARY:2017 Major: Young Kings Hockey at MOB Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #576. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020348
+DESCRIPTION:HSL 2017 Major game #576. Stats: https://hslstats.com/#2017-major/g/2020348
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020362@hslstats.ca
+UID:hsl-2020362@hslstats.com
 DTSTAMP:20261101T144500Z
 DTSTART:20261101T144500Z
 DTEND:20261101T161500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #590. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020362
+DESCRIPTION:HSL 2017 Major game #590. Stats: https://hslstats.com/#2017-major/g/2020362
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020375@hslstats.ca
+UID:hsl-2020375@hslstats.com
 DTSTAMP:20261101T181500Z
 DTSTART:20261101T181500Z
 DTEND:20261101T194500Z
 SUMMARY:2017 Major: Stars Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #603. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020375
+DESCRIPTION:HSL 2017 Major game #603. Stats: https://hslstats.com/#2017-major/g/2020375
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020507@hslstats.ca
+UID:hsl-2020507@hslstats.com
 DTSTAMP:20261120T223000Z
 DTSTART:20261120T223000Z
 DTEND:20261121T000000Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Young Kings Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #735. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020507
+DESCRIPTION:HSL 2017 Major game #735. Stats: https://hslstats.com/#2017-major/g/2020507
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020556@hslstats.ca
+UID:hsl-2020556@hslstats.com
 DTSTAMP:20261121T184500Z
 DTSTART:20261121T184500Z
 DTEND:20261121T201500Z
 SUMMARY:2017 Major: Young Kings Hockey at Warriors Hockey Academy (Sask)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #784. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020556
+DESCRIPTION:HSL 2017 Major game #784. Stats: https://hslstats.com/#2017-major/g/2020556
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020590@hslstats.ca
+UID:hsl-2020590@hslstats.com
 DTSTAMP:20261122T014500Z
 DTSTART:20261122T014500Z
 DTEND:20261122T031500Z
 SUMMARY:2017 Major: Young Kings Hockey at South Sask Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #818. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020590
+DESCRIPTION:HSL 2017 Major game #818. Stats: https://hslstats.com/#2017-major/g/2020590
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020770@hslstats.ca
+UID:hsl-2020770@hslstats.com
 DTSTAMP:20261211T214500Z
 DTSTART:20261211T214500Z
 DTEND:20261211T231500Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #998. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020770
+DESCRIPTION:HSL 2017 Major game #998. Stats: https://hslstats.com/#2017-major/g/2020770
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020790@hslstats.ca
+UID:hsl-2020790@hslstats.com
 DTSTAMP:20261212T144500Z
 DTSTART:20261212T144500Z
 DTEND:20261212T161500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1018. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020790
+DESCRIPTION:HSL 2017 Major game #1018. Stats: https://hslstats.com/#2017-major/g/2020790
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020856@hslstats.ca
+UID:hsl-2020856@hslstats.com
 DTSTAMP:20261213T173000Z
 DTSTART:20261213T173000Z
 DTEND:20261213T190000Z
 SUMMARY:2017 Major: Young Kings Hockey at Stars Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1084. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020856
+DESCRIPTION:HSL 2017 Major game #1084. Stats: https://hslstats.com/#2017-major/g/2020856
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020865@hslstats.ca
+UID:hsl-2020865@hslstats.com
 DTSTAMP:20261213T210000Z
 DTSTART:20261213T210000Z
 DTEND:20261213T223000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1093. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020865
+DESCRIPTION:HSL 2017 Major game #1093. Stats: https://hslstats.com/#2017-major/g/2020865
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021136@hslstats.ca
+UID:hsl-2021136@hslstats.com
 DTSTAMP:20270110T173000Z
 DTSTART:20270110T173000Z
 DTEND:20270110T190000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Young Kings Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #1364. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021136
+DESCRIPTION:HSL 2017 Major game #1364. Stats: https://hslstats.com/#2017-major/g/2021136
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021163@hslstats.ca
+UID:hsl-2021163@hslstats.com
 DTSTAMP:20270116T001500Z
 DTSTART:20270116T001500Z
 DTEND:20270116T014500Z
 SUMMARY:2017 Major: Young Kings Hockey at Saints Pro Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1391. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021163
+DESCRIPTION:HSL 2017 Major game #1391. Stats: https://hslstats.com/#2017-major/g/2021163
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021170@hslstats.ca
+UID:hsl-2021170@hslstats.com
 DTSTAMP:20270116T131500Z
 DTSTART:20270116T131500Z
 DTEND:20270116T144500Z
 SUMMARY:2017 Major: Young Kings Hockey at North Stars Academy Wild
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1398. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021170
+DESCRIPTION:HSL 2017 Major game #1398. Stats: https://hslstats.com/#2017-major/g/2021170
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021188@hslstats.ca
+UID:hsl-2021188@hslstats.com
 DTSTAMP:20270116T164500Z
 DTSTART:20270116T164500Z
 DTEND:20270116T181500Z
 SUMMARY:2017 Major: Queen City Young Guns at Young Kings Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #1416. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021188
+DESCRIPTION:HSL 2017 Major game #1416. Stats: https://hslstats.com/#2017-major/g/2021188
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021268@hslstats.ca
+UID:hsl-2021268@hslstats.com
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
 DTEND:20270117T204500Z
 SUMMARY:2017 Major: North Stars Academy Wild at Young Kings Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1496. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021268
+DESCRIPTION:HSL 2017 Major game #1496. Stats: https://hslstats.com/#2017-major/g/2021268
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021445@hslstats.ca
+UID:hsl-2021445@hslstats.com
 DTSTAMP:20270206T150000Z
 DTSTART:20270206T150000Z
 DTEND:20270206T163000Z
 SUMMARY:2017 Major: Calgary Crusaders at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1673. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021445
+DESCRIPTION:HSL 2017 Major game #1673. Stats: https://hslstats.com/#2017-major/g/2021445
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021457@hslstats.ca
+UID:hsl-2021457@hslstats.com
 DTSTAMP:20270206T183000Z
 DTSTART:20270206T183000Z
 DTEND:20270206T200000Z
 SUMMARY:2017 Major: Young Kings Hockey at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1685. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021457
+DESCRIPTION:HSL 2017 Major game #1685. Stats: https://hslstats.com/#2017-major/g/2021457
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021487@hslstats.ca
+UID:hsl-2021487@hslstats.com
 DTSTAMP:20270207T154500Z
 DTSTART:20270207T154500Z
 DTEND:20270207T171500Z
 SUMMARY:2017 Major: Young Kings Hockey at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1715. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021487
+DESCRIPTION:HSL 2017 Major game #1715. Stats: https://hslstats.com/#2017-major/g/2021487
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021498@hslstats.ca
+UID:hsl-2021498@hslstats.com
 DTSTAMP:20270207T191500Z
 DTSTART:20270207T191500Z
 DTEND:20270207T204500Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1726. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021498
+DESCRIPTION:HSL 2017 Major game #1726. Stats: https://hslstats.com/#2017-major/g/2021498
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021608@hslstats.ca
+UID:hsl-2021608@hslstats.com
 DTSTAMP:20270220T140000Z
 DTSTART:20270220T140000Z
 DTEND:20270220T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Young Kings Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1836. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021608
+DESCRIPTION:HSL 2017 Major game #1836. Stats: https://hslstats.com/#2017-major/g/2021608
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021623@hslstats.ca
+UID:hsl-2021623@hslstats.com
 DTSTAMP:20270220T173000Z
 DTSTART:20270220T173000Z
 DTEND:20270220T190000Z
 SUMMARY:2017 Major: Young Kings Hockey at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1851. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021623
+DESCRIPTION:HSL 2017 Major game #1851. Stats: https://hslstats.com/#2017-major/g/2021623
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021660@hslstats.ca
+UID:hsl-2021660@hslstats.com
 DTSTAMP:20270221T140000Z
 DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
 SUMMARY:2017 Major: Young Kings Hockey at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1888. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021660
+DESCRIPTION:HSL 2017 Major game #1888. Stats: https://hslstats.com/#2017-major/g/2021660
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021678@hslstats.ca
+UID:hsl-2021678@hslstats.com
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
 DTEND:20270221T190000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Young Kings Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1906. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021678
+DESCRIPTION:HSL 2017 Major game #1906. Stats: https://hslstats.com/#2017-major/g/2021678
 END:VEVENT
 END:VCALENDAR

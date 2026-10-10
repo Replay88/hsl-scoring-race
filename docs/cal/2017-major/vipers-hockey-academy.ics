@@ -1,259 +1,259 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Vipers Hockey Academy (2017 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019785@hslstats.ca
+UID:hsl-2019785@hslstats.com
 DTSTAMP:20260918T233000Z
 DTSTART:20260918T233000Z
 DTEND:20260919T010000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy 2 – Vipers Hockey Academy 8 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #13. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019785
+DESCRIPTION:HSL 2017 Major game #13. Stats: https://hslstats.com/#2017-major/g/2019785
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019824@hslstats.ca
+UID:hsl-2019824@hslstats.com
 DTSTAMP:20260919T173000Z
 DTSTART:20260919T173000Z
 DTEND:20260919T190000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 3 – Vipers Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #52. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019824
+DESCRIPTION:HSL 2017 Major game #52. Stats: https://hslstats.com/#2017-major/g/2019824
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019865@hslstats.ca
+UID:hsl-2019865@hslstats.com
 DTSTAMP:20260920T004500Z
 DTSTART:20260920T004500Z
 DTEND:20260920T021500Z
 SUMMARY:2017 Major: MOB Hockey 6 – Vipers Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #93. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019865
+DESCRIPTION:HSL 2017 Major game #93. Stats: https://hslstats.com/#2017-major/g/2019865
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019875@hslstats.ca
+UID:hsl-2019875@hslstats.com
 DTSTAMP:20260920T141500Z
 DTSTART:20260920T141500Z
 DTEND:20260920T154500Z
 SUMMARY:2017 Major: Vipers Hockey Academy 4 – Gorillas Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #103. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2019875
+DESCRIPTION:HSL 2017 Major game #103. Stats: https://hslstats.com/#2017-major/g/2019875
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020306@hslstats.ca
+UID:hsl-2020306@hslstats.com
 DTSTAMP:20261030T191500Z
 DTSTART:20261030T191500Z
 DTEND:20261030T204500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at North Stars Academy Wild
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #534. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020306
+DESCRIPTION:HSL 2017 Major game #534. Stats: https://hslstats.com/#2017-major/g/2020306
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020318@hslstats.ca
+UID:hsl-2020318@hslstats.com
 DTSTAMP:20261031T003000Z
 DTSTART:20261031T003000Z
 DTEND:20261031T020000Z
 SUMMARY:2017 Major: Calgary Crusaders at Vipers Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #546. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020318
+DESCRIPTION:HSL 2017 Major game #546. Stats: https://hslstats.com/#2017-major/g/2020318
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020331@hslstats.ca
+UID:hsl-2020331@hslstats.com
 DTSTAMP:20261031T144500Z
 DTSTART:20261031T144500Z
 DTEND:20261031T161500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at North Stars Academy Wild
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #559. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020331
+DESCRIPTION:HSL 2017 Major game #559. Stats: https://hslstats.com/#2017-major/g/2020331
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020372@hslstats.ca
+UID:hsl-2020372@hslstats.com
 DTSTAMP:20261101T181500Z
 DTSTART:20261101T181500Z
 DTEND:20261101T194500Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Vipers Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #600. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020372
+DESCRIPTION:HSL 2017 Major game #600. Stats: https://hslstats.com/#2017-major/g/2020372
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020507@hslstats.ca
+UID:hsl-2020507@hslstats.com
 DTSTAMP:20261120T223000Z
 DTSTART:20261120T223000Z
 DTEND:20261121T000000Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Young Kings Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #735. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020507
+DESCRIPTION:HSL 2017 Major game #735. Stats: https://hslstats.com/#2017-major/g/2020507
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020538@hslstats.ca
+UID:hsl-2020538@hslstats.com
 DTSTAMP:20261121T151500Z
 DTSTART:20261121T151500Z
 DTEND:20261121T164500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Spartan Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #766. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020538
+DESCRIPTION:HSL 2017 Major game #766. Stats: https://hslstats.com/#2017-major/g/2020538
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020571@hslstats.ca
+UID:hsl-2020571@hslstats.com
 DTSTAMP:20261121T221500Z
 DTSTART:20261121T221500Z
 DTEND:20261121T234500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #799. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020571
+DESCRIPTION:HSL 2017 Major game #799. Stats: https://hslstats.com/#2017-major/g/2020571
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020591@hslstats.ca
+UID:hsl-2020591@hslstats.com
 DTSTAMP:20261122T131500Z
 DTSTART:20261122T131500Z
 DTEND:20261122T144500Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Vipers Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #819. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020591
+DESCRIPTION:HSL 2017 Major game #819. Stats: https://hslstats.com/#2017-major/g/2020591
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020782@hslstats.ca
+UID:hsl-2020782@hslstats.com
 DTSTAMP:20261212T004500Z
 DTSTART:20261212T004500Z
 DTEND:20261212T021500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1010. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020782
+DESCRIPTION:HSL 2017 Major game #1010. Stats: https://hslstats.com/#2017-major/g/2020782
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020803@hslstats.ca
+UID:hsl-2020803@hslstats.com
 DTSTAMP:20261212T173000Z
 DTSTART:20261212T173000Z
 DTEND:20261212T190000Z
 SUMMARY:2017 Major: South Sask Academy at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1031. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020803
+DESCRIPTION:HSL 2017 Major game #1031. Stats: https://hslstats.com/#2017-major/g/2020803
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020820@hslstats.ca
+UID:hsl-2020820@hslstats.com
 DTSTAMP:20261212T210000Z
 DTSTART:20261212T210000Z
 DTEND:20261212T223000Z
 SUMMARY:2017 Major: Queen City Young Guns at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1048. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020820
+DESCRIPTION:HSL 2017 Major game #1048. Stats: https://hslstats.com/#2017-major/g/2020820
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020848@hslstats.ca
+UID:hsl-2020848@hslstats.com
 DTSTAMP:20261213T154500Z
 DTSTART:20261213T154500Z
 DTEND:20261213T171500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Queen City Young Guns
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1076. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2020848
+DESCRIPTION:HSL 2017 Major game #1076. Stats: https://hslstats.com/#2017-major/g/2020848
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021167@hslstats.ca
+UID:hsl-2021167@hslstats.com
 DTSTAMP:20270116T004500Z
 DTSTART:20270116T004500Z
 DTEND:20270116T021500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Vipers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1395. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021167
+DESCRIPTION:HSL 2017 Major game #1395. Stats: https://hslstats.com/#2017-major/g/2021167
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021181@hslstats.ca
+UID:hsl-2021181@hslstats.com
 DTSTAMP:20270116T154500Z
 DTSTART:20270116T154500Z
 DTEND:20270116T171500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Aces Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1409. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021181
+DESCRIPTION:HSL 2017 Major game #1409. Stats: https://hslstats.com/#2017-major/g/2021181
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021213@hslstats.ca
+UID:hsl-2021213@hslstats.com
 DTSTAMP:20270116T210000Z
 DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1441. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021213
+DESCRIPTION:HSL 2017 Major game #1441. Stats: https://hslstats.com/#2017-major/g/2021213
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021261@hslstats.ca
+UID:hsl-2021261@hslstats.com
 DTSTAMP:20270117T173000Z
 DTSTART:20270117T173000Z
 DTEND:20270117T190000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Vipers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1489. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021261
+DESCRIPTION:HSL 2017 Major game #1489. Stats: https://hslstats.com/#2017-major/g/2021261
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021436@hslstats.ca
+UID:hsl-2021436@hslstats.com
 DTSTAMP:20270206T004500Z
 DTSTART:20270206T004500Z
 DTEND:20270206T021500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1664. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021436
+DESCRIPTION:HSL 2017 Major game #1664. Stats: https://hslstats.com/#2017-major/g/2021436
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021464@hslstats.ca
+UID:hsl-2021464@hslstats.com
 DTSTAMP:20270206T201500Z
 DTSTART:20270206T201500Z
 DTEND:20270206T214500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Stars Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1692. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021464
+DESCRIPTION:HSL 2017 Major game #1692. Stats: https://hslstats.com/#2017-major/g/2021464
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021475@hslstats.ca
+UID:hsl-2021475@hslstats.com
 DTSTAMP:20270206T234500Z
 DTSTART:20270206T234500Z
 DTEND:20270207T011500Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Vipers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1703. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021475
+DESCRIPTION:HSL 2017 Major game #1703. Stats: https://hslstats.com/#2017-major/g/2021475
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021482@hslstats.ca
+UID:hsl-2021482@hslstats.com
 DTSTAMP:20270207T140000Z
 DTSTART:20270207T140000Z
 DTEND:20270207T153000Z
 SUMMARY:2017 Major: Stars Hockey Academy at Vipers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1710. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021482
+DESCRIPTION:HSL 2017 Major game #1710. Stats: https://hslstats.com/#2017-major/g/2021482
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021600@hslstats.ca
+UID:hsl-2021600@hslstats.com
 DTSTAMP:20270220T004500Z
 DTSTART:20270220T004500Z
 DTEND:20270220T021500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1828. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021600
+DESCRIPTION:HSL 2017 Major game #1828. Stats: https://hslstats.com/#2017-major/g/2021600
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021613@hslstats.ca
+UID:hsl-2021613@hslstats.com
 DTSTAMP:20270220T154500Z
 DTSTART:20270220T154500Z
 DTEND:20270220T171500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1841. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021613
+DESCRIPTION:HSL 2017 Major game #1841. Stats: https://hslstats.com/#2017-major/g/2021613
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021632@hslstats.ca
+UID:hsl-2021632@hslstats.com
 DTSTAMP:20270220T191500Z
 DTSTART:20270220T191500Z
 DTEND:20270220T204500Z
 SUMMARY:2017 Major: Queen City Young Guns at Vipers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1860. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021632
+DESCRIPTION:HSL 2017 Major game #1860. Stats: https://hslstats.com/#2017-major/g/2021632
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021658@hslstats.ca
+UID:hsl-2021658@hslstats.com
 DTSTAMP:20270221T140000Z
 DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1886. Stats: https://replay88.github.io/hsl-scoring-race/#2017-major/g/2021658
+DESCRIPTION:HSL 2017 Major game #1886. Stats: https://hslstats.com/#2017-major/g/2021658
 END:VEVENT
 END:VCALENDAR

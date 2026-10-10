@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Calgary Crusaders (2015 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019950@hslstats.ca
+UID:hsl-2019950@hslstats.com
 DTSTAMP:20260926T210000Z
 DTSTART:20260926T210000Z
 DTEND:20260926T223000Z
 SUMMARY:2015 Major: Riggers Hockey Academy 3 – Calgary Crusaders 5 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #178. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019950
+DESCRIPTION:HSL 2015 Major game #178. Stats: https://hslstats.com/#2015-major/g/2019950
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019960@hslstats.ca
+UID:hsl-2019960@hslstats.com
 DTSTAMP:20260927T004500Z
 DTSTART:20260927T004500Z
 DTEND:20260927T021500Z
 SUMMARY:2015 Major: Gorillas Hockey Academy 5 – Calgary Crusaders 4 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 Major game #188. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019960
+DESCRIPTION:HSL 2015 Major game #188. Stats: https://hslstats.com/#2015-major/g/2019960
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019979@hslstats.ca
+UID:hsl-2019979@hslstats.com
 DTSTAMP:20260927T181500Z
 DTSTART:20260927T181500Z
 DTEND:20260927T194500Z
 SUMMARY:2015 Major: Calgary Crusaders 3 – Gorillas Hockey Academy 3 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #207. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2019979
+DESCRIPTION:HSL 2015 Major game #207. Stats: https://hslstats.com/#2015-major/g/2019979
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020043@hslstats.ca
+UID:hsl-2020043@hslstats.com
 DTSTAMP:20261009T233000Z
 DTSTART:20261009T233000Z
 DTEND:20261010T010000Z
 SUMMARY:2015 Major: Calgary Crusaders 3 – Rebels Hockey Academy 5 (Final)
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #271. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020043
+DESCRIPTION:HSL 2015 Major game #271. Stats: https://hslstats.com/#2015-major/g/2020043
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020069@hslstats.ca
+UID:hsl-2020069@hslstats.com
 DTSTAMP:20261010T161500Z
 DTSTART:20261010T161500Z
 DTEND:20261010T174500Z
 SUMMARY:2015 Major: MOB Hockey at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #297. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020069
+DESCRIPTION:HSL 2015 Major game #297. Stats: https://hslstats.com/#2015-major/g/2020069
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020107@hslstats.ca
+UID:hsl-2020107@hslstats.com
 DTSTAMP:20261010T231500Z
 DTSTART:20261010T231500Z
 DTEND:20261011T004500Z
 SUMMARY:2015 Major: Calgary Crusaders at MOB Hockey
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #335. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020107
+DESCRIPTION:HSL 2015 Major game #335. Stats: https://hslstats.com/#2015-major/g/2020107
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020119@hslstats.ca
+UID:hsl-2020119@hslstats.com
 DTSTAMP:20261011T143000Z
 DTSTART:20261011T143000Z
 DTEND:20261011T160000Z
 SUMMARY:2015 Major: Rebels Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #347. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020119
+DESCRIPTION:HSL 2015 Major game #347. Stats: https://hslstats.com/#2015-major/g/2020119
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020178@hslstats.ca
+UID:hsl-2020178@hslstats.com
 DTSTAMP:20261017T154500Z
 DTSTART:20261017T154500Z
 DTEND:20261017T171500Z
 SUMMARY:2015 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #406. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020178
+DESCRIPTION:HSL 2015 Major game #406. Stats: https://hslstats.com/#2015-major/g/2020178
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020397@hslstats.ca
+UID:hsl-2020397@hslstats.com
 DTSTAMP:20261107T004500Z
 DTSTART:20261107T004500Z
 DTEND:20261107T021500Z
 SUMMARY:2015 Major: South Sask Academy at Calgary Crusaders
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #625. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020397
+DESCRIPTION:HSL 2015 Major game #625. Stats: https://hslstats.com/#2015-major/g/2020397
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020412@hslstats.ca
+UID:hsl-2020412@hslstats.com
 DTSTAMP:20261107T173000Z
 DTSTART:20261107T173000Z
 DTEND:20261107T190000Z
 SUMMARY:2015 Major: Sask Super Selects at Calgary Crusaders
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #640. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020412
+DESCRIPTION:HSL 2015 Major game #640. Stats: https://hslstats.com/#2015-major/g/2020412
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020430@hslstats.ca
+UID:hsl-2020430@hslstats.com
 DTSTAMP:20261108T003000Z
 DTSTART:20261108T003000Z
 DTEND:20261108T020000Z
 SUMMARY:2015 Major: Calgary Crusaders at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #658. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020430
+DESCRIPTION:HSL 2015 Major game #658. Stats: https://hslstats.com/#2015-major/g/2020430
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020441@hslstats.ca
+UID:hsl-2020441@hslstats.com
 DTSTAMP:20261108T154500Z
 DTSTART:20261108T154500Z
 DTEND:20261108T171500Z
 SUMMARY:2015 Major: Calgary Crusaders at Sask Super Selects
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2015 Major game #669. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020441
+DESCRIPTION:HSL 2015 Major game #669. Stats: https://hslstats.com/#2015-major/g/2020441
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020694@hslstats.ca
+UID:hsl-2020694@hslstats.com
 DTSTAMP:20261204T213000Z
 DTSTART:20261204T213000Z
 DTEND:20261204T230000Z
 SUMMARY:2015 Major: Sask Super Selects at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #922. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020694
+DESCRIPTION:HSL 2015 Major game #922. Stats: https://hslstats.com/#2015-major/g/2020694
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020719@hslstats.ca
+UID:hsl-2020719@hslstats.com
 DTSTAMP:20261205T181500Z
 DTSTART:20261205T181500Z
 DTEND:20261205T194500Z
 SUMMARY:2015 Major: South Sask Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #947. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020719
+DESCRIPTION:HSL 2015 Major game #947. Stats: https://hslstats.com/#2015-major/g/2020719
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020732@hslstats.ca
+UID:hsl-2020732@hslstats.com
 DTSTAMP:20261205T231500Z
 DTSTART:20261205T231500Z
 DTEND:20261206T004500Z
 SUMMARY:2015 Major: Calgary Crusaders at Sask Super Selects
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #960. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020732
+DESCRIPTION:HSL 2015 Major game #960. Stats: https://hslstats.com/#2015-major/g/2020732
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020751@hslstats.ca
+UID:hsl-2020751@hslstats.com
 DTSTAMP:20261206T161500Z
 DTSTART:20261206T161500Z
 DTEND:20261206T174500Z
 SUMMARY:2015 Major: Calgary Crusaders at South Sask Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #979. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020751
+DESCRIPTION:HSL 2015 Major game #979. Stats: https://hslstats.com/#2015-major/g/2020751
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020775@hslstats.ca
+UID:hsl-2020775@hslstats.com
 DTSTAMP:20261211T231500Z
 DTSTART:20261211T231500Z
 DTEND:20261212T004500Z
 SUMMARY:2015 Major: MOB Hockey at Calgary Crusaders
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1003. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020775
+DESCRIPTION:HSL 2015 Major game #1003. Stats: https://hslstats.com/#2015-major/g/2020775
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020791@hslstats.ca
+UID:hsl-2020791@hslstats.com
 DTSTAMP:20261212T150000Z
 DTSTART:20261212T150000Z
 DTEND:20261212T163000Z
 SUMMARY:2015 Major: Calgary Crusaders at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1019. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020791
+DESCRIPTION:HSL 2015 Major game #1019. Stats: https://hslstats.com/#2015-major/g/2020791
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020824@hslstats.ca
+UID:hsl-2020824@hslstats.com
 DTSTAMP:20261212T220000Z
 DTSTART:20261212T220000Z
 DTEND:20261212T233000Z
 SUMMARY:2015 Major: Calgary Crusaders at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1052. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020824
+DESCRIPTION:HSL 2015 Major game #1052. Stats: https://hslstats.com/#2015-major/g/2020824
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020845@hslstats.ca
+UID:hsl-2020845@hslstats.com
 DTSTAMP:20261213T154500Z
 DTSTART:20261213T154500Z
 DTEND:20261213T171500Z
 SUMMARY:2015 Major: Gorillas Hockey Academy at Calgary Crusaders
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1073. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020845
+DESCRIPTION:HSL 2015 Major game #1073. Stats: https://hslstats.com/#2015-major/g/2020845
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020999@hslstats.ca
+UID:hsl-2020999@hslstats.com
 DTSTAMP:20270102T183000Z
 DTSTART:20270102T183000Z
 DTEND:20270102T200000Z
 SUMMARY:2015 Major: Calgary Crusaders at Gorillas Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #1227. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2020999
+DESCRIPTION:HSL 2015 Major game #1227. Stats: https://hslstats.com/#2015-major/g/2020999
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021024@hslstats.ca
+UID:hsl-2021024@hslstats.com
 DTSTAMP:20270103T011500Z
 DTSTART:20270103T011500Z
 DTEND:20270103T024500Z
 SUMMARY:2015 Major: Calgary Crusaders at Riggers Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Major game #1252. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021024
+DESCRIPTION:HSL 2015 Major game #1252. Stats: https://hslstats.com/#2015-major/g/2021024
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021030@hslstats.ca
+UID:hsl-2021030@hslstats.com
 DTSTAMP:20270103T141500Z
 DTSTART:20270103T141500Z
 DTEND:20270103T154500Z
 SUMMARY:2015 Major: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #1258. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021030
+DESCRIPTION:HSL 2015 Major game #1258. Stats: https://hslstats.com/#2015-major/g/2021030
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021046@hslstats.ca
+UID:hsl-2021046@hslstats.com
 DTSTAMP:20270103T174500Z
 DTSTART:20270103T174500Z
 DTEND:20270103T191500Z
 SUMMARY:2015 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #1274. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021046
+DESCRIPTION:HSL 2015 Major game #1274. Stats: https://hslstats.com/#2015-major/g/2021046
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021291@hslstats.ca
+UID:hsl-2021291@hslstats.com
 DTSTAMP:20270123T004500Z
 DTSTART:20270123T004500Z
 DTEND:20270123T021500Z
 SUMMARY:2015 Major: Rebels Hockey Academy at Calgary Crusaders
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2015 Major game #1519. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021291
+DESCRIPTION:HSL 2015 Major game #1519. Stats: https://hslstats.com/#2015-major/g/2021291
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021299@hslstats.ca
+UID:hsl-2021299@hslstats.com
 DTSTAMP:20270123T140000Z
 DTSTART:20270123T140000Z
 DTEND:20270123T153000Z
 SUMMARY:2015 Major: HC Calgary Bandits at Calgary Crusaders
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2015 Major game #1527. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021299
+DESCRIPTION:HSL 2015 Major game #1527. Stats: https://hslstats.com/#2015-major/g/2021299
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021317@hslstats.ca
+UID:hsl-2021317@hslstats.com
 DTSTAMP:20270123T180000Z
 DTSTART:20270123T180000Z
 DTEND:20270123T193000Z
 SUMMARY:2015 Major: MOB Hockey at Calgary Crusaders
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2015 Major game #1545. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021317
+DESCRIPTION:HSL 2015 Major game #1545. Stats: https://hslstats.com/#2015-major/g/2021317
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021411@hslstats.ca
+UID:hsl-2021411@hslstats.com
 DTSTAMP:20270131T173000Z
 DTSTART:20270131T173000Z
 DTEND:20270131T190000Z
 SUMMARY:2015 Major: Calgary Crusaders at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Major game #1639. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021411
+DESCRIPTION:HSL 2015 Major game #1639. Stats: https://hslstats.com/#2015-major/g/2021411
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021465@hslstats.ca
+UID:hsl-2021465@hslstats.com
 DTSTAMP:20270206T210000Z
 DTSTART:20270206T210000Z
 DTEND:20270206T223000Z
 SUMMARY:2015 Major: Calgary Crusaders at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1693. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021465
+DESCRIPTION:HSL 2015 Major game #1693. Stats: https://hslstats.com/#2015-major/g/2021465
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021477@hslstats.ca
+UID:hsl-2021477@hslstats.com
 DTSTAMP:20270207T003000Z
 DTSTART:20270207T003000Z
 DTEND:20270207T020000Z
 SUMMARY:2015 Major: Gorillas Hockey Academy at Calgary Crusaders
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1705. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021477
+DESCRIPTION:HSL 2015 Major game #1705. Stats: https://hslstats.com/#2015-major/g/2021477
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021481@hslstats.ca
+UID:hsl-2021481@hslstats.com
 DTSTAMP:20270207T140000Z
 DTSTART:20270207T140000Z
 DTEND:20270207T153000Z
 SUMMARY:2015 Major: Calgary Crusaders at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1709. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021481
+DESCRIPTION:HSL 2015 Major game #1709. Stats: https://hslstats.com/#2015-major/g/2021481
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021497@hslstats.ca
+UID:hsl-2021497@hslstats.com
 DTSTAMP:20270207T191500Z
 DTSTART:20270207T191500Z
 DTEND:20270207T204500Z
 SUMMARY:2015 Major: Calgary Crusaders at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1725. Stats: https://replay88.github.io/hsl-scoring-race/#2015-major/g/2021497
+DESCRIPTION:HSL 2015 Major game #1725. Stats: https://hslstats.com/#2015-major/g/2021497
 END:VEVENT
 END:VCALENDAR

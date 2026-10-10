@@ -1,4 +1,4 @@
-# HSL Scoring Race
+# HSL Statistics
 
 Points leaders, standings, goalies, scores, schedules, player/team/game pages and calendar feeds for every Hockey Super League division (2026-27), built from the box scores on hockeysuperleague.ca.
 

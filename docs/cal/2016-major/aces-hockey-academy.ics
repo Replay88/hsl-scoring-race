@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Aces Hockey Academy (2016 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019917@hslstats.ca
+UID:hsl-2019917@hslstats.com
 DTSTAMP:20260925T220000Z
 DTSTART:20260925T220000Z
 DTEND:20260925T233000Z
 SUMMARY:2016 Major: Aces Hockey Academy 12 – Young Kings Hockey 4 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #145. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019917
+DESCRIPTION:HSL 2016 Major game #145. Stats: https://hslstats.com/#2016-major/g/2019917
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019943@hslstats.ca
+UID:hsl-2019943@hslstats.com
 DTSTAMP:20260926T181500Z
 DTSTART:20260926T181500Z
 DTEND:20260926T194500Z
 SUMMARY:2016 Major: Calgary Crusaders 6 – Aces Hockey Academy 11 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #171. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019943
+DESCRIPTION:HSL 2016 Major game #171. Stats: https://hslstats.com/#2016-major/g/2019943
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019956@hslstats.ca
+UID:hsl-2019956@hslstats.com
 DTSTAMP:20260926T231500Z
 DTSTART:20260926T231500Z
 DTEND:20260927T004500Z
 SUMMARY:2016 Major: Young Kings Hockey 10 – Aces Hockey Academy 9 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #184. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019956
+DESCRIPTION:HSL 2016 Major game #184. Stats: https://hslstats.com/#2016-major/g/2019956
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019970@hslstats.ca
+UID:hsl-2019970@hslstats.com
 DTSTAMP:20260927T154500Z
 DTSTART:20260927T154500Z
 DTEND:20260927T171500Z
 SUMMARY:2016 Major: Aces Hockey Academy 6 – Calgary Crusaders 2 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #198. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019970
+DESCRIPTION:HSL 2016 Major game #198. Stats: https://hslstats.com/#2016-major/g/2019970
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020052@hslstats.ca
+UID:hsl-2020052@hslstats.com
 DTSTAMP:20261010T010000Z
 DTSTART:20261010T010000Z
 DTEND:20261010T023000Z
 SUMMARY:2016 Major: O2 Grizzlies 5 – Aces Hockey Academy 10 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #280. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020052
+DESCRIPTION:HSL 2016 Major game #280. Stats: https://hslstats.com/#2016-major/g/2020052
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020059@hslstats.ca
+UID:hsl-2020059@hslstats.com
 DTSTAMP:20261010T143000Z
 DTSTART:20261010T143000Z
 DTEND:20261010T160000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Aces Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #287. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020059
+DESCRIPTION:HSL 2016 Major game #287. Stats: https://hslstats.com/#2016-major/g/2020059
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020097@hslstats.ca
+UID:hsl-2020097@hslstats.com
 DTSTAMP:20261010T213000Z
 DTSTART:20261010T213000Z
 DTEND:20261010T230000Z
 SUMMARY:2016 Major: Aces Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #325. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020097
+DESCRIPTION:HSL 2016 Major game #325. Stats: https://hslstats.com/#2016-major/g/2020097
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020145@hslstats.ca
+UID:hsl-2020145@hslstats.com
 DTSTAMP:20261011T194500Z
 DTSTART:20261011T194500Z
 DTEND:20261011T211500Z
 SUMMARY:2016 Major: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #373. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020145
+DESCRIPTION:HSL 2016 Major game #373. Stats: https://hslstats.com/#2016-major/g/2020145
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020242@hslstats.ca
+UID:hsl-2020242@hslstats.com
 DTSTAMP:20261023T234500Z
 DTSTART:20261023T234500Z
 DTEND:20261024T011500Z
 SUMMARY:2016 Major: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #470. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020242
+DESCRIPTION:HSL 2016 Major game #470. Stats: https://hslstats.com/#2016-major/g/2020242
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020260@hslstats.ca
+UID:hsl-2020260@hslstats.com
 DTSTAMP:20261024T173000Z
 DTSTART:20261024T173000Z
 DTEND:20261024T190000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #488. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020260
+DESCRIPTION:HSL 2016 Major game #488. Stats: https://hslstats.com/#2016-major/g/2020260
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020277@hslstats.ca
+UID:hsl-2020277@hslstats.com
 DTSTAMP:20261025T003000Z
 DTSTART:20261025T003000Z
 DTEND:20261025T020000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #505. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020277
+DESCRIPTION:HSL 2016 Major game #505. Stats: https://hslstats.com/#2016-major/g/2020277
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020295@hslstats.ca
+UID:hsl-2020295@hslstats.com
 DTSTAMP:20261025T191500Z
 DTSTART:20261025T191500Z
 DTEND:20261025T204500Z
 SUMMARY:2016 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #523. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020295
+DESCRIPTION:HSL 2016 Major game #523. Stats: https://hslstats.com/#2016-major/g/2020295
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020541@hslstats.ca
+UID:hsl-2020541@hslstats.com
 DTSTAMP:20261121T154500Z
 DTSTART:20261121T154500Z
 DTEND:20261121T171500Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #769. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020541
+DESCRIPTION:HSL 2016 Major game #769. Stats: https://hslstats.com/#2016-major/g/2020541
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020558@hslstats.ca
+UID:hsl-2020558@hslstats.com
 DTSTAMP:20261121T191500Z
 DTSTART:20261121T191500Z
 DTEND:20261121T204500Z
 SUMMARY:2016 Major: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #786. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020558
+DESCRIPTION:HSL 2016 Major game #786. Stats: https://hslstats.com/#2016-major/g/2020558
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020596@hslstats.ca
+UID:hsl-2020596@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #824. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020596
+DESCRIPTION:HSL 2016 Major game #824. Stats: https://hslstats.com/#2016-major/g/2020596
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020613@hslstats.ca
+UID:hsl-2020613@hslstats.com
 DTSTAMP:20261122T173000Z
 DTSTART:20261122T173000Z
 DTEND:20261122T190000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #841. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020613
+DESCRIPTION:HSL 2016 Major game #841. Stats: https://hslstats.com/#2016-major/g/2020613
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020703@hslstats.ca
+UID:hsl-2020703@hslstats.com
 DTSTAMP:20261205T004500Z
 DTSTART:20261205T004500Z
 DTEND:20261205T021500Z
 SUMMARY:2016 Major: MOB Hockey at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #931. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020703
+DESCRIPTION:HSL 2016 Major game #931. Stats: https://hslstats.com/#2016-major/g/2020703
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020712@hslstats.ca
+UID:hsl-2020712@hslstats.com
 DTSTAMP:20261205T154500Z
 DTSTART:20261205T154500Z
 DTEND:20261205T171500Z
 SUMMARY:2016 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #940. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020712
+DESCRIPTION:HSL 2016 Major game #940. Stats: https://hslstats.com/#2016-major/g/2020712
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020725@hslstats.ca
+UID:hsl-2020725@hslstats.com
 DTSTAMP:20261205T200000Z
 DTSTART:20261205T200000Z
 DTEND:20261205T213000Z
 SUMMARY:2016 Major: Caps Hockey Club at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #953. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020725
+DESCRIPTION:HSL 2016 Major game #953. Stats: https://hslstats.com/#2016-major/g/2020725
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021052@hslstats.ca
+UID:hsl-2021052@hslstats.com
 DTSTAMP:20270103T190000Z
 DTSTART:20270103T190000Z
 DTEND:20270103T203000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2016 Major game #1280. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021052
+DESCRIPTION:HSL 2016 Major game #1280. Stats: https://hslstats.com/#2016-major/g/2021052
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021164@hslstats.ca
+UID:hsl-2021164@hslstats.com
 DTSTAMP:20270116T003000Z
 DTSTART:20270116T003000Z
 DTEND:20270116T020000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Aces Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #1392. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021164
+DESCRIPTION:HSL 2016 Major game #1392. Stats: https://hslstats.com/#2016-major/g/2021164
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021308@hslstats.ca
+UID:hsl-2021308@hslstats.com
 DTSTAMP:20270123T160000Z
 DTSTART:20270123T160000Z
 DTEND:20270123T173000Z
 SUMMARY:2016 Major: Northern Hockey Club at Aces Hockey Academy
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2016 Major game #1536. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021308
+DESCRIPTION:HSL 2016 Major game #1536. Stats: https://hslstats.com/#2016-major/g/2021308
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021323@hslstats.ca
+UID:hsl-2021323@hslstats.com
 DTSTAMP:20270123T193000Z
 DTSTART:20270123T193000Z
 DTEND:20270123T210000Z
 SUMMARY:2016 Major: MOB Hockey at Aces Hockey Academy
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2016 Major game #1551. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021323
+DESCRIPTION:HSL 2016 Major game #1551. Stats: https://hslstats.com/#2016-major/g/2021323
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021346@hslstats.ca
+UID:hsl-2021346@hslstats.com
 DTSTAMP:20270124T140000Z
 DTSTART:20270124T140000Z
 DTEND:20270124T153000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Northern Hockey Club
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #1574. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021346
+DESCRIPTION:HSL 2016 Major game #1574. Stats: https://hslstats.com/#2016-major/g/2021346
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021356@hslstats.ca
+UID:hsl-2021356@hslstats.com
 DTSTAMP:20270124T173000Z
 DTSTART:20270124T173000Z
 DTEND:20270124T190000Z
 SUMMARY:2016 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #1584. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021356
+DESCRIPTION:HSL 2016 Major game #1584. Stats: https://hslstats.com/#2016-major/g/2021356
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021386@hslstats.ca
+UID:hsl-2021386@hslstats.com
 DTSTAMP:20270130T183000Z
 DTSTART:20270130T183000Z
 DTEND:20270130T200000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #1614. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021386
+DESCRIPTION:HSL 2016 Major game #1614. Stats: https://hslstats.com/#2016-major/g/2021386
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021398@hslstats.ca
+UID:hsl-2021398@hslstats.com
 DTSTAMP:20270131T001500Z
 DTSTART:20270131T001500Z
 DTEND:20270131T014500Z
 SUMMARY:2016 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #1626. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021398
+DESCRIPTION:HSL 2016 Major game #1626. Stats: https://hslstats.com/#2016-major/g/2021398
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021422@hslstats.ca
+UID:hsl-2021422@hslstats.com
 DTSTAMP:20270131T223000Z
 DTSTART:20270131T223000Z
 DTEND:20270201T000000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #1650. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021422
+DESCRIPTION:HSL 2016 Major game #1650. Stats: https://hslstats.com/#2016-major/g/2021422
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021442@hslstats.ca
+UID:hsl-2021442@hslstats.com
 DTSTAMP:20270206T140000Z
 DTSTART:20270206T140000Z
 DTEND:20270206T153000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Aces Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1670. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021442
+DESCRIPTION:HSL 2016 Major game #1670. Stats: https://hslstats.com/#2016-major/g/2021442
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021453@hslstats.ca
+UID:hsl-2021453@hslstats.com
 DTSTAMP:20270206T173000Z
 DTSTART:20270206T173000Z
 DTEND:20270206T190000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at Aces Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1681. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021453
+DESCRIPTION:HSL 2016 Major game #1681. Stats: https://hslstats.com/#2016-major/g/2021453
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021491@hslstats.ca
+UID:hsl-2021491@hslstats.com
 DTSTAMP:20270207T173000Z
 DTSTART:20270207T173000Z
 DTEND:20270207T190000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1719. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021491
+DESCRIPTION:HSL 2016 Major game #1719. Stats: https://hslstats.com/#2016-major/g/2021491
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021501@hslstats.ca
+UID:hsl-2021501@hslstats.com
 DTSTAMP:20270207T210000Z
 DTSTART:20270207T210000Z
 DTEND:20270207T223000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Spartan Hockey Academy 17M
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1729. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021501
+DESCRIPTION:HSL 2016 Major game #1729. Stats: https://hslstats.com/#2016-major/g/2021501
 END:VEVENT
 END:VCALENDAR

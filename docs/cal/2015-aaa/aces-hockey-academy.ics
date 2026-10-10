@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Aces Hockey Academy (2015 AAA)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019783@hslstats.ca
+UID:hsl-2019783@hslstats.com
 DTSTAMP:20260918T224500Z
 DTSTART:20260918T224500Z
 DTEND:20260919T001500Z
 SUMMARY:2015 AAA: HC Calgary Bandits 5 – Aces Hockey Academy 4 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #11. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019783
+DESCRIPTION:HSL 2015 AAA game #11. Stats: https://hslstats.com/#2015-aaa/g/2019783
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019803@hslstats.ca
+UID:hsl-2019803@hslstats.com
 DTSTAMP:20260919T140000Z
 DTSTART:20260919T140000Z
 DTEND:20260919T153000Z
 SUMMARY:2015 AAA: O2 Grizzlies 4 – Aces Hockey Academy 4 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #31. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019803
+DESCRIPTION:HSL 2015 AAA game #31. Stats: https://hslstats.com/#2015-aaa/g/2019803
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019832@hslstats.ca
+UID:hsl-2019832@hslstats.com
 DTSTAMP:20260919T191500Z
 DTSTART:20260919T191500Z
 DTEND:20260919T204500Z
 SUMMARY:2015 AAA: Aces Hockey Academy 5 – HC Calgary Bandits 2 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #60. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019832
+DESCRIPTION:HSL 2015 AAA game #60. Stats: https://hslstats.com/#2015-aaa/g/2019832
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019910@hslstats.ca
+UID:hsl-2019910@hslstats.com
 DTSTAMP:20260920T210000Z
 DTSTART:20260920T210000Z
 DTEND:20260920T223000Z
 SUMMARY:2015 AAA: Aces Hockey Academy 7 – O2 Grizzlies 1 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #138. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2019910
+DESCRIPTION:HSL 2015 AAA game #138. Stats: https://hslstats.com/#2015-aaa/g/2019910
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020036@hslstats.ca
+UID:hsl-2020036@hslstats.com
 DTSTAMP:20261009T220000Z
 DTSTART:20261009T220000Z
 DTEND:20261009T233000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 0 – Aces Hockey Academy 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #264. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020036
+DESCRIPTION:HSL 2015 AAA game #264. Stats: https://hslstats.com/#2015-aaa/g/2020036
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020074@hslstats.ca
+UID:hsl-2020074@hslstats.com
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2015 AAA: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #302. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020074
+DESCRIPTION:HSL 2015 AAA game #302. Stats: https://hslstats.com/#2015-aaa/g/2020074
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020114@hslstats.ca
+UID:hsl-2020114@hslstats.com
 DTSTAMP:20261011T140000Z
 DTSTART:20261011T140000Z
 DTEND:20261011T153000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #342. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020114
+DESCRIPTION:HSL 2015 AAA game #342. Stats: https://hslstats.com/#2015-aaa/g/2020114
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020141@hslstats.ca
+UID:hsl-2020141@hslstats.com
 DTSTAMP:20261011T191500Z
 DTSTART:20261011T191500Z
 DTEND:20261011T204500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #369. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020141
+DESCRIPTION:HSL 2015 AAA game #369. Stats: https://hslstats.com/#2015-aaa/g/2020141
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020239@hslstats.ca
+UID:hsl-2020239@hslstats.com
 DTSTAMP:20261023T221500Z
 DTSTART:20261023T221500Z
 DTEND:20261023T234500Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at Aces Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #467. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020239
+DESCRIPTION:HSL 2015 AAA game #467. Stats: https://hslstats.com/#2015-aaa/g/2020239
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020249@hslstats.ca
+UID:hsl-2020249@hslstats.com
 DTSTAMP:20261024T131500Z
 DTSTART:20261024T131500Z
 DTEND:20261024T144500Z
 SUMMARY:2015 AAA: O2 Grizzlies at Aces Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #477. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020249
+DESCRIPTION:HSL 2015 AAA game #477. Stats: https://hslstats.com/#2015-aaa/g/2020249
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020269@hslstats.ca
+UID:hsl-2020269@hslstats.com
 DTSTAMP:20261024T211500Z
 DTSTART:20261024T211500Z
 DTEND:20261024T224500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Aces Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #497. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020269
+DESCRIPTION:HSL 2015 AAA game #497. Stats: https://hslstats.com/#2015-aaa/g/2020269
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020298@hslstats.ca
+UID:hsl-2020298@hslstats.com
 DTSTAMP:20261025T194500Z
 DTSTART:20261025T194500Z
 DTEND:20261025T211500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #526. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020298
+DESCRIPTION:HSL 2015 AAA game #526. Stats: https://hslstats.com/#2015-aaa/g/2020298
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020513@hslstats.ca
+UID:hsl-2020513@hslstats.com
 DTSTAMP:20261120T234500Z
 DTSTART:20261120T234500Z
 DTEND:20261121T011500Z
 SUMMARY:2015 AAA: Spartan Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #741. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020513
+DESCRIPTION:HSL 2015 AAA game #741. Stats: https://hslstats.com/#2015-aaa/g/2020513
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020584@hslstats.ca
+UID:hsl-2020584@hslstats.com
 DTSTAMP:20261122T003000Z
 DTSTART:20261122T003000Z
 DTEND:20261122T020000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #812. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020584
+DESCRIPTION:HSL 2015 AAA game #812. Stats: https://hslstats.com/#2015-aaa/g/2020584
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020631@hslstats.ca
+UID:hsl-2020631@hslstats.com
 DTSTAMP:20261122T210000Z
 DTSTART:20261122T210000Z
 DTEND:20261122T223000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #859. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020631
+DESCRIPTION:HSL 2015 AAA game #859. Stats: https://hslstats.com/#2015-aaa/g/2020631
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020768@hslstats.ca
+UID:hsl-2020768@hslstats.com
 DTSTAMP:20261211T203000Z
 DTSTART:20261211T203000Z
 DTEND:20261211T220000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #996. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020768
+DESCRIPTION:HSL 2015 AAA game #996. Stats: https://hslstats.com/#2015-aaa/g/2020768
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020788@hslstats.ca
+UID:hsl-2020788@hslstats.com
 DTSTAMP:20261212T141500Z
 DTSTART:20261212T141500Z
 DTEND:20261212T154500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1016. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020788
+DESCRIPTION:HSL 2015 AAA game #1016. Stats: https://hslstats.com/#2015-aaa/g/2020788
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020814@hslstats.ca
+UID:hsl-2020814@hslstats.com
 DTSTAMP:20261212T200000Z
 DTSTART:20261212T200000Z
 DTEND:20261212T213000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Warriors Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1042. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020814
+DESCRIPTION:HSL 2015 AAA game #1042. Stats: https://hslstats.com/#2015-aaa/g/2020814
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020849@hslstats.ca
+UID:hsl-2020849@hslstats.com
 DTSTAMP:20261213T160000Z
 DTSTART:20261213T160000Z
 DTEND:20261213T173000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at Aces Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1077. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020849
+DESCRIPTION:HSL 2015 AAA game #1077. Stats: https://hslstats.com/#2015-aaa/g/2020849
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020994@hslstats.ca
+UID:hsl-2020994@hslstats.com
 DTSTAMP:20270102T173000Z
 DTSTART:20270102T173000Z
 DTEND:20270102T190000Z
 SUMMARY:2015 AAA: Capital City Knights at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1222. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2020994
+DESCRIPTION:HSL 2015 AAA game #1222. Stats: https://hslstats.com/#2015-aaa/g/2020994
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021073@hslstats.ca
+UID:hsl-2021073@hslstats.com
 DTSTAMP:20270108T214500Z
 DTSTART:20270108T214500Z
 DTEND:20270108T231500Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1301. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021073
+DESCRIPTION:HSL 2015 AAA game #1301. Stats: https://hslstats.com/#2015-aaa/g/2021073
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021138@hslstats.ca
+UID:hsl-2021138@hslstats.com
 DTSTAMP:20270110T174500Z
 DTSTART:20270110T174500Z
 DTEND:20270110T191500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1366. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021138
+DESCRIPTION:HSL 2015 AAA game #1366. Stats: https://hslstats.com/#2015-aaa/g/2021138
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021312@hslstats.ca
+UID:hsl-2021312@hslstats.com
 DTSTAMP:20270123T173000Z
 DTSTART:20270123T173000Z
 DTEND:20270123T190000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Warriors Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1540. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021312
+DESCRIPTION:HSL 2015 AAA game #1540. Stats: https://hslstats.com/#2015-aaa/g/2021312
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021326@hslstats.ca
+UID:hsl-2021326@hslstats.com
 DTSTAMP:20270123T210000Z
 DTSTART:20270123T210000Z
 DTEND:20270123T223000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1554. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021326
+DESCRIPTION:HSL 2015 AAA game #1554. Stats: https://hslstats.com/#2015-aaa/g/2021326
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021389@hslstats.ca
+UID:hsl-2021389@hslstats.com
 DTSTAMP:20270130T201500Z
 DTSTART:20270130T201500Z
 DTEND:20270130T214500Z
 SUMMARY:2015 AAA: Capital City Knights at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1617. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021389
+DESCRIPTION:HSL 2015 AAA game #1617. Stats: https://hslstats.com/#2015-aaa/g/2021389
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021423@hslstats.ca
+UID:hsl-2021423@hslstats.com
 DTSTAMP:20270203T224500Z
 DTSTART:20270203T224500Z
 DTEND:20270204T001500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #1651. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021423
+DESCRIPTION:HSL 2015 AAA game #1651. Stats: https://hslstats.com/#2015-aaa/g/2021423
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021451@hslstats.ca
+UID:hsl-2021451@hslstats.com
 DTSTAMP:20270206T161500Z
 DTSTART:20270206T161500Z
 DTEND:20270206T174500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1679. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021451
+DESCRIPTION:HSL 2015 AAA game #1679. Stats: https://hslstats.com/#2015-aaa/g/2021451
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021515@hslstats.ca
+UID:hsl-2021515@hslstats.com
 DTSTAMP:20270213T004500Z
 DTSTART:20270213T004500Z
 DTEND:20270213T021500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Aces Hockey Academy
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1743. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021515
+DESCRIPTION:HSL 2015 AAA game #1743. Stats: https://hslstats.com/#2015-aaa/g/2021515
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021520@hslstats.ca
+UID:hsl-2021520@hslstats.com
 DTSTAMP:20270213T143000Z
 DTSTART:20270213T143000Z
 DTEND:20270213T160000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at Aces Hockey Academy
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1748. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021520
+DESCRIPTION:HSL 2015 AAA game #1748. Stats: https://hslstats.com/#2015-aaa/g/2021520
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021546@hslstats.ca
+UID:hsl-2021546@hslstats.com
 DTSTAMP:20270213T213000Z
 DTSTART:20270213T213000Z
 DTEND:20270213T230000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1774. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021546
+DESCRIPTION:HSL 2015 AAA game #1774. Stats: https://hslstats.com/#2015-aaa/g/2021546
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021568@hslstats.ca
+UID:hsl-2021568@hslstats.com
 DTSTAMP:20270214T154500Z
 DTSTART:20270214T154500Z
 DTEND:20270214T171500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Veren Place
-DESCRIPTION:HSL 2015 AAA game #1796. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021568
+DESCRIPTION:HSL 2015 AAA game #1796. Stats: https://hslstats.com/#2015-aaa/g/2021568
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021605@hslstats.ca
+UID:hsl-2021605@hslstats.com
 DTSTAMP:20270220T013000Z
 DTSTART:20270220T013000Z
 DTEND:20270220T030000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1833. Stats: https://replay88.github.io/hsl-scoring-race/#2015-aaa/g/2021605
+DESCRIPTION:HSL 2015 AAA game #1833. Stats: https://hslstats.com/#2015-aaa/g/2021605
 END:VEVENT
 END:VCALENDAR

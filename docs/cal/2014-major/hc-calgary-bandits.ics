@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:HC Calgary Bandits (2014 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019794@hslstats.ca
+UID:hsl-2019794@hslstats.com
 DTSTAMP:20260919T004500Z
 DTSTART:20260919T004500Z
 DTEND:20260919T021500Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot 8 – HC Calgary Bandits 6 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 Major game #22. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019794
+DESCRIPTION:HSL 2014 Major game #22. Stats: https://hslstats.com/#2014-major/g/2019794
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019822@hslstats.ca
+UID:hsl-2019822@hslstats.com
 DTSTAMP:20260919T171500Z
 DTSTART:20260919T171500Z
 DTEND:20260919T184500Z
 SUMMARY:2014 Major: HC Calgary Bandits 6 – Capital City Knights 5 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 Major game #50. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019822
+DESCRIPTION:HSL 2014 Major game #50. Stats: https://hslstats.com/#2014-major/g/2019822
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019856@hslstats.ca
+UID:hsl-2019856@hslstats.com
 DTSTAMP:20260919T230000Z
 DTSTART:20260919T230000Z
 DTEND:20260920T003000Z
 SUMMARY:2014 Major: HC Calgary Bandits 2 – Bow Valley Jr. Bigfoot 5 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 Major game #84. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019856
+DESCRIPTION:HSL 2014 Major game #84. Stats: https://hslstats.com/#2014-major/g/2019856
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019891@hslstats.ca
+UID:hsl-2019891@hslstats.com
 DTSTAMP:20260920T171500Z
 DTSTART:20260920T171500Z
 DTEND:20260920T184500Z
 SUMMARY:2014 Major: Capital City Knights 2 – HC Calgary Bandits 5 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 Major game #119. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2019891
+DESCRIPTION:HSL 2014 Major game #119. Stats: https://hslstats.com/#2014-major/g/2019891
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020163@hslstats.ca
+UID:hsl-2020163@hslstats.com
 DTSTAMP:20261016T224500Z
 DTSTART:20261016T224500Z
 DTEND:20261017T001500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #391. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020163
+DESCRIPTION:HSL 2014 Major game #391. Stats: https://hslstats.com/#2014-major/g/2020163
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020184@hslstats.ca
+UID:hsl-2020184@hslstats.com
 DTSTAMP:20261017T170000Z
 DTSTART:20261017T170000Z
 DTEND:20261017T183000Z
 SUMMARY:2014 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #412. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020184
+DESCRIPTION:HSL 2014 Major game #412. Stats: https://hslstats.com/#2014-major/g/2020184
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020200@hslstats.ca
+UID:hsl-2020200@hslstats.com
 DTSTAMP:20261017T210000Z
 DTSTART:20261017T210000Z
 DTEND:20261017T223000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #428. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020200
+DESCRIPTION:HSL 2014 Major game #428. Stats: https://hslstats.com/#2014-major/g/2020200
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020210@hslstats.ca
+UID:hsl-2020210@hslstats.com
 DTSTAMP:20261018T130000Z
 DTSTART:20261018T130000Z
 DTEND:20261018T143000Z
 SUMMARY:2014 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #438. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020210
+DESCRIPTION:HSL 2014 Major game #438. Stats: https://hslstats.com/#2014-major/g/2020210
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020322@hslstats.ca
+UID:hsl-2020322@hslstats.com
 DTSTAMP:20261031T013000Z
 DTSTART:20261031T013000Z
 DTEND:20261031T030000Z
 SUMMARY:2014 Major: North Stars Academy Wild at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #550. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020322
+DESCRIPTION:HSL 2014 Major game #550. Stats: https://hslstats.com/#2014-major/g/2020322
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020339@hslstats.ca
+UID:hsl-2020339@hslstats.com
 DTSTAMP:20261031T164500Z
 DTSTART:20261031T164500Z
 DTEND:20261031T181500Z
 SUMMARY:2014 Major: HC Calgary Bandits at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #567. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020339
+DESCRIPTION:HSL 2014 Major game #567. Stats: https://hslstats.com/#2014-major/g/2020339
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020353@hslstats.ca
+UID:hsl-2020353@hslstats.com
 DTSTAMP:20261031T211500Z
 DTSTART:20261031T211500Z
 DTEND:20261031T224500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #581. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020353
+DESCRIPTION:HSL 2014 Major game #581. Stats: https://hslstats.com/#2014-major/g/2020353
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020374@hslstats.ca
+UID:hsl-2020374@hslstats.com
 DTSTAMP:20261101T190000Z
 DTSTART:20261101T190000Z
 DTEND:20261101T203000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #602. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020374
+DESCRIPTION:HSL 2014 Major game #602. Stats: https://hslstats.com/#2014-major/g/2020374
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020536@hslstats.ca
+UID:hsl-2020536@hslstats.com
 DTSTAMP:20261121T150000Z
 DTSTART:20261121T150000Z
 DTEND:20261121T163000Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #764. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020536
+DESCRIPTION:HSL 2014 Major game #764. Stats: https://hslstats.com/#2014-major/g/2020536
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020557@hslstats.ca
+UID:hsl-2020557@hslstats.com
 DTSTAMP:20261121T193000Z
 DTSTART:20261121T193000Z
 DTEND:20261121T210000Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #785. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020557
+DESCRIPTION:HSL 2014 Major game #785. Stats: https://hslstats.com/#2014-major/g/2020557
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020602@hslstats.ca
+UID:hsl-2020602@hslstats.com
 DTSTAMP:20261122T153000Z
 DTSTART:20261122T153000Z
 DTEND:20261122T170000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #830. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020602
+DESCRIPTION:HSL 2014 Major game #830. Stats: https://hslstats.com/#2014-major/g/2020602
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020627@hslstats.ca
+UID:hsl-2020627@hslstats.com
 DTSTAMP:20261122T200000Z
 DTSTART:20261122T200000Z
 DTEND:20261122T213000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #855. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020627
+DESCRIPTION:HSL 2014 Major game #855. Stats: https://hslstats.com/#2014-major/g/2020627
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020715@hslstats.ca
+UID:hsl-2020715@hslstats.com
 DTSTAMP:20261205T173000Z
 DTSTART:20261205T173000Z
 DTEND:20261205T190000Z
 SUMMARY:2014 Major: North Stars Academy Wild at HC Calgary Bandits
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2014 Major game #943. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020715
+DESCRIPTION:HSL 2014 Major game #943. Stats: https://hslstats.com/#2014-major/g/2020715
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020728@hslstats.ca
+UID:hsl-2020728@hslstats.com
 DTSTAMP:20261205T213000Z
 DTSTART:20261205T213000Z
 DTEND:20261205T230000Z
 SUMMARY:2014 Major: HC Calgary Bandits at North Stars Academy Wild
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2014 Major game #956. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020728
+DESCRIPTION:HSL 2014 Major game #956. Stats: https://hslstats.com/#2014-major/g/2020728
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020795@hslstats.ca
+UID:hsl-2020795@hslstats.com
 DTSTAMP:20261212T160000Z
 DTSTART:20261212T160000Z
 DTEND:20261212T173000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Caps Hockey Club
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1023. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020795
+DESCRIPTION:HSL 2014 Major game #1023. Stats: https://hslstats.com/#2014-major/g/2020795
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020880@hslstats.ca
+UID:hsl-2020880@hslstats.com
 DTSTAMP:20261219T001500Z
 DTSTART:20261219T001500Z
 DTEND:20261219T014500Z
 SUMMARY:2014 Major: South Sask Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2014 Major game #1108. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020880
+DESCRIPTION:HSL 2014 Major game #1108. Stats: https://hslstats.com/#2014-major/g/2020880
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020912@hslstats.ca
+UID:hsl-2020912@hslstats.com
 DTSTAMP:20261219T193000Z
 DTSTART:20261219T193000Z
 DTEND:20261219T210000Z
 SUMMARY:2014 Major: HC Calgary Bandits at South Sask Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2014 Major game #1140. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020912
+DESCRIPTION:HSL 2014 Major game #1140. Stats: https://hslstats.com/#2014-major/g/2020912
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020933@hslstats.ca
+UID:hsl-2020933@hslstats.com
 DTSTAMP:20261220T004500Z
 DTSTART:20261220T004500Z
 DTEND:20261220T021500Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2014 Major game #1161. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020933
+DESCRIPTION:HSL 2014 Major game #1161. Stats: https://hslstats.com/#2014-major/g/2020933
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020974@hslstats.ca
+UID:hsl-2020974@hslstats.com
 DTSTAMP:20261220T210000Z
 DTSTART:20261220T210000Z
 DTEND:20261220T223000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2014 Major game #1202. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2020974
+DESCRIPTION:HSL 2014 Major game #1202. Stats: https://hslstats.com/#2014-major/g/2020974
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021074@hslstats.ca
+UID:hsl-2021074@hslstats.com
 DTSTAMP:20270108T220000Z
 DTSTART:20270108T220000Z
 DTEND:20270108T233000Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at HC Calgary Bandits
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1302. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021074
+DESCRIPTION:HSL 2014 Major game #1302. Stats: https://hslstats.com/#2014-major/g/2021074
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021096@hslstats.ca
+UID:hsl-2021096@hslstats.com
 DTSTAMP:20270109T161500Z
 DTSTART:20270109T161500Z
 DTEND:20270109T174500Z
 SUMMARY:2014 Major: Caps Hockey Club at HC Calgary Bandits
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1324. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021096
+DESCRIPTION:HSL 2014 Major game #1324. Stats: https://hslstats.com/#2014-major/g/2021096
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021113@hslstats.ca
+UID:hsl-2021113@hslstats.com
 DTSTAMP:20270109T213000Z
 DTSTART:20270109T213000Z
 DTEND:20270109T230000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1341. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021113
+DESCRIPTION:HSL 2014 Major game #1341. Stats: https://hslstats.com/#2014-major/g/2021113
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021139@hslstats.ca
+UID:hsl-2021139@hslstats.com
 DTSTAMP:20270110T180000Z
 DTSTART:20270110T180000Z
 DTEND:20270110T193000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1367. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021139
+DESCRIPTION:HSL 2014 Major game #1367. Stats: https://hslstats.com/#2014-major/g/2021139
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021342@hslstats.ca
+UID:hsl-2021342@hslstats.com
 DTSTAMP:20270124T011500Z
 DTSTART:20270124T011500Z
 DTEND:20270124T024500Z
 SUMMARY:2014 Major: Caps Hockey Club at HC Calgary Bandits
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1570. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021342
+DESCRIPTION:HSL 2014 Major game #1570. Stats: https://hslstats.com/#2014-major/g/2021342
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021450@hslstats.ca
+UID:hsl-2021450@hslstats.com
 DTSTAMP:20270206T161500Z
 DTSTART:20270206T161500Z
 DTEND:20270206T174500Z
 SUMMARY:2014 Major: HC Calgary Bandits at Capital City Knights
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 Major game #1678. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021450
+DESCRIPTION:HSL 2014 Major game #1678. Stats: https://hslstats.com/#2014-major/g/2021450
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021463@hslstats.ca
+UID:hsl-2021463@hslstats.com
 DTSTAMP:20270206T201500Z
 DTSTART:20270206T201500Z
 DTEND:20270206T214500Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 Major game #1691. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021463
+DESCRIPTION:HSL 2014 Major game #1691. Stats: https://hslstats.com/#2014-major/g/2021463
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021483@hslstats.ca
+UID:hsl-2021483@hslstats.com
 DTSTAMP:20270207T144500Z
 DTSTART:20270207T144500Z
 DTEND:20270207T161500Z
 SUMMARY:2014 Major: Capital City Knights at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 Major game #1711. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021483
+DESCRIPTION:HSL 2014 Major game #1711. Stats: https://hslstats.com/#2014-major/g/2021483
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021495@hslstats.ca
+UID:hsl-2021495@hslstats.com
 DTSTAMP:20270207T190000Z
 DTSTART:20270207T190000Z
 DTEND:20270207T203000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 Major game #1723. Stats: https://replay88.github.io/hsl-scoring-race/#2014-major/g/2021495
+DESCRIPTION:HSL 2014 Major game #1723. Stats: https://hslstats.com/#2014-major/g/2021495
 END:VEVENT
 END:VCALENDAR

@@ -1,295 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HSL Scoring Race//EN
+PRODID:-//HSL Statistics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Calgary Crusaders (2016 Major)
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:hsl-2019913@hslstats.ca
+UID:hsl-2019913@hslstats.com
 DTSTAMP:20260920T214500Z
 DTSTART:20260920T214500Z
 DTEND:20260920T231500Z
 SUMMARY:2016 Major: O2 Grizzlies 8 – Calgary Crusaders 0 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #141. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019913
+DESCRIPTION:HSL 2016 Major game #141. Stats: https://hslstats.com/#2016-major/g/2019913
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019943@hslstats.ca
+UID:hsl-2019943@hslstats.com
 DTSTAMP:20260926T181500Z
 DTSTART:20260926T181500Z
 DTEND:20260926T194500Z
 SUMMARY:2016 Major: Calgary Crusaders 6 – Aces Hockey Academy 11 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #171. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019943
+DESCRIPTION:HSL 2016 Major game #171. Stats: https://hslstats.com/#2016-major/g/2019943
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019970@hslstats.ca
+UID:hsl-2019970@hslstats.com
 DTSTAMP:20260927T154500Z
 DTSTART:20260927T154500Z
 DTEND:20260927T171500Z
 SUMMARY:2016 Major: Aces Hockey Academy 6 – Calgary Crusaders 2 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #198. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2019970
+DESCRIPTION:HSL 2016 Major game #198. Stats: https://hslstats.com/#2016-major/g/2019970
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020023@hslstats.ca
+UID:hsl-2020023@hslstats.com
 DTSTAMP:20261004T154500Z
 DTSTART:20261004T154500Z
 DTEND:20261004T171500Z
 SUMMARY:2016 Major: Calgary Crusaders 1 – O2 Grizzlies 10 (Final)
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #251. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020023
+DESCRIPTION:HSL 2016 Major game #251. Stats: https://hslstats.com/#2016-major/g/2020023
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020042@hslstats.ca
+UID:hsl-2020042@hslstats.com
 DTSTAMP:20261009T230000Z
 DTSTART:20261009T230000Z
 DTEND:20261010T003000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) 0 – Calgary Crusaders 11 (Final)
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #270. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020042
+DESCRIPTION:HSL 2016 Major game #270. Stats: https://hslstats.com/#2016-major/g/2020042
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020076@hslstats.ca
+UID:hsl-2020076@hslstats.com
 DTSTAMP:20261010T173000Z
 DTSTART:20261010T173000Z
 DTEND:20261010T190000Z
 SUMMARY:2016 Major: Queen City Young Guns at Calgary Crusaders
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #304. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020076
+DESCRIPTION:HSL 2016 Major game #304. Stats: https://hslstats.com/#2016-major/g/2020076
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020102@hslstats.ca
+UID:hsl-2020102@hslstats.com
 DTSTAMP:20261010T224500Z
 DTSTART:20261010T224500Z
 DTEND:20261011T001500Z
 SUMMARY:2016 Major: Calgary Crusaders at Warriors Hockey Academy (Sask)
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #330. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020102
+DESCRIPTION:HSL 2016 Major game #330. Stats: https://hslstats.com/#2016-major/g/2020102
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020122@hslstats.ca
+UID:hsl-2020122@hslstats.com
 DTSTAMP:20261011T150000Z
 DTSTART:20261011T150000Z
 DTEND:20261011T163000Z
 SUMMARY:2016 Major: Calgary Crusaders at Queen City Young Guns
 LOCATION:Kindersley West Central Events Centre
-DESCRIPTION:HSL 2016 Major game #350. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020122
+DESCRIPTION:HSL 2016 Major game #350. Stats: https://hslstats.com/#2016-major/g/2020122
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020237@hslstats.ca
+UID:hsl-2020237@hslstats.com
 DTSTAMP:20261023T201500Z
 DTSTART:20261023T201500Z
 DTEND:20261023T214500Z
 SUMMARY:2016 Major: Caps Hockey Club at Calgary Crusaders
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #465. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020237
+DESCRIPTION:HSL 2016 Major game #465. Stats: https://hslstats.com/#2016-major/g/2020237
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020251@hslstats.ca
+UID:hsl-2020251@hslstats.com
 DTSTAMP:20261024T134500Z
 DTSTART:20261024T134500Z
 DTEND:20261024T151500Z
 SUMMARY:2016 Major: Calgary Crusaders at Caps Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Major game #479. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020251
+DESCRIPTION:HSL 2016 Major game #479. Stats: https://hslstats.com/#2016-major/g/2020251
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020267@hslstats.ca
+UID:hsl-2020267@hslstats.com
 DTSTAMP:20261024T210000Z
 DTSTART:20261024T210000Z
 DTEND:20261024T223000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Calgary Crusaders
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #495. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020267
+DESCRIPTION:HSL 2016 Major game #495. Stats: https://hslstats.com/#2016-major/g/2020267
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020301@hslstats.ca
+UID:hsl-2020301@hslstats.com
 DTSTAMP:20261025T210000Z
 DTSTART:20261025T210000Z
 DTEND:20261025T223000Z
 SUMMARY:2016 Major: Calgary Crusaders at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #529. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020301
+DESCRIPTION:HSL 2016 Major game #529. Stats: https://hslstats.com/#2016-major/g/2020301
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020535@hslstats.ca
+UID:hsl-2020535@hslstats.com
 DTSTAMP:20261121T141500Z
 DTSTART:20261121T141500Z
 DTEND:20261121T154500Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Major game #763. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020535
+DESCRIPTION:HSL 2016 Major game #763. Stats: https://hslstats.com/#2016-major/g/2020535
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020577@hslstats.ca
+UID:hsl-2020577@hslstats.com
 DTSTAMP:20261121T233000Z
 DTSTART:20261121T233000Z
 DTEND:20261122T010000Z
 SUMMARY:2016 Major: Young Kings Hockey at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Major game #805. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020577
+DESCRIPTION:HSL 2016 Major game #805. Stats: https://hslstats.com/#2016-major/g/2020577
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020616@hslstats.ca
+UID:hsl-2020616@hslstats.com
 DTSTAMP:20261122T174500Z
 DTSTART:20261122T174500Z
 DTEND:20261122T191500Z
 SUMMARY:2016 Major: Calgary Crusaders at Young Kings Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Major game #844. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020616
+DESCRIPTION:HSL 2016 Major game #844. Stats: https://hslstats.com/#2016-major/g/2020616
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020771@hslstats.ca
+UID:hsl-2020771@hslstats.com
 DTSTAMP:20261211T220000Z
 DTSTART:20261211T220000Z
 DTEND:20261211T233000Z
 SUMMARY:2016 Major: Northern Hockey Club at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #999. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020771
+DESCRIPTION:HSL 2016 Major game #999. Stats: https://hslstats.com/#2016-major/g/2020771
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020809@hslstats.ca
+UID:hsl-2020809@hslstats.com
 DTSTAMP:20261212T190000Z
 DTSTART:20261212T190000Z
 DTEND:20261212T203000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1037. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020809
+DESCRIPTION:HSL 2016 Major game #1037. Stats: https://hslstats.com/#2016-major/g/2020809
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020833@hslstats.ca
+UID:hsl-2020833@hslstats.com
 DTSTAMP:20261213T001500Z
 DTSTART:20261213T001500Z
 DTEND:20261213T014500Z
 SUMMARY:2016 Major: Calgary Crusaders at Northern Hockey Club
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1061. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020833
+DESCRIPTION:HSL 2016 Major game #1061. Stats: https://hslstats.com/#2016-major/g/2020833
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020846@hslstats.ca
+UID:hsl-2020846@hslstats.com
 DTSTAMP:20261213T154500Z
 DTSTART:20261213T154500Z
 DTEND:20261213T171500Z
 SUMMARY:2016 Major: Calgary Crusaders at Rebels Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1074. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020846
+DESCRIPTION:HSL 2016 Major game #1074. Stats: https://hslstats.com/#2016-major/g/2020846
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020892@hslstats.ca
+UID:hsl-2020892@hslstats.com
 DTSTAMP:20261219T143000Z
 DTSTART:20261219T143000Z
 DTEND:20261219T160000Z
 SUMMARY:2016 Major: Calgary Crusaders at Sauce Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1120. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2020892
+DESCRIPTION:HSL 2016 Major game #1120. Stats: https://hslstats.com/#2016-major/g/2020892
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021203@hslstats.ca
+UID:hsl-2021203@hslstats.com
 DTSTAMP:20270116T193000Z
 DTSTART:20270116T193000Z
 DTEND:20270116T210000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1431. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021203
+DESCRIPTION:HSL 2016 Major game #1431. Stats: https://hslstats.com/#2016-major/g/2021203
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021223@hslstats.ca
+UID:hsl-2021223@hslstats.com
 DTSTAMP:20270116T230000Z
 DTSTART:20270116T230000Z
 DTEND:20270117T003000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1451. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021223
+DESCRIPTION:HSL 2016 Major game #1451. Stats: https://hslstats.com/#2016-major/g/2021223
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021252@hslstats.ca
+UID:hsl-2021252@hslstats.com
 DTSTAMP:20270117T154500Z
 DTSTART:20270117T154500Z
 DTEND:20270117T171500Z
 SUMMARY:2016 Major: Calgary Crusaders at Spartan Hockey Academy 17M
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1480. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021252
+DESCRIPTION:HSL 2016 Major game #1480. Stats: https://hslstats.com/#2016-major/g/2021252
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021267@hslstats.ca
+UID:hsl-2021267@hslstats.com
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
 DTEND:20270117T204500Z
 SUMMARY:2016 Major: Calgary Crusaders at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1495. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021267
+DESCRIPTION:HSL 2016 Major game #1495. Stats: https://hslstats.com/#2016-major/g/2021267
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021524@hslstats.ca
+UID:hsl-2021524@hslstats.com
 DTSTAMP:20270213T160000Z
 DTSTART:20270213T160000Z
 DTEND:20270213T173000Z
 SUMMARY:2016 Major: MOB Hockey at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1752. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021524
+DESCRIPTION:HSL 2016 Major game #1752. Stats: https://hslstats.com/#2016-major/g/2021524
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021537@hslstats.ca
+UID:hsl-2021537@hslstats.com
 DTSTAMP:20270213T193000Z
 DTSTART:20270213T193000Z
 DTEND:20270213T210000Z
 SUMMARY:2016 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1765. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021537
+DESCRIPTION:HSL 2016 Major game #1765. Stats: https://hslstats.com/#2016-major/g/2021537
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021562@hslstats.ca
+UID:hsl-2021562@hslstats.com
 DTSTAMP:20270214T143000Z
 DTSTART:20270214T143000Z
 DTEND:20270214T160000Z
 SUMMARY:2016 Major: Calgary Crusaders at MOB Hockey
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1790. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021562
+DESCRIPTION:HSL 2016 Major game #1790. Stats: https://hslstats.com/#2016-major/g/2021562
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021575@hslstats.ca
+UID:hsl-2021575@hslstats.com
 DTSTAMP:20270214T180000Z
 DTSTART:20270214T180000Z
 DTEND:20270214T193000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1803. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021575
+DESCRIPTION:HSL 2016 Major game #1803. Stats: https://hslstats.com/#2016-major/g/2021575
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021597@hslstats.ca
+UID:hsl-2021597@hslstats.com
 DTSTAMP:20270219T233000Z
 DTSTART:20270219T233000Z
 DTEND:20270220T010000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1825. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021597
+DESCRIPTION:HSL 2016 Major game #1825. Stats: https://hslstats.com/#2016-major/g/2021597
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021625@hslstats.ca
+UID:hsl-2021625@hslstats.com
 DTSTAMP:20270220T174500Z
 DTSTART:20270220T174500Z
 DTEND:20270220T191500Z
 SUMMARY:2016 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1853. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021625
+DESCRIPTION:HSL 2016 Major game #1853. Stats: https://hslstats.com/#2016-major/g/2021625
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021642@hslstats.ca
+UID:hsl-2021642@hslstats.com
 DTSTAMP:20270220T211500Z
 DTSTART:20270220T211500Z
 DTEND:20270220T224500Z
 SUMMARY:2016 Major: O2 Grizzlies at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1870. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021642
+DESCRIPTION:HSL 2016 Major game #1870. Stats: https://hslstats.com/#2016-major/g/2021642
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021686@hslstats.ca
+UID:hsl-2021686@hslstats.com
 DTSTAMP:20270221T201500Z
 DTSTART:20270221T201500Z
 DTEND:20270221T214500Z
 SUMMARY:2016 Major: Calgary Crusaders at Spartan Hockey Academy 17M
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2016 Major game #1914. Stats: https://replay88.github.io/hsl-scoring-race/#2016-major/g/2021686
+DESCRIPTION:HSL 2016 Major game #1914. Stats: https://hslstats.com/#2016-major/g/2021686
 END:VEVENT
 END:VCALENDAR
