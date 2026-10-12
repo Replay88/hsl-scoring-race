@@ -806,15 +806,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2019 Major game #1131. Stats: https://hslstats.com/#2019-major/g/2020903
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020906@hslstats.com
-DTSTAMP:20261219T180000Z
-DTSTART:20261219T180000Z
-DTEND:20261219T193000Z
-SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
-LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1134. Stats: https://hslstats.com/#2019-major/g/2020906
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020907@hslstats.com
 DTSTAMP:20261219T180000Z
 DTSTART:20261219T180000Z
@@ -822,6 +813,15 @@ DTEND:20261219T193000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at Rebels Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2019 Major game #1135. Stats: https://hslstats.com/#2019-major/g/2020907
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020906@hslstats.com
+DTSTAMP:20261219T180000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T193000Z
+SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1134. Stats: https://hslstats.com/#2019-major/g/2020906
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020913@hslstats.com
