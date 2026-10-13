@@ -11,7 +11,7 @@ DTSTART:20260918T213000Z
 DTEND:20260918T230000Z
 SUMMARY:2018 Minor: YYC Jays 8 – HC Calgary Bandits 2 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #4. Stats: https://hslstats.com/#2018-minor/g/2019776
+DESCRIPTION:HSL 2018 Minor game #4. Stats: https://hslstats.com/2018-minor/games/2019776/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019793@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T004500Z
 DTEND:20260919T021500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy 1 – Northern Hockey Club 21 (Final)
 LOCATION:Cenovus Energy Hub - Coop Community Ice
-DESCRIPTION:HSL 2018 Minor game #21. Stats: https://hslstats.com/#2018-minor/g/2019793
+DESCRIPTION:HSL 2018 Minor game #21. Stats: https://hslstats.com/2018-minor/games/2019793/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019807@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260919T144500Z
 DTEND:20260919T161500Z
 SUMMARY:2018 Minor: HC Calgary Bandits 11 – Spartan Hockey Academy 1 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #35. Stats: https://hslstats.com/#2018-minor/g/2019807
+DESCRIPTION:HSL 2018 Minor game #35. Stats: https://hslstats.com/2018-minor/games/2019807/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019812@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260919T154500Z
 DTEND:20260919T171500Z
 SUMMARY:2018 Minor: Northern Hockey Club 10 – Wolverines Hockey Academy 2 (Final)
 LOCATION:Cenovus Energy Hub - Coop Community Ice
-DESCRIPTION:HSL 2018 Minor game #40. Stats: https://hslstats.com/#2018-minor/g/2019812
+DESCRIPTION:HSL 2018 Minor game #40. Stats: https://hslstats.com/2018-minor/games/2019812/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019819@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20260919T163000Z
 DTEND:20260919T180000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot 5 – South Sask Academy 8 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #47. Stats: https://hslstats.com/#2018-minor/g/2019819
+DESCRIPTION:HSL 2018 Minor game #47. Stats: https://hslstats.com/2018-minor/games/2019819/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019831@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20260919T191500Z
 DTEND:20260919T204500Z
 SUMMARY:2018 Minor: Northern Hockey Club 18 – Riggers Hockey Academy 1 (Final)
 LOCATION:Cenovus Energy Hub - Coop Community Ice
-DESCRIPTION:HSL 2018 Minor game #59. Stats: https://hslstats.com/#2018-minor/g/2019831
+DESCRIPTION:HSL 2018 Minor game #59. Stats: https://hslstats.com/2018-minor/games/2019831/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019838@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20260919T200000Z
 DTEND:20260919T213000Z
 SUMMARY:2018 Minor: YYC Jays 18 – Bow Valley Jr. Bigfoot 0 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #66. Stats: https://hslstats.com/#2018-minor/g/2019838
+DESCRIPTION:HSL 2018 Minor game #66. Stats: https://hslstats.com/2018-minor/games/2019838/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019849@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20260919T214500Z
 DTEND:20260919T231500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy 5 – South Sask Academy 4 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #77. Stats: https://hslstats.com/#2018-minor/g/2019849
+DESCRIPTION:HSL 2018 Minor game #77. Stats: https://hslstats.com/2018-minor/games/2019849/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019859@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20260919T233000Z
 DTEND:20260920T010000Z
 SUMMARY:2018 Minor: HC Calgary Bandits 4 – YYC Jays 5 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #87. Stats: https://hslstats.com/#2018-minor/g/2019859
+DESCRIPTION:HSL 2018 Minor game #87. Stats: https://hslstats.com/2018-minor/games/2019859/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019830@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20260920T130000Z
 DTEND:20260920T143000Z
 SUMMARY:2018 Minor: South Sask Academy 4 – Bow Valley Jr. Bigfoot 10 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #58. Stats: https://hslstats.com/#2018-minor/g/2019830
+DESCRIPTION:HSL 2018 Minor game #58. Stats: https://hslstats.com/2018-minor/games/2019830/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019872@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20260920T140000Z
 DTEND:20260920T153000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy 4 – Northern Hockey Club 7 (Final)
 LOCATION:Cenovus Energy Hub - Coop Community Ice
-DESCRIPTION:HSL 2018 Minor game #100. Stats: https://hslstats.com/#2018-minor/g/2019872
+DESCRIPTION:HSL 2018 Minor game #100. Stats: https://hslstats.com/2018-minor/games/2019872/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019877@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20260920T144500Z
 DTEND:20260920T161500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy 1 – HC Calgary Bandits 7 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #105. Stats: https://hslstats.com/#2018-minor/g/2019877
+DESCRIPTION:HSL 2018 Minor game #105. Stats: https://hslstats.com/2018-minor/games/2019877/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019898@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20260920T181500Z
 DTEND:20260920T194500Z
 SUMMARY:2018 Minor: South Sask Academy 8 – Spartan Hockey Academy 5 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #126. Stats: https://hslstats.com/#2018-minor/g/2019898
+DESCRIPTION:HSL 2018 Minor game #126. Stats: https://hslstats.com/2018-minor/games/2019898/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019907@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20260920T200000Z
 DTEND:20260920T213000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot 0 – YYC Jays 13 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #135. Stats: https://hslstats.com/#2018-minor/g/2019907
+DESCRIPTION:HSL 2018 Minor game #135. Stats: https://hslstats.com/2018-minor/games/2019907/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019973@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20260927T163000Z
 DTEND:20260927T180000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy 18 – Riggers Hockey Academy 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Minor game #201. Stats: https://hslstats.com/#2018-minor/g/2019973
+DESCRIPTION:HSL 2018 Minor game #201. Stats: https://hslstats.com/2018-minor/games/2019973/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020027@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261009T140000Z
 DTEND:20261009T153000Z
 SUMMARY:2018 Minor: Northern Hockey Club 11 – Wolverines Hockey Academy 1 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #255. Stats: https://hslstats.com/#2018-minor/g/2020027
+DESCRIPTION:HSL 2018 Minor game #255. Stats: https://hslstats.com/2018-minor/games/2020027/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020033@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261009T210000Z
 DTEND:20261009T223000Z
 SUMMARY:2018 Minor: Coast 2 Coast 12 – Northern Hockey Club 10 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #261. Stats: https://hslstats.com/#2018-minor/g/2020033
+DESCRIPTION:HSL 2018 Minor game #261. Stats: https://hslstats.com/2018-minor/games/2020033/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020048@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261010T003000Z
 DTEND:20261010T020000Z
 SUMMARY:2018 Minor: Coast 2 Coast 13 – South Sask Academy 7 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #276. Stats: https://hslstats.com/#2018-minor/g/2020048
+DESCRIPTION:HSL 2018 Minor game #276. Stats: https://hslstats.com/2018-minor/games/2020048/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020060@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261010T144500Z
 DTEND:20261010T161500Z
 SUMMARY:2018 Minor: South Sask Academy 3 – Northern Hockey Club 10 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #288. Stats: https://hslstats.com/#2018-minor/g/2020060
+DESCRIPTION:HSL 2018 Minor game #288. Stats: https://hslstats.com/2018-minor/games/2020060/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020081@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261010T181500Z
 DTEND:20261010T194500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy 3 – Coast 2 Coast 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #309. Stats: https://hslstats.com/#2018-minor/g/2020081
+DESCRIPTION:HSL 2018 Minor game #309. Stats: https://hslstats.com/2018-minor/games/2020081/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020098@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20261010T214500Z
 DTEND:20261010T231500Z
 SUMMARY:2018 Minor: Northern Hockey Club 12 – Coast 2 Coast 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #326. Stats: https://hslstats.com/#2018-minor/g/2020098
+DESCRIPTION:HSL 2018 Minor game #326. Stats: https://hslstats.com/2018-minor/games/2020098/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020105@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20261010T230000Z
 DTEND:20261011T003000Z
 SUMMARY:2018 Minor: South Sask Academy 9 – Riggers Hockey Academy 0 (Final)
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Minor game #333. Stats: https://hslstats.com/#2018-minor/g/2020105
+DESCRIPTION:HSL 2018 Minor game #333. Stats: https://hslstats.com/2018-minor/games/2020105/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020112@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20261011T130000Z
 DTEND:20261011T143000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy 1 – South Sask Academy 18 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #340. Stats: https://hslstats.com/#2018-minor/g/2020112
+DESCRIPTION:HSL 2018 Minor game #340. Stats: https://hslstats.com/2018-minor/games/2020112/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020130@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20261011T163000Z
 DTEND:20261011T180000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy 5 – Coast 2 Coast 19 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #358. Stats: https://hslstats.com/#2018-minor/g/2020130
+DESCRIPTION:HSL 2018 Minor game #358. Stats: https://hslstats.com/2018-minor/games/2020130/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020137@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20261011T180000Z
 DTEND:20261011T193000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot 1 – HC Calgary Bandits 7 (Final)
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #365. Stats: https://hslstats.com/#2018-minor/g/2020137
+DESCRIPTION:HSL 2018 Minor game #365. Stats: https://hslstats.com/2018-minor/games/2020137/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020146@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20261011T200000Z
 DTEND:20261011T213000Z
 SUMMARY:2018 Minor: Coast 2 Coast 7 – Wolverines Hockey Academy 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #374. Stats: https://hslstats.com/#2018-minor/g/2020146
+DESCRIPTION:HSL 2018 Minor game #374. Stats: https://hslstats.com/2018-minor/games/2020146/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020155@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20261014T224500Z
 DTEND:20261015T001500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #383. Stats: https://hslstats.com/#2018-minor/g/2020155
+DESCRIPTION:HSL 2018 Minor game #383. Stats: https://hslstats.com/2018-minor/games/2020155/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020158@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20261016T210000Z
 DTEND:20261016T223000Z
 SUMMARY:2018 Minor: YYC Jays at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #386. Stats: https://hslstats.com/#2018-minor/g/2020158
+DESCRIPTION:HSL 2018 Minor game #386. Stats: https://hslstats.com/2018-minor/games/2020158/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020176@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20261017T151500Z
 DTEND:20261017T164500Z
 SUMMARY:2018 Minor: YYC Jays at HC Calgary Bandits
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #404. Stats: https://hslstats.com/#2018-minor/g/2020176
+DESCRIPTION:HSL 2018 Minor game #404. Stats: https://hslstats.com/2018-minor/games/2020176/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020192@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20261017T191500Z
 DTEND:20261017T204500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #420. Stats: https://hslstats.com/#2018-minor/g/2020192
+DESCRIPTION:HSL 2018 Minor game #420. Stats: https://hslstats.com/2018-minor/games/2020192/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020206@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20261017T231500Z
 DTEND:20261018T004500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #434. Stats: https://hslstats.com/#2018-minor/g/2020206
+DESCRIPTION:HSL 2018 Minor game #434. Stats: https://hslstats.com/2018-minor/games/2020206/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020217@hslstats.com
@@ -290,7 +290,7 @@ DTSTART:20261018T151500Z
 DTEND:20261018T164500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #445. Stats: https://hslstats.com/#2018-minor/g/2020217
+DESCRIPTION:HSL 2018 Minor game #445. Stats: https://hslstats.com/2018-minor/games/2020217/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020232@hslstats.com
@@ -299,7 +299,7 @@ DTSTART:20261018T191500Z
 DTEND:20261018T204500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #460. Stats: https://hslstats.com/#2018-minor/g/2020232
+DESCRIPTION:HSL 2018 Minor game #460. Stats: https://hslstats.com/2018-minor/games/2020232/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020236@hslstats.com
@@ -308,7 +308,7 @@ DTSTART:20261018T210000Z
 DTEND:20261018T223000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #464. Stats: https://hslstats.com/#2018-minor/g/2020236
+DESCRIPTION:HSL 2018 Minor game #464. Stats: https://hslstats.com/2018-minor/games/2020236/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020248@hslstats.com
@@ -317,7 +317,7 @@ DTSTART:20261024T021500Z
 DTEND:20261024T034500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2018 Minor game #476. Stats: https://hslstats.com/#2018-minor/g/2020248
+DESCRIPTION:HSL 2018 Minor game #476. Stats: https://hslstats.com/2018-minor/games/2020248/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020388@hslstats.com
@@ -326,7 +326,7 @@ DTSTART:20261106T210000Z
 DTEND:20261106T223000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Northern Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #616. Stats: https://hslstats.com/#2018-minor/g/2020388
+DESCRIPTION:HSL 2018 Minor game #616. Stats: https://hslstats.com/2018-minor/games/2020388/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020390@hslstats.com
@@ -335,7 +335,7 @@ DTSTART:20261106T211500Z
 DTEND:20261106T224500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Coast 2 Coast
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #618. Stats: https://hslstats.com/#2018-minor/g/2020390
+DESCRIPTION:HSL 2018 Minor game #618. Stats: https://hslstats.com/2018-minor/games/2020390/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020392@hslstats.com
@@ -344,7 +344,7 @@ DTSTART:20261106T224500Z
 DTEND:20261107T001500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at South Sask Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #620. Stats: https://hslstats.com/#2018-minor/g/2020392
+DESCRIPTION:HSL 2018 Minor game #620. Stats: https://hslstats.com/2018-minor/games/2020392/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020398@hslstats.com
@@ -353,7 +353,7 @@ DTSTART:20261107T010000Z
 DTEND:20261107T023000Z
 SUMMARY:2018 Minor: YYC Jays at Coast 2 Coast
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #626. Stats: https://hslstats.com/#2018-minor/g/2020398
+DESCRIPTION:HSL 2018 Minor game #626. Stats: https://hslstats.com/2018-minor/games/2020398/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020406@hslstats.com
@@ -362,7 +362,7 @@ DTSTART:20261107T154500Z
 DTEND:20261107T171500Z
 SUMMARY:2018 Minor: Northern Hockey Club at South Sask Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #634. Stats: https://hslstats.com/#2018-minor/g/2020406
+DESCRIPTION:HSL 2018 Minor game #634. Stats: https://hslstats.com/2018-minor/games/2020406/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020407@hslstats.com
@@ -371,7 +371,7 @@ DTSTART:20261107T160000Z
 DTEND:20261107T173000Z
 SUMMARY:2018 Minor: YYC Jays at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #635. Stats: https://hslstats.com/#2018-minor/g/2020407
+DESCRIPTION:HSL 2018 Minor game #635. Stats: https://hslstats.com/2018-minor/games/2020407/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020408@hslstats.com
@@ -380,7 +380,7 @@ DTSTART:20261107T161500Z
 DTEND:20261107T174500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Coast 2 Coast
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #636. Stats: https://hslstats.com/#2018-minor/g/2020408
+DESCRIPTION:HSL 2018 Minor game #636. Stats: https://hslstats.com/2018-minor/games/2020408/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020411@hslstats.com
@@ -389,7 +389,7 @@ DTSTART:20261107T173000Z
 DTEND:20261107T190000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #639. Stats: https://hslstats.com/#2018-minor/g/2020411
+DESCRIPTION:HSL 2018 Minor game #639. Stats: https://hslstats.com/2018-minor/games/2020411/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020418@hslstats.com
@@ -398,7 +398,7 @@ DTSTART:20261107T193000Z
 DTEND:20261107T210000Z
 SUMMARY:2018 Minor: YYC Jays at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #646. Stats: https://hslstats.com/#2018-minor/g/2020418
+DESCRIPTION:HSL 2018 Minor game #646. Stats: https://hslstats.com/2018-minor/games/2020418/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020419@hslstats.com
@@ -407,7 +407,7 @@ DTSTART:20261107T194500Z
 DTEND:20261107T211500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #647. Stats: https://hslstats.com/#2018-minor/g/2020419
+DESCRIPTION:HSL 2018 Minor game #647. Stats: https://hslstats.com/2018-minor/games/2020419/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020422@hslstats.com
@@ -416,7 +416,7 @@ DTSTART:20261107T210000Z
 DTEND:20261107T223000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #650. Stats: https://hslstats.com/#2018-minor/g/2020422
+DESCRIPTION:HSL 2018 Minor game #650. Stats: https://hslstats.com/2018-minor/games/2020422/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020427@hslstats.com
@@ -425,7 +425,7 @@ DTSTART:20261107T224500Z
 DTEND:20261108T001500Z
 SUMMARY:2018 Minor: South Sask Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #655. Stats: https://hslstats.com/#2018-minor/g/2020427
+DESCRIPTION:HSL 2018 Minor game #655. Stats: https://hslstats.com/2018-minor/games/2020427/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020428@hslstats.com
@@ -434,7 +434,7 @@ DTSTART:20261107T230000Z
 DTEND:20261108T003000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Coast 2 Coast
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #656. Stats: https://hslstats.com/#2018-minor/g/2020428
+DESCRIPTION:HSL 2018 Minor game #656. Stats: https://hslstats.com/2018-minor/games/2020428/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020440@hslstats.com
@@ -443,7 +443,7 @@ DTSTART:20261108T154500Z
 DTEND:20261108T171500Z
 SUMMARY:2018 Minor: South Sask Academy at Northern Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #668. Stats: https://hslstats.com/#2018-minor/g/2020440
+DESCRIPTION:HSL 2018 Minor game #668. Stats: https://hslstats.com/2018-minor/games/2020440/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020442@hslstats.com
@@ -452,7 +452,7 @@ DTSTART:20261108T160000Z
 DTEND:20261108T173000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #670. Stats: https://hslstats.com/#2018-minor/g/2020442
+DESCRIPTION:HSL 2018 Minor game #670. Stats: https://hslstats.com/2018-minor/games/2020442/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020444@hslstats.com
@@ -461,7 +461,7 @@ DTSTART:20261108T161500Z
 DTEND:20261108T174500Z
 SUMMARY:2018 Minor: Coast 2 Coast at YYC Jays
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #672. Stats: https://hslstats.com/#2018-minor/g/2020444
+DESCRIPTION:HSL 2018 Minor game #672. Stats: https://hslstats.com/2018-minor/games/2020444/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020450@hslstats.com
@@ -470,7 +470,7 @@ DTSTART:20261108T191500Z
 DTEND:20261108T204500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #678. Stats: https://hslstats.com/#2018-minor/g/2020450
+DESCRIPTION:HSL 2018 Minor game #678. Stats: https://hslstats.com/2018-minor/games/2020450/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020458@hslstats.com
@@ -479,7 +479,7 @@ DTSTART:20261108T213000Z
 DTEND:20261108T230000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #686. Stats: https://hslstats.com/#2018-minor/g/2020458
+DESCRIPTION:HSL 2018 Minor game #686. Stats: https://hslstats.com/2018-minor/games/2020458/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020496@hslstats.com
@@ -488,7 +488,7 @@ DTSTART:20261115T213000Z
 DTEND:20261115T230000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Minor game #724. Stats: https://hslstats.com/#2018-minor/g/2020496
+DESCRIPTION:HSL 2018 Minor game #724. Stats: https://hslstats.com/2018-minor/games/2020496/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020509@hslstats.com
@@ -497,7 +497,7 @@ DTSTART:20261120T230000Z
 DTEND:20261121T003000Z
 SUMMARY:2018 Minor: South Sask Academy at YYC Jays
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/#2018-minor/g/2020509
+DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/2018-minor/games/2020509/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020511@hslstats.com
@@ -506,7 +506,7 @@ DTSTART:20261120T231500Z
 DTEND:20261121T004500Z
 SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/#2018-minor/g/2020511
+DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020518@hslstats.com
@@ -515,7 +515,7 @@ DTSTART:20261121T004500Z
 DTEND:20261121T021500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/#2018-minor/g/2020518
+DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020529@hslstats.com
@@ -524,7 +524,7 @@ DTSTART:20261121T140000Z
 DTEND:20261121T153000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/#2018-minor/g/2020529
+DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/2018-minor/games/2020529/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020546@hslstats.com
@@ -533,7 +533,7 @@ DTSTART:20261121T161500Z
 DTEND:20261121T174500Z
 SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/#2018-minor/g/2020546
+DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/2018-minor/games/2020546/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020550@hslstats.com
@@ -542,7 +542,7 @@ DTSTART:20261121T173000Z
 DTEND:20261121T190000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/#2018-minor/g/2020550
+DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/2018-minor/games/2020550/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020563@hslstats.com
@@ -551,7 +551,7 @@ DTSTART:20261121T201500Z
 DTEND:20261121T214500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #791. Stats: https://hslstats.com/#2018-minor/g/2020563
+DESCRIPTION:HSL 2018 Minor game #791. Stats: https://hslstats.com/2018-minor/games/2020563/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020565@hslstats.com
@@ -560,7 +560,7 @@ DTSTART:20261121T210000Z
 DTEND:20261121T223000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/#2018-minor/g/2020565
+DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020582@hslstats.com
@@ -569,7 +569,7 @@ DTSTART:20261122T001500Z
 DTEND:20261122T014500Z
 SUMMARY:2018 Minor: South Sask Academy at HC Calgary Bandits
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #810. Stats: https://hslstats.com/#2018-minor/g/2020582
+DESCRIPTION:HSL 2018 Minor game #810. Stats: https://hslstats.com/2018-minor/games/2020582/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020583@hslstats.com
@@ -578,7 +578,7 @@ DTSTART:20261122T003000Z
 DTEND:20261122T020000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/#2018-minor/g/2020583
+DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020593@hslstats.com
@@ -587,7 +587,7 @@ DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/#2018-minor/g/2020593
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020594@hslstats.com
@@ -596,7 +596,7 @@ DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/#2018-minor/g/2020594
+DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020605@hslstats.com
@@ -605,7 +605,7 @@ DTSTART:20261122T154500Z
 DTEND:20261122T171500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/#2018-minor/g/2020605
+DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020618@hslstats.com
@@ -614,7 +614,7 @@ DTSTART:20261122T180000Z
 DTEND:20261122T193000Z
 SUMMARY:2018 Minor: South Sask Academy at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #846. Stats: https://hslstats.com/#2018-minor/g/2020618
+DESCRIPTION:HSL 2018 Minor game #846. Stats: https://hslstats.com/2018-minor/games/2020618/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020622@hslstats.com
@@ -623,7 +623,7 @@ DTSTART:20261122T191500Z
 DTEND:20261122T204500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/#2018-minor/g/2020622
+DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/2018-minor/games/2020622/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020692@hslstats.com
@@ -632,7 +632,7 @@ DTSTART:20261204T210000Z
 DTEND:20261204T223000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Northern Hockey Club
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #920. Stats: https://hslstats.com/#2018-minor/g/2020692
+DESCRIPTION:HSL 2018 Minor game #920. Stats: https://hslstats.com/2018-minor/games/2020692/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020696@hslstats.com
@@ -641,7 +641,7 @@ DTSTART:20261204T224500Z
 DTEND:20261205T001500Z
 SUMMARY:2018 Minor: YYC Jays at South Sask Academy
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #924. Stats: https://hslstats.com/#2018-minor/g/2020696
+DESCRIPTION:HSL 2018 Minor game #924. Stats: https://hslstats.com/2018-minor/games/2020696/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020701@hslstats.com
@@ -650,7 +650,7 @@ DTSTART:20261205T003000Z
 DTEND:20261205T020000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Coast 2 Coast
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #929. Stats: https://hslstats.com/#2018-minor/g/2020701
+DESCRIPTION:HSL 2018 Minor game #929. Stats: https://hslstats.com/2018-minor/games/2020701/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020705@hslstats.com
@@ -659,7 +659,7 @@ DTSTART:20261205T130000Z
 DTEND:20261205T143000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #933. Stats: https://hslstats.com/#2018-minor/g/2020705
+DESCRIPTION:HSL 2018 Minor game #933. Stats: https://hslstats.com/2018-minor/games/2020705/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020709@hslstats.com
@@ -668,7 +668,7 @@ DTSTART:20261205T144500Z
 DTEND:20261205T161500Z
 SUMMARY:2018 Minor: Northern Hockey Club at Spartan Hockey Academy
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #937. Stats: https://hslstats.com/#2018-minor/g/2020709
+DESCRIPTION:HSL 2018 Minor game #937. Stats: https://hslstats.com/2018-minor/games/2020709/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020714@hslstats.com
@@ -677,7 +677,7 @@ DTSTART:20261205T163000Z
 DTEND:20261205T180000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Coast 2 Coast
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #942. Stats: https://hslstats.com/#2018-minor/g/2020714
+DESCRIPTION:HSL 2018 Minor game #942. Stats: https://hslstats.com/2018-minor/games/2020714/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020718@hslstats.com
@@ -686,7 +686,7 @@ DTSTART:20261205T181500Z
 DTEND:20261205T194500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #946. Stats: https://hslstats.com/#2018-minor/g/2020718
+DESCRIPTION:HSL 2018 Minor game #946. Stats: https://hslstats.com/2018-minor/games/2020718/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020724@hslstats.com
@@ -695,7 +695,7 @@ DTSTART:20261205T200000Z
 DTEND:20261205T213000Z
 SUMMARY:2018 Minor: South Sask Academy at YYC Jays
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #952. Stats: https://hslstats.com/#2018-minor/g/2020724
+DESCRIPTION:HSL 2018 Minor game #952. Stats: https://hslstats.com/2018-minor/games/2020724/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020729@hslstats.com
@@ -704,7 +704,7 @@ DTSTART:20261205T214500Z
 DTEND:20261205T231500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #957. Stats: https://hslstats.com/#2018-minor/g/2020729
+DESCRIPTION:HSL 2018 Minor game #957. Stats: https://hslstats.com/2018-minor/games/2020729/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020733@hslstats.com
@@ -713,7 +713,7 @@ DTSTART:20261205T233000Z
 DTEND:20261206T010000Z
 SUMMARY:2018 Minor: South Sask Academy at Coast 2 Coast
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #961. Stats: https://hslstats.com/#2018-minor/g/2020733
+DESCRIPTION:HSL 2018 Minor game #961. Stats: https://hslstats.com/2018-minor/games/2020733/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020739@hslstats.com
@@ -722,7 +722,7 @@ DTSTART:20261206T011500Z
 DTEND:20261206T024500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #967. Stats: https://hslstats.com/#2018-minor/g/2020739
+DESCRIPTION:HSL 2018 Minor game #967. Stats: https://hslstats.com/2018-minor/games/2020739/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020741@hslstats.com
@@ -731,7 +731,7 @@ DTSTART:20261206T055800Z
 DTEND:20261206T072800Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:
-DESCRIPTION:HSL 2018 Minor game #969. Stats: https://hslstats.com/#2018-minor/g/2020741
+DESCRIPTION:HSL 2018 Minor game #969. Stats: https://hslstats.com/2018-minor/games/2020741/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020742@hslstats.com
@@ -740,7 +740,7 @@ DTSTART:20261206T130000Z
 DTEND:20261206T143000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Bow Valley Jr. Bigfoot
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #970. Stats: https://hslstats.com/#2018-minor/g/2020742
+DESCRIPTION:HSL 2018 Minor game #970. Stats: https://hslstats.com/2018-minor/games/2020742/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020746@hslstats.com
@@ -749,7 +749,7 @@ DTSTART:20261206T144500Z
 DTEND:20261206T161500Z
 SUMMARY:2018 Minor: South Sask Academy at HC Calgary Bandits
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #974. Stats: https://hslstats.com/#2018-minor/g/2020746
+DESCRIPTION:HSL 2018 Minor game #974. Stats: https://hslstats.com/2018-minor/games/2020746/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020747@hslstats.com
@@ -758,7 +758,7 @@ DTSTART:20261206T154500Z
 DTEND:20261206T171500Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #975. Stats: https://hslstats.com/#2018-minor/g/2020747
+DESCRIPTION:HSL 2018 Minor game #975. Stats: https://hslstats.com/2018-minor/games/2020747/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020752@hslstats.com
@@ -767,7 +767,7 @@ DTSTART:20261206T163000Z
 DTEND:20261206T180000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #980. Stats: https://hslstats.com/#2018-minor/g/2020752
+DESCRIPTION:HSL 2018 Minor game #980. Stats: https://hslstats.com/2018-minor/games/2020752/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020757@hslstats.com
@@ -776,7 +776,7 @@ DTSTART:20261206T181500Z
 DTEND:20261206T194500Z
 SUMMARY:2018 Minor: Coast 2 Coast at HC Calgary Bandits
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #985. Stats: https://hslstats.com/#2018-minor/g/2020757
+DESCRIPTION:HSL 2018 Minor game #985. Stats: https://hslstats.com/2018-minor/games/2020757/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020760@hslstats.com
@@ -785,7 +785,7 @@ DTSTART:20261206T194500Z
 DTEND:20261206T211500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #988. Stats: https://hslstats.com/#2018-minor/g/2020760
+DESCRIPTION:HSL 2018 Minor game #988. Stats: https://hslstats.com/2018-minor/games/2020760/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020761@hslstats.com
@@ -794,7 +794,7 @@ DTSTART:20261206T200000Z
 DTEND:20261206T213000Z
 SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
 LOCATION:Millet Agriplex Arena
-DESCRIPTION:HSL 2018 Minor game #989. Stats: https://hslstats.com/#2018-minor/g/2020761
+DESCRIPTION:HSL 2018 Minor game #989. Stats: https://hslstats.com/2018-minor/games/2020761/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020817@hslstats.com
@@ -803,7 +803,7 @@ DTSTART:20261212T203000Z
 DTEND:20261212T220000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2018 Minor game #1045. Stats: https://hslstats.com/#2018-minor/g/2020817
+DESCRIPTION:HSL 2018 Minor game #1045. Stats: https://hslstats.com/2018-minor/games/2020817/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020866@hslstats.com
@@ -812,7 +812,7 @@ DTSTART:20261213T213000Z
 DTEND:20261213T230000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Minor game #1094. Stats: https://hslstats.com/#2018-minor/g/2020866
+DESCRIPTION:HSL 2018 Minor game #1094. Stats: https://hslstats.com/2018-minor/games/2020866/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020951@hslstats.com
@@ -821,7 +821,7 @@ DTSTART:20261220T143000Z
 DTEND:20261220T160000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at YYC Jays
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Minor game #1179. Stats: https://hslstats.com/#2018-minor/g/2020951
+DESCRIPTION:HSL 2018 Minor game #1179. Stats: https://hslstats.com/2018-minor/games/2020951/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021016@hslstats.com
@@ -830,7 +830,7 @@ DTSTART:20270102T130000Z
 DTEND:20270102T143000Z
 SUMMARY:2018 Minor: South Sask Academy at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1244. Stats: https://hslstats.com/#2018-minor/g/2021016
+DESCRIPTION:HSL 2018 Minor game #1244. Stats: https://hslstats.com/2018-minor/games/2021016/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020990@hslstats.com
@@ -839,7 +839,7 @@ DTSTART:20270102T163000Z
 DTEND:20270102T180000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Northern Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1218. Stats: https://hslstats.com/#2018-minor/g/2020990
+DESCRIPTION:HSL 2018 Minor game #1218. Stats: https://hslstats.com/2018-minor/games/2020990/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020989@hslstats.com
@@ -848,7 +848,7 @@ DTSTART:20270102T174500Z
 DTEND:20270102T191500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at South Sask Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1217. Stats: https://hslstats.com/#2018-minor/g/2020989
+DESCRIPTION:HSL 2018 Minor game #1217. Stats: https://hslstats.com/2018-minor/games/2020989/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020995@hslstats.com
@@ -857,7 +857,7 @@ DTSTART:20270102T193000Z
 DTEND:20270102T210000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1223. Stats: https://hslstats.com/#2018-minor/g/2020995
+DESCRIPTION:HSL 2018 Minor game #1223. Stats: https://hslstats.com/2018-minor/games/2020995/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021004@hslstats.com
@@ -866,7 +866,7 @@ DTSTART:20270102T200000Z
 DTEND:20270102T213000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at HC Calgary Bandits
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1232. Stats: https://hslstats.com/#2018-minor/g/2021004
+DESCRIPTION:HSL 2018 Minor game #1232. Stats: https://hslstats.com/2018-minor/games/2021004/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021001@hslstats.com
@@ -875,7 +875,7 @@ DTSTART:20270102T211500Z
 DTEND:20270102T224500Z
 SUMMARY:2018 Minor: YYC Jays at South Sask Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1229. Stats: https://hslstats.com/#2018-minor/g/2021001
+DESCRIPTION:HSL 2018 Minor game #1229. Stats: https://hslstats.com/2018-minor/games/2021001/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021008@hslstats.com
@@ -884,7 +884,7 @@ DTSTART:20270102T230000Z
 DTEND:20270103T003000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1236. Stats: https://hslstats.com/#2018-minor/g/2021008
+DESCRIPTION:HSL 2018 Minor game #1236. Stats: https://hslstats.com/2018-minor/games/2021008/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021019@hslstats.com
@@ -893,7 +893,7 @@ DTSTART:20270102T233000Z
 DTEND:20270103T010000Z
 SUMMARY:2018 Minor: Northern Hockey Club at HC Calgary Bandits
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1247. Stats: https://hslstats.com/#2018-minor/g/2021019
+DESCRIPTION:HSL 2018 Minor game #1247. Stats: https://hslstats.com/2018-minor/games/2021019/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021027@hslstats.com
@@ -902,7 +902,7 @@ DTSTART:20270103T130000Z
 DTEND:20270103T143000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Northern Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1255. Stats: https://hslstats.com/#2018-minor/g/2021027
+DESCRIPTION:HSL 2018 Minor game #1255. Stats: https://hslstats.com/2018-minor/games/2021027/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021026@hslstats.com
@@ -911,7 +911,7 @@ DTSTART:20270103T144500Z
 DTEND:20270103T161500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1254. Stats: https://hslstats.com/#2018-minor/g/2021026
+DESCRIPTION:HSL 2018 Minor game #1254. Stats: https://hslstats.com/2018-minor/games/2021026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021033@hslstats.com
@@ -920,7 +920,7 @@ DTSTART:20270103T163000Z
 DTEND:20270103T180000Z
 SUMMARY:2018 Minor: South Sask Academy at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1261. Stats: https://hslstats.com/#2018-minor/g/2021033
+DESCRIPTION:HSL 2018 Minor game #1261. Stats: https://hslstats.com/2018-minor/games/2021033/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021040@hslstats.com
@@ -929,7 +929,7 @@ DTSTART:20270103T163000Z
 DTEND:20270103T180000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1268. Stats: https://hslstats.com/#2018-minor/g/2021040
+DESCRIPTION:HSL 2018 Minor game #1268. Stats: https://hslstats.com/2018-minor/games/2021040/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021047@hslstats.com
@@ -938,7 +938,7 @@ DTSTART:20270103T181500Z
 DTEND:20270103T194500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1275. Stats: https://hslstats.com/#2018-minor/g/2021047
+DESCRIPTION:HSL 2018 Minor game #1275. Stats: https://hslstats.com/2018-minor/games/2021047/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021062@hslstats.com
@@ -947,7 +947,7 @@ DTSTART:20270103T200000Z
 DTEND:20270103T213000Z
 SUMMARY:2018 Minor: YYC Jays at Spartan Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1290. Stats: https://hslstats.com/#2018-minor/g/2021062
+DESCRIPTION:HSL 2018 Minor game #1290. Stats: https://hslstats.com/2018-minor/games/2021062/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021055@hslstats.com
@@ -956,7 +956,7 @@ DTSTART:20270103T200000Z
 DTEND:20270103T213000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1283. Stats: https://hslstats.com/#2018-minor/g/2021055
+DESCRIPTION:HSL 2018 Minor game #1283. Stats: https://hslstats.com/2018-minor/games/2021055/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021091@hslstats.com
@@ -965,7 +965,7 @@ DTSTART:20270109T154500Z
 DTEND:20270109T171500Z
 SUMMARY:2018 Minor: YYC Jays at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #1319. Stats: https://hslstats.com/#2018-minor/g/2021091
+DESCRIPTION:HSL 2018 Minor game #1319. Stats: https://hslstats.com/2018-minor/games/2021091/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021108@hslstats.com
@@ -974,7 +974,7 @@ DTSTART:20270109T210000Z
 DTEND:20270109T223000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at YYC Jays
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Minor game #1336. Stats: https://hslstats.com/#2018-minor/g/2021108
+DESCRIPTION:HSL 2018 Minor game #1336. Stats: https://hslstats.com/2018-minor/games/2021108/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021149@hslstats.com
@@ -983,7 +983,7 @@ DTSTART:20270115T184500Z
 DTEND:20270115T201500Z
 SUMMARY:2018 Minor: Coast 2 Coast at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1377. Stats: https://hslstats.com/#2018-minor/g/2021149
+DESCRIPTION:HSL 2018 Minor game #1377. Stats: https://hslstats.com/2018-minor/games/2021149/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021152@hslstats.com
@@ -992,7 +992,7 @@ DTSTART:20270115T221500Z
 DTEND:20270115T234500Z
 SUMMARY:2018 Minor: Northern Hockey Club at YYC Jays
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1380. Stats: https://hslstats.com/#2018-minor/g/2021152
+DESCRIPTION:HSL 2018 Minor game #1380. Stats: https://hslstats.com/2018-minor/games/2021152/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021156@hslstats.com
@@ -1001,7 +1001,7 @@ DTSTART:20270115T230000Z
 DTEND:20270116T003000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1384. Stats: https://hslstats.com/#2018-minor/g/2021156
+DESCRIPTION:HSL 2018 Minor game #1384. Stats: https://hslstats.com/2018-minor/games/2021156/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021161@hslstats.com
@@ -1010,7 +1010,7 @@ DTSTART:20270116T000000Z
 DTEND:20270116T013000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Coast 2 Coast
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1389. Stats: https://hslstats.com/#2018-minor/g/2021161
+DESCRIPTION:HSL 2018 Minor game #1389. Stats: https://hslstats.com/2018-minor/games/2021161/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021165@hslstats.com
@@ -1019,7 +1019,7 @@ DTSTART:20270116T004500Z
 DTEND:20270116T021500Z
 SUMMARY:2018 Minor: South Sask Academy at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1393. Stats: https://hslstats.com/#2018-minor/g/2021165
+DESCRIPTION:HSL 2018 Minor game #1393. Stats: https://hslstats.com/2018-minor/games/2021165/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021172@hslstats.com
@@ -1028,7 +1028,7 @@ DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1400. Stats: https://hslstats.com/#2018-minor/g/2021172
+DESCRIPTION:HSL 2018 Minor game #1400. Stats: https://hslstats.com/2018-minor/games/2021172/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021177@hslstats.com
@@ -1037,7 +1037,7 @@ DTSTART:20270116T144500Z
 DTEND:20270116T161500Z
 SUMMARY:2018 Minor: Northern Hockey Club at Coast 2 Coast
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1405. Stats: https://hslstats.com/#2018-minor/g/2021177
+DESCRIPTION:HSL 2018 Minor game #1405. Stats: https://hslstats.com/2018-minor/games/2021177/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021186@hslstats.com
@@ -1046,7 +1046,7 @@ DTSTART:20270116T163000Z
 DTEND:20270116T180000Z
 SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1414. Stats: https://hslstats.com/#2018-minor/g/2021186
+DESCRIPTION:HSL 2018 Minor game #1414. Stats: https://hslstats.com/2018-minor/games/2021186/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021190@hslstats.com
@@ -1055,7 +1055,7 @@ DTSTART:20270116T173000Z
 DTEND:20270116T190000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1418. Stats: https://hslstats.com/#2018-minor/g/2021190
+DESCRIPTION:HSL 2018 Minor game #1418. Stats: https://hslstats.com/2018-minor/games/2021190/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021207@hslstats.com
@@ -1064,7 +1064,7 @@ DTSTART:20270116T200000Z
 DTEND:20270116T213000Z
 SUMMARY:2018 Minor: Coast 2 Coast at HC Calgary Bandits
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1435. Stats: https://hslstats.com/#2018-minor/g/2021207
+DESCRIPTION:HSL 2018 Minor game #1435. Stats: https://hslstats.com/2018-minor/games/2021207/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021210@hslstats.com
@@ -1073,7 +1073,7 @@ DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1438. Stats: https://hslstats.com/#2018-minor/g/2021210
+DESCRIPTION:HSL 2018 Minor game #1438. Stats: https://hslstats.com/2018-minor/games/2021210/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021217@hslstats.com
@@ -1082,7 +1082,7 @@ DTSTART:20270116T214500Z
 DTEND:20270116T231500Z
 SUMMARY:2018 Minor: YYC Jays at Northern Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2018 Minor game #1445. Stats: https://hslstats.com/#2018-minor/g/2021217
+DESCRIPTION:HSL 2018 Minor game #1445. Stats: https://hslstats.com/2018-minor/games/2021217/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021231@hslstats.com
@@ -1091,7 +1091,7 @@ DTSTART:20270117T003000Z
 DTEND:20270117T020000Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1459. Stats: https://hslstats.com/#2018-minor/g/2021231
+DESCRIPTION:HSL 2018 Minor game #1459. Stats: https://hslstats.com/2018-minor/games/2021231/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021237@hslstats.com
@@ -1100,7 +1100,7 @@ DTSTART:20270117T134500Z
 DTEND:20270117T151500Z
 SUMMARY:2018 Minor: YYC Jays at Coast 2 Coast
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1465. Stats: https://hslstats.com/#2018-minor/g/2021237
+DESCRIPTION:HSL 2018 Minor game #1465. Stats: https://hslstats.com/2018-minor/games/2021237/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021247@hslstats.com
@@ -1109,7 +1109,7 @@ DTSTART:20270117T153000Z
 DTEND:20270117T170000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://hslstats.com/#2018-minor/g/2021247
+DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://hslstats.com/2018-minor/games/2021247/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021251@hslstats.com
@@ -1118,7 +1118,7 @@ DTSTART:20270117T154500Z
 DTEND:20270117T171500Z
 SUMMARY:2018 Minor: South Sask Academy at Bow Valley Jr. Bigfoot
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #1479. Stats: https://hslstats.com/#2018-minor/g/2021251
+DESCRIPTION:HSL 2018 Minor game #1479. Stats: https://hslstats.com/2018-minor/games/2021251/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021269@hslstats.com
@@ -1127,7 +1127,7 @@ DTSTART:20270117T193000Z
 DTEND:20270117T210000Z
 SUMMARY:2018 Minor: Northern Hockey Club at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1497. Stats: https://hslstats.com/#2018-minor/g/2021269
+DESCRIPTION:HSL 2018 Minor game #1497. Stats: https://hslstats.com/2018-minor/games/2021269/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021274@hslstats.com
@@ -1136,7 +1136,7 @@ DTSTART:20270117T211500Z
 DTEND:20270117T224500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Coast 2 Coast
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1502. Stats: https://hslstats.com/#2018-minor/g/2021274
+DESCRIPTION:HSL 2018 Minor game #1502. Stats: https://hslstats.com/2018-minor/games/2021274/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021367@hslstats.com
@@ -1145,7 +1145,7 @@ DTSTART:20270124T180000Z
 DTEND:20270124T193000Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Minor game #1595. Stats: https://hslstats.com/#2018-minor/g/2021367
+DESCRIPTION:HSL 2018 Minor game #1595. Stats: https://hslstats.com/2018-minor/games/2021367/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021391@hslstats.com
@@ -1154,7 +1154,7 @@ DTSTART:20270130T204500Z
 DTEND:20270130T221500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Minor game #1619. Stats: https://hslstats.com/#2018-minor/g/2021391
+DESCRIPTION:HSL 2018 Minor game #1619. Stats: https://hslstats.com/2018-minor/games/2021391/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021429@hslstats.com
@@ -1163,7 +1163,7 @@ DTSTART:20270205T220000Z
 DTEND:20270205T233000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Riggers Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1657. Stats: https://hslstats.com/#2018-minor/g/2021429
+DESCRIPTION:HSL 2018 Minor game #1657. Stats: https://hslstats.com/2018-minor/games/2021429/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021434@hslstats.com
@@ -1172,7 +1172,7 @@ DTSTART:20270205T234500Z
 DTEND:20270206T011500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Minor game #1662. Stats: https://hslstats.com/#2018-minor/g/2021434
+DESCRIPTION:HSL 2018 Minor game #1662. Stats: https://hslstats.com/2018-minor/games/2021434/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021435@hslstats.com
@@ -1181,7 +1181,7 @@ DTSTART:20270205T234500Z
 DTEND:20270206T011500Z
 SUMMARY:2018 Minor: Northern Hockey Club at YYC Jays
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1663. Stats: https://hslstats.com/#2018-minor/g/2021435
+DESCRIPTION:HSL 2018 Minor game #1663. Stats: https://hslstats.com/2018-minor/games/2021435/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021439@hslstats.com
@@ -1190,7 +1190,7 @@ DTSTART:20270206T013000Z
 DTEND:20270206T030000Z
 SUMMARY:2018 Minor: Coast 2 Coast at South Sask Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1667. Stats: https://hslstats.com/#2018-minor/g/2021439
+DESCRIPTION:HSL 2018 Minor game #1667. Stats: https://hslstats.com/2018-minor/games/2021439/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021443@hslstats.com
@@ -1199,7 +1199,7 @@ DTSTART:20270206T143000Z
 DTEND:20270206T160000Z
 SUMMARY:2018 Minor: Northern Hockey Club at South Sask Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1671. Stats: https://hslstats.com/#2018-minor/g/2021443
+DESCRIPTION:HSL 2018 Minor game #1671. Stats: https://hslstats.com/2018-minor/games/2021443/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021449@hslstats.com
@@ -1208,7 +1208,7 @@ DTSTART:20270206T161500Z
 DTEND:20270206T174500Z
 SUMMARY:2018 Minor: Coast 2 Coast at YYC Jays
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1677. Stats: https://hslstats.com/#2018-minor/g/2021449
+DESCRIPTION:HSL 2018 Minor game #1677. Stats: https://hslstats.com/2018-minor/games/2021449/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021466@hslstats.com
@@ -1217,7 +1217,7 @@ DTSTART:20270206T213000Z
 DTEND:20270206T230000Z
 SUMMARY:2018 Minor: Wolverines Hockey Academy at South Sask Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1694. Stats: https://hslstats.com/#2018-minor/g/2021466
+DESCRIPTION:HSL 2018 Minor game #1694. Stats: https://hslstats.com/2018-minor/games/2021466/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021473@hslstats.com
@@ -1226,7 +1226,7 @@ DTSTART:20270206T231500Z
 DTEND:20270207T004500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Coast 2 Coast
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1701. Stats: https://hslstats.com/#2018-minor/g/2021473
+DESCRIPTION:HSL 2018 Minor game #1701. Stats: https://hslstats.com/2018-minor/games/2021473/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021479@hslstats.com
@@ -1235,7 +1235,7 @@ DTSTART:20270207T140000Z
 DTEND:20270207T153000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at South Sask Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1707. Stats: https://hslstats.com/#2018-minor/g/2021479
+DESCRIPTION:HSL 2018 Minor game #1707. Stats: https://hslstats.com/2018-minor/games/2021479/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021485@hslstats.com
@@ -1244,7 +1244,7 @@ DTSTART:20270207T154500Z
 DTEND:20270207T171500Z
 SUMMARY:2018 Minor: Coast 2 Coast at Northern Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1713. Stats: https://hslstats.com/#2018-minor/g/2021485
+DESCRIPTION:HSL 2018 Minor game #1713. Stats: https://hslstats.com/2018-minor/games/2021485/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021496@hslstats.com
@@ -1253,7 +1253,7 @@ DTSTART:20270207T191500Z
 DTEND:20270207T204500Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at Northern Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1724. Stats: https://hslstats.com/#2018-minor/g/2021496
+DESCRIPTION:HSL 2018 Minor game #1724. Stats: https://hslstats.com/2018-minor/games/2021496/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021500@hslstats.com
@@ -1262,7 +1262,7 @@ DTSTART:20270207T210000Z
 DTEND:20270207T223000Z
 SUMMARY:2018 Minor: Coast 2 Coast at Wolverines Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1728. Stats: https://hslstats.com/#2018-minor/g/2021500
+DESCRIPTION:HSL 2018 Minor game #1728. Stats: https://hslstats.com/2018-minor/games/2021500/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021533@hslstats.com
@@ -1271,7 +1271,7 @@ DTSTART:20270213T181500Z
 DTEND:20270213T194500Z
 SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Minor game #1761. Stats: https://hslstats.com/#2018-minor/g/2021533
+DESCRIPTION:HSL 2018 Minor game #1761. Stats: https://hslstats.com/2018-minor/games/2021533/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021541@hslstats.com
@@ -1280,7 +1280,7 @@ DTSTART:20270213T203000Z
 DTEND:20270213T220000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Minor game #1769. Stats: https://hslstats.com/#2018-minor/g/2021541
+DESCRIPTION:HSL 2018 Minor game #1769. Stats: https://hslstats.com/2018-minor/games/2021541/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021566@hslstats.com
@@ -1289,6 +1289,6 @@ DTSTART:20270214T154500Z
 DTEND:20270214T171500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Minor game #1794. Stats: https://hslstats.com/#2018-minor/g/2021566
+DESCRIPTION:HSL 2018 Minor game #1794. Stats: https://hslstats.com/2018-minor/games/2021566/
 END:VEVENT
 END:VCALENDAR

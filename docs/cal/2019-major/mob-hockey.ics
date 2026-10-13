@@ -11,7 +11,7 @@ DTSTART:20260926T000000Z
 DTEND:20260926T013000Z
 SUMMARY:2019 Major: Rebels Hockey Academy 4 – MOB Hockey 16 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #151. Stats: https://hslstats.com/#2019-major/g/2019923
+DESCRIPTION:HSL 2019 Major game #151. Stats: https://hslstats.com/2019-major/games/2019923/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019934@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260926T153000Z
 DTEND:20260926T170000Z
 SUMMARY:2019 Major: Spartan Hockey Academy 5 – MOB Hockey 3 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #162. Stats: https://hslstats.com/#2019-major/g/2019934
+DESCRIPTION:HSL 2019 Major game #162. Stats: https://hslstats.com/2019-major/games/2019934/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019949@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260926T201500Z
 DTEND:20260926T214500Z
 SUMMARY:2019 Major: Stars Hockey Academy 8 – MOB Hockey 2 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #177. Stats: https://hslstats.com/#2019-major/g/2019949
+DESCRIPTION:HSL 2019 Major game #177. Stats: https://hslstats.com/2019-major/games/2019949/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019968@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260927T153000Z
 DTEND:20260927T170000Z
 SUMMARY:2019 Major: MOB Hockey 2 – Spartan Hockey Academy 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #196. Stats: https://hslstats.com/#2019-major/g/2019968
+DESCRIPTION:HSL 2019 Major game #196. Stats: https://hslstats.com/2019-major/games/2019968/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020157@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261016T204500Z
 DTEND:20261016T221500Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #385. Stats: https://hslstats.com/#2019-major/g/2020157
+DESCRIPTION:HSL 2019 Major game #385. Stats: https://hslstats.com/2019-major/games/2020157/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020194@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261017T193000Z
 DTEND:20261017T210000Z
 SUMMARY:2019 Major: MOB Hockey at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #422. Stats: https://hslstats.com/#2019-major/g/2020194
+DESCRIPTION:HSL 2019 Major game #422. Stats: https://hslstats.com/2019-major/games/2020194/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020222@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261018T161500Z
 DTEND:20261018T174500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at MOB Hockey
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #450. Stats: https://hslstats.com/#2019-major/g/2020222
+DESCRIPTION:HSL 2019 Major game #450. Stats: https://hslstats.com/2019-major/games/2020222/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020234@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261018T193000Z
 DTEND:20261018T210000Z
 SUMMARY:2019 Major: MOB Hockey at Stars Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #462. Stats: https://hslstats.com/#2019-major/g/2020234
+DESCRIPTION:HSL 2019 Major game #462. Stats: https://hslstats.com/2019-major/games/2020234/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020466@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261114T000000Z
 DTEND:20261114T013000Z
 SUMMARY:2019 Major: MOB Hockey at Capital City Knights
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #694. Stats: https://hslstats.com/#2019-major/g/2020466
+DESCRIPTION:HSL 2019 Major game #694. Stats: https://hslstats.com/2019-major/games/2020466/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020471@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261114T153000Z
 DTEND:20261114T170000Z
 SUMMARY:2019 Major: Capital City Knights at MOB Hockey
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #699. Stats: https://hslstats.com/#2019-major/g/2020471
+DESCRIPTION:HSL 2019 Major game #699. Stats: https://hslstats.com/2019-major/games/2020471/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020484@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261114T233000Z
 DTEND:20261115T010000Z
 SUMMARY:2019 Major: MOB Hockey at Riggers Hockey Academy
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #712. Stats: https://hslstats.com/#2019-major/g/2020484
+DESCRIPTION:HSL 2019 Major game #712. Stats: https://hslstats.com/2019-major/games/2020484/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020488@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261115T140000Z
 DTEND:20261115T153000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at MOB Hockey
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #716. Stats: https://hslstats.com/#2019-major/g/2020488
+DESCRIPTION:HSL 2019 Major game #716. Stats: https://hslstats.com/2019-major/games/2020488/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020642@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261128T000000Z
 DTEND:20261128T013000Z
 SUMMARY:2019 Major: MOB Hockey at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #870. Stats: https://hslstats.com/#2019-major/g/2020642
+DESCRIPTION:HSL 2019 Major game #870. Stats: https://hslstats.com/2019-major/games/2020642/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020653@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261128T174500Z
 DTEND:20261128T191500Z
 SUMMARY:2019 Major: MOB Hockey at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #881. Stats: https://hslstats.com/#2019-major/g/2020653
+DESCRIPTION:HSL 2019 Major game #881. Stats: https://hslstats.com/2019-major/games/2020653/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020662@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261128T213000Z
 DTEND:20261128T230000Z
 SUMMARY:2019 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #890. Stats: https://hslstats.com/#2019-major/g/2020662
+DESCRIPTION:HSL 2019 Major game #890. Stats: https://hslstats.com/2019-major/games/2020662/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020669@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261129T133000Z
 DTEND:20261129T150000Z
 SUMMARY:2019 Major: Stars Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #897. Stats: https://hslstats.com/#2019-major/g/2020669
+DESCRIPTION:HSL 2019 Major game #897. Stats: https://hslstats.com/2019-major/games/2020669/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020873@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261218T220000Z
 DTEND:20261218T233000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1101. Stats: https://hslstats.com/#2019-major/g/2020873
+DESCRIPTION:HSL 2019 Major game #1101. Stats: https://hslstats.com/2019-major/games/2020873/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020903@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2019 Major: MOB Hockey at Calgary Crusaders
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1131. Stats: https://hslstats.com/#2019-major/g/2020903
+DESCRIPTION:HSL 2019 Major game #1131. Stats: https://hslstats.com/2019-major/games/2020903/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020932@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261220T001500Z
 DTEND:20261220T014500Z
 SUMMARY:2019 Major: Spartan Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1160. Stats: https://hslstats.com/#2019-major/g/2020932
+DESCRIPTION:HSL 2019 Major game #1160. Stats: https://hslstats.com/2019-major/games/2020932/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020947@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261220T140000Z
 DTEND:20261220T153000Z
 SUMMARY:2019 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1175. Stats: https://hslstats.com/#2019-major/g/2020947
+DESCRIPTION:HSL 2019 Major game #1175. Stats: https://hslstats.com/2019-major/games/2020947/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020993@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270102T170000Z
 DTEND:20270102T183000Z
 SUMMARY:2019 Major: MOB Hockey at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1221. Stats: https://hslstats.com/#2019-major/g/2020993
+DESCRIPTION:HSL 2019 Major game #1221. Stats: https://hslstats.com/2019-major/games/2020993/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021011@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270102T214500Z
 DTEND:20270102T231500Z
 SUMMARY:2019 Major: Young Kings Hockey at MOB Hockey
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #1239. Stats: https://hslstats.com/#2019-major/g/2021011
+DESCRIPTION:HSL 2019 Major game #1239. Stats: https://hslstats.com/2019-major/games/2021011/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021029@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270103T140000Z
 DTEND:20270103T153000Z
 SUMMARY:2019 Major: MOB Hockey at Young Kings Hockey
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1257. Stats: https://hslstats.com/#2019-major/g/2021029
+DESCRIPTION:HSL 2019 Major game #1257. Stats: https://hslstats.com/2019-major/games/2021029/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021042@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270103T170000Z
 DTEND:20270103T183000Z
 SUMMARY:2019 Major: MOB Hockey at Capital City Knights
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1270. Stats: https://hslstats.com/#2019-major/g/2021042
+DESCRIPTION:HSL 2019 Major game #1270. Stats: https://hslstats.com/2019-major/games/2021042/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021158@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270115T234500Z
 DTEND:20270116T011500Z
 SUMMARY:2019 Major: Calgary Crusaders at MOB Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1386. Stats: https://hslstats.com/#2019-major/g/2021158
+DESCRIPTION:HSL 2019 Major game #1386. Stats: https://hslstats.com/2019-major/games/2021158/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021179@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270116T153000Z
 DTEND:20270116T170000Z
 SUMMARY:2019 Major: HC Calgary Bandits at MOB Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1407. Stats: https://hslstats.com/#2019-major/g/2021179
+DESCRIPTION:HSL 2019 Major game #1407. Stats: https://hslstats.com/2019-major/games/2021179/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021219@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270116T214500Z
 DTEND:20270116T231500Z
 SUMMARY:2019 Major: MOB Hockey at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1447. Stats: https://hslstats.com/#2019-major/g/2021219
+DESCRIPTION:HSL 2019 Major game #1447. Stats: https://hslstats.com/2019-major/games/2021219/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021248@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270117T153000Z
 DTEND:20270117T170000Z
 SUMMARY:2019 Major: MOB Hockey at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1476. Stats: https://hslstats.com/#2019-major/g/2021248
+DESCRIPTION:HSL 2019 Major game #1476. Stats: https://hslstats.com/2019-major/games/2021248/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021512@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270212T233000Z
 DTEND:20270213T010000Z
 SUMMARY:2019 Major: Rebels Hockey Academy at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1740. Stats: https://hslstats.com/#2019-major/g/2021512
+DESCRIPTION:HSL 2019 Major game #1740. Stats: https://hslstats.com/2019-major/games/2021512/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021528@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270213T171500Z
 DTEND:20270213T184500Z
 SUMMARY:2019 Major: Capital City Knights at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1756. Stats: https://hslstats.com/#2019-major/g/2021528
+DESCRIPTION:HSL 2019 Major game #1756. Stats: https://hslstats.com/2019-major/games/2021528/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021547@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270213T221500Z
 DTEND:20270213T234500Z
 SUMMARY:2019 Major: MOB Hockey at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1775. Stats: https://hslstats.com/#2019-major/g/2021547
+DESCRIPTION:HSL 2019 Major game #1775. Stats: https://hslstats.com/2019-major/games/2021547/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021560@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270214T140000Z
 DTEND:20270214T153000Z
 SUMMARY:2019 Major: Young Kings Hockey at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2019 Major game #1788. Stats: https://hslstats.com/#2019-major/g/2021560
+DESCRIPTION:HSL 2019 Major game #1788. Stats: https://hslstats.com/2019-major/games/2021560/
 END:VEVENT
 END:VCALENDAR

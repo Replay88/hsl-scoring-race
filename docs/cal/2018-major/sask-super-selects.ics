@@ -11,7 +11,7 @@ DTSTART:20260918T201500Z
 DTEND:20260918T214500Z
 SUMMARY:2018 Major: Spartan Hockey Academy 13 – Sask Super Selects 3 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #2. Stats: https://hslstats.com/#2018-major/g/2019774
+DESCRIPTION:HSL 2018 Major game #2. Stats: https://hslstats.com/2018-major/games/2019774/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019821@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T170000Z
 DTEND:20260919T183000Z
 SUMMARY:2018 Major: Sask Super Selects 8 – Sauce Hockey Academy 2 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #49. Stats: https://hslstats.com/#2018-major/g/2019821
+DESCRIPTION:HSL 2018 Major game #49. Stats: https://hslstats.com/2018-major/games/2019821/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019851@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260919T220000Z
 DTEND:20260919T233000Z
 SUMMARY:2018 Major: Sask Super Selects 3 – Spartan Hockey Academy 6 (Final)
 LOCATION:Co-Operators Centre #6 (Co-operators Arena)
-DESCRIPTION:HSL 2018 Major game #79. Stats: https://hslstats.com/#2018-major/g/2019851
+DESCRIPTION:HSL 2018 Major game #79. Stats: https://hslstats.com/2018-major/games/2019851/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019889@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T164500Z
 DTEND:20260920T181500Z
 SUMMARY:2018 Major: Sauce Hockey Academy 8 – Sask Super Selects 6 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #117. Stats: https://hslstats.com/#2018-major/g/2019889
+DESCRIPTION:HSL 2018 Major game #117. Stats: https://hslstats.com/2018-major/games/2019889/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020168@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261017T004500Z
 DTEND:20261017T021500Z
 SUMMARY:2018 Major: Sask Super Selects at Saints Pro Hockey Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #396. Stats: https://hslstats.com/#2018-major/g/2020168
+DESCRIPTION:HSL 2018 Major game #396. Stats: https://hslstats.com/2018-major/games/2020168/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020179@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261017T154500Z
 DTEND:20261017T171500Z
 SUMMARY:2018 Major: Sask Super Selects at Queen City Young Guns
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #407. Stats: https://hslstats.com/#2018-major/g/2020179
+DESCRIPTION:HSL 2018 Major game #407. Stats: https://hslstats.com/2018-major/games/2020179/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020203@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261017T224500Z
 DTEND:20261018T001500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Sask Super Selects
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #431. Stats: https://hslstats.com/#2018-major/g/2020203
+DESCRIPTION:HSL 2018 Major game #431. Stats: https://hslstats.com/2018-major/games/2020203/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020229@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261018T183000Z
 DTEND:20261018T200000Z
 SUMMARY:2018 Major: Queen City Young Guns at Sask Super Selects
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #457. Stats: https://hslstats.com/#2018-major/g/2020229
+DESCRIPTION:HSL 2018 Major game #457. Stats: https://hslstats.com/2018-major/games/2020229/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020311@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261030T220000Z
 DTEND:20261030T233000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Sask Super Selects
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #539. Stats: https://hslstats.com/#2018-major/g/2020311
+DESCRIPTION:HSL 2018 Major game #539. Stats: https://hslstats.com/2018-major/games/2020311/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020329@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261031T140000Z
 DTEND:20261031T153000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Sask Super Selects
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #557. Stats: https://hslstats.com/#2018-major/g/2020329
+DESCRIPTION:HSL 2018 Major game #557. Stats: https://hslstats.com/2018-major/games/2020329/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020342@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261031T173000Z
 DTEND:20261031T190000Z
 SUMMARY:2018 Major: Sask Super Selects at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #570. Stats: https://hslstats.com/#2018-major/g/2020342
+DESCRIPTION:HSL 2018 Major game #570. Stats: https://hslstats.com/2018-major/games/2020342/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020364@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261101T154500Z
 DTEND:20261101T171500Z
 SUMMARY:2018 Major: Aces Hockey Academy at Sask Super Selects
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #592. Stats: https://hslstats.com/#2018-major/g/2020364
+DESCRIPTION:HSL 2018 Major game #592. Stats: https://hslstats.com/2018-major/games/2020364/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020641@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261127T233000Z
 DTEND:20261128T010000Z
 SUMMARY:2018 Major: Stars Hockey Academy at Sask Super Selects
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #869. Stats: https://hslstats.com/#2018-major/g/2020641
+DESCRIPTION:HSL 2018 Major game #869. Stats: https://hslstats.com/2018-major/games/2020641/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020651@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261128T161500Z
 DTEND:20261128T174500Z
 SUMMARY:2018 Major: Calgary Crusaders at Sask Super Selects
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #879. Stats: https://hslstats.com/#2018-major/g/2020651
+DESCRIPTION:HSL 2018 Major game #879. Stats: https://hslstats.com/2018-major/games/2020651/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020658@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261128T194500Z
 DTEND:20261128T211500Z
 SUMMARY:2018 Major: Sask Super Selects at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #886. Stats: https://hslstats.com/#2018-major/g/2020658
+DESCRIPTION:HSL 2018 Major game #886. Stats: https://hslstats.com/2018-major/games/2020658/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020672@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261129T150000Z
 DTEND:20261129T163000Z
 SUMMARY:2018 Major: Sask Super Selects at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #900. Stats: https://hslstats.com/#2018-major/g/2020672
+DESCRIPTION:HSL 2018 Major game #900. Stats: https://hslstats.com/2018-major/games/2020672/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020883@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261219T003000Z
 DTEND:20261219T020000Z
 SUMMARY:2018 Major: Spartan Hockey Academy at Sask Super Selects
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1111. Stats: https://hslstats.com/#2018-major/g/2020883
+DESCRIPTION:HSL 2018 Major game #1111. Stats: https://hslstats.com/2018-major/games/2020883/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020894@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261219T144500Z
 DTEND:20261219T161500Z
 SUMMARY:2018 Major: Sask Super Selects at O2 Grizzlies
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1122. Stats: https://hslstats.com/#2018-major/g/2020894
+DESCRIPTION:HSL 2018 Major game #1122. Stats: https://hslstats.com/2018-major/games/2020894/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020931@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261219T233000Z
 DTEND:20261220T010000Z
 SUMMARY:2018 Major: Sask Super Selects at North Stars Academy Wild
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1159. Stats: https://hslstats.com/#2018-major/g/2020931
+DESCRIPTION:HSL 2018 Major game #1159. Stats: https://hslstats.com/2018-major/games/2020931/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020944@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261220T130000Z
 DTEND:20261220T143000Z
 SUMMARY:2018 Major: North Stars Academy Wild at Sask Super Selects
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1172. Stats: https://hslstats.com/#2018-major/g/2020944
+DESCRIPTION:HSL 2018 Major game #1172. Stats: https://hslstats.com/2018-major/games/2020944/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021071@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270108T211500Z
 DTEND:20270108T224500Z
 SUMMARY:2018 Major: Capital City Knights at Sask Super Selects
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1299. Stats: https://hslstats.com/#2018-major/g/2021071
+DESCRIPTION:HSL 2018 Major game #1299. Stats: https://hslstats.com/2018-major/games/2021071/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021093@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270109T154500Z
 DTEND:20270109T171500Z
 SUMMARY:2018 Major: Sask Super Selects at Gorillas Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1321. Stats: https://hslstats.com/#2018-major/g/2021093
+DESCRIPTION:HSL 2018 Major game #1321. Stats: https://hslstats.com/2018-major/games/2021093/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021122@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270110T003000Z
 DTEND:20270110T020000Z
 SUMMARY:2018 Major: Sask Super Selects at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1350. Stats: https://hslstats.com/#2018-major/g/2021122
+DESCRIPTION:HSL 2018 Major game #1350. Stats: https://hslstats.com/2018-major/games/2021122/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021137@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270110T173000Z
 DTEND:20270110T190000Z
 SUMMARY:2018 Major: Sask Super Selects at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1365. Stats: https://hslstats.com/#2018-major/g/2021137
+DESCRIPTION:HSL 2018 Major game #1365. Stats: https://hslstats.com/2018-major/games/2021137/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021281@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270122T224500Z
 DTEND:20270123T001500Z
 SUMMARY:2018 Major: Young Kings Hockey at Sask Super Selects
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1509. Stats: https://hslstats.com/#2018-major/g/2021281
+DESCRIPTION:HSL 2018 Major game #1509. Stats: https://hslstats.com/2018-major/games/2021281/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021300@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270123T140000Z
 DTEND:20270123T153000Z
 SUMMARY:2018 Major: Sask Super Selects at Stars Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1528. Stats: https://hslstats.com/#2018-major/g/2021300
+DESCRIPTION:HSL 2018 Major game #1528. Stats: https://hslstats.com/2018-major/games/2021300/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021329@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270123T210000Z
 DTEND:20270123T223000Z
 SUMMARY:2018 Major: Sask Super Selects at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1557. Stats: https://hslstats.com/#2018-major/g/2021329
+DESCRIPTION:HSL 2018 Major game #1557. Stats: https://hslstats.com/2018-major/games/2021329/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021349@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270124T140000Z
 DTEND:20270124T153000Z
 SUMMARY:2018 Major: Stars Hockey Academy at Sask Super Selects
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1577. Stats: https://hslstats.com/#2018-major/g/2021349
+DESCRIPTION:HSL 2018 Major game #1577. Stats: https://hslstats.com/2018-major/games/2021349/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021628@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270220T183000Z
 DTEND:20270220T200000Z
 SUMMARY:2018 Major: O2 Grizzlies at Sask Super Selects
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1856. Stats: https://hslstats.com/#2018-major/g/2021628
+DESCRIPTION:HSL 2018 Major game #1856. Stats: https://hslstats.com/2018-major/games/2021628/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021644@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T220000Z
 DTEND:20270220T233000Z
 SUMMARY:2018 Major: Calgary Crusaders at Sask Super Selects
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1872. Stats: https://hslstats.com/#2018-major/g/2021644
+DESCRIPTION:HSL 2018 Major game #1872. Stats: https://hslstats.com/2018-major/games/2021644/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021663@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270221T171500Z
 DTEND:20270221T184500Z
 SUMMARY:2018 Major: Sask Super Selects at O2 Grizzlies
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1891. Stats: https://hslstats.com/#2018-major/g/2021663
+DESCRIPTION:HSL 2018 Major game #1891. Stats: https://hslstats.com/2018-major/games/2021663/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021680@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T203000Z
 DTEND:20270221T220000Z
 SUMMARY:2018 Major: Sask Super Selects at Queen City Young Guns
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1908. Stats: https://hslstats.com/#2018-major/g/2021680
+DESCRIPTION:HSL 2018 Major game #1908. Stats: https://hslstats.com/2018-major/games/2021680/
 END:VEVENT
 END:VCALENDAR

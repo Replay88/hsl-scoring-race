@@ -11,7 +11,7 @@ DTSTART:20260926T184500Z
 DTEND:20260926T201500Z
 SUMMARY:2019 Major: Riggers Hockey Academy 7 – Spartan Hockey Academy 2 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #172. Stats: https://hslstats.com/#2019-major/g/2019944
+DESCRIPTION:HSL 2019 Major game #172. Stats: https://hslstats.com/2019-major/games/2019944/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019957@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260926T231500Z
 DTEND:20260927T004500Z
 SUMMARY:2019 Major: Rebels Hockey Academy 8 – Riggers Hockey Academy 12 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #185. Stats: https://hslstats.com/#2019-major/g/2019957
+DESCRIPTION:HSL 2019 Major game #185. Stats: https://hslstats.com/2019-major/games/2019957/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019974@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260927T170000Z
 DTEND:20260927T183000Z
 SUMMARY:2019 Major: Riggers Hockey Academy 11 – HC Calgary Bandits 1 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #202. Stats: https://hslstats.com/#2019-major/g/2019974
+DESCRIPTION:HSL 2019 Major game #202. Stats: https://hslstats.com/2019-major/games/2019974/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019985@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260927T200000Z
 DTEND:20260927T213000Z
 SUMMARY:2019 Major: Spartan Hockey Academy 6 – Riggers Hockey Academy 9 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2019 Major game #213. Stats: https://hslstats.com/#2019-major/g/2019985
+DESCRIPTION:HSL 2019 Major game #213. Stats: https://hslstats.com/2019-major/games/2019985/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019988@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20260930T223000Z
 DTEND:20261001T000000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy 0 – Riggers Hockey Academy 14 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #216. Stats: https://hslstats.com/#2019-major/g/2019988
+DESCRIPTION:HSL 2019 Major game #216. Stats: https://hslstats.com/2019-major/games/2019988/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020154@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261011T224500Z
 DTEND:20261012T001500Z
 SUMMARY:2019 Major: Riggers Hockey Academy 12 – Capital City Knights 0 (Final)
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2019 Major game #382. Stats: https://hslstats.com/#2019-major/g/2020154
+DESCRIPTION:HSL 2019 Major game #382. Stats: https://hslstats.com/2019-major/games/2020154/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020162@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261016T221500Z
 DTEND:20261016T234500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #390. Stats: https://hslstats.com/#2019-major/g/2020162
+DESCRIPTION:HSL 2019 Major game #390. Stats: https://hslstats.com/2019-major/games/2020162/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020171@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261017T130000Z
 DTEND:20261017T143000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Saints Pro Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #399. Stats: https://hslstats.com/#2019-major/g/2020171
+DESCRIPTION:HSL 2019 Major game #399. Stats: https://hslstats.com/2019-major/games/2020171/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020222@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261018T161500Z
 DTEND:20261018T174500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at MOB Hockey
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #450. Stats: https://hslstats.com/#2019-major/g/2020222
+DESCRIPTION:HSL 2019 Major game #450. Stats: https://hslstats.com/2019-major/games/2020222/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020479@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261114T201500Z
 DTEND:20261114T214500Z
 SUMMARY:2019 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #707. Stats: https://hslstats.com/#2019-major/g/2020479
+DESCRIPTION:HSL 2019 Major game #707. Stats: https://hslstats.com/2019-major/games/2020479/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020484@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261114T233000Z
 DTEND:20261115T010000Z
 SUMMARY:2019 Major: MOB Hockey at Riggers Hockey Academy
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #712. Stats: https://hslstats.com/#2019-major/g/2020484
+DESCRIPTION:HSL 2019 Major game #712. Stats: https://hslstats.com/2019-major/games/2020484/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020488@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261115T140000Z
 DTEND:20261115T153000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at MOB Hockey
 LOCATION:Conklin Multiplex
-DESCRIPTION:HSL 2019 Major game #716. Stats: https://hslstats.com/#2019-major/g/2020488
+DESCRIPTION:HSL 2019 Major game #716. Stats: https://hslstats.com/2019-major/games/2020488/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020642@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261128T000000Z
 DTEND:20261128T013000Z
 SUMMARY:2019 Major: MOB Hockey at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #870. Stats: https://hslstats.com/#2019-major/g/2020642
+DESCRIPTION:HSL 2019 Major game #870. Stats: https://hslstats.com/2019-major/games/2020642/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020665@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261128T230000Z
 DTEND:20261129T003000Z
 SUMMARY:2019 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #893. Stats: https://hslstats.com/#2019-major/g/2020665
+DESCRIPTION:HSL 2019 Major game #893. Stats: https://hslstats.com/2019-major/games/2020665/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020684@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261129T201500Z
 DTEND:20261129T214500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Capital City Knights
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #912. Stats: https://hslstats.com/#2019-major/g/2020684
+DESCRIPTION:HSL 2019 Major game #912. Stats: https://hslstats.com/2019-major/games/2020684/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020766@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261209T223000Z
 DTEND:20261210T000000Z
 SUMMARY:2019 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #994. Stats: https://hslstats.com/#2019-major/g/2020766
+DESCRIPTION:HSL 2019 Major game #994. Stats: https://hslstats.com/2019-major/games/2020766/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020902@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Young Kings Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1130. Stats: https://hslstats.com/#2019-major/g/2020902
+DESCRIPTION:HSL 2019 Major game #1130. Stats: https://hslstats.com/2019-major/games/2020902/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020930@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261219T231500Z
 DTEND:20261220T004500Z
 SUMMARY:2019 Major: Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1158. Stats: https://hslstats.com/#2019-major/g/2020930
+DESCRIPTION:HSL 2019 Major game #1158. Stats: https://hslstats.com/2019-major/games/2020930/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020949@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261220T141500Z
 DTEND:20261220T154500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1177. Stats: https://hslstats.com/#2019-major/g/2020949
+DESCRIPTION:HSL 2019 Major game #1177. Stats: https://hslstats.com/2019-major/games/2020949/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020965@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261220T180000Z
 DTEND:20261220T193000Z
 SUMMARY:2019 Major: Young Kings Hockey at Riggers Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1193. Stats: https://hslstats.com/#2019-major/g/2020965
+DESCRIPTION:HSL 2019 Major game #1193. Stats: https://hslstats.com/2019-major/games/2020965/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020997@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270102T181500Z
 DTEND:20270102T194500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Young Kings Hockey
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #1225. Stats: https://hslstats.com/#2019-major/g/2020997
+DESCRIPTION:HSL 2019 Major game #1225. Stats: https://hslstats.com/2019-major/games/2020997/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021013@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270102T221500Z
 DTEND:20270102T234500Z
 SUMMARY:2019 Major: Rebels Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1241. Stats: https://hslstats.com/#2019-major/g/2021013
+DESCRIPTION:HSL 2019 Major game #1241. Stats: https://hslstats.com/2019-major/games/2021013/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021045@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270103T173000Z
 DTEND:20270103T190000Z
 SUMMARY:2019 Major: Rebels Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2019 Major game #1273. Stats: https://hslstats.com/#2019-major/g/2021045
+DESCRIPTION:HSL 2019 Major game #1273. Stats: https://hslstats.com/2019-major/games/2021045/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021063@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270103T214500Z
 DTEND:20270103T231500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2019 Major game #1291. Stats: https://hslstats.com/#2019-major/g/2021063
+DESCRIPTION:HSL 2019 Major game #1291. Stats: https://hslstats.com/2019-major/games/2021063/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021154@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270115T221500Z
 DTEND:20270115T234500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1382. Stats: https://hslstats.com/#2019-major/g/2021154
+DESCRIPTION:HSL 2019 Major game #1382. Stats: https://hslstats.com/2019-major/games/2021154/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021174@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1402. Stats: https://hslstats.com/#2019-major/g/2021174
+DESCRIPTION:HSL 2019 Major game #1402. Stats: https://hslstats.com/2019-major/games/2021174/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021200@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270116T184500Z
 DTEND:20270116T201500Z
 SUMMARY:2019 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1428. Stats: https://hslstats.com/#2019-major/g/2021200
+DESCRIPTION:HSL 2019 Major game #1428. Stats: https://hslstats.com/2019-major/games/2021200/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021264@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270117T184500Z
 DTEND:20270117T201500Z
 SUMMARY:2019 Major: Calgary Crusaders at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2019 Major game #1492. Stats: https://hslstats.com/#2019-major/g/2021264
+DESCRIPTION:HSL 2019 Major game #1492. Stats: https://hslstats.com/2019-major/games/2021264/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021510@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270212T230000Z
 DTEND:20270213T003000Z
 SUMMARY:2019 Major: Saints Pro Hockey Academy at Riggers Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1738. Stats: https://hslstats.com/#2019-major/g/2021510
+DESCRIPTION:HSL 2019 Major game #1738. Stats: https://hslstats.com/2019-major/games/2021510/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021536@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270213T191500Z
 DTEND:20270213T204500Z
 SUMMARY:2019 Major: Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1764. Stats: https://hslstats.com/#2019-major/g/2021536
+DESCRIPTION:HSL 2019 Major game #1764. Stats: https://hslstats.com/2019-major/games/2021536/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021550@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270213T230000Z
 DTEND:20270214T003000Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1778. Stats: https://hslstats.com/#2019-major/g/2021550
+DESCRIPTION:HSL 2019 Major game #1778. Stats: https://hslstats.com/2019-major/games/2021550/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021580@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270214T194500Z
 DTEND:20270214T211500Z
 SUMMARY:2019 Major: Riggers Hockey Academy at Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1808. Stats: https://hslstats.com/#2019-major/g/2021580
+DESCRIPTION:HSL 2019 Major game #1808. Stats: https://hslstats.com/2019-major/games/2021580/
 END:VEVENT
 END:VCALENDAR

@@ -11,7 +11,7 @@ DTSTART:20260919T133000Z
 DTEND:20260919T150000Z
 SUMMARY:2014 AAA: Spartan Hockey Academy 8 – Calgary Crusaders 1 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #30. Stats: https://hslstats.com/#2014-aaa/g/2019802
+DESCRIPTION:HSL 2014 AAA game #30. Stats: https://hslstats.com/2014-aaa/games/2019802/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019866@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260920T011500Z
 DTEND:20260920T024500Z
 SUMMARY:2014 AAA: MOB Hockey 5 – Calgary Crusaders 10 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #94. Stats: https://hslstats.com/#2014-aaa/g/2019866
+DESCRIPTION:HSL 2014 AAA game #94. Stats: https://hslstats.com/2014-aaa/games/2019866/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019883@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T154500Z
 DTEND:20260920T171500Z
 SUMMARY:2014 AAA: O2 Grizzlies 4 – Calgary Crusaders 7 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #111. Stats: https://hslstats.com/#2014-aaa/g/2019883
+DESCRIPTION:HSL 2014 AAA game #111. Stats: https://hslstats.com/2014-aaa/games/2019883/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019904@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T194500Z
 DTEND:20260920T211500Z
 SUMMARY:2014 AAA: Stars Hockey Academy 4 – Calgary Crusaders 11 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #132. Stats: https://hslstats.com/#2014-aaa/g/2019904
+DESCRIPTION:HSL 2014 AAA game #132. Stats: https://hslstats.com/2014-aaa/games/2019904/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020235@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261018T204500Z
 DTEND:20261018T221500Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 AAA game #463. Stats: https://hslstats.com/#2014-aaa/g/2020235
+DESCRIPTION:HSL 2014 AAA game #463. Stats: https://hslstats.com/2014-aaa/games/2020235/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020253@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261024T150000Z
 DTEND:20261024T163000Z
 SUMMARY:2014 AAA: Calgary Crusaders at MOB Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #481. Stats: https://hslstats.com/#2014-aaa/g/2020253
+DESCRIPTION:HSL 2014 AAA game #481. Stats: https://hslstats.com/2014-aaa/games/2020253/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020276@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261024T234500Z
 DTEND:20261025T011500Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #504. Stats: https://hslstats.com/#2014-aaa/g/2020276
+DESCRIPTION:HSL 2014 AAA game #504. Stats: https://hslstats.com/2014-aaa/games/2020276/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020281@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261025T131500Z
 DTEND:20261025T144500Z
 SUMMARY:2014 AAA: MOB Hockey at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #509. Stats: https://hslstats.com/#2014-aaa/g/2020281
+DESCRIPTION:HSL 2014 AAA game #509. Stats: https://hslstats.com/2014-aaa/games/2020281/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020462@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261113T221500Z
 DTEND:20261113T234500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 AAA game #690. Stats: https://hslstats.com/#2014-aaa/g/2020462
+DESCRIPTION:HSL 2014 AAA game #690. Stats: https://hslstats.com/2014-aaa/games/2020462/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020469@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261114T141500Z
 DTEND:20261114T154500Z
 SUMMARY:2014 AAA: Caps Hockey Club at Calgary Crusaders
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #697. Stats: https://hslstats.com/#2014-aaa/g/2020469
+DESCRIPTION:HSL 2014 AAA game #697. Stats: https://hslstats.com/2014-aaa/games/2020469/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020478@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261114T201500Z
 DTEND:20261114T214500Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at Calgary Crusaders
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #706. Stats: https://hslstats.com/#2014-aaa/g/2020478
+DESCRIPTION:HSL 2014 AAA game #706. Stats: https://hslstats.com/2014-aaa/games/2020478/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020493@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261115T183000Z
 DTEND:20261115T200000Z
 SUMMARY:2014 AAA: Calgary Crusaders at Caps Hockey Club
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #721. Stats: https://hslstats.com/#2014-aaa/g/2020493
+DESCRIPTION:HSL 2014 AAA game #721. Stats: https://hslstats.com/2014-aaa/games/2020493/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020644@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261128T011500Z
 DTEND:20261128T024500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #872. Stats: https://hslstats.com/#2014-aaa/g/2020644
+DESCRIPTION:HSL 2014 AAA game #872. Stats: https://hslstats.com/2014-aaa/games/2020644/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020650@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261128T161500Z
 DTEND:20261128T174500Z
 SUMMARY:2014 AAA: Calgary Crusaders at O2 Grizzlies
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #878. Stats: https://hslstats.com/#2014-aaa/g/2020650
+DESCRIPTION:HSL 2014 AAA game #878. Stats: https://hslstats.com/2014-aaa/games/2020650/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020659@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261128T204500Z
 DTEND:20261128T221500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #887. Stats: https://hslstats.com/#2014-aaa/g/2020659
+DESCRIPTION:HSL 2014 AAA game #887. Stats: https://hslstats.com/2014-aaa/games/2020659/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020679@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261129T183000Z
 DTEND:20261129T200000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 AAA game #907. Stats: https://hslstats.com/#2014-aaa/g/2020679
+DESCRIPTION:HSL 2014 AAA game #907. Stats: https://hslstats.com/2014-aaa/games/2020679/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020754@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261206T173000Z
 DTEND:20261206T190000Z
 SUMMARY:2014 AAA: Stars Hockey Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #982. Stats: https://hslstats.com/#2014-aaa/g/2020754
+DESCRIPTION:HSL 2014 AAA game #982. Stats: https://hslstats.com/2014-aaa/games/2020754/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020804@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261212T174500Z
 DTEND:20261212T191500Z
 SUMMARY:2014 AAA: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2014 AAA game #1032. Stats: https://hslstats.com/#2014-aaa/g/2020804
+DESCRIPTION:HSL 2014 AAA game #1032. Stats: https://hslstats.com/2014-aaa/games/2020804/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020874@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261218T223000Z
 DTEND:20261219T000000Z
 SUMMARY:2014 AAA: Calgary Crusaders at MOB Hockey
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1102. Stats: https://hslstats.com/#2014-aaa/g/2020874
+DESCRIPTION:HSL 2014 AAA game #1102. Stats: https://hslstats.com/2014-aaa/games/2020874/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020890@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261219T141500Z
 DTEND:20261219T154500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1118. Stats: https://hslstats.com/#2014-aaa/g/2020890
+DESCRIPTION:HSL 2014 AAA game #1118. Stats: https://hslstats.com/2014-aaa/games/2020890/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020934@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20261220T004500Z
 DTEND:20261220T021500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Saints Pro Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 AAA game #1162. Stats: https://hslstats.com/#2014-aaa/g/2020934
+DESCRIPTION:HSL 2014 AAA game #1162. Stats: https://hslstats.com/2014-aaa/games/2020934/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020954@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20261220T154500Z
 DTEND:20261220T171500Z
 SUMMARY:2014 AAA: Caps Hockey Club at Calgary Crusaders
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1182. Stats: https://hslstats.com/#2014-aaa/g/2020954
+DESCRIPTION:HSL 2014 AAA game #1182. Stats: https://hslstats.com/2014-aaa/games/2020954/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021171@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T133000Z
 DTEND:20270116T150000Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #1399. Stats: https://hslstats.com/#2014-aaa/g/2021171
+DESCRIPTION:HSL 2014 AAA game #1399. Stats: https://hslstats.com/2014-aaa/games/2021171/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021234@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270117T013000Z
 DTEND:20270117T030000Z
 SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #1462. Stats: https://hslstats.com/#2014-aaa/g/2021234
+DESCRIPTION:HSL 2014 AAA game #1462. Stats: https://hslstats.com/2014-aaa/games/2021234/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021246@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270117T151500Z
 DTEND:20270117T164500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Riggers Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #1474. Stats: https://hslstats.com/#2014-aaa/g/2021246
+DESCRIPTION:HSL 2014 AAA game #1474. Stats: https://hslstats.com/2014-aaa/games/2021246/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021370@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270129T230000Z
 DTEND:20270130T003000Z
 SUMMARY:2014 AAA: Stars Hockey Academy at Calgary Crusaders
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1598. Stats: https://hslstats.com/#2014-aaa/g/2021370
+DESCRIPTION:HSL 2014 AAA game #1598. Stats: https://hslstats.com/2014-aaa/games/2021370/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021384@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270130T180000Z
 DTEND:20270130T193000Z
 SUMMARY:2014 AAA: Calgary Crusaders at O2 Grizzlies
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1612. Stats: https://hslstats.com/#2014-aaa/g/2021384
+DESCRIPTION:HSL 2014 AAA game #1612. Stats: https://hslstats.com/2014-aaa/games/2021384/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021404@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T143000Z
 DTEND:20270131T160000Z
 SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1632. Stats: https://hslstats.com/#2014-aaa/g/2021404
+DESCRIPTION:HSL 2014 AAA game #1632. Stats: https://hslstats.com/2014-aaa/games/2021404/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021417@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270131T200000Z
 DTEND:20270131T213000Z
 SUMMARY:2014 AAA: O2 Grizzlies at Calgary Crusaders
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 AAA game #1645. Stats: https://hslstats.com/#2014-aaa/g/2021417
+DESCRIPTION:HSL 2014 AAA game #1645. Stats: https://hslstats.com/2014-aaa/games/2021417/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021610@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T144500Z
 DTEND:20270220T161500Z
 SUMMARY:2014 AAA: Calgary Crusaders at Caps Hockey Club
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 AAA game #1838. Stats: https://hslstats.com/#2014-aaa/g/2021610
+DESCRIPTION:HSL 2014 AAA game #1838. Stats: https://hslstats.com/2014-aaa/games/2021610/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021635@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270220T201500Z
 DTEND:20270220T214500Z
 SUMMARY:2014 AAA: Calgary Crusaders at O2 Grizzlies
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2014 AAA game #1863. Stats: https://hslstats.com/#2014-aaa/g/2021635
+DESCRIPTION:HSL 2014 AAA game #1863. Stats: https://hslstats.com/2014-aaa/games/2021635/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021671@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T163000Z
 DTEND:20270221T180000Z
 SUMMARY:2014 AAA: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2014 AAA game #1899. Stats: https://hslstats.com/#2014-aaa/g/2021671
+DESCRIPTION:HSL 2014 AAA game #1899. Stats: https://hslstats.com/2014-aaa/games/2021671/
 END:VEVENT
 END:VCALENDAR

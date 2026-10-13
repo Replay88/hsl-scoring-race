@@ -11,7 +11,7 @@ DTSTART:20260919T014500Z
 DTEND:20260919T031500Z
 SUMMARY:2014 AAA: O2 Grizzlies 7 – MOB Hockey 2 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #27. Stats: https://hslstats.com/#2014-aaa/g/2019799
+DESCRIPTION:HSL 2014 AAA game #27. Stats: https://hslstats.com/2014-aaa/games/2019799/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019829@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T180000Z
 DTEND:20260919T193000Z
 SUMMARY:2014 AAA: Spartan Hockey Academy 8 – MOB Hockey 3 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2014 AAA game #57. Stats: https://hslstats.com/#2014-aaa/g/2019829
+DESCRIPTION:HSL 2014 AAA game #57. Stats: https://hslstats.com/2014-aaa/games/2019829/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019866@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T011500Z
 DTEND:20260920T024500Z
 SUMMARY:2014 AAA: MOB Hockey 5 – Calgary Crusaders 10 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #94. Stats: https://hslstats.com/#2014-aaa/g/2019866
+DESCRIPTION:HSL 2014 AAA game #94. Stats: https://hslstats.com/2014-aaa/games/2019866/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019869@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T131500Z
 DTEND:20260920T144500Z
 SUMMARY:2014 AAA: Stars Hockey Academy 4 – MOB Hockey 12 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #97. Stats: https://hslstats.com/#2014-aaa/g/2019869
+DESCRIPTION:HSL 2014 AAA game #97. Stats: https://hslstats.com/2014-aaa/games/2019869/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020243@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261024T000000Z
 DTEND:20261024T013000Z
 SUMMARY:2014 AAA: MOB Hockey at Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #471. Stats: https://hslstats.com/#2014-aaa/g/2020243
+DESCRIPTION:HSL 2014 AAA game #471. Stats: https://hslstats.com/2014-aaa/games/2020243/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020253@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261024T150000Z
 DTEND:20261024T163000Z
 SUMMARY:2014 AAA: Calgary Crusaders at MOB Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #481. Stats: https://hslstats.com/#2014-aaa/g/2020253
+DESCRIPTION:HSL 2014 AAA game #481. Stats: https://hslstats.com/2014-aaa/games/2020253/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020278@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261025T013000Z
 DTEND:20261025T030000Z
 SUMMARY:2014 AAA: MOB Hockey at Spartan Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #506. Stats: https://hslstats.com/#2014-aaa/g/2020278
+DESCRIPTION:HSL 2014 AAA game #506. Stats: https://hslstats.com/2014-aaa/games/2020278/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020281@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261025T131500Z
 DTEND:20261025T144500Z
 SUMMARY:2014 AAA: MOB Hockey at Calgary Crusaders
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2014 AAA game #509. Stats: https://hslstats.com/#2014-aaa/g/2020281
+DESCRIPTION:HSL 2014 AAA game #509. Stats: https://hslstats.com/2014-aaa/games/2020281/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020467@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261114T011500Z
 DTEND:20261114T024500Z
 SUMMARY:2014 AAA: MOB Hockey at O2 Grizzlies
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #695. Stats: https://hslstats.com/#2014-aaa/g/2020467
+DESCRIPTION:HSL 2014 AAA game #695. Stats: https://hslstats.com/2014-aaa/games/2020467/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020475@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261114T180000Z
 DTEND:20261114T193000Z
 SUMMARY:2014 AAA: O2 Grizzlies at MOB Hockey
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #703. Stats: https://hslstats.com/#2014-aaa/g/2020475
+DESCRIPTION:HSL 2014 AAA game #703. Stats: https://hslstats.com/2014-aaa/games/2020475/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020481@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261114T221500Z
 DTEND:20261114T234500Z
 SUMMARY:2014 AAA: Stars Hockey Academy at MOB Hockey
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 AAA game #709. Stats: https://hslstats.com/#2014-aaa/g/2020481
+DESCRIPTION:HSL 2014 AAA game #709. Stats: https://hslstats.com/2014-aaa/games/2020481/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020487@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261115T140000Z
 DTEND:20261115T153000Z
 SUMMARY:2014 AAA: Spartan Hockey Academy at MOB Hockey
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #715. Stats: https://hslstats.com/#2014-aaa/g/2020487
+DESCRIPTION:HSL 2014 AAA game #715. Stats: https://hslstats.com/2014-aaa/games/2020487/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020645@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261128T013000Z
 DTEND:20261128T030000Z
 SUMMARY:2014 AAA: MOB Hockey at Caps Hockey Club
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 AAA game #873. Stats: https://hslstats.com/#2014-aaa/g/2020645
+DESCRIPTION:HSL 2014 AAA game #873. Stats: https://hslstats.com/2014-aaa/games/2020645/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020648@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261128T153000Z
 DTEND:20261128T170000Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 AAA game #876. Stats: https://hslstats.com/#2014-aaa/g/2020648
+DESCRIPTION:HSL 2014 AAA game #876. Stats: https://hslstats.com/2014-aaa/games/2020648/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020667@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261129T003000Z
 DTEND:20261129T020000Z
 SUMMARY:2014 AAA: Caps Hockey Club at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 AAA game #895. Stats: https://hslstats.com/#2014-aaa/g/2020667
+DESCRIPTION:HSL 2014 AAA game #895. Stats: https://hslstats.com/2014-aaa/games/2020667/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020676@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261129T163000Z
 DTEND:20261129T180000Z
 SUMMARY:2014 AAA: MOB Hockey at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 AAA game #904. Stats: https://hslstats.com/#2014-aaa/g/2020676
+DESCRIPTION:HSL 2014 AAA game #904. Stats: https://hslstats.com/2014-aaa/games/2020676/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020874@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261218T223000Z
 DTEND:20261219T000000Z
 SUMMARY:2014 AAA: Calgary Crusaders at MOB Hockey
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1102. Stats: https://hslstats.com/#2014-aaa/g/2020874
+DESCRIPTION:HSL 2014 AAA game #1102. Stats: https://hslstats.com/2014-aaa/games/2020874/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020910@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261219T184500Z
 DTEND:20261219T201500Z
 SUMMARY:2014 AAA: MOB Hockey at O2 Grizzlies
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1138. Stats: https://hslstats.com/#2014-aaa/g/2020910
+DESCRIPTION:HSL 2014 AAA game #1138. Stats: https://hslstats.com/2014-aaa/games/2020910/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020927@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261219T224500Z
 DTEND:20261220T001500Z
 SUMMARY:2014 AAA: MOB Hockey at Spartan Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 AAA game #1155. Stats: https://hslstats.com/#2014-aaa/g/2020927
+DESCRIPTION:HSL 2014 AAA game #1155. Stats: https://hslstats.com/2014-aaa/games/2020927/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020948@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261220T141500Z
 DTEND:20261220T154500Z
 SUMMARY:2014 AAA: MOB Hockey at Stars Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 AAA game #1176. Stats: https://hslstats.com/#2014-aaa/g/2020948
+DESCRIPTION:HSL 2014 AAA game #1176. Stats: https://hslstats.com/2014-aaa/games/2020948/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021168@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270116T014500Z
 DTEND:20270116T031500Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #1396. Stats: https://hslstats.com/#2014-aaa/g/2021168
+DESCRIPTION:HSL 2014 AAA game #1396. Stats: https://hslstats.com/2014-aaa/games/2021168/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021175@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270116T141500Z
 DTEND:20270116T154500Z
 SUMMARY:2014 AAA: MOB Hockey at Caps Hockey Club
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #1403. Stats: https://hslstats.com/#2014-aaa/g/2021175
+DESCRIPTION:HSL 2014 AAA game #1403. Stats: https://hslstats.com/2014-aaa/games/2021175/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021199@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T184500Z
 DTEND:20270116T201500Z
 SUMMARY:2014 AAA: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #1427. Stats: https://hslstats.com/#2014-aaa/g/2021199
+DESCRIPTION:HSL 2014 AAA game #1427. Stats: https://hslstats.com/2014-aaa/games/2021199/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021255@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270117T171500Z
 DTEND:20270117T184500Z
 SUMMARY:2014 AAA: Caps Hockey Club at MOB Hockey
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #1483. Stats: https://hslstats.com/#2014-aaa/g/2021255
+DESCRIPTION:HSL 2014 AAA game #1483. Stats: https://hslstats.com/2014-aaa/games/2021255/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021373@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270130T001500Z
 DTEND:20270130T014500Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 AAA game #1601. Stats: https://hslstats.com/#2014-aaa/g/2021373
+DESCRIPTION:HSL 2014 AAA game #1601. Stats: https://hslstats.com/2014-aaa/games/2021373/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021377@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270130T140000Z
 DTEND:20270130T153000Z
 SUMMARY:2014 AAA: MOB Hockey at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 AAA game #1605. Stats: https://hslstats.com/#2014-aaa/g/2021377
+DESCRIPTION:HSL 2014 AAA game #1605. Stats: https://hslstats.com/2014-aaa/games/2021377/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021394@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270130T220000Z
 DTEND:20270130T233000Z
 SUMMARY:2014 AAA: MOB Hockey at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 AAA game #1622. Stats: https://hslstats.com/#2014-aaa/g/2021394
+DESCRIPTION:HSL 2014 AAA game #1622. Stats: https://hslstats.com/2014-aaa/games/2021394/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021408@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T161500Z
 DTEND:20270131T174500Z
 SUMMARY:2014 AAA: Caps Hockey Club at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 AAA game #1636. Stats: https://hslstats.com/#2014-aaa/g/2021408
+DESCRIPTION:HSL 2014 AAA game #1636. Stats: https://hslstats.com/2014-aaa/games/2021408/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021592@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270219T230000Z
 DTEND:20270220T003000Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2014 AAA game #1820. Stats: https://hslstats.com/#2014-aaa/g/2021592
+DESCRIPTION:HSL 2014 AAA game #1820. Stats: https://hslstats.com/2014-aaa/games/2021592/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021606@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T140000Z
 DTEND:20270220T153000Z
 SUMMARY:2014 AAA: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2014 AAA game #1834. Stats: https://hslstats.com/#2014-aaa/g/2021606
+DESCRIPTION:HSL 2014 AAA game #1834. Stats: https://hslstats.com/2014-aaa/games/2021606/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021645@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270220T220000Z
 DTEND:20270220T233000Z
 SUMMARY:2014 AAA: Riggers Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2014 AAA game #1873. Stats: https://hslstats.com/#2014-aaa/g/2021645
+DESCRIPTION:HSL 2014 AAA game #1873. Stats: https://hslstats.com/2014-aaa/games/2021645/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021657@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
 SUMMARY:2014 AAA: MOB Hockey at Riggers Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2014 AAA game #1885. Stats: https://hslstats.com/#2014-aaa/g/2021657
+DESCRIPTION:HSL 2014 AAA game #1885. Stats: https://hslstats.com/2014-aaa/games/2021657/
 END:VEVENT
 END:VCALENDAR

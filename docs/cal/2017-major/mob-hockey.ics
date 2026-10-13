@@ -11,7 +11,7 @@ DTSTART:20260918T214500Z
 DTEND:20260918T231500Z
 SUMMARY:2017 Major: MOB Hockey 3 – Calgary Crusaders 8 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #5. Stats: https://hslstats.com/#2017-major/g/2019777
+DESCRIPTION:HSL 2017 Major game #5. Stats: https://hslstats.com/2017-major/games/2019777/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019837@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T193000Z
 DTEND:20260919T210000Z
 SUMMARY:2017 Major: Calgary Crusaders 4 – MOB Hockey 9 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #65. Stats: https://hslstats.com/#2017-major/g/2019837
+DESCRIPTION:HSL 2017 Major game #65. Stats: https://hslstats.com/2017-major/games/2019837/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019865@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T004500Z
 DTEND:20260920T021500Z
 SUMMARY:2017 Major: MOB Hockey 6 – Vipers Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #93. Stats: https://hslstats.com/#2017-major/g/2019865
+DESCRIPTION:HSL 2017 Major game #93. Stats: https://hslstats.com/2017-major/games/2019865/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019901@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T191500Z
 DTEND:20260920T204500Z
 SUMMARY:2017 Major: Sauce Hockey Academy 6 – MOB Hockey 8 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #129. Stats: https://hslstats.com/#2017-major/g/2019901
+DESCRIPTION:HSL 2017 Major game #129. Stats: https://hslstats.com/2017-major/games/2019901/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019995@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261003T004500Z
 DTEND:20261003T021500Z
 SUMMARY:2017 Major: MOB Hockey 10 – Wolverines Hockey Academy 2 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #223. Stats: https://hslstats.com/#2017-major/g/2019995
+DESCRIPTION:HSL 2017 Major game #223. Stats: https://hslstats.com/2017-major/games/2019995/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020002@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261003T174500Z
 DTEND:20261003T191500Z
 SUMMARY:2017 Major: North Stars Academy Wild 3 – MOB Hockey 7 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #230. Stats: https://hslstats.com/#2017-major/g/2020002
+DESCRIPTION:HSL 2017 Major game #230. Stats: https://hslstats.com/2017-major/games/2020002/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020013@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261003T230000Z
 DTEND:20261004T003000Z
 SUMMARY:2017 Major: MOB Hockey 9 – Aces Hockey Academy 6 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #241. Stats: https://hslstats.com/#2017-major/g/2020013
+DESCRIPTION:HSL 2017 Major game #241. Stats: https://hslstats.com/2017-major/games/2020013/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020016@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261004T140000Z
 DTEND:20261004T153000Z
 SUMMARY:2017 Major: MOB Hockey 7 – North Stars Academy Wild 0 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #244. Stats: https://hslstats.com/#2017-major/g/2020016
+DESCRIPTION:HSL 2017 Major game #244. Stats: https://hslstats.com/2017-major/games/2020016/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020310@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261030T214500Z
 DTEND:20261030T231500Z
 SUMMARY:2017 Major: Stars Hockey Academy at MOB Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #538. Stats: https://hslstats.com/#2017-major/g/2020310
+DESCRIPTION:HSL 2017 Major game #538. Stats: https://hslstats.com/2017-major/games/2020310/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020335@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261031T154500Z
 DTEND:20261031T171500Z
 SUMMARY:2017 Major: Spartan Hockey Academy at MOB Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #563. Stats: https://hslstats.com/#2017-major/g/2020335
+DESCRIPTION:HSL 2017 Major game #563. Stats: https://hslstats.com/2017-major/games/2020335/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020348@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261031T191500Z
 DTEND:20261031T204500Z
 SUMMARY:2017 Major: Young Kings Hockey at MOB Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #576. Stats: https://hslstats.com/#2017-major/g/2020348
+DESCRIPTION:HSL 2017 Major game #576. Stats: https://hslstats.com/2017-major/games/2020348/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020368@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261101T163000Z
 DTEND:20261101T180000Z
 SUMMARY:2017 Major: MOB Hockey at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #596. Stats: https://hslstats.com/#2017-major/g/2020368
+DESCRIPTION:HSL 2017 Major game #596. Stats: https://hslstats.com/2017-major/games/2020368/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020519@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261121T004500Z
 DTEND:20261121T021500Z
 SUMMARY:2017 Major: MOB Hockey at Stars Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #747. Stats: https://hslstats.com/#2017-major/g/2020519
+DESCRIPTION:HSL 2017 Major game #747. Stats: https://hslstats.com/2017-major/games/2020519/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020543@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261121T154500Z
 DTEND:20261121T171500Z
 SUMMARY:2017 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #771. Stats: https://hslstats.com/#2017-major/g/2020543
+DESCRIPTION:HSL 2017 Major game #771. Stats: https://hslstats.com/2017-major/games/2020543/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020576@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261121T230000Z
 DTEND:20261122T003000Z
 SUMMARY:2017 Major: Stars Hockey Academy at MOB Hockey
 LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #804. Stats: https://hslstats.com/#2017-major/g/2020576
+DESCRIPTION:HSL 2017 Major game #804. Stats: https://hslstats.com/2017-major/games/2020576/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020609@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261122T160000Z
 DTEND:20261122T173000Z
 SUMMARY:2017 Major: MOB Hockey at Gorillas Hockey Academy
 LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #837. Stats: https://hslstats.com/#2017-major/g/2020609
+DESCRIPTION:HSL 2017 Major game #837. Stats: https://hslstats.com/2017-major/games/2020609/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020695@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261204T220000Z
 DTEND:20261204T233000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at MOB Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #923. Stats: https://hslstats.com/#2017-major/g/2020695
+DESCRIPTION:HSL 2017 Major game #923. Stats: https://hslstats.com/2017-major/games/2020695/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020708@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261205T140000Z
 DTEND:20261205T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #936. Stats: https://hslstats.com/#2017-major/g/2020708
+DESCRIPTION:HSL 2017 Major game #936. Stats: https://hslstats.com/2017-major/games/2020708/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020740@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261206T021500Z
 DTEND:20261206T034500Z
 SUMMARY:2017 Major: MOB Hockey at Gorillas Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #968. Stats: https://hslstats.com/#2017-major/g/2020740
+DESCRIPTION:HSL 2017 Major game #968. Stats: https://hslstats.com/2017-major/games/2020740/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020745@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261206T140000Z
 DTEND:20261206T153000Z
 SUMMARY:2017 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #973. Stats: https://hslstats.com/#2017-major/g/2020745
+DESCRIPTION:HSL 2017 Major game #973. Stats: https://hslstats.com/2017-major/games/2020745/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021157@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270115T230000Z
 DTEND:20270116T003000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1385. Stats: https://hslstats.com/#2017-major/g/2021157
+DESCRIPTION:HSL 2017 Major game #1385. Stats: https://hslstats.com/2017-major/games/2021157/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021202@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270116T191500Z
 DTEND:20270116T204500Z
 SUMMARY:2017 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1430. Stats: https://hslstats.com/#2017-major/g/2021202
+DESCRIPTION:HSL 2017 Major game #1430. Stats: https://hslstats.com/2017-major/games/2021202/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021222@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T224500Z
 DTEND:20270117T001500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1450. Stats: https://hslstats.com/#2017-major/g/2021222
+DESCRIPTION:HSL 2017 Major game #1450. Stats: https://hslstats.com/2017-major/games/2021222/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021253@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270117T154500Z
 DTEND:20270117T171500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1481. Stats: https://hslstats.com/#2017-major/g/2021253
+DESCRIPTION:HSL 2017 Major game #1481. Stats: https://hslstats.com/2017-major/games/2021253/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021371@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270129T230000Z
 DTEND:20270130T003000Z
 SUMMARY:2017 Major: South Sask Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1599. Stats: https://hslstats.com/#2017-major/g/2021371
+DESCRIPTION:HSL 2017 Major game #1599. Stats: https://hslstats.com/2017-major/games/2021371/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021388@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270130T191500Z
 DTEND:20270130T204500Z
 SUMMARY:2017 Major: MOB Hockey at Queen City Young Guns
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1616. Stats: https://hslstats.com/#2017-major/g/2021388
+DESCRIPTION:HSL 2017 Major game #1616. Stats: https://hslstats.com/2017-major/games/2021388/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021400@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270131T003000Z
 DTEND:20270131T020000Z
 SUMMARY:2017 Major: MOB Hockey at Wolverines Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1628. Stats: https://hslstats.com/#2017-major/g/2021400
+DESCRIPTION:HSL 2017 Major game #1628. Stats: https://hslstats.com/2017-major/games/2021400/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021412@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T173000Z
 DTEND:20270131T190000Z
 SUMMARY:2017 Major: MOB Hockey at South Sask Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1640. Stats: https://hslstats.com/#2017-major/g/2021412
+DESCRIPTION:HSL 2017 Major game #1640. Stats: https://hslstats.com/2017-major/games/2021412/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021604@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270220T011500Z
 DTEND:20270220T024500Z
 SUMMARY:2017 Major: MOB Hockey at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2017 Major game #1832. Stats: https://hslstats.com/#2017-major/g/2021604
+DESCRIPTION:HSL 2017 Major game #1832. Stats: https://hslstats.com/2017-major/games/2021604/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021618@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T161500Z
 DTEND:20270220T174500Z
 SUMMARY:2017 Major: North Stars Academy Wild at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2017 Major game #1846. Stats: https://hslstats.com/#2017-major/g/2021618
+DESCRIPTION:HSL 2017 Major game #1846. Stats: https://hslstats.com/2017-major/games/2021618/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021653@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270221T001500Z
 DTEND:20270221T014500Z
 SUMMARY:2017 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2017 Major game #1881. Stats: https://hslstats.com/#2017-major/g/2021653
+DESCRIPTION:HSL 2017 Major game #1881. Stats: https://hslstats.com/2017-major/games/2021653/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021676@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T173000Z
 DTEND:20270221T190000Z
 SUMMARY:2017 Major: MOB Hockey at North Stars Academy Wild
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2017 Major game #1904. Stats: https://hslstats.com/#2017-major/g/2021676
+DESCRIPTION:HSL 2017 Major game #1904. Stats: https://hslstats.com/2017-major/games/2021676/
 END:VEVENT
 END:VCALENDAR

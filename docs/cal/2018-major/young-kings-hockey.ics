@@ -11,7 +11,7 @@ DTSTART:20260918T220000Z
 DTEND:20260918T233000Z
 SUMMARY:2018 Major: O2 Grizzlies 3 – Young Kings Hockey 6 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #6. Stats: https://hslstats.com/#2018-major/g/2019778
+DESCRIPTION:HSL 2018 Major game #6. Stats: https://hslstats.com/2018-major/games/2019778/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019818@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T160000Z
 DTEND:20260919T173000Z
 SUMMARY:2018 Major: Calgary Crusaders 9 – Young Kings Hockey 5 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #46. Stats: https://hslstats.com/#2018-major/g/2019818
+DESCRIPTION:HSL 2018 Major game #46. Stats: https://hslstats.com/2018-major/games/2019818/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019858@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260919T230000Z
 DTEND:20260920T003000Z
 SUMMARY:2018 Major: Young Kings Hockey 9 – O2 Grizzlies 2 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #86. Stats: https://hslstats.com/#2018-major/g/2019858
+DESCRIPTION:HSL 2018 Major game #86. Stats: https://hslstats.com/2018-major/games/2019858/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019887@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T161500Z
 DTEND:20260920T174500Z
 SUMMARY:2018 Major: Young Kings Hockey 3 – Calgary Crusaders 5 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2018 Major game #115. Stats: https://hslstats.com/#2018-major/g/2019887
+DESCRIPTION:HSL 2018 Major game #115. Stats: https://hslstats.com/2018-major/games/2019887/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020035@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261009T214500Z
 DTEND:20261009T231500Z
 SUMMARY:2018 Major: Sauce Hockey Academy 4 – Young Kings Hockey 4 (Final)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #263. Stats: https://hslstats.com/#2018-major/g/2020035
+DESCRIPTION:HSL 2018 Major game #263. Stats: https://hslstats.com/2018-major/games/2020035/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020066@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261010T154500Z
 DTEND:20261010T171500Z
 SUMMARY:2018 Major: Young Kings Hockey 0 – Spartan Hockey Academy 11 (Final)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #294. Stats: https://hslstats.com/#2018-major/g/2020066
+DESCRIPTION:HSL 2018 Major game #294. Stats: https://hslstats.com/2018-major/games/2020066/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020103@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261010T224500Z
 DTEND:20261011T001500Z
 SUMMARY:2018 Major: Young Kings Hockey 6 – Sauce Hockey Academy 2 (Final)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #331. Stats: https://hslstats.com/#2018-major/g/2020103
+DESCRIPTION:HSL 2018 Major game #331. Stats: https://hslstats.com/2018-major/games/2020103/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020134@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261011T173000Z
 DTEND:20261011T190000Z
 SUMMARY:2018 Major: Spartan Hockey Academy 9 – Young Kings Hockey 4 (Final)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #362. Stats: https://hslstats.com/#2018-major/g/2020134
+DESCRIPTION:HSL 2018 Major game #362. Stats: https://hslstats.com/2018-major/games/2020134/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020231@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261018T190000Z
 DTEND:20261018T203000Z
 SUMMARY:2018 Major: Calgary Crusaders at Young Kings Hockey
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2018 Major game #459. Stats: https://hslstats.com/#2018-major/g/2020231
+DESCRIPTION:HSL 2018 Major game #459. Stats: https://hslstats.com/2018-major/games/2020231/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020294@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261025T190000Z
 DTEND:20261025T203000Z
 SUMMARY:2018 Major: Stars Hockey Academy at Young Kings Hockey
 LOCATION:Vauxhall Recreation Centre
-DESCRIPTION:HSL 2018 Major game #522. Stats: https://hslstats.com/#2018-major/g/2020294
+DESCRIPTION:HSL 2018 Major game #522. Stats: https://hslstats.com/2018-major/games/2020294/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020319@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261031T003000Z
 DTEND:20261031T020000Z
 SUMMARY:2018 Major: Young Kings Hockey at Queen City Young Guns
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Major game #547. Stats: https://hslstats.com/#2018-major/g/2020319
+DESCRIPTION:HSL 2018 Major game #547. Stats: https://hslstats.com/2018-major/games/2020319/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020338@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261031T163000Z
 DTEND:20261031T180000Z
 SUMMARY:2018 Major: Queen City Young Guns at Young Kings Hockey
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Major game #566. Stats: https://hslstats.com/#2018-major/g/2020338
+DESCRIPTION:HSL 2018 Major game #566. Stats: https://hslstats.com/2018-major/games/2020338/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020657@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261128T193000Z
 DTEND:20261128T210000Z
 SUMMARY:2018 Major: MOB Hockey at Young Kings Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #885. Stats: https://hslstats.com/#2018-major/g/2020657
+DESCRIPTION:HSL 2018 Major game #885. Stats: https://hslstats.com/2018-major/games/2020657/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020664@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261128T230000Z
 DTEND:20261129T003000Z
 SUMMARY:2018 Major: Young Kings Hockey at North Stars Academy Wild
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #892. Stats: https://hslstats.com/#2018-major/g/2020664
+DESCRIPTION:HSL 2018 Major game #892. Stats: https://hslstats.com/2018-major/games/2020664/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020674@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261129T154500Z
 DTEND:20261129T171500Z
 SUMMARY:2018 Major: Young Kings Hockey at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #902. Stats: https://hslstats.com/#2018-major/g/2020674
+DESCRIPTION:HSL 2018 Major game #902. Stats: https://hslstats.com/2018-major/games/2020674/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020682@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261129T191500Z
 DTEND:20261129T204500Z
 SUMMARY:2018 Major: Young Kings Hockey at Aces Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #910. Stats: https://hslstats.com/#2018-major/g/2020682
+DESCRIPTION:HSL 2018 Major game #910. Stats: https://hslstats.com/2018-major/games/2020682/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020772@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261211T221500Z
 DTEND:20261211T234500Z
 SUMMARY:2018 Major: Young Kings Hockey at Capital City Knights
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Major game #1000. Stats: https://hslstats.com/#2018-major/g/2020772
+DESCRIPTION:HSL 2018 Major game #1000. Stats: https://hslstats.com/2018-major/games/2020772/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020805@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261212T180000Z
 DTEND:20261212T193000Z
 SUMMARY:2018 Major: Young Kings Hockey at Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Major game #1033. Stats: https://hslstats.com/#2018-major/g/2020805
+DESCRIPTION:HSL 2018 Major game #1033. Stats: https://hslstats.com/2018-major/games/2020805/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020831@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261212T233000Z
 DTEND:20261213T010000Z
 SUMMARY:2018 Major: Capital City Knights at Young Kings Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Major game #1059. Stats: https://hslstats.com/#2018-major/g/2020831
+DESCRIPTION:HSL 2018 Major game #1059. Stats: https://hslstats.com/2018-major/games/2020831/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020843@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261213T143000Z
 DTEND:20261213T160000Z
 SUMMARY:2018 Major: Stars Hockey Academy at Young Kings Hockey
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Major game #1071. Stats: https://hslstats.com/#2018-major/g/2020843
+DESCRIPTION:HSL 2018 Major game #1071. Stats: https://hslstats.com/2018-major/games/2020843/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020996@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270102T180000Z
 DTEND:20270102T193000Z
 SUMMARY:2018 Major: Young Kings Hockey at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Major game #1224. Stats: https://hslstats.com/#2018-major/g/2020996
+DESCRIPTION:HSL 2018 Major game #1224. Stats: https://hslstats.com/2018-major/games/2020996/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021009@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270102T211500Z
 DTEND:20270102T224500Z
 SUMMARY:2018 Major: O2 Grizzlies at Young Kings Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2018 Major game #1237. Stats: https://hslstats.com/#2018-major/g/2021009
+DESCRIPTION:HSL 2018 Major game #1237. Stats: https://hslstats.com/2018-major/games/2021009/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021075@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270108T224500Z
 DTEND:20270109T001500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Young Kings Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1303. Stats: https://hslstats.com/#2018-major/g/2021075
+DESCRIPTION:HSL 2018 Major game #1303. Stats: https://hslstats.com/2018-major/games/2021075/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021115@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270109T224500Z
 DTEND:20270110T001500Z
 SUMMARY:2018 Major: Young Kings Hockey at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1343. Stats: https://hslstats.com/#2018-major/g/2021115
+DESCRIPTION:HSL 2018 Major game #1343. Stats: https://hslstats.com/2018-major/games/2021115/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021281@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270122T224500Z
 DTEND:20270123T001500Z
 SUMMARY:2018 Major: Young Kings Hockey at Sask Super Selects
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1509. Stats: https://hslstats.com/#2018-major/g/2021281
+DESCRIPTION:HSL 2018 Major game #1509. Stats: https://hslstats.com/2018-major/games/2021281/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021306@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270123T154500Z
 DTEND:20270123T171500Z
 SUMMARY:2018 Major: Young Kings Hockey at Queen City Young Guns
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1534. Stats: https://hslstats.com/#2018-major/g/2021306
+DESCRIPTION:HSL 2018 Major game #1534. Stats: https://hslstats.com/2018-major/games/2021306/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021329@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270123T210000Z
 DTEND:20270123T223000Z
 SUMMARY:2018 Major: Sask Super Selects at Young Kings Hockey
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1557. Stats: https://hslstats.com/#2018-major/g/2021329
+DESCRIPTION:HSL 2018 Major game #1557. Stats: https://hslstats.com/2018-major/games/2021329/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021358@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270124T173000Z
 DTEND:20270124T190000Z
 SUMMARY:2018 Major: Young Kings Hockey at Gorillas Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1586. Stats: https://hslstats.com/#2018-major/g/2021358
+DESCRIPTION:HSL 2018 Major game #1586. Stats: https://hslstats.com/2018-major/games/2021358/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021507@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270212T224500Z
 DTEND:20270213T001500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Young Kings Hockey
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Major game #1735. Stats: https://hslstats.com/#2018-major/g/2021507
+DESCRIPTION:HSL 2018 Major game #1735. Stats: https://hslstats.com/2018-major/games/2021507/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021534@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270213T183000Z
 DTEND:20270213T200000Z
 SUMMARY:2018 Major: Young Kings Hockey at North Stars Hockey Academy
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1762. Stats: https://hslstats.com/#2018-major/g/2021534
+DESCRIPTION:HSL 2018 Major game #1762. Stats: https://hslstats.com/2018-major/games/2021534/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021571@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270214T164500Z
 DTEND:20270214T181500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Young Kings Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1799. Stats: https://hslstats.com/#2018-major/g/2021571
+DESCRIPTION:HSL 2018 Major game #1799. Stats: https://hslstats.com/2018-major/games/2021571/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021581@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270214T201500Z
 DTEND:20270214T214500Z
 SUMMARY:2018 Major: Sauce Hockey Academy at Young Kings Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2018 Major game #1809. Stats: https://hslstats.com/#2018-major/g/2021581
+DESCRIPTION:HSL 2018 Major game #1809. Stats: https://hslstats.com/2018-major/games/2021581/
 END:VEVENT
 END:VCALENDAR

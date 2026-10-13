@@ -11,7 +11,7 @@ DTSTART:20261002T230000Z
 DTEND:20261003T003000Z
 SUMMARY:2017 Minor: YYC Jays 7 – Rebels Hockey Academy 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #218. Stats: https://hslstats.com/#2017-minor/g/2019990
+DESCRIPTION:HSL 2017 Minor game #218. Stats: https://hslstats.com/2017-minor/games/2019990/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020001@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20261003T173000Z
 DTEND:20261003T190000Z
 SUMMARY:2017 Minor: Caps Hockey Club 10 – Rebels Hockey Academy 9 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #229. Stats: https://hslstats.com/#2017-minor/g/2020001
+DESCRIPTION:HSL 2017 Minor game #229. Stats: https://hslstats.com/2017-minor/games/2020001/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020011@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20261003T224500Z
 DTEND:20261004T001500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy 10 – YYC Jays 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #239. Stats: https://hslstats.com/#2017-minor/g/2020011
+DESCRIPTION:HSL 2017 Minor game #239. Stats: https://hslstats.com/2017-minor/games/2020011/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020022@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20261004T161500Z
 DTEND:20261004T174500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy 4 – Gorillas Hockey Academy 5 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #250. Stats: https://hslstats.com/#2017-minor/g/2020022
+DESCRIPTION:HSL 2017 Minor game #250. Stats: https://hslstats.com/2017-minor/games/2020022/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020165@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261016T234500Z
 DTEND:20261017T011500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #393. Stats: https://hslstats.com/#2017-minor/g/2020165
+DESCRIPTION:HSL 2017 Minor game #393. Stats: https://hslstats.com/2017-minor/games/2020165/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020175@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261017T143000Z
 DTEND:20261017T160000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #403. Stats: https://hslstats.com/#2017-minor/g/2020175
+DESCRIPTION:HSL 2017 Minor game #403. Stats: https://hslstats.com/2017-minor/games/2020175/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020199@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261017T210000Z
 DTEND:20261017T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #427. Stats: https://hslstats.com/#2017-minor/g/2020199
+DESCRIPTION:HSL 2017 Minor game #427. Stats: https://hslstats.com/2017-minor/games/2020199/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020227@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261018T174500Z
 DTEND:20261018T191500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #455. Stats: https://hslstats.com/#2017-minor/g/2020227
+DESCRIPTION:HSL 2017 Minor game #455. Stats: https://hslstats.com/2017-minor/games/2020227/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020395@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261106T234500Z
 DTEND:20261107T011500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #623. Stats: https://hslstats.com/#2017-minor/g/2020395
+DESCRIPTION:HSL 2017 Minor game #623. Stats: https://hslstats.com/2017-minor/games/2020395/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020405@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261107T154500Z
 DTEND:20261107T171500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #633. Stats: https://hslstats.com/#2017-minor/g/2020405
+DESCRIPTION:HSL 2017 Minor game #633. Stats: https://hslstats.com/2017-minor/games/2020405/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020417@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261107T191500Z
 DTEND:20261107T204500Z
 SUMMARY:2017 Minor: Caps Hockey Club at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #645. Stats: https://hslstats.com/#2017-minor/g/2020417
+DESCRIPTION:HSL 2017 Minor game #645. Stats: https://hslstats.com/2017-minor/games/2020417/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020439@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261108T154500Z
 DTEND:20261108T171500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Minor game #667. Stats: https://hslstats.com/#2017-minor/g/2020439
+DESCRIPTION:HSL 2017 Minor game #667. Stats: https://hslstats.com/2017-minor/games/2020439/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020697@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261204T230000Z
 DTEND:20261205T003000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #925. Stats: https://hslstats.com/#2017-minor/g/2020697
+DESCRIPTION:HSL 2017 Minor game #925. Stats: https://hslstats.com/2017-minor/games/2020697/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020710@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261205T154500Z
 DTEND:20261205T171500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #938. Stats: https://hslstats.com/#2017-minor/g/2020710
+DESCRIPTION:HSL 2017 Minor game #938. Stats: https://hslstats.com/2017-minor/games/2020710/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020736@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261206T003000Z
 DTEND:20261206T020000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Caps Hockey Club
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #964. Stats: https://hslstats.com/#2017-minor/g/2020736
+DESCRIPTION:HSL 2017 Minor game #964. Stats: https://hslstats.com/2017-minor/games/2020736/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020753@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261206T173000Z
 DTEND:20261206T190000Z
 SUMMARY:2017 Minor: Caps Hockey Club at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #981. Stats: https://hslstats.com/#2017-minor/g/2020753
+DESCRIPTION:HSL 2017 Minor game #981. Stats: https://hslstats.com/2017-minor/games/2020753/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020878@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261218T231500Z
 DTEND:20261219T004500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2017 Minor game #1106. Stats: https://hslstats.com/#2017-minor/g/2020878
+DESCRIPTION:HSL 2017 Minor game #1106. Stats: https://hslstats.com/2017-minor/games/2020878/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020920@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261219T210000Z
 DTEND:20261219T223000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://hslstats.com/#2017-minor/g/2020920
+DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://hslstats.com/2017-minor/games/2020920/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020945@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261220T140000Z
 DTEND:20261220T153000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1173. Stats: https://hslstats.com/#2017-minor/g/2020945
+DESCRIPTION:HSL 2017 Minor game #1173. Stats: https://hslstats.com/2017-minor/games/2020945/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020963@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261220T180000Z
 DTEND:20261220T193000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1191. Stats: https://hslstats.com/#2017-minor/g/2020963
+DESCRIPTION:HSL 2017 Minor game #1191. Stats: https://hslstats.com/2017-minor/games/2020963/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021195@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270116T180000Z
 DTEND:20270116T193000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at HC Calgary Bandits
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1423. Stats: https://hslstats.com/#2017-minor/g/2021195
+DESCRIPTION:HSL 2017 Minor game #1423. Stats: https://hslstats.com/2017-minor/games/2021195/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021224@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270116T231500Z
 DTEND:20270117T004500Z
 SUMMARY:2017 Minor: YYC Jays at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1452. Stats: https://hslstats.com/#2017-minor/g/2021224
+DESCRIPTION:HSL 2017 Minor game #1452. Stats: https://hslstats.com/2017-minor/games/2021224/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021240@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270117T140000Z
 DTEND:20270117T153000Z
 SUMMARY:2017 Minor: HC Calgary Bandits at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1468. Stats: https://hslstats.com/#2017-minor/g/2021240
+DESCRIPTION:HSL 2017 Minor game #1468. Stats: https://hslstats.com/2017-minor/games/2021240/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021258@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270117T173000Z
 DTEND:20270117T190000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at YYC Jays
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1486. Stats: https://hslstats.com/#2017-minor/g/2021258
+DESCRIPTION:HSL 2017 Minor game #1486. Stats: https://hslstats.com/2017-minor/games/2021258/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021372@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270129T234500Z
 DTEND:20270130T011500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1600. Stats: https://hslstats.com/#2017-minor/g/2021372
+DESCRIPTION:HSL 2017 Minor game #1600. Stats: https://hslstats.com/2017-minor/games/2021372/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021387@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270130T191500Z
 DTEND:20270130T204500Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1615. Stats: https://hslstats.com/#2017-minor/g/2021387
+DESCRIPTION:HSL 2017 Minor game #1615. Stats: https://hslstats.com/2017-minor/games/2021387/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021396@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270130T224500Z
 DTEND:20270131T001500Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1624. Stats: https://hslstats.com/#2017-minor/g/2021396
+DESCRIPTION:HSL 2017 Minor game #1624. Stats: https://hslstats.com/2017-minor/games/2021396/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021401@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T140000Z
 DTEND:20270131T153000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2017 Minor game #1629. Stats: https://hslstats.com/#2017-minor/g/2021401
+DESCRIPTION:HSL 2017 Minor game #1629. Stats: https://hslstats.com/2017-minor/games/2021401/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021591@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270219T230000Z
 DTEND:20270220T003000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1819. Stats: https://hslstats.com/#2017-minor/g/2021591
+DESCRIPTION:HSL 2017 Minor game #1819. Stats: https://hslstats.com/2017-minor/games/2021591/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021615@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T160000Z
 DTEND:20270220T173000Z
 SUMMARY:2017 Minor: Rebels Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1843. Stats: https://hslstats.com/#2017-minor/g/2021615
+DESCRIPTION:HSL 2017 Minor game #1843. Stats: https://hslstats.com/2017-minor/games/2021615/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021641@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270220T211500Z
 DTEND:20270220T224500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://hslstats.com/#2017-minor/g/2021641
+DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://hslstats.com/2017-minor/games/2021641/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021673@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T164500Z
 DTEND:20270221T181500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1901. Stats: https://hslstats.com/#2017-minor/g/2021673
+DESCRIPTION:HSL 2017 Minor game #1901. Stats: https://hslstats.com/2017-minor/games/2021673/
 END:VEVENT
 END:VCALENDAR

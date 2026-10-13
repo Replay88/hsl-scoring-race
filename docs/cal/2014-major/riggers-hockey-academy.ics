@@ -11,7 +11,7 @@ DTSTART:20260919T153000Z
 DTEND:20260919T170000Z
 SUMMARY:2014 Major: South Sask Academy 7 – Riggers Hockey Academy 3 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #39. Stats: https://hslstats.com/#2014-major/g/2019811
+DESCRIPTION:HSL 2014 Major game #39. Stats: https://hslstats.com/2014-major/games/2019811/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019860@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T233000Z
 DTEND:20260920T010000Z
 SUMMARY:2014 Major: Riggers Hockey Academy 0 – Caps Hockey Club 6 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #88. Stats: https://hslstats.com/#2014-major/g/2019860
+DESCRIPTION:HSL 2014 Major game #88. Stats: https://hslstats.com/2014-major/games/2019860/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019879@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T150000Z
 DTEND:20260920T163000Z
 SUMMARY:2014 Major: Riggers Hockey Academy 7 – South Sask Academy 10 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #107. Stats: https://hslstats.com/#2014-major/g/2019879
+DESCRIPTION:HSL 2014 Major game #107. Stats: https://hslstats.com/2014-major/games/2019879/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019899@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T190000Z
 DTEND:20260920T203000Z
 SUMMARY:2014 Major: Caps Hockey Club 7 – Riggers Hockey Academy 3 (Final)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #127. Stats: https://hslstats.com/#2014-major/g/2019899
+DESCRIPTION:HSL 2014 Major game #127. Stats: https://hslstats.com/2014-major/games/2019899/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020163@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261016T224500Z
 DTEND:20261017T001500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #391. Stats: https://hslstats.com/#2014-major/g/2020163
+DESCRIPTION:HSL 2014 Major game #391. Stats: https://hslstats.com/2014-major/games/2020163/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020170@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261017T130000Z
 DTEND:20261017T143000Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #398. Stats: https://hslstats.com/#2014-major/g/2020170
+DESCRIPTION:HSL 2014 Major game #398. Stats: https://hslstats.com/2014-major/games/2020170/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020200@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261017T210000Z
 DTEND:20261017T223000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #428. Stats: https://hslstats.com/#2014-major/g/2020200
+DESCRIPTION:HSL 2014 Major game #428. Stats: https://hslstats.com/2014-major/games/2020200/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020224@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261018T170000Z
 DTEND:20261018T183000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2014 Major game #452. Stats: https://hslstats.com/#2014-major/g/2020224
+DESCRIPTION:HSL 2014 Major game #452. Stats: https://hslstats.com/2014-major/games/2020224/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020330@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261031T143000Z
 DTEND:20261031T160000Z
 SUMMARY:2014 Major: South Sask Academy at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #558. Stats: https://hslstats.com/#2014-major/g/2020330
+DESCRIPTION:HSL 2014 Major game #558. Stats: https://hslstats.com/2014-major/games/2020330/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020353@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261031T211500Z
 DTEND:20261031T224500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #581. Stats: https://hslstats.com/#2014-major/g/2020353
+DESCRIPTION:HSL 2014 Major game #581. Stats: https://hslstats.com/2014-major/games/2020353/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020359@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261101T143000Z
 DTEND:20261101T160000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at South Sask Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #587. Stats: https://hslstats.com/#2014-major/g/2020359
+DESCRIPTION:HSL 2014 Major game #587. Stats: https://hslstats.com/2014-major/games/2020359/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020374@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261101T190000Z
 DTEND:20261101T203000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2014 Major game #602. Stats: https://hslstats.com/#2014-major/g/2020374
+DESCRIPTION:HSL 2014 Major game #602. Stats: https://hslstats.com/2014-major/games/2020374/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020635@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261126T000000Z
 DTEND:20261126T013000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 Major game #863. Stats: https://hslstats.com/#2014-major/g/2020635
+DESCRIPTION:HSL 2014 Major game #863. Stats: https://hslstats.com/2014-major/games/2020635/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020806@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261212T181500Z
 DTEND:20261212T194500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at North Stars Academy Wild
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1034. Stats: https://hslstats.com/#2014-major/g/2020806
+DESCRIPTION:HSL 2014 Major game #1034. Stats: https://hslstats.com/2014-major/games/2020806/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020852@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261213T170000Z
 DTEND:20261213T183000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2014 Major game #1080. Stats: https://hslstats.com/#2014-major/g/2020852
+DESCRIPTION:HSL 2014 Major game #1080. Stats: https://hslstats.com/2014-major/games/2020852/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020900@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261219T163000Z
 DTEND:20261219T180000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at North Stars Academy Wild
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 Major game #1128. Stats: https://hslstats.com/#2014-major/g/2020900
+DESCRIPTION:HSL 2014 Major game #1128. Stats: https://hslstats.com/2014-major/games/2020900/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020935@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261220T010000Z
 DTEND:20261220T023000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Capital City Knights
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2014 Major game #1163. Stats: https://hslstats.com/#2014-major/g/2020935
+DESCRIPTION:HSL 2014 Major game #1163. Stats: https://hslstats.com/2014-major/games/2020935/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020975@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261220T210000Z
 DTEND:20261220T223000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 Major game #1203. Stats: https://hslstats.com/#2014-major/g/2020975
+DESCRIPTION:HSL 2014 Major game #1203. Stats: https://hslstats.com/2014-major/games/2020975/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020980@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261221T224500Z
 DTEND:20261222T001500Z
 SUMMARY:2014 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 Major game #1208. Stats: https://hslstats.com/#2014-major/g/2020980
+DESCRIPTION:HSL 2014 Major game #1208. Stats: https://hslstats.com/2014-major/games/2020980/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020981@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261222T224500Z
 DTEND:20261223T001500Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 Major game #1209. Stats: https://hslstats.com/#2014-major/g/2020981
+DESCRIPTION:HSL 2014 Major game #1209. Stats: https://hslstats.com/2014-major/games/2020981/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021084@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270109T011500Z
 DTEND:20270109T024500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1312. Stats: https://hslstats.com/#2014-major/g/2021084
+DESCRIPTION:HSL 2014 Major game #1312. Stats: https://hslstats.com/2014-major/games/2021084/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021090@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270109T150000Z
 DTEND:20270109T163000Z
 SUMMARY:2014 Major: Spartan Hockey Academy 15M at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1318. Stats: https://hslstats.com/#2014-major/g/2021090
+DESCRIPTION:HSL 2014 Major game #1318. Stats: https://hslstats.com/2014-major/games/2021090/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021112@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270109T211500Z
 DTEND:20270109T224500Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1340. Stats: https://hslstats.com/#2014-major/g/2021112
+DESCRIPTION:HSL 2014 Major game #1340. Stats: https://hslstats.com/2014-major/games/2021112/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021128@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270110T150000Z
 DTEND:20270110T163000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1356. Stats: https://hslstats.com/#2014-major/g/2021128
+DESCRIPTION:HSL 2014 Major game #1356. Stats: https://hslstats.com/2014-major/games/2021128/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021146@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270110T204500Z
 DTEND:20270110T221500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #1374. Stats: https://hslstats.com/#2014-major/g/2021146
+DESCRIPTION:HSL 2014 Major game #1374. Stats: https://hslstats.com/2014-major/games/2021146/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021211@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 Major game #1439. Stats: https://hslstats.com/#2014-major/g/2021211
+DESCRIPTION:HSL 2014 Major game #1439. Stats: https://hslstats.com/2014-major/games/2021211/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021354@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270124T161500Z
 DTEND:20270124T174500Z
 SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2014 Major game #1582. Stats: https://hslstats.com/#2014-major/g/2021354
+DESCRIPTION:HSL 2014 Major game #1582. Stats: https://hslstats.com/2014-major/games/2021354/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021430@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270205T220000Z
 DTEND:20270205T233000Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1658. Stats: https://hslstats.com/#2014-major/g/2021430
+DESCRIPTION:HSL 2014 Major game #1658. Stats: https://hslstats.com/2014-major/games/2021430/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021455@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270206T180000Z
 DTEND:20270206T193000Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1683. Stats: https://hslstats.com/#2014-major/g/2021455
+DESCRIPTION:HSL 2014 Major game #1683. Stats: https://hslstats.com/2014-major/games/2021455/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021471@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270206T224500Z
 DTEND:20270207T001500Z
 SUMMARY:2014 Major: Caps Hockey Club at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1699. Stats: https://hslstats.com/#2014-major/g/2021471
+DESCRIPTION:HSL 2014 Major game #1699. Stats: https://hslstats.com/2014-major/games/2021471/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021578@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270214T184500Z
 DTEND:20270214T201500Z
 SUMMARY:2014 Major: Riggers Hockey Academy at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1806. Stats: https://hslstats.com/#2014-major/g/2021578
+DESCRIPTION:HSL 2014 Major game #1806. Stats: https://hslstats.com/2014-major/games/2021578/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021687@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T210000Z
 DTEND:20270221T223000Z
 SUMMARY:2014 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2014 Major game #1915. Stats: https://hslstats.com/#2014-major/g/2021687
+DESCRIPTION:HSL 2014 Major game #1915. Stats: https://hslstats.com/2014-major/games/2021687/
 END:VEVENT
 END:VCALENDAR

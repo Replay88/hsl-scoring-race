@@ -11,7 +11,7 @@ DTSTART:20260926T011500Z
 DTEND:20260926T024500Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M 3 – Gorillas Hockey Academy 2 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #155. Stats: https://hslstats.com/#2016-major/g/2019927
+DESCRIPTION:HSL 2016 Major game #155. Stats: https://hslstats.com/2016-major/games/2019927/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019938@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260926T163000Z
 DTEND:20260926T180000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy 5 – Young Kings Hockey 3 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #166. Stats: https://hslstats.com/#2016-major/g/2019938
+DESCRIPTION:HSL 2016 Major game #166. Stats: https://hslstats.com/2016-major/games/2019938/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019951@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260926T213000Z
 DTEND:20260926T230000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy 2 – Spartan Hockey Academy 17M 5 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #179. Stats: https://hslstats.com/#2016-major/g/2019951
+DESCRIPTION:HSL 2016 Major game #179. Stats: https://hslstats.com/2016-major/games/2019951/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019964@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260927T140000Z
 DTEND:20260927T153000Z
 SUMMARY:2016 Major: Young Kings Hockey 7 – Gorillas Hockey Academy 3 (Final)
 LOCATION:North County Recreation Complex
-DESCRIPTION:HSL 2016 Major game #192. Stats: https://hslstats.com/#2016-major/g/2019964
+DESCRIPTION:HSL 2016 Major game #192. Stats: https://hslstats.com/2016-major/games/2019964/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020030@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261009T191500Z
 DTEND:20261009T204500Z
 SUMMARY:2016 Major: MOB Hockey 4 – Gorillas Hockey Academy 8 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #258. Stats: https://hslstats.com/#2016-major/g/2020030
+DESCRIPTION:HSL 2016 Major game #258. Stats: https://hslstats.com/2016-major/games/2020030/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020065@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261010T154500Z
 DTEND:20261010T171500Z
 SUMMARY:2016 Major: Sauce Hockey Academy 2 – Gorillas Hockey Academy 6 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #293. Stats: https://hslstats.com/#2016-major/g/2020065
+DESCRIPTION:HSL 2016 Major game #293. Stats: https://hslstats.com/2016-major/games/2020065/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020108@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261010T233000Z
 DTEND:20261011T010000Z
 SUMMARY:2016 Major: Northern Hockey Club 6 – Gorillas Hockey Academy 6 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #336. Stats: https://hslstats.com/#2016-major/g/2020108
+DESCRIPTION:HSL 2016 Major game #336. Stats: https://hslstats.com/2016-major/games/2020108/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020139@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261011T181500Z
 DTEND:20261011T194500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy 1 – Sauce Hockey Academy 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #367. Stats: https://hslstats.com/#2016-major/g/2020139
+DESCRIPTION:HSL 2016 Major game #367. Stats: https://hslstats.com/2016-major/games/2020139/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020255@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261024T154500Z
 DTEND:20261024T171500Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #483. Stats: https://hslstats.com/#2016-major/g/2020255
+DESCRIPTION:HSL 2016 Major game #483. Stats: https://hslstats.com/2016-major/games/2020255/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020267@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261024T210000Z
 DTEND:20261024T223000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Calgary Crusaders
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #495. Stats: https://hslstats.com/#2016-major/g/2020267
+DESCRIPTION:HSL 2016 Major game #495. Stats: https://hslstats.com/2016-major/games/2020267/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020291@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261025T173000Z
 DTEND:20261025T190000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #519. Stats: https://hslstats.com/#2016-major/g/2020291
+DESCRIPTION:HSL 2016 Major game #519. Stats: https://hslstats.com/2016-major/games/2020291/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020301@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261025T210000Z
 DTEND:20261025T223000Z
 SUMMARY:2016 Major: Calgary Crusaders at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #529. Stats: https://hslstats.com/#2016-major/g/2020301
+DESCRIPTION:HSL 2016 Major game #529. Stats: https://hslstats.com/2016-major/games/2020301/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020514@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261121T000000Z
 DTEND:20261121T013000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Gorillas Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #742. Stats: https://hslstats.com/#2016-major/g/2020514
+DESCRIPTION:HSL 2016 Major game #742. Stats: https://hslstats.com/2016-major/games/2020514/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020532@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261121T140000Z
 DTEND:20261121T153000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Gorillas Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #760. Stats: https://hslstats.com/#2016-major/g/2020532
+DESCRIPTION:HSL 2016 Major game #760. Stats: https://hslstats.com/2016-major/games/2020532/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020614@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261122T173000Z
 DTEND:20261122T190000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #842. Stats: https://hslstats.com/#2016-major/g/2020614
+DESCRIPTION:HSL 2016 Major game #842. Stats: https://hslstats.com/2016-major/games/2020614/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020632@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261122T210000Z
 DTEND:20261122T223000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Spartan Hockey Academy
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #860. Stats: https://hslstats.com/#2016-major/g/2020632
+DESCRIPTION:HSL 2016 Major game #860. Stats: https://hslstats.com/2016-major/games/2020632/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020778@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261211T234500Z
 DTEND:20261212T011500Z
 SUMMARY:2016 Major: O2 Grizzlies at Gorillas Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1006. Stats: https://hslstats.com/#2016-major/g/2020778
+DESCRIPTION:HSL 2016 Major game #1006. Stats: https://hslstats.com/2016-major/games/2020778/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020800@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261212T171500Z
 DTEND:20261212T184500Z
 SUMMARY:2016 Major: Queen City Young Guns at Gorillas Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1028. Stats: https://hslstats.com/#2016-major/g/2020800
+DESCRIPTION:HSL 2016 Major game #1028. Stats: https://hslstats.com/2016-major/games/2020800/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020818@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261212T204500Z
 DTEND:20261212T221500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at O2 Grizzlies
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1046. Stats: https://hslstats.com/#2016-major/g/2020818
+DESCRIPTION:HSL 2016 Major game #1046. Stats: https://hslstats.com/2016-major/games/2020818/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020839@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261213T140000Z
 DTEND:20261213T153000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Queen City Young Guns
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2016 Major game #1067. Stats: https://hslstats.com/#2016-major/g/2020839
+DESCRIPTION:HSL 2016 Major game #1067. Stats: https://hslstats.com/2016-major/games/2020839/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021025@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270103T011500Z
 DTEND:20270103T024500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Major game #1253. Stats: https://hslstats.com/#2016-major/g/2021025
+DESCRIPTION:HSL 2016 Major game #1253. Stats: https://hslstats.com/2016-major/games/2021025/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021065@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270103T231500Z
 DTEND:20270104T004500Z
 SUMMARY:2016 Major: Caps Hockey Club at Gorillas Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Major game #1293. Stats: https://hslstats.com/#2016-major/g/2021065
+DESCRIPTION:HSL 2016 Major game #1293. Stats: https://hslstats.com/2016-major/games/2021065/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021164@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T003000Z
 DTEND:20270116T020000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Aces Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #1392. Stats: https://hslstats.com/#2016-major/g/2021164
+DESCRIPTION:HSL 2016 Major game #1392. Stats: https://hslstats.com/2016-major/games/2021164/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021227@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270116T233000Z
 DTEND:20270117T010000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Caps Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #1455. Stats: https://hslstats.com/#2016-major/g/2021227
+DESCRIPTION:HSL 2016 Major game #1455. Stats: https://hslstats.com/2016-major/games/2021227/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021289@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270123T003000Z
 DTEND:20270123T020000Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2016 Major game #1517. Stats: https://hslstats.com/#2016-major/g/2021289
+DESCRIPTION:HSL 2016 Major game #1517. Stats: https://hslstats.com/2016-major/games/2021289/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021304@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270123T154500Z
 DTEND:20270123T171500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2016 Major game #1532. Stats: https://hslstats.com/#2016-major/g/2021304
+DESCRIPTION:HSL 2016 Major game #1532. Stats: https://hslstats.com/2016-major/games/2021304/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021321@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270123T191500Z
 DTEND:20270123T204500Z
 SUMMARY:2016 Major: Caps Hockey Club at Gorillas Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2016 Major game #1549. Stats: https://hslstats.com/#2016-major/g/2021321
+DESCRIPTION:HSL 2016 Major game #1549. Stats: https://hslstats.com/2016-major/games/2021321/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021422@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T223000Z
 DTEND:20270201T000000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Gorillas Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #1650. Stats: https://hslstats.com/#2016-major/g/2021422
+DESCRIPTION:HSL 2016 Major game #1650. Stats: https://hslstats.com/2016-major/games/2021422/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021511@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270213T191500Z
 DTEND:20270213T204500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Northern Hockey Club
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1739. Stats: https://hslstats.com/#2016-major/g/2021511
+DESCRIPTION:HSL 2016 Major game #1739. Stats: https://hslstats.com/2016-major/games/2021511/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021539@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270214T161500Z
 DTEND:20270214T174500Z
 SUMMARY:2016 Major: Northern Hockey Club at Gorillas Hockey Academy
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1767. Stats: https://hslstats.com/#2016-major/g/2021539
+DESCRIPTION:HSL 2016 Major game #1767. Stats: https://hslstats.com/2016-major/games/2021539/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021694@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270227T140000Z
 DTEND:20270227T153000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1922. Stats: https://hslstats.com/#2016-major/g/2021694
+DESCRIPTION:HSL 2016 Major game #1922. Stats: https://hslstats.com/2016-major/games/2021694/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021697@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270227T191500Z
 DTEND:20270227T204500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Northern Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1925. Stats: https://hslstats.com/#2016-major/g/2021697
+DESCRIPTION:HSL 2016 Major game #1925. Stats: https://hslstats.com/2016-major/games/2021697/
 END:VEVENT
 END:VCALENDAR

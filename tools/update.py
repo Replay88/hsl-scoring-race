@@ -530,7 +530,7 @@ def write_calendars(did, name, sched, G):
             "DTSTART:" + start.strftime("%Y%m%dT%H%M%SZ"), "DTEND:" + end.strftime("%Y%m%dT%H%M%SZ"),
             "SUMMARY:" + ics_escape(f"{name}: {title}"),
             "LOCATION:" + ics_escape(s["loc"]),
-            "DESCRIPTION:" + ics_escape(f"HSL {name} game #{s['num']}. Stats: {BASE}#{slug(name)}/g/{gid}"),
+            "DESCRIPTION:" + ics_escape(f"HSL {name} game #{s['num']}. Stats: {BASE}{slug(name)}/games/{gid}/"),
             "END:VEVENT"])
 
     def write(path, label, evs):
@@ -780,7 +780,7 @@ def recap_text(sid, name, D, sched, today):
                     day = u["day"]
                     L.append(dt.date.fromisoformat(day).strftime("%a %b %-d"))
                 L.append(f"  {u['time']} {short(u['away'])} at {short(u['home'])}, {u['loc']}")
-    L += ["", f"Full stats: {BASE}#{slug(name)}/leaders"]
+    L += ["", f"Full stats: {BASE}{slug(name)}/"]
     return "\n".join(L)
 
 
@@ -792,12 +792,13 @@ def build(state):
     today = dt.date.today().isoformat()
     ddir = os.path.join(os.path.dirname(OUT), "data")
     os.makedirs(ddir, exist_ok=True)
-    seasons_out, blobs = [], {}
+    seasons_out, blobs, build_cache = [], {}, {}
     for sid, label in SEASONS:
         S = state["seasons"].get(sid)
         if not S or not S.get("sched"):
             continue
         data = build_season(state, sid, today)
+        build_cache[label] = data
         sdir = os.path.join(ddir, label)
         os.makedirs(sdir, exist_ok=True)
         # league-wide player index for this season (search across divisions)
@@ -834,10 +835,7 @@ def build(state):
     index = dict(updated=state["updated"], logos=state.get("logo_files", {}), seasons=seasons_out,
                  divisions=next((s["divisions"] for s in seasons_out if s["current"]), []))
     open(os.path.join(ddir, "index.json"), "w", encoding="utf-8").write(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
-    tpl = open(os.path.join(HERE, "page.tpl.html"), encoding="utf-8").read()
-    html = (tpl.replace("__INDEX__", json.dumps(index, separators=(",", ":"), ensure_ascii=False))
-            .replace("__UPDATED__", state["updated"]).replace("__BASE__", BASE).replace("__SITE__", SITE))
-    open(OUT, "w", encoding="utf-8").write(html)
+    write_site(index, state, {label: build_cache[label] for label in build_cache})
     write_icons()
     png = os.path.join(os.path.dirname(OUT), "og.png")
     changed = state.pop("changed", False)
@@ -848,6 +846,137 @@ def build(state):
         og.render(index, png, SITE)
     except Exception as e:  # the preview image is a nicety; never fail the run over it
         print(f"preview image skipped: {e}")
+
+
+import html as _html
+
+E = _html.escape
+SECP = {"leaders": "", "standings": "standings", "goalies": "goalies", "race": "race", "scores": "scores",
+        "schedule": "schedule", "records": "records", "recap": "recap"}
+
+
+def write_site(index, state, seasons):
+    """Static HTML for every page so search engines (and link previews) see real content.
+    The app's CSS/JS live in app.css / app.js; each page is a small shell + a pre-rendered body."""
+    root = os.path.dirname(OUT)
+    tpl = open(os.path.join(HERE, "page.tpl.html"), encoding="utf-8").read()
+    s0, s1 = tpl.index("<style>"), tpl.index("</style>")
+    j0 = tpl.index("<script>")
+    j1 = tpl.index("</script>", j0)  # the app script; the analytics beacon tag after it stays in the shell
+    css = tpl[s0 + 7:s1]
+    js = tpl[j0 + 8:j1]
+    shell = (tpl[:s0] + '<link rel="stylesheet" href="/app.css?v=__V__">' + tpl[s1 + 8:j0]
+             + '<script src="/app.js?v=__V__" defer></script>' + tpl[j1 + 9:])
+    ver = hashlib.sha1((css + js).encode()).hexdigest()[:10]
+    js = js.replace("__INDEX__", json.dumps(index, separators=(",", ":"), ensure_ascii=False)).replace("__BASE__", BASE).replace("__SITE__", SITE)
+    write_if_changed(os.path.join(root, "app.css"), css.encode())
+    write_if_changed(os.path.join(root, "app.js"), js.encode())
+    shell = shell.replace("__V__", ver).replace("__UPDATED__", state["updated"]).replace("__BASE__", BASE).replace("__SITE__", SITE)
+    urls = []
+    kept = set()
+
+    def page(path, title, desc, body, og=None):
+        url = BASE + path.lstrip("/")
+        h = (shell.replace("__TITLE__", E(title)).replace("__DESC__", E(desc)).replace("__CANON__", url)
+             .replace("__OGIMG__", og or BASE + "og.png").replace("__PRERENDER__", body))
+        folder = os.path.join(root, path.strip("/"))
+        os.makedirs(folder, exist_ok=True)
+        f = os.path.join(folder, "index.html")
+        write_if_changed(f, h.encode())
+        kept.add(os.path.abspath(f))
+        urls.append(url)
+
+    cur = next(s for s in index["seasons"] if s["current"])
+    # home + season homes
+    for s in index["seasons"]:
+        pre = "" if s["current"] else s["key"] + "/"
+        cards = "".join(f'<li><a href="/{pre}{d["key"]}/"><b>{E(d["name"])}</b></a>: '
+                        + (f'{E(d["leader"][0])} leads with {d["leader"][2]} points; {E(d["top"])} in first; {d["games"]} games through {E(d["thru"])}.' if d.get("leader") else "no games yet.")
+                        + "</li>" for d in s["divisions"])
+        page(f"/{pre}", "HSL Statistics" if s["current"] else f"HSL Statistics {s['key']}",
+             f"Points leaders, standings, goalies, scores and schedules for every Hockey Super League division, {s['key']} season.",
+             f'<h2>Hockey Super League {s["key"]}</h2><ul>{cards}</ul>')
+    for s in index["seasons"]:
+        label, pre = s["key"], ("" if s["current"] else s["key"] + "/")
+        data = seasons.get(label, {})
+        for d in s["divisions"]:
+            name, dk = d["name"], d["key"]
+            D = data.get(name)
+            if not D:
+                continue
+            P = lambda i: f'<a href="/{pre}{dk}/players/{slug(D["rows"][i][0] + " " + short(D["rows"][i][1]))}/">{E(D["rows"][i][0])}</a>'
+            T = lambda team: f'<a href="/{pre}{dk}/teams/{slug(team)}/">{E(team)}</a>'
+            G = lambda gid: f'/{pre}{dk}/games/{gid}/'
+            base_desc = f"HSL {name} {label}: {D['games']} games through {D['thru']}."
+            rows = "".join(f'<tr><td>{r[10]}</td><td>{P(i)}</td><td>{T(r[1])}</td><td>{r[3]}</td><td>{r[4]}</td><td>{r[5]}</td><td>{r[6]}</td></tr>'
+                           for i, r in enumerate(D["rows"][:100]))
+            page(f"/{pre}{dk}/", f"{name} points leaders · HSL Statistics {label}",
+                 f"Scoring leaders for the Hockey Super League {name} division, {label}. " + (f"{D['rows'][0][0]} leads with {D['rows'][0][6]} points. " if D["rows"] else "") + base_desc,
+                 f'<h2>{E(name)} points leaders</h2><table><thead><tr><th>#</th><th>Player</th><th>Team</th><th>GP</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>{rows}</tbody></table>')
+            st = "".join(f'<tr><td>{i + 1}</td><td>{T(x["team"])}</td><td>{x["GP"]}</td><td>{x["W"]}</td><td>{x["L"]}</td><td>{x["T"]}</td><td>{x["PTS"]}</td><td>{x["GF"]}</td><td>{x["GA"]}</td></tr>' for i, x in enumerate(D["standings"]))
+            page(f"/{pre}{dk}/standings/", f"{name} standings · HSL Statistics {label}",
+                 f"Standings for the Hockey Super League {name} division, {label}. " + (f"{D['standings'][0]['team']} in first at {D['standings'][0]['W']}-{D['standings'][0]['L']}-{D['standings'][0]['T']}. " if D["standings"] else "") + base_desc,
+                 f'<h2>{E(name)} standings</h2><table><thead><tr><th>#</th><th>Team</th><th>GP</th><th>W</th><th>L</th><th>T</th><th>PTS</th><th>GF</th><th>GA</th></tr></thead><tbody>{st}</tbody></table>')
+            gl = "".join(f'<tr><td>{E(q["name"])}</td><td>{T(q["team"])}</td><td>{q["GP"]}</td><td>{q["W"]}-{q["L"]}-{q["T"]}</td><td>{q["SVP"] if q["GS"] else "–"}</td><td>{q["GAA"] if q["GS"] else "–"}</td></tr>' for q in D["goalies"])
+            page(f"/{pre}{dk}/goalies/", f"{name} goalie leaders · HSL Statistics {label}", f"Goalie stats (save percentage, GAA, wins) for HSL {name}, {label}. " + base_desc,
+                 f'<h2>{E(name)} goalies</h2><table><thead><tr><th>Goalie</th><th>Team</th><th>GP</th><th>W-L-T</th><th>SV%</th><th>GAA</th></tr></thead><tbody>{gl}</tbody></table>')
+            gs = sorted(D["G"].items(), key=lambda x: (x[1]["day"], x[0]), reverse=True)
+            sc = "".join(f'<li>{E(g["day"])}: <a href="{G(gid)}">{E(short(g["away"]))} {g["vs"]}, {E(short(g["home"]))} {g["hs"]}</a></li>' for gid, g in gs)
+            page(f"/{pre}{dk}/scores/", f"{name} scores · HSL Statistics {label}", f"Every result in HSL {name}, {label}, with box scores. " + base_desc, f'<h2>{E(name)} scores</h2><ul>{sc}</ul>')
+            up = "".join(f'<li>{E(u["day"])} {E(u["time"])}: {T(u["away"])} at {T(u["home"])}, {E(u["loc"])}</li>' for u in D["upcoming"][:300])
+            page(f"/{pre}{dk}/schedule/", f"{name} schedule · HSL Statistics {label}", f"Upcoming games, times and rinks for HSL {name}, {label}.", f'<h2>{E(name)} schedule</h2><ul>{up}</ul>')
+            hats = "".join(f'<li>{E(h[0])}: {P(h[1])} {h[3]} goals, {h[4]} assists</li>' for h in D["hats"])
+            page(f"/{pre}{dk}/records/", f"{name} hat tricks and records · HSL Statistics {label}", f"Hat tricks and biggest games in HSL {name}, {label}.", f'<h2>{E(name)} hat tricks</h2><ul>{hats}</ul>')
+            race = "".join(f'<li>{P(r[3])}: {r[2][-1] if r[2] else 0} points</li>' for r in D["race"])
+            page(f"/{pre}{dk}/race/", f"{name} points race · HSL Statistics {label}", f"Cumulative points race for the top 30 scorers in HSL {name}, {label}.", f'<h2>{E(name)} points race</h2><ol>{race}</ol>')
+            page(f"/{pre}{dk}/recap/", f"{name} weekend recap · HSL Statistics {label}", f"Weekend recap for HSL {name}: results, standings, leaders, hat tricks.", f'<h2>{E(name)} weekend recap</h2><pre>{E(D.get("recap", ""))}</pre>')
+            # players
+            for i, r in enumerate(D["rows"]):
+                ps = slug(r[0] + " " + short(r[1]))
+                log = "".join((lambda g: f'<tr><td>{E(g["day"])}</td><td><a href="{G(l[0])}">{E(short(g["away"]))} {g["vs"]} – {E(short(g["home"]))} {g["hs"]}</a></td><td>{l[1]}</td><td>{l[2]}</td><td>{l[1] + l[2]}</td></tr>')(D["G"][l[0]]) for l in r[12] if l[0] in D["G"])
+                page(f"/{pre}{dk}/players/{ps}/", f"{r[0]} – {short(r[1])} · HSL {name} {label} stats",
+                     f"{r[0]} ({r[1]}, #{r[2]}), HSL {name} {label}: {r[6]} points, {r[4]} goals and {r[5]} assists in {r[3]} games, ranked #{r[10]} in the division.",
+                     f'<h2>{E(r[0])}</h2><p>{T(r[1])} · #{E(r[2])} · Ranked #{r[10]} in {E(name)}</p><p>{r[3]} GP, {r[4]} G, {r[5]} A, {r[6]} PTS, {r[7]} PIM</p><table><thead><tr><th>Date</th><th>Game</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>{log}</tbody></table>')
+            # teams
+            for s_ in D["standings"]:
+                team = s_["team"]
+                roster = "".join(f'<tr><td>{P(i)}</td><td>{D["rows"][i][3]}</td><td>{D["rows"][i][4]}</td><td>{D["rows"][i][5]}</td><td>{D["rows"][i][6]}</td></tr>' for i in s_["roster"])
+                res = "".join(f'<li>{E(D["G"][gid]["day"])}: <a href="{G(gid)}">{E(short(D["G"][gid]["away"]))} {D["G"][gid]["vs"]} – {E(short(D["G"][gid]["home"]))} {D["G"][gid]["hs"]}</a></li>' for gid in s_["games"] if gid in D["G"])
+                card = os.path.join(root, "cards", slug(name), slug(team) + ".png")
+                page(f"/{pre}{dk}/teams/{slug(team)}/", f"{team} · HSL {name} {label} roster, stats and schedule",
+                     f"{team} in HSL {name} {label}: {s_['W']}-{s_['L']}-{s_['T']}, {s_['PTS']} points, {s_['GF']} goals for and {s_['GA']} against in {s_['GP']} games. Roster stats, results and upcoming games.",
+                     f'<h2>{E(team)}</h2><p>{s_["W"]}-{s_["L"]}-{s_["T"]}, {s_["PTS"]} pts, {E(name)}</p><h3>Roster</h3><table><thead><tr><th>Player</th><th>GP</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>{roster}</tbody></table><h3>Results</h3><ul>{res}</ul>',
+                     og=(BASE + f"cards/{slug(name)}/{slug(team)}.png") if os.path.exists(card) else None)
+            # games
+            for gid, g in D["G"].items():
+                goals = "".join(f'<li>P{E(e["per"])} {E(e["time"])} {E(short(e["team"]))}: {E(e["scorer"])}' + (f' ({", ".join(E(a) for a in e["assists"])})' if e["assists"] else "") + "</li>" for e in g["events"] if e["t"] == "G")
+                page(f"/{pre}{dk}/games/{gid}/", f"{short(g['away'])} {g['vs']} – {g['hs']} {short(g['home'])} · HSL {name} {g['day']}",
+                     f"Box score: {g['away']} {g['vs']}, {g['home']} {g['hs']} on {g['day']} at {g['rink']}, HSL {name} {label}.",
+                     f'<h2>{T(g["away"])} {g["vs"]} – {g["hs"]} {T(g["home"])}</h2><p>{E(g["day"])} · {E(g["rink"])} · {E(g["status"])}</p><h3>Scoring</h3><ol>{goals}</ol>')
+    # app shell for any path we didn't pre-render (GitHub serves 404.html for unknown URLs)
+    shell404 = (shell.replace("__TITLE__", "HSL Statistics").replace("__DESC__", "Hockey Super League stats.")
+                .replace("__CANON__", BASE).replace("__OGIMG__", BASE + "og.png").replace("__PRERENDER__", ""))
+    write_if_changed(os.path.join(root, "404.html"), shell404.encode())
+    # sitemap + robots
+    today = dt.date.today().isoformat()
+    sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    sm += [f"<url><loc>{E(u)}</loc><lastmod>{today}</lastmod></url>" for u in urls]
+    sm.append("</urlset>")
+    write_if_changed(os.path.join(root, "sitemap.xml"), "\n".join(sm).encode())
+    write_if_changed(os.path.join(root, "robots.txt"), f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n".encode())
+    # remove pages for players/teams/games that no longer exist (renames, corrections)
+    for folder in ("players", "teams", "games"):
+        for r_, dirs, files in os.walk(root):
+            if os.path.basename(r_) == folder:
+                for d_ in dirs:
+                    f = os.path.abspath(os.path.join(r_, d_, "index.html"))
+                    if os.path.exists(f) and f not in kept:
+                        os.remove(f)
+                        try:
+                            os.rmdir(os.path.join(r_, d_))
+                        except OSError:
+                            pass
+    print(f"site: {len(urls)} pages")
 
 
 def write_if_changed(path, data):

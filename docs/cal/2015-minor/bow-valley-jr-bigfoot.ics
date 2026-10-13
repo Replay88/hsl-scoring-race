@@ -11,7 +11,7 @@ DTSTART:20260919T153000Z
 DTEND:20260919T170000Z
 SUMMARY:2015 Minor: Riggers Hockey Academy (F) 2 – Bow Valley Jr. Bigfoot 8 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #38. Stats: https://hslstats.com/#2015-minor/g/2019810
+DESCRIPTION:HSL 2015 Minor game #38. Stats: https://hslstats.com/2015-minor/games/2019810/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019835@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T193000Z
 DTEND:20260919T210000Z
 SUMMARY:2015 Minor: Riggers Hockey Academy 8 – Bow Valley Jr. Bigfoot 8 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #63. Stats: https://hslstats.com/#2015-minor/g/2019835
+DESCRIPTION:HSL 2015 Minor game #63. Stats: https://hslstats.com/2015-minor/games/2019835/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019870@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T140000Z
 DTEND:20260920T153000Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy 12 – Bow Valley Jr. Bigfoot 1 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 Minor game #98. Stats: https://hslstats.com/#2015-minor/g/2019870
+DESCRIPTION:HSL 2015 Minor game #98. Stats: https://hslstats.com/2015-minor/games/2019870/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019896@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T180000Z
 DTEND:20260920T193000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot 5 – Riggers Hockey Academy 8 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 Minor game #124. Stats: https://hslstats.com/#2015-minor/g/2019896
+DESCRIPTION:HSL 2015 Minor game #124. Stats: https://hslstats.com/2015-minor/games/2019896/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020046@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261010T001500Z
 DTEND:20261010T014500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy 4 – Bow Valley Jr. Bigfoot 2 (Final)
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2015 Minor game #274. Stats: https://hslstats.com/#2015-minor/g/2020046
+DESCRIPTION:HSL 2015 Minor game #274. Stats: https://hslstats.com/2015-minor/games/2020046/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020055@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261010T140000Z
 DTEND:20261010T153000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot 6 – Wolverines Hockey Academy 11 (Final)
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2015 Minor game #283. Stats: https://hslstats.com/#2015-minor/g/2020055
+DESCRIPTION:HSL 2015 Minor game #283. Stats: https://hslstats.com/2015-minor/games/2020055/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020095@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261010T211500Z
 DTEND:20261010T224500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot 4 – North Stars Hockey Academy 5 (Final)
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2015 Minor game #323. Stats: https://hslstats.com/#2015-minor/g/2020095
+DESCRIPTION:HSL 2015 Minor game #323. Stats: https://hslstats.com/2015-minor/games/2020095/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020127@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261011T160000Z
 DTEND:20261011T173000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot 6 – Alberta Pro Hockey 4 (Final)
 LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2015 Minor game #355. Stats: https://hslstats.com/#2015-minor/g/2020127
+DESCRIPTION:HSL 2015 Minor game #355. Stats: https://hslstats.com/2015-minor/games/2020127/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020320@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261031T004500Z
 DTEND:20261031T021500Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #548. Stats: https://hslstats.com/#2015-minor/g/2020320
+DESCRIPTION:HSL 2015 Minor game #548. Stats: https://hslstats.com/2015-minor/games/2020320/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020340@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261031T173000Z
 DTEND:20261031T190000Z
 SUMMARY:2015 Minor: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #568. Stats: https://hslstats.com/#2015-minor/g/2020340
+DESCRIPTION:HSL 2015 Minor game #568. Stats: https://hslstats.com/2015-minor/games/2020340/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020363@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261101T154500Z
 DTEND:20261101T171500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy (F)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #591. Stats: https://hslstats.com/#2015-minor/g/2020363
+DESCRIPTION:HSL 2015 Minor game #591. Stats: https://hslstats.com/2015-minor/games/2020363/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020376@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261101T191500Z
 DTEND:20261101T204500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Alberta Pro Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Minor game #604. Stats: https://hslstats.com/#2015-minor/g/2020376
+DESCRIPTION:HSL 2015 Minor game #604. Stats: https://hslstats.com/2015-minor/games/2020376/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020523@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261121T014500Z
 DTEND:20261121T031500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #751. Stats: https://hslstats.com/#2015-minor/g/2020523
+DESCRIPTION:HSL 2015 Minor game #751. Stats: https://hslstats.com/2015-minor/games/2020523/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020547@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261121T164500Z
 DTEND:20261121T181500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #775. Stats: https://hslstats.com/#2015-minor/g/2020547
+DESCRIPTION:HSL 2015 Minor game #775. Stats: https://hslstats.com/2015-minor/games/2020547/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020588@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261122T013000Z
 DTEND:20261122T030000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #816. Stats: https://hslstats.com/#2015-minor/g/2020588
+DESCRIPTION:HSL 2015 Minor game #816. Stats: https://hslstats.com/2015-minor/games/2020588/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020610@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261122T164500Z
 DTEND:20261122T181500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 Minor game #838. Stats: https://hslstats.com/#2015-minor/g/2020610
+DESCRIPTION:HSL 2015 Minor game #838. Stats: https://hslstats.com/2015-minor/games/2020610/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020882@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261219T003000Z
 DTEND:20261219T020000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 Minor game #1110. Stats: https://hslstats.com/#2015-minor/g/2020882
+DESCRIPTION:HSL 2015 Minor game #1110. Stats: https://hslstats.com/2015-minor/games/2020882/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020911@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261219T191500Z
 DTEND:20261219T204500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy (F) at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 Minor game #1139. Stats: https://hslstats.com/#2015-minor/g/2020911
+DESCRIPTION:HSL 2015 Minor game #1139. Stats: https://hslstats.com/2015-minor/games/2020911/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020926@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261219T224500Z
 DTEND:20261220T001500Z
 SUMMARY:2015 Minor: Riggers Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 Minor game #1154. Stats: https://hslstats.com/#2015-minor/g/2020926
+DESCRIPTION:HSL 2015 Minor game #1154. Stats: https://hslstats.com/2015-minor/games/2020926/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020962@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261220T180000Z
 DTEND:20261220T193000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy (F)
 LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2015 Minor game #1190. Stats: https://hslstats.com/#2015-minor/g/2020962
+DESCRIPTION:HSL 2015 Minor game #1190. Stats: https://hslstats.com/2015-minor/games/2020962/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020992@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270102T164500Z
 DTEND:20270102T181500Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Minor game #1220. Stats: https://hslstats.com/#2015-minor/g/2020992
+DESCRIPTION:HSL 2015 Minor game #1220. Stats: https://hslstats.com/2015-minor/games/2020992/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021005@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270102T201500Z
 DTEND:20270102T214500Z
 SUMMARY:2015 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Minor game #1233. Stats: https://hslstats.com/#2015-minor/g/2021005
+DESCRIPTION:HSL 2015 Minor game #1233. Stats: https://hslstats.com/2015-minor/games/2021005/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021032@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270103T143000Z
 DTEND:20270103T160000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Minor game #1260. Stats: https://hslstats.com/#2015-minor/g/2021032
+DESCRIPTION:HSL 2015 Minor game #1260. Stats: https://hslstats.com/2015-minor/games/2021032/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021049@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270103T183000Z
 DTEND:20270103T200000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 Minor game #1277. Stats: https://hslstats.com/#2015-minor/g/2021049
+DESCRIPTION:HSL 2015 Minor game #1277. Stats: https://hslstats.com/2015-minor/games/2021049/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021382@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270130T173000Z
 DTEND:20270130T190000Z
 SUMMARY:2015 Minor: Riggers Hockey Academy (F) at Bow Valley Jr. Bigfoot
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1610. Stats: https://hslstats.com/#2015-minor/g/2021382
+DESCRIPTION:HSL 2015 Minor game #1610. Stats: https://hslstats.com/2015-minor/games/2021382/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021392@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270130T210000Z
 DTEND:20270130T223000Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at Bow Valley Jr. Bigfoot
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1620. Stats: https://hslstats.com/#2015-minor/g/2021392
+DESCRIPTION:HSL 2015 Minor game #1620. Stats: https://hslstats.com/2015-minor/games/2021392/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021406@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270131T154500Z
 DTEND:20270131T171500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Alberta Pro Hockey
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1634. Stats: https://hslstats.com/#2015-minor/g/2021406
+DESCRIPTION:HSL 2015 Minor game #1634. Stats: https://hslstats.com/2015-minor/games/2021406/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021414@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T191500Z
 DTEND:20270131T204500Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy (F)
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1642. Stats: https://hslstats.com/#2015-minor/g/2021414
+DESCRIPTION:HSL 2015 Minor game #1642. Stats: https://hslstats.com/2015-minor/games/2021414/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021603@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270220T004500Z
 DTEND:20270220T021500Z
 SUMMARY:2015 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Minor game #1831. Stats: https://hslstats.com/#2015-minor/g/2021603
+DESCRIPTION:HSL 2015 Minor game #1831. Stats: https://hslstats.com/2015-minor/games/2021603/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021609@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T143000Z
 DTEND:20270220T160000Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at Bow Valley Jr. Bigfoot
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Minor game #1837. Stats: https://hslstats.com/#2015-minor/g/2021609
+DESCRIPTION:HSL 2015 Minor game #1837. Stats: https://hslstats.com/2015-minor/games/2021609/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021643@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270220T213000Z
 DTEND:20270220T230000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
 LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Minor game #1871. Stats: https://hslstats.com/#2015-minor/g/2021643
+DESCRIPTION:HSL 2015 Minor game #1871. Stats: https://hslstats.com/2015-minor/games/2021643/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021664@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T150000Z
 DTEND:20270221T163000Z
 SUMMARY:2015 Minor: Bow Valley Jr. Bigfoot at Alberta Pro Hockey
 LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2015 Minor game #1892. Stats: https://hslstats.com/#2015-minor/g/2021664
+DESCRIPTION:HSL 2015 Minor game #1892. Stats: https://hslstats.com/2015-minor/games/2021664/
 END:VEVENT
 END:VCALENDAR

@@ -11,7 +11,7 @@ DTSTART:20260919T003000Z
 DTEND:20260919T020000Z
 SUMMARY:2016 Major: Rebels Hockey Academy 7 – MOB Hockey 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #20. Stats: https://hslstats.com/#2016-major/g/2019792
+DESCRIPTION:HSL 2016 Major game #20. Stats: https://hslstats.com/2016-major/games/2019792/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019808@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T144500Z
 DTEND:20260919T161500Z
 SUMMARY:2016 Major: MOB Hockey 2 – Caps Hockey Club 11 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #36. Stats: https://hslstats.com/#2016-major/g/2019808
+DESCRIPTION:HSL 2016 Major game #36. Stats: https://hslstats.com/2016-major/games/2019808/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019850@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260919T214500Z
 DTEND:20260919T231500Z
 SUMMARY:2016 Major: MOB Hockey 4 – Rebels Hockey Academy 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #78. Stats: https://hslstats.com/#2016-major/g/2019850
+DESCRIPTION:HSL 2016 Major game #78. Stats: https://hslstats.com/2016-major/games/2019850/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019878@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T144500Z
 DTEND:20260920T161500Z
 SUMMARY:2016 Major: Caps Hockey Club 7 – MOB Hockey 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #106. Stats: https://hslstats.com/#2016-major/g/2019878
+DESCRIPTION:HSL 2016 Major game #106. Stats: https://hslstats.com/2016-major/games/2019878/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020030@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261009T191500Z
 DTEND:20261009T204500Z
 SUMMARY:2016 Major: MOB Hockey 4 – Gorillas Hockey Academy 8 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #258. Stats: https://hslstats.com/#2016-major/g/2020030
+DESCRIPTION:HSL 2016 Major game #258. Stats: https://hslstats.com/2016-major/games/2020030/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020040@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261009T224500Z
 DTEND:20261010T001500Z
 SUMMARY:2016 Major: Northern Hockey Club 7 – MOB Hockey 6 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #268. Stats: https://hslstats.com/#2016-major/g/2020040
+DESCRIPTION:HSL 2016 Major game #268. Stats: https://hslstats.com/2016-major/games/2020040/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020071@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261010T163000Z
 DTEND:20261010T180000Z
 SUMMARY:2016 Major: Young Kings Hockey 6 – MOB Hockey 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #299. Stats: https://hslstats.com/#2016-major/g/2020071
+DESCRIPTION:HSL 2016 Major game #299. Stats: https://hslstats.com/2016-major/games/2020071/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020089@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261010T200000Z
 DTEND:20261010T213000Z
 SUMMARY:2016 Major: MOB Hockey 3 – Northern Hockey Club 7 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #317. Stats: https://hslstats.com/#2016-major/g/2020089
+DESCRIPTION:HSL 2016 Major game #317. Stats: https://hslstats.com/2016-major/games/2020089/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020238@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261023T220000Z
 DTEND:20261023T233000Z
 SUMMARY:2016 Major: Spartan Hockey Academy at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #466. Stats: https://hslstats.com/#2016-major/g/2020238
+DESCRIPTION:HSL 2016 Major game #466. Stats: https://hslstats.com/2016-major/games/2020238/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020252@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261024T140000Z
 DTEND:20261024T153000Z
 SUMMARY:2016 Major: Queen City Young Guns at MOB Hockey
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #480. Stats: https://hslstats.com/#2016-major/g/2020252
+DESCRIPTION:HSL 2016 Major game #480. Stats: https://hslstats.com/2016-major/games/2020252/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020272@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261024T224500Z
 DTEND:20261025T001500Z
 SUMMARY:2016 Major: MOB Hockey at Spartan Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/#2016-major/g/2020272
+DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/2016-major/games/2020272/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020287@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261025T154500Z
 DTEND:20261025T171500Z
 SUMMARY:2016 Major: MOB Hockey at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #515. Stats: https://hslstats.com/#2016-major/g/2020287
+DESCRIPTION:HSL 2016 Major game #515. Stats: https://hslstats.com/2016-major/games/2020287/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020506@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261120T221500Z
 DTEND:20261120T234500Z
 SUMMARY:2016 Major: O2 Grizzlies at MOB Hockey
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #734. Stats: https://hslstats.com/#2016-major/g/2020506
+DESCRIPTION:HSL 2016 Major game #734. Stats: https://hslstats.com/2016-major/games/2020506/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020552@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261121T173000Z
 DTEND:20261121T190000Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at MOB Hockey
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #780. Stats: https://hslstats.com/#2016-major/g/2020552
+DESCRIPTION:HSL 2016 Major game #780. Stats: https://hslstats.com/2016-major/games/2020552/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020585@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261122T003000Z
 DTEND:20261122T020000Z
 SUMMARY:2016 Major: MOB Hockey at O2 Grizzlies
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #813. Stats: https://hslstats.com/#2016-major/g/2020585
+DESCRIPTION:HSL 2016 Major game #813. Stats: https://hslstats.com/2016-major/games/2020585/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020608@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261122T154500Z
 DTEND:20261122T171500Z
 SUMMARY:2016 Major: MOB Hockey at Spartan Hockey Academy 17M
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #836. Stats: https://hslstats.com/#2016-major/g/2020608
+DESCRIPTION:HSL 2016 Major game #836. Stats: https://hslstats.com/2016-major/games/2020608/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020703@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261205T004500Z
 DTEND:20261205T021500Z
 SUMMARY:2016 Major: MOB Hockey at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #931. Stats: https://hslstats.com/#2016-major/g/2020703
+DESCRIPTION:HSL 2016 Major game #931. Stats: https://hslstats.com/2016-major/games/2020703/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020712@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261205T154500Z
 DTEND:20261205T171500Z
 SUMMARY:2016 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #940. Stats: https://hslstats.com/#2016-major/g/2020712
+DESCRIPTION:HSL 2016 Major game #940. Stats: https://hslstats.com/2016-major/games/2020712/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020735@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261205T233000Z
 DTEND:20261206T010000Z
 SUMMARY:2016 Major: MOB Hockey at Caps Hockey Club
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #963. Stats: https://hslstats.com/#2016-major/g/2020735
+DESCRIPTION:HSL 2016 Major game #963. Stats: https://hslstats.com/2016-major/games/2020735/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020744@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20261206T140000Z
 DTEND:20261206T153000Z
 SUMMARY:2016 Major: Caps Hockey Club at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #972. Stats: https://hslstats.com/#2016-major/g/2020744
+DESCRIPTION:HSL 2016 Major game #972. Stats: https://hslstats.com/2016-major/games/2020744/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021285@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270122T231500Z
 DTEND:20270123T004500Z
 SUMMARY:2016 Major: Northern Hockey Club at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #1513. Stats: https://hslstats.com/#2016-major/g/2021285
+DESCRIPTION:HSL 2016 Major game #1513. Stats: https://hslstats.com/2016-major/games/2021285/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021323@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270123T193000Z
 DTEND:20270123T210000Z
 SUMMARY:2016 Major: MOB Hockey at Aces Hockey Academy
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2016 Major game #1551. Stats: https://hslstats.com/#2016-major/g/2021323
+DESCRIPTION:HSL 2016 Major game #1551. Stats: https://hslstats.com/2016-major/games/2021323/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021337@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270123T230000Z
 DTEND:20270124T003000Z
 SUMMARY:2016 Major: MOB Hockey at Northern Hockey Club
 LOCATION:Centerfire Place
-DESCRIPTION:HSL 2016 Major game #1565. Stats: https://hslstats.com/#2016-major/g/2021337
+DESCRIPTION:HSL 2016 Major game #1565. Stats: https://hslstats.com/2016-major/games/2021337/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021356@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270124T173000Z
 DTEND:20270124T190000Z
 SUMMARY:2016 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #1584. Stats: https://hslstats.com/#2016-major/g/2021356
+DESCRIPTION:HSL 2016 Major game #1584. Stats: https://hslstats.com/2016-major/games/2021356/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021513@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270213T003000Z
 DTEND:20270213T020000Z
 SUMMARY:2016 Major: Sauce Hockey Academy at MOB Hockey
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1741. Stats: https://hslstats.com/#2016-major/g/2021513
+DESCRIPTION:HSL 2016 Major game #1741. Stats: https://hslstats.com/2016-major/games/2021513/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021524@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270213T160000Z
 DTEND:20270213T173000Z
 SUMMARY:2016 Major: MOB Hockey at Calgary Crusaders
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1752. Stats: https://hslstats.com/#2016-major/g/2021524
+DESCRIPTION:HSL 2016 Major game #1752. Stats: https://hslstats.com/2016-major/games/2021524/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021545@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270213T211500Z
 DTEND:20270213T224500Z
 SUMMARY:2016 Major: MOB Hockey at Sauce Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2016 Major game #1773. Stats: https://hslstats.com/#2016-major/g/2021545
+DESCRIPTION:HSL 2016 Major game #1773. Stats: https://hslstats.com/2016-major/games/2021545/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021562@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270214T143000Z
 DTEND:20270214T160000Z
 SUMMARY:2016 Major: Calgary Crusaders at MOB Hockey
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2016 Major game #1790. Stats: https://hslstats.com/#2016-major/g/2021562
+DESCRIPTION:HSL 2016 Major game #1790. Stats: https://hslstats.com/2016-major/games/2021562/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021690@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270226T203000Z
 DTEND:20270226T220000Z
 SUMMARY:2016 Major: MOB Hockey at Young Kings Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1918. Stats: https://hslstats.com/#2016-major/g/2021690
+DESCRIPTION:HSL 2016 Major game #1918. Stats: https://hslstats.com/2016-major/games/2021690/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021694@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270227T140000Z
 DTEND:20270227T153000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1922. Stats: https://hslstats.com/#2016-major/g/2021694
+DESCRIPTION:HSL 2016 Major game #1922. Stats: https://hslstats.com/2016-major/games/2021694/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021698@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270227T210000Z
 DTEND:20270227T223000Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1926. Stats: https://hslstats.com/#2016-major/g/2021698
+DESCRIPTION:HSL 2016 Major game #1926. Stats: https://hslstats.com/2016-major/games/2021698/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021703@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270228T154500Z
 DTEND:20270228T171500Z
 SUMMARY:2016 Major: MOB Hockey at Warriors Hockey Academy (Sask)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1931. Stats: https://hslstats.com/#2016-major/g/2021703
+DESCRIPTION:HSL 2016 Major game #1931. Stats: https://hslstats.com/2016-major/games/2021703/
 END:VEVENT
 END:VCALENDAR

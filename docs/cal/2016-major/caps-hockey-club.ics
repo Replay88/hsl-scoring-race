@@ -11,7 +11,7 @@ DTSTART:20260918T224500Z
 DTEND:20260919T001500Z
 SUMMARY:2016 Major: Northern Hockey Club 4 – Caps Hockey Club 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #12. Stats: https://hslstats.com/#2016-major/g/2019784
+DESCRIPTION:HSL 2016 Major game #12. Stats: https://hslstats.com/2016-major/games/2019784/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019808@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T144500Z
 DTEND:20260919T161500Z
 SUMMARY:2016 Major: MOB Hockey 2 – Caps Hockey Club 11 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #36. Stats: https://hslstats.com/#2016-major/g/2019808
+DESCRIPTION:HSL 2016 Major game #36. Stats: https://hslstats.com/2016-major/games/2019808/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019839@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260919T200000Z
 DTEND:20260919T213000Z
 SUMMARY:2016 Major: Caps Hockey Club 5 – Northern Hockey Club 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #67. Stats: https://hslstats.com/#2016-major/g/2019839
+DESCRIPTION:HSL 2016 Major game #67. Stats: https://hslstats.com/2016-major/games/2019839/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019878@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T144500Z
 DTEND:20260920T161500Z
 SUMMARY:2016 Major: Caps Hockey Club 7 – MOB Hockey 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #106. Stats: https://hslstats.com/#2016-major/g/2019878
+DESCRIPTION:HSL 2016 Major game #106. Stats: https://hslstats.com/2016-major/games/2019878/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020028@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261009T154500Z
 DTEND:20261009T171500Z
 SUMMARY:2016 Major: Sauce Hockey Academy 5 – Caps Hockey Club 5 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #256. Stats: https://hslstats.com/#2016-major/g/2020028
+DESCRIPTION:HSL 2016 Major game #256. Stats: https://hslstats.com/2016-major/games/2020028/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020054@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261010T130000Z
 DTEND:20261010T143000Z
 SUMMARY:2016 Major: Young Kings Hockey 3 – Caps Hockey Club 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #282. Stats: https://hslstats.com/#2016-major/g/2020054
+DESCRIPTION:HSL 2016 Major game #282. Stats: https://hslstats.com/2016-major/games/2020054/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020093@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261010T210000Z
 DTEND:20261010T223000Z
 SUMMARY:2016 Major: Caps Hockey Club 1 – Sauce Hockey Academy 4 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #321. Stats: https://hslstats.com/#2016-major/g/2020093
+DESCRIPTION:HSL 2016 Major game #321. Stats: https://hslstats.com/2016-major/games/2020093/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020121@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261011T144500Z
 DTEND:20261011T161500Z
 SUMMARY:2016 Major: Caps Hockey Club 6 – Young Kings Hockey 7 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #349. Stats: https://hslstats.com/#2016-major/g/2020121
+DESCRIPTION:HSL 2016 Major game #349. Stats: https://hslstats.com/2016-major/games/2020121/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020237@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261023T201500Z
 DTEND:20261023T214500Z
 SUMMARY:2016 Major: Caps Hockey Club at Calgary Crusaders
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #465. Stats: https://hslstats.com/#2016-major/g/2020237
+DESCRIPTION:HSL 2016 Major game #465. Stats: https://hslstats.com/2016-major/games/2020237/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020251@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261024T134500Z
 DTEND:20261024T151500Z
 SUMMARY:2016 Major: Calgary Crusaders at Caps Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Major game #479. Stats: https://hslstats.com/#2016-major/g/2020251
+DESCRIPTION:HSL 2016 Major game #479. Stats: https://hslstats.com/2016-major/games/2020251/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020264@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261024T191500Z
 DTEND:20261024T204500Z
 SUMMARY:2016 Major: Spartan Hockey Academy at Caps Hockey Club
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #492. Stats: https://hslstats.com/#2016-major/g/2020264
+DESCRIPTION:HSL 2016 Major game #492. Stats: https://hslstats.com/2016-major/games/2020264/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020300@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261025T204500Z
 DTEND:20261025T221500Z
 SUMMARY:2016 Major: Caps Hockey Club at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2016 Major game #528. Stats: https://hslstats.com/#2016-major/g/2020300
+DESCRIPTION:HSL 2016 Major game #528. Stats: https://hslstats.com/2016-major/games/2020300/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020524@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261121T014500Z
 DTEND:20261121T031500Z
 SUMMARY:2016 Major: Spartan Hockey Academy 17M at Caps Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #752. Stats: https://hslstats.com/#2016-major/g/2020524
+DESCRIPTION:HSL 2016 Major game #752. Stats: https://hslstats.com/2016-major/games/2020524/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020559@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261121T191500Z
 DTEND:20261121T204500Z
 SUMMARY:2016 Major: O2 Grizzlies at Caps Hockey Club
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #787. Stats: https://hslstats.com/#2016-major/g/2020559
+DESCRIPTION:HSL 2016 Major game #787. Stats: https://hslstats.com/2016-major/games/2020559/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020573@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261121T224500Z
 DTEND:20261122T001500Z
 SUMMARY:2016 Major: Caps Hockey Club at Spartan Hockey Academy 17M
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #801. Stats: https://hslstats.com/#2016-major/g/2020573
+DESCRIPTION:HSL 2016 Major game #801. Stats: https://hslstats.com/2016-major/games/2020573/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020624@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261122T191500Z
 DTEND:20261122T204500Z
 SUMMARY:2016 Major: Caps Hockey Club at O2 Grizzlies
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #852. Stats: https://hslstats.com/#2016-major/g/2020624
+DESCRIPTION:HSL 2016 Major game #852. Stats: https://hslstats.com/2016-major/games/2020624/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020725@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261205T200000Z
 DTEND:20261205T213000Z
 SUMMARY:2016 Major: Caps Hockey Club at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #953. Stats: https://hslstats.com/#2016-major/g/2020725
+DESCRIPTION:HSL 2016 Major game #953. Stats: https://hslstats.com/2016-major/games/2020725/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020735@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261205T233000Z
 DTEND:20261206T010000Z
 SUMMARY:2016 Major: MOB Hockey at Caps Hockey Club
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #963. Stats: https://hslstats.com/#2016-major/g/2020735
+DESCRIPTION:HSL 2016 Major game #963. Stats: https://hslstats.com/2016-major/games/2020735/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020744@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261206T140000Z
 DTEND:20261206T153000Z
 SUMMARY:2016 Major: Caps Hockey Club at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2016 Major game #972. Stats: https://hslstats.com/#2016-major/g/2020744
+DESCRIPTION:HSL 2016 Major game #972. Stats: https://hslstats.com/2016-major/games/2020744/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021025@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20270103T011500Z
 DTEND:20270103T024500Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Major game #1253. Stats: https://hslstats.com/#2016-major/g/2021025
+DESCRIPTION:HSL 2016 Major game #1253. Stats: https://hslstats.com/2016-major/games/2021025/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021052@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270103T190000Z
 DTEND:20270103T203000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Caps Hockey Club
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2016 Major game #1280. Stats: https://hslstats.com/#2016-major/g/2021052
+DESCRIPTION:HSL 2016 Major game #1280. Stats: https://hslstats.com/2016-major/games/2021052/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021065@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270103T231500Z
 DTEND:20270104T004500Z
 SUMMARY:2016 Major: Caps Hockey Club at Gorillas Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2016 Major game #1293. Stats: https://hslstats.com/#2016-major/g/2021065
+DESCRIPTION:HSL 2016 Major game #1293. Stats: https://hslstats.com/2016-major/games/2021065/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021227@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T233000Z
 DTEND:20270117T010000Z
 SUMMARY:2016 Major: Gorillas Hockey Academy at Caps Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2016 Major game #1455. Stats: https://hslstats.com/#2016-major/g/2021227
+DESCRIPTION:HSL 2016 Major game #1455. Stats: https://hslstats.com/2016-major/games/2021227/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021321@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270123T191500Z
 DTEND:20270123T204500Z
 SUMMARY:2016 Major: Caps Hockey Club at Gorillas Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2016 Major game #1549. Stats: https://hslstats.com/#2016-major/g/2021321
+DESCRIPTION:HSL 2016 Major game #1549. Stats: https://hslstats.com/2016-major/games/2021321/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021334@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270123T224500Z
 DTEND:20270124T001500Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Caps Hockey Club
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2016 Major game #1562. Stats: https://hslstats.com/#2016-major/g/2021334
+DESCRIPTION:HSL 2016 Major game #1562. Stats: https://hslstats.com/2016-major/games/2021334/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021347@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270124T140000Z
 DTEND:20270124T153000Z
 SUMMARY:2016 Major: Caps Hockey Club at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2016 Major game #1575. Stats: https://hslstats.com/#2016-major/g/2021347
+DESCRIPTION:HSL 2016 Major game #1575. Stats: https://hslstats.com/2016-major/games/2021347/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021525@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270213T230000Z
 DTEND:20270214T003000Z
 SUMMARY:2016 Major: Northern Hockey Club at Caps Hockey Club
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1753. Stats: https://hslstats.com/#2016-major/g/2021525
+DESCRIPTION:HSL 2016 Major game #1753. Stats: https://hslstats.com/2016-major/games/2021525/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021563@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270214T194500Z
 DTEND:20270214T211500Z
 SUMMARY:2016 Major: Caps Hockey Club at Northern Hockey Club
 LOCATION:Archie Miller Arena
-DESCRIPTION:HSL 2016 Major game #1791. Stats: https://hslstats.com/#2016-major/g/2021563
+DESCRIPTION:HSL 2016 Major game #1791. Stats: https://hslstats.com/2016-major/games/2021563/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021693@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270227T014500Z
 DTEND:20270227T031500Z
 SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1921. Stats: https://hslstats.com/#2016-major/g/2021693
+DESCRIPTION:HSL 2016 Major game #1921. Stats: https://hslstats.com/2016-major/games/2021693/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021695@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270227T154500Z
 DTEND:20270227T171500Z
 SUMMARY:2016 Major: Queen City Young Guns at Caps Hockey Club
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1923. Stats: https://hslstats.com/#2016-major/g/2021695
+DESCRIPTION:HSL 2016 Major game #1923. Stats: https://hslstats.com/2016-major/games/2021695/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021700@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270228T003000Z
 DTEND:20270228T020000Z
 SUMMARY:2016 Major: Caps Hockey Club at Queen City Young Guns
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1928. Stats: https://hslstats.com/#2016-major/g/2021700
+DESCRIPTION:HSL 2016 Major game #1928. Stats: https://hslstats.com/2016-major/games/2021700/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021705@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270228T191500Z
 DTEND:20270228T204500Z
 SUMMARY:2016 Major: Caps Hockey Club at Warriors Hockey Academy (Sask)
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2016 Major game #1933. Stats: https://hslstats.com/#2016-major/g/2021705
+DESCRIPTION:HSL 2016 Major game #1933. Stats: https://hslstats.com/2016-major/games/2021705/
 END:VEVENT
 END:VCALENDAR

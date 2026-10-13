@@ -11,7 +11,7 @@ DTSTART:20260919T013000Z
 DTEND:20260919T030000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 8 – Queen City Young Guns 0 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #25. Stats: https://hslstats.com/#2015-aaa/g/2019797
+DESCRIPTION:HSL 2015 AAA game #25. Stats: https://hslstats.com/2015-aaa/games/2019797/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019853@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T223000Z
 DTEND:20260920T000000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) 1 – Saints Pro Hockey Academy 14 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #81. Stats: https://hslstats.com/#2015-aaa/g/2019853
+DESCRIPTION:HSL 2015 AAA game #81. Stats: https://hslstats.com/2015-aaa/games/2019853/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019868@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T020000Z
 DTEND:20260920T033000Z
 SUMMARY:2015 AAA: Queen City Young Guns 2 – Saints Pro Hockey Academy 5 (Final)
 LOCATION:Brandt Centre
-DESCRIPTION:HSL 2015 AAA game #96. Stats: https://hslstats.com/#2015-aaa/g/2019868
+DESCRIPTION:HSL 2015 AAA game #96. Stats: https://hslstats.com/2015-aaa/games/2019868/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019881@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T153000Z
 DTEND:20260920T170000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/#2015-aaa/g/2019881
+DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020036@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261009T220000Z
 DTEND:20261009T233000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 0 – Aces Hockey Academy 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #264. Stats: https://hslstats.com/#2015-aaa/g/2020036
+DESCRIPTION:HSL 2015 AAA game #264. Stats: https://hslstats.com/2015-aaa/games/2020036/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020082@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261010T191500Z
 DTEND:20261010T204500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 7 – Spartan Hockey Academy 1 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #310. Stats: https://hslstats.com/#2015-aaa/g/2020082
+DESCRIPTION:HSL 2015 AAA game #310. Stats: https://hslstats.com/2015-aaa/games/2020082/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020110@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261011T003000Z
 DTEND:20261011T020000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 7 – Capital City Knights 2 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #338. Stats: https://hslstats.com/#2015-aaa/g/2020110
+DESCRIPTION:HSL 2015 AAA game #338. Stats: https://hslstats.com/2015-aaa/games/2020110/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020133@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261011T173000Z
 DTEND:20261011T190000Z
 SUMMARY:2015 AAA: Spartan Hockey Academy 2 – Saints Pro Hockey Academy 5 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #361. Stats: https://hslstats.com/#2015-aaa/g/2020133
+DESCRIPTION:HSL 2015 AAA game #361. Stats: https://hslstats.com/2015-aaa/games/2020133/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020240@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261023T223000Z
 DTEND:20261024T000000Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Saints Pro Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #468. Stats: https://hslstats.com/#2015-aaa/g/2020240
+DESCRIPTION:HSL 2015 AAA game #468. Stats: https://hslstats.com/2015-aaa/games/2020240/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020258@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261024T171500Z
 DTEND:20261024T184500Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at Saints Pro Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #486. Stats: https://hslstats.com/#2015-aaa/g/2020258
+DESCRIPTION:HSL 2015 AAA game #486. Stats: https://hslstats.com/2015-aaa/games/2020258/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020285@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261025T153000Z
 DTEND:20261025T170000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at O2 Grizzlies
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #513. Stats: https://hslstats.com/#2015-aaa/g/2020285
+DESCRIPTION:HSL 2015 AAA game #513. Stats: https://hslstats.com/2015-aaa/games/2020285/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020297@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261025T193000Z
 DTEND:20261025T210000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Warriors Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #525. Stats: https://hslstats.com/#2015-aaa/g/2020297
+DESCRIPTION:HSL 2015 AAA game #525. Stats: https://hslstats.com/2015-aaa/games/2020297/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020551@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261121T173000Z
 DTEND:20261121T190000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy (Sask) at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #779. Stats: https://hslstats.com/#2015-aaa/g/2020551
+DESCRIPTION:HSL 2015 AAA game #779. Stats: https://hslstats.com/2015-aaa/games/2020551/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020607@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261122T154500Z
 DTEND:20261122T171500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #835. Stats: https://hslstats.com/#2015-aaa/g/2020607
+DESCRIPTION:HSL 2015 AAA game #835. Stats: https://hslstats.com/2015-aaa/games/2020607/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020631@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261122T210000Z
 DTEND:20261122T223000Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #859. Stats: https://hslstats.com/#2015-aaa/g/2020631
+DESCRIPTION:HSL 2015 AAA game #859. Stats: https://hslstats.com/2015-aaa/games/2020631/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020779@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261212T000000Z
 DTEND:20261212T013000Z
 SUMMARY:2015 AAA: O2 Grizzlies at Saints Pro Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #1007. Stats: https://hslstats.com/#2015-aaa/g/2020779
+DESCRIPTION:HSL 2015 AAA game #1007. Stats: https://hslstats.com/2015-aaa/games/2020779/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020797@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261212T161500Z
 DTEND:20261212T174500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #1025. Stats: https://hslstats.com/#2015-aaa/g/2020797
+DESCRIPTION:HSL 2015 AAA game #1025. Stats: https://hslstats.com/2015-aaa/games/2020797/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020822@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261212T214500Z
 DTEND:20261212T231500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1050. Stats: https://hslstats.com/#2015-aaa/g/2020822
+DESCRIPTION:HSL 2015 AAA game #1050. Stats: https://hslstats.com/2015-aaa/games/2020822/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020841@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261213T141500Z
 DTEND:20261213T154500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy
 LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1069. Stats: https://hslstats.com/#2015-aaa/g/2020841
+DESCRIPTION:HSL 2015 AAA game #1069. Stats: https://hslstats.com/2015-aaa/games/2020841/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021095@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20270109T160000Z
 DTEND:20270109T173000Z
 SUMMARY:2015 AAA: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1323. Stats: https://hslstats.com/#2015-aaa/g/2021095
+DESCRIPTION:HSL 2015 AAA game #1323. Stats: https://hslstats.com/2015-aaa/games/2021095/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021107@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270109T193000Z
 DTEND:20270109T210000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1335. Stats: https://hslstats.com/#2015-aaa/g/2021107
+DESCRIPTION:HSL 2015 AAA game #1335. Stats: https://hslstats.com/2015-aaa/games/2021107/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021138@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270110T174500Z
 DTEND:20270110T191500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 AAA game #1366. Stats: https://hslstats.com/#2015-aaa/g/2021138
+DESCRIPTION:HSL 2015 AAA game #1366. Stats: https://hslstats.com/2015-aaa/games/2021138/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021295@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270123T013000Z
 DTEND:20270123T030000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1523. Stats: https://hslstats.com/#2015-aaa/g/2021295
+DESCRIPTION:HSL 2015 AAA game #1523. Stats: https://hslstats.com/2015-aaa/games/2021295/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021320@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270123T191500Z
 DTEND:20270123T204500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1548. Stats: https://hslstats.com/#2015-aaa/g/2021320
+DESCRIPTION:HSL 2015 AAA game #1548. Stats: https://hslstats.com/2015-aaa/games/2021320/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021332@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270123T224500Z
 DTEND:20270124T001500Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1560. Stats: https://hslstats.com/#2015-aaa/g/2021332
+DESCRIPTION:HSL 2015 AAA game #1560. Stats: https://hslstats.com/2015-aaa/games/2021332/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021365@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270124T213000Z
 DTEND:20270124T230000Z
 SUMMARY:2015 AAA: Warriors Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1593. Stats: https://hslstats.com/#2015-aaa/g/2021365
+DESCRIPTION:HSL 2015 AAA game #1593. Stats: https://hslstats.com/2015-aaa/games/2021365/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021423@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270203T224500Z
 DTEND:20270204T001500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #1651. Stats: https://hslstats.com/#2015-aaa/g/2021423
+DESCRIPTION:HSL 2015 AAA game #1651. Stats: https://hslstats.com/2015-aaa/games/2021423/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021517@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270213T010000Z
 DTEND:20270213T023000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at HC Calgary Bandits
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1745. Stats: https://hslstats.com/#2015-aaa/g/2021517
+DESCRIPTION:HSL 2015 AAA game #1745. Stats: https://hslstats.com/2015-aaa/games/2021517/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021535@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270213T190000Z
 DTEND:20270213T203000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1763. Stats: https://hslstats.com/#2015-aaa/g/2021535
+DESCRIPTION:HSL 2015 AAA game #1763. Stats: https://hslstats.com/2015-aaa/games/2021535/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021553@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270213T234500Z
 DTEND:20270214T011500Z
 SUMMARY:2015 AAA: HC Calgary Bandits at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1781. Stats: https://hslstats.com/#2015-aaa/g/2021553
+DESCRIPTION:HSL 2015 AAA game #1781. Stats: https://hslstats.com/2015-aaa/games/2021553/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021582@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270214T210000Z
 DTEND:20270214T223000Z
 SUMMARY:2015 AAA: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1810. Stats: https://hslstats.com/#2015-aaa/g/2021582
+DESCRIPTION:HSL 2015 AAA game #1810. Stats: https://hslstats.com/2015-aaa/games/2021582/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021654@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T003000Z
 DTEND:20270221T020000Z
 SUMMARY:2015 AAA: North Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 AAA game #1882. Stats: https://hslstats.com/#2015-aaa/g/2021654
+DESCRIPTION:HSL 2015 AAA game #1882. Stats: https://hslstats.com/2015-aaa/games/2021654/
 END:VEVENT
 END:VCALENDAR

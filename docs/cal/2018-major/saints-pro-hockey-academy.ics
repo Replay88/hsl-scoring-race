@@ -11,7 +11,7 @@ DTSTART:20260919T140000Z
 DTEND:20260919T153000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy 4 – Rebels Hockey Academy 12 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #33. Stats: https://hslstats.com/#2018-major/g/2019805
+DESCRIPTION:HSL 2018 Major game #33. Stats: https://hslstats.com/2018-major/games/2019805/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019845@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260919T210000Z
 DTEND:20260919T223000Z
 SUMMARY:2018 Major: Gorillas Hockey Academy 9 – Saints Pro Hockey Academy 11 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #73. Stats: https://hslstats.com/#2018-major/g/2019845
+DESCRIPTION:HSL 2018 Major game #73. Stats: https://hslstats.com/2018-major/games/2019845/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019902@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T191500Z
 DTEND:20260920T204500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy 3 – North Stars Academy Wild 0 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #130. Stats: https://hslstats.com/#2018-major/g/2019902
+DESCRIPTION:HSL 2018 Major game #130. Stats: https://hslstats.com/2018-major/games/2019902/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019914@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260920T224500Z
 DTEND:20260921T001500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy 10 – North Stars Hockey Academy 0 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #142. Stats: https://hslstats.com/#2018-major/g/2019914
+DESCRIPTION:HSL 2018 Major game #142. Stats: https://hslstats.com/2018-major/games/2019914/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020168@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261017T004500Z
 DTEND:20261017T021500Z
 SUMMARY:2018 Major: Sask Super Selects at Saints Pro Hockey Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #396. Stats: https://hslstats.com/#2018-major/g/2020168
+DESCRIPTION:HSL 2018 Major game #396. Stats: https://hslstats.com/2018-major/games/2020168/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020193@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261017T191500Z
 DTEND:20261017T204500Z
 SUMMARY:2018 Major: Queen City Young Guns at Saints Pro Hockey Academy
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #421. Stats: https://hslstats.com/#2018-major/g/2020193
+DESCRIPTION:HSL 2018 Major game #421. Stats: https://hslstats.com/2018-major/games/2020193/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020203@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261017T224500Z
 DTEND:20261018T001500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Sask Super Selects
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #431. Stats: https://hslstats.com/#2018-major/g/2020203
+DESCRIPTION:HSL 2018 Major game #431. Stats: https://hslstats.com/2018-major/games/2020203/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020216@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261018T150000Z
 DTEND:20261018T163000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Queen City Young Guns
 LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #444. Stats: https://hslstats.com/#2018-major/g/2020216
+DESCRIPTION:HSL 2018 Major game #444. Stats: https://hslstats.com/2018-major/games/2020216/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020323@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261031T013000Z
 DTEND:20261031T030000Z
 SUMMARY:2018 Major: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #551. Stats: https://hslstats.com/#2018-major/g/2020323
+DESCRIPTION:HSL 2018 Major game #551. Stats: https://hslstats.com/2018-major/games/2020323/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020336@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261031T154500Z
 DTEND:20261031T171500Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #564. Stats: https://hslstats.com/#2018-major/g/2020336
+DESCRIPTION:HSL 2018 Major game #564. Stats: https://hslstats.com/2018-major/games/2020336/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020358@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261101T140000Z
 DTEND:20261101T153000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at North Stars Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #586. Stats: https://hslstats.com/#2018-major/g/2020358
+DESCRIPTION:HSL 2018 Major game #586. Stats: https://hslstats.com/2018-major/games/2020358/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020381@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261101T210000Z
 DTEND:20261101T223000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Capital City Knights
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #609. Stats: https://hslstats.com/#2018-major/g/2020381
+DESCRIPTION:HSL 2018 Major game #609. Stats: https://hslstats.com/2018-major/games/2020381/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020633@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261122T224500Z
 DTEND:20261123T001500Z
 SUMMARY:2018 Major: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #861. Stats: https://hslstats.com/#2018-major/g/2020633
+DESCRIPTION:HSL 2018 Major game #861. Stats: https://hslstats.com/2018-major/games/2020633/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020640@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261127T231500Z
 DTEND:20261128T004500Z
 SUMMARY:2018 Major: Rebels Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #868. Stats: https://hslstats.com/#2018-major/g/2020640
+DESCRIPTION:HSL 2018 Major game #868. Stats: https://hslstats.com/2018-major/games/2020640/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020660@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261128T211500Z
 DTEND:20261128T224500Z
 SUMMARY:2018 Major: Queen City Young Guns at Saints Pro Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #888. Stats: https://hslstats.com/#2018-major/g/2020660
+DESCRIPTION:HSL 2018 Major game #888. Stats: https://hslstats.com/2018-major/games/2020660/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020893@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261219T143000Z
 DTEND:20261219T160000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1121. Stats: https://hslstats.com/#2018-major/g/2020893
+DESCRIPTION:HSL 2018 Major game #1121. Stats: https://hslstats.com/2018-major/games/2020893/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020914@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261219T194500Z
 DTEND:20261219T211500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Calgary Crusaders
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1142. Stats: https://hslstats.com/#2018-major/g/2020914
+DESCRIPTION:HSL 2018 Major game #1142. Stats: https://hslstats.com/2018-major/games/2020914/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020956@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261220T154500Z
 DTEND:20261220T171500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2018 Major game #1184. Stats: https://hslstats.com/#2018-major/g/2020956
+DESCRIPTION:HSL 2018 Major game #1184. Stats: https://hslstats.com/2018-major/games/2020956/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021068@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20270108T191500Z
 DTEND:20270108T204500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at O2 Grizzlies
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1296. Stats: https://hslstats.com/#2018-major/g/2021068
+DESCRIPTION:HSL 2018 Major game #1296. Stats: https://hslstats.com/2018-major/games/2021068/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021098@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20270109T173000Z
 DTEND:20270109T190000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Spartan Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1326. Stats: https://hslstats.com/#2018-major/g/2021098
+DESCRIPTION:HSL 2018 Major game #1326. Stats: https://hslstats.com/2018-major/games/2021098/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021115@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270109T224500Z
 DTEND:20270110T001500Z
 SUMMARY:2018 Major: Young Kings Hockey at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1343. Stats: https://hslstats.com/#2018-major/g/2021115
+DESCRIPTION:HSL 2018 Major game #1343. Stats: https://hslstats.com/2018-major/games/2021115/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021131@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270110T154500Z
 DTEND:20270110T171500Z
 SUMMARY:2018 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1359. Stats: https://hslstats.com/#2018-major/g/2021131
+DESCRIPTION:HSL 2018 Major game #1359. Stats: https://hslstats.com/2018-major/games/2021131/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021218@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T214500Z
 DTEND:20270116T231500Z
 SUMMARY:2018 Major: North Stars Academy Wild at Saints Pro Hockey Academy
 LOCATION:Nexsource 2
-DESCRIPTION:HSL 2018 Major game #1446. Stats: https://hslstats.com/#2018-major/g/2021218
+DESCRIPTION:HSL 2018 Major game #1446. Stats: https://hslstats.com/2018-major/games/2021218/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021324@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270123T194500Z
 DTEND:20270123T211500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Aces Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2018 Major game #1552. Stats: https://hslstats.com/#2018-major/g/2021324
+DESCRIPTION:HSL 2018 Major game #1552. Stats: https://hslstats.com/2018-major/games/2021324/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021338@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270123T231500Z
 DTEND:20270124T004500Z
 SUMMARY:2018 Major: MOB Hockey at Saints Pro Hockey Academy
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2018 Major game #1566. Stats: https://hslstats.com/#2018-major/g/2021338
+DESCRIPTION:HSL 2018 Major game #1566. Stats: https://hslstats.com/2018-major/games/2021338/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021351@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270124T154500Z
 DTEND:20270124T171500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2018 Major game #1579. Stats: https://hslstats.com/#2018-major/g/2021351
+DESCRIPTION:HSL 2018 Major game #1579. Stats: https://hslstats.com/2018-major/games/2021351/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021424@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270204T003000Z
 DTEND:20270204T020000Z
 SUMMARY:2018 Major: Aces Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2018 Major game #1652. Stats: https://hslstats.com/#2018-major/g/2021424
+DESCRIPTION:HSL 2018 Major game #1652. Stats: https://hslstats.com/2018-major/games/2021424/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021586@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270214T224500Z
 DTEND:20270215T001500Z
 SUMMARY:2018 Major: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #1814. Stats: https://hslstats.com/#2018-major/g/2021586
+DESCRIPTION:HSL 2018 Major game #1814. Stats: https://hslstats.com/2018-major/games/2021586/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021611@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270220T150000Z
 DTEND:20270220T163000Z
 SUMMARY:2018 Major: Gorillas Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1839. Stats: https://hslstats.com/#2018-major/g/2021611
+DESCRIPTION:HSL 2018 Major game #1839. Stats: https://hslstats.com/2018-major/games/2021611/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021646@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T220000Z
 DTEND:20270220T233000Z
 SUMMARY:2018 Major: Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1874. Stats: https://hslstats.com/#2018-major/g/2021646
+DESCRIPTION:HSL 2018 Major game #1874. Stats: https://hslstats.com/2018-major/games/2021646/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021670@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270221T154500Z
 DTEND:20270221T171500Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Stars Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1898. Stats: https://hslstats.com/#2018-major/g/2021670
+DESCRIPTION:HSL 2018 Major game #1898. Stats: https://hslstats.com/2018-major/games/2021670/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021688@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T210000Z
 DTEND:20270221T223000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at North Stars Academy Wild
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1916. Stats: https://hslstats.com/#2018-major/g/2021688
+DESCRIPTION:HSL 2018 Major game #1916. Stats: https://hslstats.com/2018-major/games/2021688/
 END:VEVENT
 END:VCALENDAR

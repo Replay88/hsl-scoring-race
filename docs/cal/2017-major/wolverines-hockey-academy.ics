@@ -11,7 +11,7 @@ DTSTART:20260919T174500Z
 DTEND:20260919T191500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 4 – Sauce Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #55. Stats: https://hslstats.com/#2017-major/g/2019827
+DESCRIPTION:HSL 2017 Major game #55. Stats: https://hslstats.com/2017-major/games/2019827/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019886@hslstats.com
@@ -20,7 +20,7 @@ DTSTART:20260920T160000Z
 DTEND:20260920T173000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 9 – Wolverines Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #114. Stats: https://hslstats.com/#2017-major/g/2019886
+DESCRIPTION:HSL 2017 Major game #114. Stats: https://hslstats.com/2017-major/games/2019886/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019903@hslstats.com
@@ -29,7 +29,7 @@ DTSTART:20260920T193000Z
 DTEND:20260920T210000Z
 SUMMARY:2017 Major: Stars Hockey Academy 6 – Wolverines Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2017 Major game #131. Stats: https://hslstats.com/#2017-major/g/2019903
+DESCRIPTION:HSL 2017 Major game #131. Stats: https://hslstats.com/2017-major/games/2019903/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019982@hslstats.com
@@ -38,7 +38,7 @@ DTSTART:20260927T194500Z
 DTEND:20260927T211500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 4 – Aces Hockey Academy 9 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #210. Stats: https://hslstats.com/#2017-major/g/2019982
+DESCRIPTION:HSL 2017 Major game #210. Stats: https://hslstats.com/2017-major/games/2019982/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019995@hslstats.com
@@ -47,7 +47,7 @@ DTSTART:20261003T004500Z
 DTEND:20261003T021500Z
 SUMMARY:2017 Major: MOB Hockey 10 – Wolverines Hockey Academy 2 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #223. Stats: https://hslstats.com/#2017-major/g/2019995
+DESCRIPTION:HSL 2017 Major game #223. Stats: https://hslstats.com/2017-major/games/2019995/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019998@hslstats.com
@@ -56,7 +56,7 @@ DTSTART:20261003T160000Z
 DTEND:20261003T173000Z
 SUMMARY:2017 Major: Aces Hockey Academy 10 – Wolverines Hockey Academy 3 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #226. Stats: https://hslstats.com/#2017-major/g/2019998
+DESCRIPTION:HSL 2017 Major game #226. Stats: https://hslstats.com/2017-major/games/2019998/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020009@hslstats.com
@@ -65,7 +65,7 @@ DTSTART:20261003T211500Z
 DTEND:20261003T224500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 7 – North Stars Academy Wild 6 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #237. Stats: https://hslstats.com/#2017-major/g/2020009
+DESCRIPTION:HSL 2017 Major game #237. Stats: https://hslstats.com/2017-major/games/2020009/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020020@hslstats.com
@@ -74,7 +74,7 @@ DTSTART:20261004T154500Z
 DTEND:20261004T171500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 6 – Aces Hockey Academy 6 (Final)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #248. Stats: https://hslstats.com/#2017-major/g/2020020
+DESCRIPTION:HSL 2017 Major game #248. Stats: https://hslstats.com/2017-major/games/2020020/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020153@hslstats.com
@@ -83,7 +83,7 @@ DTSTART:20261011T224500Z
 DTEND:20261012T001500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy 5 – Gorillas Hockey Academy 6 (Final)
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #381. Stats: https://hslstats.com/#2017-major/g/2020153
+DESCRIPTION:HSL 2017 Major game #381. Stats: https://hslstats.com/2017-major/games/2020153/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020304@hslstats.com
@@ -92,7 +92,7 @@ DTSTART:20261030T154500Z
 DTEND:20261030T171500Z
 SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #532. Stats: https://hslstats.com/#2017-major/g/2020304
+DESCRIPTION:HSL 2017 Major game #532. Stats: https://hslstats.com/2017-major/games/2020304/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020312@hslstats.com
@@ -101,7 +101,7 @@ DTSTART:20261030T224500Z
 DTEND:20261031T001500Z
 SUMMARY:2017 Major: Queen City Young Guns at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #540. Stats: https://hslstats.com/#2017-major/g/2020312
+DESCRIPTION:HSL 2017 Major game #540. Stats: https://hslstats.com/2017-major/games/2020312/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020360@hslstats.com
@@ -110,7 +110,7 @@ DTSTART:20261101T144500Z
 DTEND:20261101T161500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Calgary Crusaders
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #588. Stats: https://hslstats.com/#2017-major/g/2020360
+DESCRIPTION:HSL 2017 Major game #588. Stats: https://hslstats.com/2017-major/games/2020360/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020515@hslstats.com
@@ -119,7 +119,7 @@ DTSTART:20261121T000000Z
 DTEND:20261121T013000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at South Sask Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2017 Major game #743. Stats: https://hslstats.com/#2017-major/g/2020515
+DESCRIPTION:HSL 2017 Major game #743. Stats: https://hslstats.com/2017-major/games/2020515/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020564@hslstats.com
@@ -128,7 +128,7 @@ DTSTART:20261121T203000Z
 DTEND:20261121T220000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Spartan Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #792. Stats: https://hslstats.com/#2017-major/g/2020564
+DESCRIPTION:HSL 2017 Major game #792. Stats: https://hslstats.com/2017-major/games/2020564/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020687@hslstats.com
@@ -137,7 +137,7 @@ DTSTART:20261129T213000Z
 DTEND:20261129T230000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #915. Stats: https://hslstats.com/#2017-major/g/2020687
+DESCRIPTION:HSL 2017 Major game #915. Stats: https://hslstats.com/2017-major/games/2020687/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020691@hslstats.com
@@ -146,7 +146,7 @@ DTSTART:20261204T201500Z
 DTEND:20261204T214500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #919. Stats: https://hslstats.com/#2017-major/g/2020691
+DESCRIPTION:HSL 2017 Major game #919. Stats: https://hslstats.com/2017-major/games/2020691/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020700@hslstats.com
@@ -155,7 +155,7 @@ DTSTART:20261204T234500Z
 DTEND:20261205T011500Z
 SUMMARY:2017 Major: North Stars Academy Wild at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #928. Stats: https://hslstats.com/#2017-major/g/2020700
+DESCRIPTION:HSL 2017 Major game #928. Stats: https://hslstats.com/2017-major/games/2020700/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020713@hslstats.com
@@ -164,7 +164,7 @@ DTSTART:20261205T154500Z
 DTEND:20261205T171500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at North Stars Academy Wild
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #941. Stats: https://hslstats.com/#2017-major/g/2020713
+DESCRIPTION:HSL 2017 Major game #941. Stats: https://hslstats.com/2017-major/games/2020713/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020738@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261206T003000Z
 DTEND:20261206T020000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #966. Stats: https://hslstats.com/#2017-major/g/2020738
+DESCRIPTION:HSL 2017 Major game #966. Stats: https://hslstats.com/2017-major/games/2020738/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021056@hslstats.com
@@ -182,7 +182,7 @@ DTSTART:20270103T200000Z
 DTEND:20270103T213000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Gorillas Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2017 Major game #1284. Stats: https://hslstats.com/#2017-major/g/2021056
+DESCRIPTION:HSL 2017 Major game #1284. Stats: https://hslstats.com/2017-major/games/2021056/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021121@hslstats.com
@@ -191,7 +191,7 @@ DTSTART:20270110T003000Z
 DTEND:20270110T020000Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #1349. Stats: https://hslstats.com/#2017-major/g/2021121
+DESCRIPTION:HSL 2017 Major game #1349. Stats: https://hslstats.com/2017-major/games/2021121/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021136@hslstats.com
@@ -200,7 +200,7 @@ DTSTART:20270110T173000Z
 DTEND:20270110T190000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Young Kings Hockey
 LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #1364. Stats: https://hslstats.com/#2017-major/g/2021136
+DESCRIPTION:HSL 2017 Major game #1364. Stats: https://hslstats.com/2017-major/games/2021136/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021167@hslstats.com
@@ -209,7 +209,7 @@ DTSTART:20270116T004500Z
 DTEND:20270116T021500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Vipers Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1395. Stats: https://hslstats.com/#2017-major/g/2021167
+DESCRIPTION:HSL 2017 Major game #1395. Stats: https://hslstats.com/2017-major/games/2021167/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021193@hslstats.com
@@ -218,7 +218,7 @@ DTSTART:20270116T173000Z
 DTEND:20270116T190000Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1421. Stats: https://hslstats.com/#2017-major/g/2021193
+DESCRIPTION:HSL 2017 Major game #1421. Stats: https://hslstats.com/2017-major/games/2021193/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021213@hslstats.com
@@ -227,7 +227,7 @@ DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Wolverines Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1441. Stats: https://hslstats.com/#2017-major/g/2021213
+DESCRIPTION:HSL 2017 Major game #1441. Stats: https://hslstats.com/2017-major/games/2021213/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021253@hslstats.com
@@ -236,7 +236,7 @@ DTSTART:20270117T154500Z
 DTEND:20270117T171500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at MOB Hockey
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1481. Stats: https://hslstats.com/#2017-major/g/2021253
+DESCRIPTION:HSL 2017 Major game #1481. Stats: https://hslstats.com/2017-major/games/2021253/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021383@hslstats.com
@@ -245,7 +245,7 @@ DTSTART:20270130T173000Z
 DTEND:20270130T190000Z
 SUMMARY:2017 Major: South Sask Academy at Wolverines Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1611. Stats: https://hslstats.com/#2017-major/g/2021383
+DESCRIPTION:HSL 2017 Major game #1611. Stats: https://hslstats.com/2017-major/games/2021383/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021400@hslstats.com
@@ -254,7 +254,7 @@ DTSTART:20270131T003000Z
 DTEND:20270131T020000Z
 SUMMARY:2017 Major: MOB Hockey at Wolverines Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #1628. Stats: https://hslstats.com/#2017-major/g/2021400
+DESCRIPTION:HSL 2017 Major game #1628. Stats: https://hslstats.com/2017-major/games/2021400/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021601@hslstats.com
@@ -263,7 +263,7 @@ DTSTART:20270220T004500Z
 DTEND:20270220T021500Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Wolverines Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1829. Stats: https://hslstats.com/#2017-major/g/2021601
+DESCRIPTION:HSL 2017 Major game #1829. Stats: https://hslstats.com/2017-major/games/2021601/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021614@hslstats.com
@@ -272,7 +272,7 @@ DTSTART:20270220T154500Z
 DTEND:20270220T171500Z
 SUMMARY:2017 Major: Wolverines Hockey Academy at Stars Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1842. Stats: https://hslstats.com/#2017-major/g/2021614
+DESCRIPTION:HSL 2017 Major game #1842. Stats: https://hslstats.com/2017-major/games/2021614/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021639@hslstats.com
@@ -281,7 +281,7 @@ DTSTART:20270220T210000Z
 DTEND:20270220T223000Z
 SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1867. Stats: https://hslstats.com/#2017-major/g/2021639
+DESCRIPTION:HSL 2017 Major game #1867. Stats: https://hslstats.com/2017-major/games/2021639/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021669@hslstats.com
@@ -290,6 +290,6 @@ DTSTART:20270221T154500Z
 DTEND:20270221T171500Z
 SUMMARY:2017 Major: Stars Hockey Academy at Wolverines Hockey Academy
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1897. Stats: https://hslstats.com/#2017-major/g/2021669
+DESCRIPTION:HSL 2017 Major game #1897. Stats: https://hslstats.com/2017-major/games/2021669/
 END:VEVENT
 END:VCALENDAR
