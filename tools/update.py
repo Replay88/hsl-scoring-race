@@ -887,6 +887,14 @@ def write_site(index, state, seasons):
         urls.append(url)
 
     cur = next(s for s in index["seasons"] if s["current"])
+    # alumni
+    al = alumni_data()
+    write_if_changed(os.path.join(root, "data", "alumni.json"), json.dumps(al, separators=(",", ":"), ensure_ascii=False).encode())
+    items = "".join(f'<li><b>{E(a["name"])}</b> – {E(a["level"])}: {E(a["now"])}' + (f' ({E(a["league"])})' if a["league"] else "")
+                    + (" · HSL: " + ", ".join(f'{E(s["season"])} {E(s["div"])} {E(s["team"])}' for s in a["hsl"]) if a["hsl"] else "") + "</li>" for a in al["players"])
+    page("/alumni/", "HSL alumni: players who went on to the CHL, NCAA and pro · HSL Statistics",
+         "Hockey Super League alumni now playing junior, college and pro hockey, with their HSL seasons and stats.",
+         f'<h2>HSL alumni</h2><p>Players who came through the Hockey Super League and went on to the WHL/CHL, Junior A, NCAA, U SPORTS or pro hockey.</p><ul>{items}</ul>')
     # home + season homes
     for s in index["seasons"]:
         pre = "" if s["current"] else s["key"] + "/"
@@ -977,6 +985,30 @@ def write_site(index, state, seasons):
                         except OSError:
                             pass
     print(f"site: {len(urls)} pages")
+
+
+LEVELS = ["Pro", "NCAA", "U SPORTS", "CHL", "Junior A", "Other"]
+
+
+def alumni_data():
+    """Curated alumni + their HSL seasons from the scan pool -> docs/data/alumni.json."""
+    try:
+        cur = json.load(open(os.path.join(HERE, "alumni.json")))["players"]
+    except FileNotFoundError:
+        cur = []
+    pool = {}
+    pp = os.path.join(CACHE, "alumni_pool.json")
+    if os.path.exists(pp):
+        pool = json.load(open(pp))["players"]
+    out = []
+    for a in cur:
+        row = pool.get(a.get("key", a["name"].lower()), {})
+        stints = sorted(row.get("stints", {}).values(), key=lambda s: s["season"])
+        out.append(dict(name=a["name"], level=a.get("level", "Other"), now=a.get("now", ""), league=a.get("league", ""),
+                        since=a.get("since", ""), note=a.get("note", ""), source=a.get("source", ""),
+                        hsl=stints or a.get("hsl", [])))
+    out.sort(key=lambda a: (LEVELS.index(a["level"]) if a["level"] in LEVELS else 99, a["name"]))
+    return dict(updated=dt.date.today().isoformat(), levels=LEVELS, players=out)
 
 
 def write_if_changed(path, data):

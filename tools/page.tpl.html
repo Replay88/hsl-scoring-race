@@ -281,7 +281,7 @@ button.star:hover{border-color:var(--star)}
   <div><h4>About</h4><p><b style="color:#fff">A fun fan site, made by a hockey parent.</b> Not affiliated with, endorsed by, or run by the Hockey Super League or any of its teams. Non-commercial: no ads, nothing for sale.</p><p>Team names and logos belong to their clubs. If you're a parent or club and would like a name, photo or logo removed or a stat corrected, get in touch and it'll be done promptly.</p><p id="contact">Contact: <a href="mailto:hello@hslstats.com">hello@hslstats.com</a></p></div>
   <div><h4>Divisions</h4><ul id="footDivs"></ul></div>
   <div><h4>How it works</h4><p>Every stat comes from the league's public box scores on <a href="https://www.hockeysuperleague.ca/" target="_blank" rel="noopener">hockeysuperleague.ca</a>, refreshed automatically after games. Last update: __UPDATED__.</p><p>Ties in points break on goals. GP counts games a player was listed in the box score. A small ▲ or ▼ beside a rank is how far the player moved since the last update.</p></div>
-  <div class="fine">© 2026 hslstats.com · Covers all 12 HSL divisions · Press ⌘K (Ctrl+K) to find any player.</div>
+  <div class="fine">© 2026 hslstats.com · Covers all 12 HSL divisions · <a href="/alumni/">Alumni</a> · Press ⌘K (Ctrl+K) to find any player.</div>
 </div></footer>
 <dialog id="pal"><div class="box"><input id="palQ" type="search" placeholder="Find any player in the league…" autocomplete="off"><ul id="palRes"></ul><div class="hint">Type at least two letters. Enter opens the first result, Esc closes.</div></div></dialog>
 <script>
@@ -350,6 +350,7 @@ function parse(){
   if(/^\d{4}-\d{2}$/.test(h[0])&&DIVK[h[0]]){ SEASON=h[0]; h=h.slice(1); }
   DIVKEYS=DIVK[SEASON];
   if(!h[0]){ route={dk:'',sec:'home',id:''}; return; }
+  if(h[0]==='alumni'){ route={dk:'',sec:'alumni',id:''}; return; }
   let dk=DIVKEYS[h[0]]?h[0]:null;
   if(!dk){ route={dk:'',sec:'home',id:''}; return; }
   let sec=h[1]?(PSEC[h[1]]||h[1]):'leaders', id=h.slice(2).join('/');
@@ -380,7 +381,7 @@ function chrome(dk,sec){
        else if(D&&sec==='g'){const g=D.G[route.id]; if(g) what=`${short(g.away)} ${g.vs} – ${g.hs} ${short(g.home)}`;} }catch(e){}
   document.title=(dk?`${what} · ${DIVKEYS[dk]}${SEASON!==CUR?' '+SEASON:''} · `:'')+'HSL Statistics';
   $('#pageTitle').innerHTML=dk?`${esc(DIVKEYS[dk])}${today&&!past?'<span class="live"><i></i>Games today</span>':''}<small>${past?SEASON+' season · final':esc(titles[sec]||'')}${D?` · ${D.games} games through ${esc(D.thru)}`:''}</small>`:(past?`${SEASON} season<small>Every division, final numbers</small>`:`Hockey Super League<small>Leaders, standings, goalies, scores and schedules for every division</small>`);
-  $('#divTabs').innerHTML=`<a href="${hrefS(SEASON,'','')}" aria-current="${!dk}">Home</a>`+Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g','c','h'].includes(sec)||sec==='home'?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('');
+  $('#divTabs').innerHTML=`<a href="${hrefS(SEASON,'','')}" aria-current="${!dk&&sec!=='alumni'}">Home</a>`+Object.entries(DIVKEYS).map(([k,n])=>`<a href="${href(k,['p','t','g','c','h'].includes(sec)||sec==='home'||sec==='alumni'?'leaders':sec)}" aria-current="${k===dk}">${n}</a>`).join('')+`<a href="/alumni/" aria-current="${sec==='alumni'}" style="margin-left:auto;color:var(--accent)">Alumni</a>`;
   $('#secTabs').innerHTML=dk?SECS.filter(([s])=>!(past&&s==='schedule')).map(([s,l])=>`<a href="${href(dk,s)}" aria-current="${s===sec}">${l}</a>`).join(''):'';
   $('#secTabs').hidden=!dk;
   const sel=$('#seasonSel'); sel.innerHTML=INDEX.seasons.map(s=>`<option value="${s.key}"${s.key===SEASON?' selected':''}>${s.key}${s.current?' · live':''}</option>`).join('');
@@ -432,6 +433,7 @@ async function render(){
   const v=$('#view');
   const swap=html=>{const go=()=>{v.innerHTML=html;}; if(document.startViewTransition&&!matchMedia('(prefers-reduced-motion: reduce)').matches){const tr=document.startViewTransition(go); tr.ready.catch(()=>{}); tr.finished.catch(()=>{}); return tr.updateCallbackDone.catch(()=>{});} go(); return Promise.resolve();};
   if(sec==='home'){ chrome(dk,sec); await swap(home()); wireHome(); window.scrollTo(0,0); return; }
+  if(sec==='alumni'){ chrome(dk,sec); $('#pageTitle').innerHTML='HSL alumni<small>Players who came through the league and went on to junior, college or pro hockey</small>'; document.title='HSL alumni · HSL Statistics'; await swap('<div class="skel"><i style="width:40%"></i><i></i><i style="width:70%"></i></div>'); let A; try{A=await (await fetch('/data/alumni.json'+V)).json();}catch(e){ v.innerHTML='<p class="empty">Could not load.</p>'; return; } if(my!==seq) return; await swap(alumni(A)); window.scrollTo(0,0); return; }
   if(!DD(dk)){ chrome(dk,sec); v.innerHTML='<div class="skel">'+'<i style="width:40%"></i><i></i><i style="width:85%"></i><i style="width:70%"></i><i></i><i style="width:60%"></i>'.repeat(2)+'</div>'; try{await load(dk);}catch(e){ if(my===seq) v.innerHTML='<p class="empty">Could not load that division. Check your connection and try again.</p>'; return; } if(my!==seq) return; }
   chrome(dk,sec);
   const dn=DIVKEYS[dk], D=DD(dk);
@@ -613,6 +615,15 @@ function records(dk){
   const row=h=>{const g=D.G[h[2]], r=D.rows[h[1]], opp=g.home===r[1]?g.away:g.home; return `<tr><td class="l" style="color:var(--muted)">${fmtDay(h[0])}</td><td class="l player">${P(dk,h[1])}<span class="t">${esc(short(r[1]))}</span></td><td class="l">vs ${T(dk,opp,1)} <a class="lnk" href="${G(dk,h[2])}" style="color:var(--muted)">${g.home===r[1]?g.hs+'–'+g.vs:g.vs+'–'+g.hs}</a></td><td>${h[3]}</td><td>${h[4]}</td><td class="pts">${h[3]+h[4]}</td></tr>`;};
   return `<div class="card"><h2>Hat tricks<small>${D.hats.length} so far</small></h2>${most.length?`<div class="legend">${most.map(([i,c])=>`<span>${P(dk,+i)} <span style="color:var(--muted)">× ${c}</span></span>`).join('')}</div>`:''}<div class="tbl"><table><thead><tr><th class="l">Date</th><th class="l">Player</th><th class="l">Game</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>${D.hats.length?D.hats.map(row).join(''):'<tr><td colspan="6" class="empty">None yet.</td></tr>'}</tbody></table></div></div>
   <div class="card"><h2>Biggest games<small>4+ points</small></h2><div class="tbl"><table><thead><tr><th class="l">Date</th><th class="l">Player</th><th class="l">Game</th><th>G</th><th>A</th><th>PTS</th></tr></thead><tbody>${D.bigs.length?D.bigs.map(row).join(''):'<tr><td colspan="6" class="empty">None yet.</td></tr>'}</tbody></table></div></div>`;
+}
+function alumni(A){
+  const by={}; A.players.forEach(a=>(by[a.level]=by[a.level]||[]).push(a));
+  const card=a=>`<div class="dcard"><h3>${esc(a.name)}</h3><div class="ln"><b>${esc(a.now)}</b>${a.league?`<span>${esc(a.league)}</span>`:''}</div>${a.since?`<div class="k">Since ${esc(a.since)}</div>`:''}${a.hsl.length?`<div class="k" style="margin-top:4px">In the HSL</div>${a.hsl.map(s=>`<div class="ln"><span style="color:var(--fg)">${esc(s.season)} · ${esc(s.div)} · ${esc(short(s.team))}</span><span>${s.PTS} pts in ${s.GP} GP</span></div>`).join('')}`:''}${a.note?`<div class="foot">${esc(a.note)}</div>`:''}${a.source?`<div class="foot"><a class="lnk" href="${esc(a.source)}" target="_blank" rel="noopener">Source ↗</a></div>`:''}</div>`;
+  const groups=A.levels.filter(l=>by[l]).map(l=>`<div class="card"><h2>${esc(l)}<small>${by[l].length}</small></h2><div class="grid">${by[l].map(card).join('')}</div></div>`).join('');
+  const mail='mailto:hello@hslstats.com?subject='+encodeURIComponent('HSL alumni: ')+'&body='+encodeURIComponent('Player name:\nHSL team and seasons:\nWhere they play now (team, league):\nA link that confirms it (team roster, news story):\n');
+  return `<div class="strip"><h2>Know an HSL alum?</h2><ul><li>If a player who came through the league is now in the WHL, CHL, Junior A, NCAA, U SPORTS or pro, <a class="lnk" href="${mail}">send us the name and a link</a> and they'll be added. Every entry on this page links to a public source.</li></ul></div>
+  ${A.players.length?groups:'<p class="empty">The first names are being verified now. Check back shortly, or send one in.</p>'}
+  <p class="note">HSL seasons and stats come from the league's box scores back to 2019-20. The list is curated by hand from public rosters and news; it is not an official league record.</p>`;
 }
 function home(){
   const past=SEASON!==CUR, S=INDEX.seasons.find(s=>s.key===SEASON);

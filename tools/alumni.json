@@ -1,0 +1,65 @@
+{
+ "_about": "Hand-curated list of HSL alumni now playing at a higher level. 'key' is the player's name in lowercase as it appeared in HSL box scores (matches cache/alumni_pool.json). 'level' is one of: Pro, NCAA, U SPORTS, CHL, Junior A, Other. 'source' is a public page that confirms it. Entries without a matching pool key still show, with the HSL seasons from 'hsl' if given.",
+ "players": [
+  {
+   "key": "bryce pickford",
+   "name": "Bryce Pickford",
+   "level": "CHL",
+   "now": "Medicine Hat Tigers",
+   "league": "WHL",
+   "since": "2022",
+   "note": "Right-shot defenceman from Edmonton (b. 2006). Two WHL titles (Seattle 2023, Medicine Hat 2025). 2025-26: WHL Player of the Year and Top Defenceman with 45 goals, a WHL record for a defenceman since 1996. Drafted 81st overall by the Montreal Canadiens in 2025 and signed his entry-level contract Dec 2025.",
+   "source": "https://thehockeynews.com/nhl/montreal-canadiens/latest-news/canadiens-sign-promising-prospect"
+  },
+  {
+   "key": "coster dunn",
+   "name": "Coster Dunn",
+   "level": "CHL",
+   "now": "Seattle Thunderbirds",
+   "league": "WHL",
+   "since": "2021",
+   "note": "Centre from Stony Plain (b. 2005). WHL champion with Seattle in 2023; 128 points in 220 WHL games. Committed to Northern Michigan University (NCAA) for 2026-27; attended Utah Mammoth camp in fall 2025.",
+   "source": "https://chl.ca/whl-thunderbirds/article/coster-dunn-commits-to-northern-michigan/"
+  },
+  {
+   "key": "ethan kronewitt",
+   "name": "Ethan Kronewitt",
+   "level": "Junior A",
+   "now": "Grande Prairie Storm",
+   "league": "AJHL",
+   "since": "2021",
+   "note": "Forward from Edmonton (b. 2005). Three seasons with the Spruce Grove Saints (AJHL/BCHL), 142 games, before joining Grande Prairie for 2025-26.",
+   "source": "https://neutralzone.com/player/ethan-kronewitt-48586"
+  },
+  {
+   "key": "cade meiklejohn",
+   "name": "Cade Meiklejohn",
+   "level": "Junior A",
+   "now": "Vermilion Tigers",
+   "league": "NEAJBHL",
+   "since": "2022",
+   "note": "Forward from Leduc (b. 2005). Fort McMurray Oil Barons (AJHL) and Weyburn Red Wings (SJHL, 30 pts in 40 GP in 2023-24), then Bonnyville and Vermilion; NEAJBHL MVP and top goal scorer 2025-26.",
+   "source": "https://neutralzone.com/player/cade-meiklejohn-38795/"
+  },
+  {
+   "key": "nate yellowaga",
+   "name": "Nate Yellowaga",
+   "level": "CHL",
+   "now": "Victoria Royals",
+   "league": "WHL",
+   "since": "2025",
+   "note": "Defenceman from Calgary (b. 2008). Edge School and SAHA prep, then the Brooks Bandits (AJHL/BCHL champions 2025). 27 points in 67 games as a WHL rookie with Red Deer in 2025-26; traded to Victoria in June 2026. Committed to the University of Maine.",
+   "source": "https://chl.ca/whl-rebels/?p=28653"
+  },
+  {
+   "key": "reily pickford",
+   "name": "Reily Pickford",
+   "level": "Junior A",
+   "now": "Langley Rivermen",
+   "league": "BCHL",
+   "since": "2025",
+   "note": "Defenceman from Chauvin (b. 2007), Bryce's younger brother. AJHL all-star rookie with the Grande Prairie Storm in 2025-26; signed with Langley for 2026-27. WHL rights held by Medicine Hat.",
+   "source": "https://chl.ca/whl-tigers/?p=46550"
+  }
+ ]
+}
