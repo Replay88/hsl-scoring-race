@@ -208,6 +208,43 @@ def box(lines):
     return players, goalies
 
 
+CORRECTIONS = {}
+try:
+    for c in json.load(open(os.path.join(HERE, "corrections.json"))):
+        CORRECTIONS[c["gid"]] = c
+except FileNotFoundError:
+    pass
+
+
+def correct(g):
+    """Apply a hand-entered gamesheet correction: move a goal to the right kid.
+    Scores never change; the game page says what was changed and why."""
+    c = CORRECTIONS.get(g["gid"])
+    if not c:
+        return
+    notes = []
+    for fix in c["goals"]:
+        ev = next((e for e in g["events"] if e["t"] == "G" and e["per"] == fix["per"] and e["time"] == fix["time"]
+                   and e["scorer"] == fix["from"]), None)
+        if not ev:
+            continue
+        team = ev["team"]
+        ev["scorer"], ev["num"] = fix["to"], fix.get("to_num", "")
+        lost_assist = fix["to"] in ev["assists"]
+        ev["assists"] = [a for a in ev["assists"] if a != fix["to"]]
+        by = {p["name"]: p for p in g["players"] if p["team"] == team}
+        a, b = by.get(fix["from"]), by.get(fix["to"])
+        if a:
+            a["G"] -= 1; a["PTS"] -= 1
+        if b:
+            b["G"] += 1; b["PTS"] += 1
+            if lost_assist:
+                b["A"] -= 1; b["PTS"] -= 1
+        notes.append(f"P{fix['per']} {fix['time']} goal moved from {fix['from']} to {fix['to']}")
+    if notes:
+        g["corrected"] = c["note"] + " (" + "; ".join(notes) + ")"
+
+
 def examine(gid, html):
     lines = text_from(html)
     h = header(lines)
@@ -220,6 +257,7 @@ def examine(gid, html):
         g["players"], g["goalies"] = box(lines)
         g.update(tables(lines, home, away))
         g["events"] = timeline(lines, home, away)
+        correct(g)
         for p in g["players"]:  # PP / GW goals per player, from the timeline
             mine = [e for e in g["events"] if e["t"] == "G" and e["team"] == p["team"] and e["num"] == p["num"]]
             p["PPG"] = sum("PPG" in e["tags"] for e in mine)
@@ -538,6 +576,7 @@ def build_season(state, sid, today):
             h, a = map(int, re.findall(r"\d+", g["score"]))
             G[g["gid"]] = dict(day=g["day"], time=sched.get(g["gid"], {}).get("time", ""), rink=g["rink"],
                                home=g["home"], away=g["away"], hs=h, vs=a, status=g["status"], type=g["type"],
+                               corrected=g.get("corrected", ""),
                                periods=g.get("scoring", {}), shots=g.get("shots", {}), events=g.get("events", []),
                                goalies=[dict(team=q["team"], name=nice(q["name"]), num=q["num"], MIN=round(q["MIN"]),
                                              GA=q["GA"], SA=q["SA"], SV=q["SV"]) for q in g.get("goalies", [])],

@@ -1,0 +1,12 @@
+[
+  {
+    "gid": "2020149",
+    "note": "Scorekeeper credited two Knights goals to William Ekholm Bjornstad; the 18:15 goal was Jacob Van Wieren's (per the team).",
+    "goals": [{"per": "2", "time": "18:15", "from": "William Ekholm Bjornstad", "to": "Jacob Van Wieren", "to_num": "11"}]
+  },
+  {
+    "gid": "2020135",
+    "note": "Scorekeeper credited two Knights goals to Jayce Kshyk; the 2nd-period 09:28 goal was Jacob Van Wieren's (per the team).",
+    "goals": [{"per": "2", "time": "09:28", "from": "Jayce Kshyk", "to": "Jacob Van Wieren", "to_num": "11"}]
+  }
+]
