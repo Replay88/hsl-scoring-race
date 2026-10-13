@@ -449,16 +449,19 @@ function scores(dk){
   const typeNote=D.types&&D.types.length?`<p class="note">${D.types.join(', ')} games are listed here with a label but don't count toward leaders or standings.</p>`:'';
   return weekend(dk)+gotw+typeNote+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="gl">${gids.filter(g=>D.G[g].day===d).map(g=>gameCard(dk,g)).join('')}</div></div>`).join('');
 }
+let SCHED_TEAM='';
 function schedule(dk){
-  const D=DD(dk), all=D.upcoming.filter(g=>g.day>=TODAY);
-  const teams=[...new Set(D.standings.map(s=>s.team).concat(all.flatMap(g=>[g.home,g.away])))].sort();
-  const subs=`<div class="card"><h2>Add to your phone's calendar</h2><p class="note" style="margin:0">Subscribe once and every game shows up in your calendar with the rink, and scores fill in after the game. Pick a team, or take the whole division.</p><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><select id="calTeam" aria-label="Team calendar" style="font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg)"><option value="all">Whole division (${esc(DIVKEYS[dk])})</option>${teams.map(t=>`<option value="${esc(slug(t))}">${esc(t)}</option>`).join('')}</select>${calBtn(dk,'all','Subscribe')}</div><p class="note" style="margin:0">On iPhone the link opens Calendar and asks to subscribe. On Android, copy the address and add it in Google Calendar under "From URL": <code id="calUrl" style="user-select:all">https://${CAL(dk)}all.ics</code></p></div>`;
-  if(!all.length) return subs+'<p class="empty">No upcoming games on the league calendar.</p>';
-  const cutoff=new Date(Date.now()+15*864e5).toISOString().slice(0,10);
-  const u=all.filter(g=>g.day<=cutoff).length?all.filter(g=>g.day<=cutoff):all.slice(0,20);
+  const D=DD(dk), every=D.upcoming.filter(g=>g.day>=TODAY);
+  const teams=[...new Set(D.standings.map(s=>s.team).concat(every.flatMap(g=>[g.home,g.away])))].sort();
+  const tslug=SCHED_TEAM, tname=teams.find(x=>slug(x)===tslug)||'';
+  const all=tname?every.filter(g=>g.home===tname||g.away===tname):every;
+  const f=tname?tslug:'all';
+  const subs=`<div class="card"><h2>Schedule</h2><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><select id="calTeam" aria-label="Team" style="font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg)"><option value="">Whole division (${esc(DIVKEYS[dk])})</option>${teams.map(x=>`<option value="${esc(slug(x))}"${slug(x)===tslug?' selected':''}>${esc(x)}</option>`).join('')}</select>${calBtn(dk,f,tname?'Add '+esc(short(tname))+' to my calendar':'Add the division to my calendar')}</div><p class="note" style="margin:0">Subscribe once and every game lands in your phone's calendar with the rink; scores fill in after each game. On iPhone the button opens Calendar. On Android, add this address in Google Calendar under "From URL": <code id="calUrl" style="user-select:all">https://${CAL(dk)}${f}.ics</code></p></div>`;
+  if(!all.length) return subs+`<p class="empty">No upcoming games${tname?' for '+esc(tname):''} on the league calendar.</p>`;
+  const u=all;
   const days=[...new Set(u.map(g=>g.day))];
-  setTimeout(()=>{const sel=$('#calTeam'); if(!sel) return; sel.onchange=()=>{const f=sel.value; sel.parentElement.querySelector('a.star').href=`webcal://${CAL(dk)}${f}.ics`; $('#calUrl').textContent=`https://${CAL(dk)}${f}.ics`;};},0);
-  return subs+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="tbl"><table><tbody>${u.filter(g=>g.day===d).map(g=>`<tr><td class="l" style="width:84px">${esc(g.time)}</td><td class="l player">${T(dk,g.away)} <span style="color:var(--muted);font-weight:400">at</span> ${T(dk,g.home)}</td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`).join('')}</tbody></table></div></div>`).join('')+`<p class="note">From the league calendar; times are Mountain. Showing the next two weeks (${u.length} games of ${all.length} left on the schedule).</p>`;
+  setTimeout(()=>{const sel=$('#calTeam'); if(sel) sel.onchange=()=>{SCHED_TEAM=sel.value; render();};},0);
+  return subs+days.map(d=>`<div class="day"><h3>${fmtDay(d,1)}</h3><div class="tbl"><table><tbody>${u.filter(g=>g.day===d).map(g=>`<tr><td class="l" style="width:84px">${esc(g.time)}</td><td class="l player">${g.away===tname?'<b>'+T(dk,g.away)+'</b>':T(dk,g.away)} <span style="color:var(--muted);font-weight:400">at</span> ${g.home===tname?'<b>'+T(dk,g.home)+'</b>':T(dk,g.home)}</td><td class="l hide-s" style="color:var(--muted)">${esc(g.loc)}</td></tr>`).join('')}</tbody></table></div></div>`).join('')+`<p class="note">From the league calendar; times are Mountain. ${u.length} game${u.length===1?'':'s'} left${tname?' for '+esc(short(tname)):' in the division'}, through ${fmtDay(days[days.length-1],1)}.</p>`;
 }
 function records(dk){
   const D=DD(dk);
