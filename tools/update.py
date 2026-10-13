@@ -376,7 +376,8 @@ def main():
         todo = [gid for gid, s in sched.items()
                 if s["final"] and (not (games.get(gid) and games[gid]["status"].startswith("Final")
                                         and games[gid].get("parser") == PARSER)
-                                   or (sid == CURRENT and s["day"] >= recent))]
+                                   or (sid == CURRENT and s["day"] >= recent))
+                and S.get("bad", {}).get(gid, 0) < 6]  # give up on a page after six failed runs
         if sid != CURRENT:
             todo = todo[:150]  # old seasons fill in a chunk per run; no rush
         print(f"{label}: {len(sched)} scheduled games, {sum(1 for s in sched.values() if s['final'])} final, "
@@ -406,7 +407,10 @@ def main():
                     errors.append(gid)
                 elif g:
                     games[gid] = g
-        if todo and len(errors) > 0.3 * len(todo):
+        bad = S.setdefault("bad", {})  # pages that keep failing (a few box scores are broken on the league site)
+        for gid in errors:
+            bad[gid] = bad.get(gid, 0) + 1
+        if len(todo) >= 20 and len(errors) > 0.3 * len(todo):
             print(f"{label}: {len(errors)} of {len(todo)} pages failed (e.g. {errors[:3]}); the site is probably down")
             failures += 1
         S["games"] = {k: v for k, v in games.items() if k in sched and v}  # drop cancelled / stray games
@@ -537,7 +541,7 @@ def build_season(state, sid, today):
                                periods=g.get("scoring", {}), shots=g.get("shots", {}), events=g.get("events", []),
                                goalies=[dict(team=q["team"], name=nice(q["name"]), num=q["num"], MIN=round(q["MIN"]),
                                              GA=q["GA"], SA=q["SA"], SV=q["SV"]) for q in g.get("goalies", [])],
-                               url=URL.format(d, g["gid"]))
+                               url=URL.format(PATHS[0], g["gid"]))
 
         # --- skaters: season totals + game logs ---
         agg, perday, logs = {}, {}, {}
