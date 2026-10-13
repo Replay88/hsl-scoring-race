@@ -370,9 +370,13 @@ def main():
             failures += 1
             continue
         games = S["games"]
+        # read every newly-final game, and re-read the last two weeks' games so scorekeeper
+        # corrections on the league site (a goal moved to the right kid) flow through
+        recent = (dt.date.fromisoformat(today) - dt.timedelta(days=14)).isoformat()
         todo = [gid for gid, s in sched.items()
-                if s["final"] and not (games.get(gid) and games[gid]["status"].startswith("Final")
-                                       and games[gid].get("parser") == PARSER)]
+                if s["final"] and (not (games.get(gid) and games[gid]["status"].startswith("Final")
+                                        and games[gid].get("parser") == PARSER)
+                                   or (sid == CURRENT and s["day"] >= recent))]
         if sid != CURRENT:
             todo = todo[:150]  # old seasons fill in a chunk per run; no rush
         print(f"{label}: {len(sched)} scheduled games, {sum(1 for s in sched.values() if s['final'])} final, "
@@ -381,7 +385,10 @@ def main():
 
         def work(gid):
             try:
-                html, cached = load(gid)
+                if sid == CURRENT and sched[gid]["day"] >= recent:
+                    html, cached = fetch(gid), False  # always fresh: the sheet may have been corrected
+                else:
+                    html, cached = load(gid)
                 g = examine(gid, html)
                 find_logos(html, logos)
                 if not g or not g["status"].startswith("Final"):
