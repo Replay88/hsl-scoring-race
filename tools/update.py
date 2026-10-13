@@ -619,9 +619,9 @@ def build_season(state, sid, today):
             hot = [h for h in sorted(tally.values(), key=lambda x: (-x[5], -x[3], x[0]))[:6] if h[5] > 0]
             span = mmdd(lo) + ("–" + str(int(last[-2:])) if lo[:7] == last[:7] else " – " + mmdd(last))
 
-        # --- race: cumulative points by game day for the top 8 ---
+        # --- race: cumulative points by game day for the top 30 ---
         race = []
-        for k in order[:8]:
+        for k in order[:30]:
             run, cum = [], 0
             for day in days:
                 cum += perday[k].get(day, 0)
