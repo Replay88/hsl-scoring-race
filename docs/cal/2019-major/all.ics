@@ -248,6 +248,15 @@ LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2019 Major game #399. Stats: https://hslstats.com/2019-major/games/2020171/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020175@hslstats.com
+DTSTAMP:20261017T143000Z
+DTSTART:20261017T143000Z
+DTEND:20261017T160000Z
+SUMMARY:2019 Major: Stars Hockey Academy at Rebels Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #410. Stats: https://hslstats.com/2019-major/games/2020175/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020177@hslstats.com
 DTSTAMP:20261017T153000Z
 DTSTART:20261017T153000Z
@@ -255,15 +264,6 @@ DTEND:20261017T170000Z
 SUMMARY:2019 Major: Spartan Hockey Academy at Calgary Crusaders
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #405. Stats: https://hslstats.com/2019-major/games/2020177/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020182@hslstats.com
-DTSTAMP:20261017T161500Z
-DTSTART:20261017T161500Z
-DTEND:20261017T174500Z
-SUMMARY:2019 Major: Stars Hockey Academy at Rebels Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #410. Stats: https://hslstats.com/2019-major/games/2020182/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020185@hslstats.com
@@ -302,6 +302,15 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #424. Stats: https://hslstats.com/2019-major/games/2020196/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020199@hslstats.com
+DTSTAMP:20261017T210000Z
+DTSTART:20261017T210000Z
+DTEND:20261017T223000Z
+SUMMARY:2019 Major: Stars Hockey Academy at Saints Pro Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #432. Stats: https://hslstats.com/2019-major/games/2020199/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020201@hslstats.com
 DTSTAMP:20261017T213000Z
 DTSTART:20261017T213000Z
@@ -309,15 +318,6 @@ DTEND:20261017T230000Z
 SUMMARY:2019 Major: Capital City Knights at Young Kings Hockey
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #429. Stats: https://hslstats.com/2019-major/games/2020201/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020204@hslstats.com
-DTSTAMP:20261017T224500Z
-DTSTART:20261017T224500Z
-DTEND:20261018T001500Z
-SUMMARY:2019 Major: Stars Hockey Academy at Saints Pro Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #432. Stats: https://hslstats.com/2019-major/games/2020204/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020211@hslstats.com
@@ -329,6 +329,15 @@ LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2019 Major game #439. Stats: https://hslstats.com/2019-major/games/2020211/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020214@hslstats.com
+DTSTAMP:20261018T143000Z
+DTSTART:20261018T143000Z
+DTEND:20261018T160000Z
+SUMMARY:2019 Major: Riggers Hockey Academy at MOB Hockey
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #450. Stats: https://hslstats.com/2019-major/games/2020214/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020218@hslstats.com
 DTSTAMP:20261018T153000Z
 DTSTART:20261018T153000Z
@@ -336,15 +345,6 @@ DTEND:20261018T170000Z
 SUMMARY:2019 Major: Capital City Knights at Spartan Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #446. Stats: https://hslstats.com/2019-major/games/2020218/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020222@hslstats.com
-DTSTAMP:20261018T161500Z
-DTSTART:20261018T161500Z
-DTEND:20261018T174500Z
-SUMMARY:2019 Major: Riggers Hockey Academy at MOB Hockey
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #450. Stats: https://hslstats.com/2019-major/games/2020222/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020225@hslstats.com
@@ -356,6 +356,15 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #453. Stats: https://hslstats.com/2019-major/games/2020225/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020227@hslstats.com
+DTSTAMP:20261018T174500Z
+DTSTART:20261018T174500Z
+DTEND:20261018T191500Z
+SUMMARY:2019 Major: MOB Hockey at Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #462. Stats: https://hslstats.com/2019-major/games/2020227/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020230@hslstats.com
 DTSTAMP:20261018T183000Z
 DTSTART:20261018T183000Z
@@ -363,15 +372,6 @@ DTEND:20261018T200000Z
 SUMMARY:2019 Major: Calgary Crusaders at Spartan Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #458. Stats: https://hslstats.com/2019-major/games/2020230/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020234@hslstats.com
-DTSTAMP:20261018T193000Z
-DTSTART:20261018T193000Z
-DTEND:20261018T210000Z
-SUMMARY:2019 Major: MOB Hockey at Stars Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2019 Major game #462. Stats: https://hslstats.com/2019-major/games/2020234/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020461@hslstats.com

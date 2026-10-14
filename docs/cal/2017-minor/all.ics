@@ -176,15 +176,6 @@ LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2017 Minor game #400. Stats: https://hslstats.com/2017-minor/games/2020172/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020175@hslstats.com
-DTSTAMP:20261017T143000Z
-DTSTART:20261017T143000Z
-DTEND:20261017T160000Z
-SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #403. Stats: https://hslstats.com/2017-minor/games/2020175/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020174@hslstats.com
 DTSTAMP:20261017T143000Z
 DTSTART:20261017T143000Z
@@ -192,6 +183,15 @@ DTEND:20261017T160000Z
 SUMMARY:2017 Minor: YYC Jays at Riggers Hockey Academy
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2017 Minor game #402. Stats: https://hslstats.com/2017-minor/games/2020174/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020182@hslstats.com
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T173000Z
+SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2017 Minor game #403. Stats: https://hslstats.com/2017-minor/games/2020182/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020186@hslstats.com
@@ -221,13 +221,13 @@ LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2017 Minor game #416. Stats: https://hslstats.com/2017-minor/games/2020188/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020199@hslstats.com
-DTSTAMP:20261017T210000Z
-DTSTART:20261017T210000Z
-DTEND:20261017T223000Z
+UID:hsl-2020204@hslstats.com
+DTSTAMP:20261017T223000Z
+DTSTART:20261017T223000Z
+DTEND:20261018T000000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #427. Stats: https://hslstats.com/2017-minor/games/2020199/
+DESCRIPTION:HSL 2017 Minor game #427. Stats: https://hslstats.com/2017-minor/games/2020204/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020208@hslstats.com
@@ -237,15 +237,6 @@ DTEND:20261018T014500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at Gorillas Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Minor game #436. Stats: https://hslstats.com/2017-minor/games/2020208/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020214@hslstats.com
-DTSTAMP:20261018T143000Z
-DTSTART:20261018T143000Z
-DTEND:20261018T160000Z
-SUMMARY:2017 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #442. Stats: https://hslstats.com/2017-minor/games/2020214/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020215@hslstats.com
@@ -266,13 +257,22 @@ LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2017 Minor game #448. Stats: https://hslstats.com/2017-minor/games/2020220/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020227@hslstats.com
-DTSTAMP:20261018T174500Z
-DTSTART:20261018T174500Z
-DTEND:20261018T191500Z
+UID:hsl-2020222@hslstats.com
+DTSTAMP:20261018T161500Z
+DTSTART:20261018T161500Z
+DTEND:20261018T174500Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Minor game #455. Stats: https://hslstats.com/2017-minor/games/2020227/
+DESCRIPTION:HSL 2017 Minor game #455. Stats: https://hslstats.com/2017-minor/games/2020222/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020234@hslstats.com
+DTSTAMP:20261018T193000Z
+DTSTART:20261018T193000Z
+DTEND:20261018T210000Z
+SUMMARY:2017 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2017 Minor game #442. Stats: https://hslstats.com/2017-minor/games/2020234/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020233@hslstats.com
