@@ -167,15 +167,6 @@ LOCATION:Co-Operators Centre #6 (Co-operators Arena)
 DESCRIPTION:HSL 2018 Major game #79. Stats: https://hslstats.com/2018-major/games/2019851/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019854@hslstats.com
-DTSTAMP:20260919T224500Z
-DTSTART:20260919T224500Z
-DTEND:20260920T001500Z
-SUMMARY:2018 Major: North Stars Hockey Academy 0 – MOB Hockey 13 (Final)
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2018 Major game #82. Stats: https://hslstats.com/2018-major/games/2019854/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019855@hslstats.com
 DTSTAMP:20260919T224500Z
 DTSTART:20260919T224500Z
@@ -183,6 +174,15 @@ DTEND:20260920T001500Z
 SUMMARY:2018 Major: Queen City Young Guns 10 – Sauce Hockey Academy 4 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
 DESCRIPTION:HSL 2018 Major game #83. Stats: https://hslstats.com/2018-major/games/2019855/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019854@hslstats.com
+DTSTAMP:20260919T224500Z
+DTSTART:20260919T224500Z
+DTEND:20260920T001500Z
+SUMMARY:2018 Major: North Stars Hockey Academy 0 – MOB Hockey 13 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2018 Major game #82. Stats: https://hslstats.com/2018-major/games/2019854/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019858@hslstats.com
