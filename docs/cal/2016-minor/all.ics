@@ -788,15 +788,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Minor game #1250. Stats: https://hslstats.com/2016-minor/games/2021022/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021037@hslstats.com
-DTSTAMP:20270103T154500Z
-DTSTART:20270103T154500Z
-DTEND:20270103T171500Z
-SUMMARY:2016 Minor: Alberta Pro Hockey at North Stars Hockey Academy
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1265. Stats: https://hslstats.com/2016-minor/games/2021037/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021036@hslstats.com
 DTSTAMP:20270103T154500Z
 DTSTART:20270103T154500Z
@@ -804,6 +795,15 @@ DTEND:20270103T171500Z
 SUMMARY:2016 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #1264. Stats: https://hslstats.com/2016-minor/games/2021036/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021037@hslstats.com
+DTSTAMP:20270103T154500Z
+DTSTART:20270103T154500Z
+DTEND:20270103T171500Z
+SUMMARY:2016 Minor: Alberta Pro Hockey at North Stars Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Minor game #1265. Stats: https://hslstats.com/2016-minor/games/2021037/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021041@hslstats.com

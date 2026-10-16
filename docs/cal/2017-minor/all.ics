@@ -41,15 +41,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #225. Stats: https://hslstats.com/2017-minor/games/2019997/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020001@hslstats.com
-DTSTAMP:20261003T173000Z
-DTSTART:20261003T173000Z
-DTEND:20261003T190000Z
-SUMMARY:2017 Minor: Caps Hockey Club 10 – Rebels Hockey Academy 9 (Final)
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #229. Stats: https://hslstats.com/2017-minor/games/2020001/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020000@hslstats.com
 DTSTAMP:20261003T173000Z
 DTSTART:20261003T173000Z
@@ -57,6 +48,15 @@ DTEND:20261003T190000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy 6 – Bow Valley Jr. Bigfoot 9 (Final)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #228. Stats: https://hslstats.com/2017-minor/games/2020000/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020001@hslstats.com
+DTSTAMP:20261003T173000Z
+DTSTART:20261003T173000Z
+DTEND:20261003T190000Z
+SUMMARY:2017 Minor: Caps Hockey Club 10 – Rebels Hockey Academy 9 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #229. Stats: https://hslstats.com/2017-minor/games/2020001/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020004@hslstats.com
@@ -68,15 +68,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #232. Stats: https://hslstats.com/2017-minor/games/2020004/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020007@hslstats.com
-DTSTAMP:20261003T210000Z
-DTSTART:20261003T210000Z
-DTEND:20261003T223000Z
-SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 13 – HC Calgary Bandits 2 (Final)
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #235. Stats: https://hslstats.com/2017-minor/games/2020007/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020008@hslstats.com
 DTSTAMP:20261003T210000Z
 DTSTART:20261003T210000Z
@@ -84,6 +75,15 @@ DTEND:20261003T223000Z
 SUMMARY:2017 Minor: Gorillas Hockey Academy 8 – Caps Hockey Club 5 (Final)
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #236. Stats: https://hslstats.com/2017-minor/games/2020008/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020007@hslstats.com
+DTSTAMP:20261003T210000Z
+DTSTART:20261003T210000Z
+DTEND:20261003T223000Z
+SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 13 – HC Calgary Bandits 2 (Final)
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Minor game #235. Stats: https://hslstats.com/2017-minor/games/2020007/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020011@hslstats.com
@@ -153,7 +153,7 @@ UID:hsl-2020159@hslstats.com
 DTSTAMP:20261016T220000Z
 DTSTART:20261016T220000Z
 DTEND:20261016T233000Z
-SUMMARY:2017 Minor: YYC Jays at Caps Hockey Club
+SUMMARY:2017 Minor: YYC Jays 1 – Caps Hockey Club 6 (Final)
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2017 Minor game #387. Stats: https://hslstats.com/2017-minor/games/2020159/
 END:VEVENT

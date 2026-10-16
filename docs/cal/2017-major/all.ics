@@ -68,15 +68,6 @@ LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2017 Major game #45. Stats: https://hslstats.com/2017-major/games/2019817/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019823@hslstats.com
-DTSTAMP:20260919T173000Z
-DTSTART:20260919T173000Z
-DTEND:20260919T190000Z
-SUMMARY:2017 Major: Spartan Hockey Academy 7 – Warriors Hockey Academy (Sask) 6 (Final)
-LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
-DESCRIPTION:HSL 2017 Major game #51. Stats: https://hslstats.com/2017-major/games/2019823/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019824@hslstats.com
 DTSTAMP:20260919T173000Z
 DTSTART:20260919T173000Z
@@ -84,6 +75,15 @@ DTEND:20260919T190000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 3 – Vipers Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2017 Major game #52. Stats: https://hslstats.com/2017-major/games/2019824/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019823@hslstats.com
+DTSTAMP:20260919T173000Z
+DTSTART:20260919T173000Z
+DTEND:20260919T190000Z
+SUMMARY:2017 Major: Spartan Hockey Academy 7 – Warriors Hockey Academy (Sask) 6 (Final)
+LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
+DESCRIPTION:HSL 2017 Major game #51. Stats: https://hslstats.com/2017-major/games/2019823/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019827@hslstats.com
@@ -383,15 +383,6 @@ LOCATION:Brandt Centre
 DESCRIPTION:HSL 2017 Major game #242. Stats: https://hslstats.com/2017-major/games/2020014/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020016@hslstats.com
-DTSTAMP:20261004T140000Z
-DTSTART:20261004T140000Z
-DTEND:20261004T153000Z
-SUMMARY:2017 Major: MOB Hockey 7 – North Stars Academy Wild 0 (Final)
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #244. Stats: https://hslstats.com/2017-major/games/2020016/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020017@hslstats.com
 DTSTAMP:20261004T140000Z
 DTSTART:20261004T140000Z
@@ -399,6 +390,15 @@ DTEND:20261004T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 6 – South Sask Academy 5 (Final)
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2017 Major game #245. Stats: https://hslstats.com/2017-major/games/2020017/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020016@hslstats.com
+DTSTAMP:20261004T140000Z
+DTSTART:20261004T140000Z
+DTEND:20261004T153000Z
+SUMMARY:2017 Major: MOB Hockey 7 – North Stars Academy Wild 0 (Final)
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2017 Major game #244. Stats: https://hslstats.com/2017-major/games/2020016/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020021@hslstats.com
