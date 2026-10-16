@@ -77,13 +77,13 @@ LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2015 AAA game #348. Stats: https://hslstats.com/2015-aaa/games/2020120/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020244@hslstats.com
-DTSTAMP:20261024T001500Z
-DTSTART:20261024T001500Z
-DTEND:20261024T014500Z
+UID:hsl-2020243@hslstats.com
+DTSTAMP:20261024T000000Z
+DTSTART:20261024T000000Z
+DTEND:20261024T013000Z
 SUMMARY:2015 AAA: O2 Grizzlies at Capital City Knights
-LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2015 AAA game #472. Stats: https://hslstats.com/2015-aaa/games/2020244/
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2015 AAA game #471. Stats: https://hslstats.com/2015-aaa/games/2020243/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020249@hslstats.com
