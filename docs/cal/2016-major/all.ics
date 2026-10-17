@@ -644,15 +644,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #496. Stats: https://hslstats.com/2016-major/games/2020268/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020273@hslstats.com
-DTSTAMP:20261024T224500Z
-DTSTART:20261024T224500Z
-DTEND:20261025T001500Z
-SUMMARY:2016 Major: Northern Hockey Club at Sauce Hockey Academy
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Major game #501. Stats: https://hslstats.com/2016-major/games/2020273/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020272@hslstats.com
 DTSTAMP:20261024T224500Z
 DTSTART:20261024T224500Z
@@ -660,6 +651,15 @@ DTEND:20261025T001500Z
 SUMMARY:2016 Major: MOB Hockey at Spartan Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/2016-major/games/2020272/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020273@hslstats.com
+DTSTAMP:20261024T224500Z
+DTSTART:20261024T224500Z
+DTEND:20261025T001500Z
+SUMMARY:2016 Major: Northern Hockey Club at Sauce Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2016 Major game #501. Stats: https://hslstats.com/2016-major/games/2020273/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020277@hslstats.com

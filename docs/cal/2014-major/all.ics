@@ -207,7 +207,7 @@ UID:hsl-2020170@hslstats.com
 DTSTAMP:20261017T131500Z
 DTSTART:20261017T131500Z
 DTEND:20261017T144500Z
-SUMMARY:2014 Major: Spartan Hockey Academy 15M at Riggers Hockey Academy
+SUMMARY:2014 Major: Spartan Hockey Academy 15M 10 – Riggers Hockey Academy 1 (Final)
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2014 Major game #398. Stats: https://hslstats.com/2014-major/games/2020170/
 END:VEVENT
@@ -216,7 +216,7 @@ UID:hsl-2020173@hslstats.com
 DTSTAMP:20261017T140000Z
 DTSTART:20261017T140000Z
 DTEND:20261017T153000Z
-SUMMARY:2014 Major: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+SUMMARY:2014 Major: Wolverines Hockey Academy 8 – Bow Valley Jr. Bigfoot 3 (Final)
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2014 Major game #401. Stats: https://hslstats.com/2014-major/games/2020173/
 END:VEVENT
@@ -401,15 +401,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2014 Major game #567. Stats: https://hslstats.com/2014-major/games/2020339/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020346@hslstats.com
-DTSTAMP:20261031T190000Z
-DTSTART:20261031T190000Z
-DTEND:20261031T203000Z
-SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Caps Hockey Club
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #574. Stats: https://hslstats.com/2014-major/games/2020346/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020345@hslstats.com
 DTSTAMP:20261031T190000Z
 DTSTART:20261031T190000Z
@@ -417,6 +408,15 @@ DTEND:20261031T203000Z
 SUMMARY:2014 Major: South Sask Academy at Wolverines Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2014 Major game #573. Stats: https://hslstats.com/2014-major/games/2020345/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020346@hslstats.com
+DTSTAMP:20261031T190000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T203000Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Caps Hockey Club
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #574. Stats: https://hslstats.com/2014-major/games/2020346/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020353@hslstats.com
