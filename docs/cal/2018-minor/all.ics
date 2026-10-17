@@ -581,15 +581,6 @@ LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
 DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020593@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020594@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -597,6 +588,15 @@ DTEND:20261122T153000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@hslstats.com
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020605@hslstats.com
