@@ -14,15 +14,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #218. Stats: https://hslstats.com/2017-minor/games/2019990/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019994@hslstats.com
-DTSTAMP:20261003T004500Z
-DTSTART:20261003T004500Z
-DTEND:20261003T021500Z
-SUMMARY:2017 Minor: Caps Hockey Club 1 – Gorillas Hockey Academy 2 (Final)
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #222. Stats: https://hslstats.com/2017-minor/games/2019994/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019993@hslstats.com
 DTSTAMP:20261003T004500Z
 DTSTART:20261003T004500Z
@@ -30,6 +21,15 @@ DTEND:20261003T021500Z
 SUMMARY:2017 Minor: North Stars Hockey Academy 12 – HC Calgary Bandits 3 (Final)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #221. Stats: https://hslstats.com/2017-minor/games/2019993/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019994@hslstats.com
+DTSTAMP:20261003T004500Z
+DTSTART:20261003T004500Z
+DTEND:20261003T021500Z
+SUMMARY:2017 Minor: Caps Hockey Club 1 – Gorillas Hockey Academy 2 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #222. Stats: https://hslstats.com/2017-minor/games/2019994/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019997@hslstats.com
@@ -41,15 +41,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #225. Stats: https://hslstats.com/2017-minor/games/2019997/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020000@hslstats.com
-DTSTAMP:20261003T173000Z
-DTSTART:20261003T173000Z
-DTEND:20261003T190000Z
-SUMMARY:2017 Minor: North Stars Hockey Academy 6 – Bow Valley Jr. Bigfoot 9 (Final)
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #228. Stats: https://hslstats.com/2017-minor/games/2020000/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020001@hslstats.com
 DTSTAMP:20261003T173000Z
 DTSTART:20261003T173000Z
@@ -57,6 +48,15 @@ DTEND:20261003T190000Z
 SUMMARY:2017 Minor: Caps Hockey Club 10 – Rebels Hockey Academy 9 (Final)
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #229. Stats: https://hslstats.com/2017-minor/games/2020001/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020000@hslstats.com
+DTSTAMP:20261003T173000Z
+DTSTART:20261003T173000Z
+DTEND:20261003T190000Z
+SUMMARY:2017 Minor: North Stars Hockey Academy 6 – Bow Valley Jr. Bigfoot 9 (Final)
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Minor game #228. Stats: https://hslstats.com/2017-minor/games/2020000/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020004@hslstats.com
@@ -189,7 +189,7 @@ UID:hsl-2020182@hslstats.com
 DTSTAMP:20261017T160000Z
 DTSTART:20261017T160000Z
 DTEND:20261017T173000Z
-SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Hockey Academy
+SUMMARY:2017 Minor: Rebels Hockey Academy 16 – North Stars Hockey Academy 7 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Minor game #403. Stats: https://hslstats.com/2017-minor/games/2020182/
 END:VEVENT
@@ -198,7 +198,7 @@ UID:hsl-2020186@hslstats.com
 DTSTAMP:20261017T174500Z
 DTSTART:20261017T174500Z
 DTEND:20261017T191500Z
-SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Gorillas Hockey Academy
+SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 0 – Gorillas Hockey Academy 8 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Minor game #414. Stats: https://hslstats.com/2017-minor/games/2020186/
 END:VEVENT
@@ -207,7 +207,7 @@ UID:hsl-2020187@hslstats.com
 DTSTAMP:20261017T180000Z
 DTSTART:20261017T180000Z
 DTEND:20261017T193000Z
-SUMMARY:2017 Minor: Caps Hockey Club at YYC Jays
+SUMMARY:2017 Minor: Caps Hockey Club 7 – YYC Jays 0 (Final)
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2017 Minor game #415. Stats: https://hslstats.com/2017-minor/games/2020187/
 END:VEVENT
@@ -500,15 +500,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #934. Stats: https://hslstats.com/2017-minor/games/2020706/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020710@hslstats.com
-DTSTAMP:20261205T154500Z
-DTSTART:20261205T154500Z
-DTEND:20261205T171500Z
-SUMMARY:2017 Minor: North Stars Hockey Academy at Rebels Hockey Academy
-LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #938. Stats: https://hslstats.com/2017-minor/games/2020710/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020711@hslstats.com
 DTSTAMP:20261205T154500Z
 DTSTART:20261205T154500Z
@@ -516,6 +507,15 @@ DTEND:20261205T171500Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #939. Stats: https://hslstats.com/2017-minor/games/2020711/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020710@hslstats.com
+DTSTAMP:20261205T154500Z
+DTSTART:20261205T154500Z
+DTEND:20261205T171500Z
+SUMMARY:2017 Minor: North Stars Hockey Academy at Rebels Hockey Academy
+LOCATION:JDA County Sportsplex - Chris McMillan
+DESCRIPTION:HSL 2017 Minor game #938. Stats: https://hslstats.com/2017-minor/games/2020710/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020726@hslstats.com
@@ -869,15 +869,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1486. Stats: https://hslstats.com/2017-minor/games/2021258/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021266@hslstats.com
-DTSTAMP:20270117T191500Z
-DTSTART:20270117T191500Z
-DTEND:20270117T204500Z
-SUMMARY:2017 Minor: North Stars Hockey Academy at Riggers Hockey Academy
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Minor game #1494. Stats: https://hslstats.com/2017-minor/games/2021266/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021265@hslstats.com
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
@@ -885,6 +876,15 @@ DTEND:20270117T204500Z
 SUMMARY:2017 Minor: Caps Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1493. Stats: https://hslstats.com/2017-minor/games/2021265/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021266@hslstats.com
+DTSTAMP:20270117T191500Z
+DTSTART:20270117T191500Z
+DTEND:20270117T204500Z
+SUMMARY:2017 Minor: North Stars Hockey Academy at Riggers Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2017 Minor game #1494. Stats: https://hslstats.com/2017-minor/games/2021266/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021272@hslstats.com

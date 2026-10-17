@@ -270,7 +270,7 @@ UID:hsl-2020185@hslstats.com
 DTSTAMP:20261017T170000Z
 DTSTART:20261017T170000Z
 DTEND:20261017T183000Z
-SUMMARY:2019 Major: Young Kings Hockey at HC Calgary Bandits
+SUMMARY:2019 Major: Young Kings Hockey 12 – HC Calgary Bandits 2 (Final)
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #413. Stats: https://hslstats.com/2019-major/games/2020185/
 END:VEVENT
@@ -995,15 +995,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2019 Major game #1241. Stats: https://hslstats.com/2019-major/games/2021013/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021020@hslstats.com
-DTSTAMP:20270102T234500Z
-DTSTART:20270102T234500Z
-DTEND:20270103T011500Z
-SUMMARY:2019 Major: HC Calgary Bandits at Stars Hockey Academy
-LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2019 Major game #1248. Stats: https://hslstats.com/2019-major/games/2021020/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021021@hslstats.com
 DTSTAMP:20270102T234500Z
 DTSTART:20270102T234500Z
@@ -1011,6 +1002,15 @@ DTEND:20270103T011500Z
 SUMMARY:2019 Major: Capital City Knights at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2019 Major game #1249. Stats: https://hslstats.com/2019-major/games/2021021/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021020@hslstats.com
+DTSTAMP:20270102T234500Z
+DTSTART:20270102T234500Z
+DTEND:20270103T011500Z
+SUMMARY:2019 Major: HC Calgary Bandits at Stars Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2019 Major game #1248. Stats: https://hslstats.com/2019-major/games/2021020/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021029@hslstats.com
