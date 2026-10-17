@@ -189,7 +189,7 @@ UID:hsl-2020164@hslstats.com
 DTSTAMP:20261016T230000Z
 DTSTART:20261016T230000Z
 DTEND:20261017T003000Z
-SUMMARY:2016 Minor: Spartan Hockey Academy at South Sask Academy
+SUMMARY:2016 Minor: Spartan Hockey Academy 2 – South Sask Academy 4 (Final)
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2016 Minor game #392. Stats: https://hslstats.com/2016-minor/games/2020164/
 END:VEVENT
@@ -815,15 +815,6 @@ LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2016 Minor game #1269. Stats: https://hslstats.com/2016-minor/games/2021041/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021053@hslstats.com
-DTSTAMP:20270103T191500Z
-DTSTART:20270103T191500Z
-DTEND:20270103T204500Z
-SUMMARY:2016 Minor: South Sask Academy at HC Calgary Bandits
-LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Minor game #1281. Stats: https://hslstats.com/2016-minor/games/2021053/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021054@hslstats.com
 DTSTAMP:20270103T191500Z
 DTSTART:20270103T191500Z
@@ -831,6 +822,15 @@ DTEND:20270103T204500Z
 SUMMARY:2016 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Minor game #1282. Stats: https://hslstats.com/2016-minor/games/2021054/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021053@hslstats.com
+DTSTAMP:20270103T191500Z
+DTSTART:20270103T191500Z
+DTEND:20270103T204500Z
+SUMMARY:2016 Minor: South Sask Academy at HC Calgary Bandits
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 Minor game #1281. Stats: https://hslstats.com/2016-minor/games/2021053/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021057@hslstats.com

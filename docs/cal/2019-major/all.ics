@@ -216,7 +216,7 @@ UID:hsl-2020161@hslstats.com
 DTSTAMP:20261016T221500Z
 DTSTART:20261016T221500Z
 DTEND:20261016T234500Z
-SUMMARY:2019 Major: HC Calgary Bandits at Calgary Crusaders
+SUMMARY:2019 Major: HC Calgary Bandits 0 – Calgary Crusaders 11 (Final)
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2019 Major game #389. Stats: https://hslstats.com/2019-major/games/2020161/
 END:VEVENT
@@ -225,7 +225,7 @@ UID:hsl-2020162@hslstats.com
 DTSTAMP:20261016T221500Z
 DTSTART:20261016T221500Z
 DTEND:20261016T234500Z
-SUMMARY:2019 Major: Riggers Hockey Academy at Rebels Hockey Academy
+SUMMARY:2019 Major: Riggers Hockey Academy 7 – Rebels Hockey Academy 4 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2019 Major game #390. Stats: https://hslstats.com/2019-major/games/2020162/
 END:VEVENT
@@ -806,15 +806,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2019 Major game #1131. Stats: https://hslstats.com/2019-major/games/2020903/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020907@hslstats.com
-DTSTAMP:20261219T180000Z
-DTSTART:20261219T180000Z
-DTEND:20261219T193000Z
-SUMMARY:2019 Major: Saints Pro Hockey Academy at Rebels Hockey Academy
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2019 Major game #1135. Stats: https://hslstats.com/2019-major/games/2020907/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020906@hslstats.com
 DTSTAMP:20261219T180000Z
 DTSTART:20261219T180000Z
@@ -822,6 +813,15 @@ DTEND:20261219T193000Z
 SUMMARY:2019 Major: Stars Hockey Academy at HC Calgary Bandits
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2019 Major game #1134. Stats: https://hslstats.com/2019-major/games/2020906/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020907@hslstats.com
+DTSTAMP:20261219T180000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T193000Z
+SUMMARY:2019 Major: Saints Pro Hockey Academy at Rebels Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2019 Major game #1135. Stats: https://hslstats.com/2019-major/games/2020907/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020913@hslstats.com

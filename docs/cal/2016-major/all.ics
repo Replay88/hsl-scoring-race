@@ -644,15 +644,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #496. Stats: https://hslstats.com/2016-major/games/2020268/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020272@hslstats.com
-DTSTAMP:20261024T224500Z
-DTSTART:20261024T224500Z
-DTEND:20261025T001500Z
-SUMMARY:2016 Major: MOB Hockey at Spartan Hockey Academy
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/2016-major/games/2020272/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020273@hslstats.com
 DTSTAMP:20261024T224500Z
 DTSTART:20261024T224500Z
@@ -660,6 +651,15 @@ DTEND:20261025T001500Z
 SUMMARY:2016 Major: Northern Hockey Club at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #501. Stats: https://hslstats.com/2016-major/games/2020273/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020272@hslstats.com
+DTSTAMP:20261024T224500Z
+DTSTART:20261024T224500Z
+DTEND:20261025T001500Z
+SUMMARY:2016 Major: MOB Hockey at Spartan Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/2016-major/games/2020272/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020277@hslstats.com
@@ -833,15 +833,6 @@ LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2016 Major game #763. Stats: https://hslstats.com/2016-major/games/2020535/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020542@hslstats.com
-DTSTAMP:20261121T154500Z
-DTSTART:20261121T154500Z
-DTEND:20261121T171500Z
-SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Northern Hockey Club
-LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #770. Stats: https://hslstats.com/2016-major/games/2020542/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020541@hslstats.com
 DTSTAMP:20261121T154500Z
 DTSTART:20261121T154500Z
@@ -849,6 +840,15 @@ DTEND:20261121T171500Z
 SUMMARY:2016 Major: Rebels Hockey Academy at Aces Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Major game #769. Stats: https://hslstats.com/2016-major/games/2020541/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020542@hslstats.com
+DTSTAMP:20261121T154500Z
+DTSTART:20261121T154500Z
+DTEND:20261121T171500Z
+SUMMARY:2016 Major: Warriors Hockey Academy (Sask) at Northern Hockey Club
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2016 Major game #770. Stats: https://hslstats.com/2016-major/games/2020542/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020552@hslstats.com
