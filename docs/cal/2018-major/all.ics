@@ -23,15 +23,6 @@ LOCATION:North County Recreation Complex
 DESCRIPTION:HSL 2018 Major game #6. Stats: https://hslstats.com/2018-major/games/2019778/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019780@hslstats.com
-DTSTAMP:20260918T220000Z
-DTSTART:20260918T220000Z
-DTEND:20260918T233000Z
-SUMMARY:2018 Major: Sauce Hockey Academy 3 – Queen City Young Guns 9 (Final)
-LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #8. Stats: https://hslstats.com/2018-major/games/2019780/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019779@hslstats.com
 DTSTAMP:20260918T220000Z
 DTSTART:20260918T220000Z
@@ -39,6 +30,15 @@ DTEND:20260918T233000Z
 SUMMARY:2018 Major: North Stars Academy Wild 0 – Aces Hockey Academy 9 (Final)
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2018 Major game #7. Stats: https://hslstats.com/2018-major/games/2019779/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019780@hslstats.com
+DTSTAMP:20260918T220000Z
+DTSTART:20260918T220000Z
+DTEND:20260918T233000Z
+SUMMARY:2018 Major: Sauce Hockey Academy 3 – Queen City Young Guns 9 (Final)
+LOCATION:Brandt Centre
+DESCRIPTION:HSL 2018 Major game #8. Stats: https://hslstats.com/2018-major/games/2019780/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019788@hslstats.com
@@ -401,15 +401,6 @@ LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2018 Major game #307. Stats: https://hslstats.com/2018-major/games/2020079/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020084@hslstats.com
-DTSTAMP:20261010T191500Z
-DTSTART:20261010T191500Z
-DTEND:20261010T204500Z
-SUMMARY:2018 Major: MOB Hockey 5 – North Stars Academy Wild 4 (Final)
-LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2018 Major game #312. Stats: https://hslstats.com/2018-major/games/2020084/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020083@hslstats.com
 DTSTAMP:20261010T191500Z
 DTSTART:20261010T191500Z
@@ -417,6 +408,15 @@ DTEND:20261010T204500Z
 SUMMARY:2018 Major: Sauce Hockey Academy 3 – Spartan Hockey Academy 15 (Final)
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #311. Stats: https://hslstats.com/2018-major/games/2020083/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020084@hslstats.com
+DTSTAMP:20261010T191500Z
+DTSTART:20261010T191500Z
+DTEND:20261010T204500Z
+SUMMARY:2018 Major: MOB Hockey 5 – North Stars Academy Wild 4 (Final)
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2018 Major game #312. Stats: https://hslstats.com/2018-major/games/2020084/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020086@hslstats.com
@@ -464,15 +464,6 @@ LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2018 Major game #343. Stats: https://hslstats.com/2018-major/games/2020115/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020126@hslstats.com
-DTSTAMP:20261011T154500Z
-DTSTART:20261011T154500Z
-DTEND:20261011T171500Z
-SUMMARY:2018 Major: North Stars Hockey Academy 1 – Stars Hockey Academy 12 (Final)
-LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Major game #354. Stats: https://hslstats.com/2018-major/games/2020126/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020125@hslstats.com
 DTSTAMP:20261011T154500Z
 DTSTART:20261011T154500Z
@@ -482,13 +473,13 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #353. Stats: https://hslstats.com/2018-major/games/2020125/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020135@hslstats.com
-DTSTAMP:20261011T173000Z
-DTSTART:20261011T173000Z
-DTEND:20261011T190000Z
-SUMMARY:2018 Major: North Stars Academy Wild 9 – Capital City Knights 5 (Final)
+UID:hsl-2020126@hslstats.com
+DTSTAMP:20261011T154500Z
+DTSTART:20261011T154500Z
+DTEND:20261011T171500Z
+SUMMARY:2018 Major: North Stars Hockey Academy 1 – Stars Hockey Academy 12 (Final)
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Major game #363. Stats: https://hslstats.com/2018-major/games/2020135/
+DESCRIPTION:HSL 2018 Major game #354. Stats: https://hslstats.com/2018-major/games/2020126/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020134@hslstats.com
@@ -500,13 +491,13 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #362. Stats: https://hslstats.com/2018-major/games/2020134/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020143@hslstats.com
-DTSTAMP:20261011T191500Z
-DTSTART:20261011T191500Z
-DTEND:20261011T204500Z
-SUMMARY:2018 Major: Aces Hockey Academy 8 – Gorillas Hockey Academy 2 (Final)
+UID:hsl-2020135@hslstats.com
+DTSTAMP:20261011T173000Z
+DTSTART:20261011T173000Z
+DTEND:20261011T190000Z
+SUMMARY:2018 Major: North Stars Academy Wild 9 – Capital City Knights 5 (Final)
 LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2018 Major game #371. Stats: https://hslstats.com/2018-major/games/2020143/
+DESCRIPTION:HSL 2018 Major game #363. Stats: https://hslstats.com/2018-major/games/2020135/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020142@hslstats.com
@@ -516,6 +507,15 @@ DTEND:20261011T204500Z
 SUMMARY:2018 Major: O2 Grizzlies 1 – Calgary Crusaders 9 (Final)
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #370. Stats: https://hslstats.com/2018-major/games/2020142/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020143@hslstats.com
+DTSTAMP:20261011T191500Z
+DTSTART:20261011T191500Z
+DTEND:20261011T204500Z
+SUMMARY:2018 Major: Aces Hockey Academy 8 – Gorillas Hockey Academy 2 (Final)
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2018 Major game #371. Stats: https://hslstats.com/2018-major/games/2020143/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020148@hslstats.com
@@ -1580,15 +1580,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1321. Stats: https://hslstats.com/2018-major/games/2021093/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021099@hslstats.com
-DTSTAMP:20270109T173000Z
-DTSTART:20270109T173000Z
-DTEND:20270109T190000Z
-SUMMARY:2018 Major: Rebels Hockey Academy at MOB Hockey
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1327. Stats: https://hslstats.com/2018-major/games/2021099/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021098@hslstats.com
 DTSTAMP:20270109T173000Z
 DTSTART:20270109T173000Z
@@ -1596,6 +1587,15 @@ DTEND:20270109T190000Z
 SUMMARY:2018 Major: Saints Pro Hockey Academy at Spartan Hockey Academy
 LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Major game #1326. Stats: https://hslstats.com/2018-major/games/2021098/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021099@hslstats.com
+DTSTAMP:20270109T173000Z
+DTSTART:20270109T173000Z
+DTEND:20270109T190000Z
+SUMMARY:2018 Major: Rebels Hockey Academy at MOB Hockey
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1327. Stats: https://hslstats.com/2018-major/games/2021099/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021104@hslstats.com
@@ -1814,15 +1814,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1528. Stats: https://hslstats.com/2018-major/games/2021300/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021306@hslstats.com
-DTSTAMP:20270123T154500Z
-DTSTART:20270123T154500Z
-DTEND:20270123T171500Z
-SUMMARY:2018 Major: Young Kings Hockey at Queen City Young Guns
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1534. Stats: https://hslstats.com/2018-major/games/2021306/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021305@hslstats.com
 DTSTAMP:20270123T154500Z
 DTSTART:20270123T154500Z
@@ -1830,6 +1821,15 @@ DTEND:20270123T171500Z
 SUMMARY:2018 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2018 Major game #1533. Stats: https://hslstats.com/2018-major/games/2021305/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021306@hslstats.com
+DTSTAMP:20270123T154500Z
+DTSTART:20270123T154500Z
+DTEND:20270123T171500Z
+SUMMARY:2018 Major: Young Kings Hockey at Queen City Young Guns
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1534. Stats: https://hslstats.com/2018-major/games/2021306/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021313@hslstats.com
@@ -1904,15 +1904,6 @@ LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2018 Major game #1566. Stats: https://hslstats.com/2018-major/games/2021338/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021341@hslstats.com
-DTSTAMP:20270124T003000Z
-DTSTART:20270124T003000Z
-DTEND:20270124T020000Z
-SUMMARY:2018 Major: Sauce Hockey Academy at Capital City Knights
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1569. Stats: https://hslstats.com/2018-major/games/2021341/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021340@hslstats.com
 DTSTAMP:20270124T003000Z
 DTSTART:20270124T003000Z
@@ -1920,6 +1911,15 @@ DTEND:20270124T020000Z
 SUMMARY:2018 Major: Rebels Hockey Academy at North Stars Academy Wild
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
 DESCRIPTION:HSL 2018 Major game #1568. Stats: https://hslstats.com/2018-major/games/2021340/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021341@hslstats.com
+DTSTAMP:20270124T003000Z
+DTSTART:20270124T003000Z
+DTEND:20270124T020000Z
+SUMMARY:2018 Major: Sauce Hockey Academy at Capital City Knights
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1569. Stats: https://hslstats.com/2018-major/games/2021341/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021348@hslstats.com
@@ -1940,15 +1940,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1577. Stats: https://hslstats.com/2018-major/games/2021349/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021352@hslstats.com
-DTSTAMP:20270124T154500Z
-DTSTART:20270124T154500Z
-DTEND:20270124T171500Z
-SUMMARY:2018 Major: Sauce Hockey Academy at Queen City Young Guns
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1580. Stats: https://hslstats.com/2018-major/games/2021352/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021351@hslstats.com
 DTSTAMP:20270124T154500Z
 DTSTART:20270124T154500Z
@@ -1958,13 +1949,13 @@ LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2018 Major game #1579. Stats: https://hslstats.com/2018-major/games/2021351/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021358@hslstats.com
-DTSTAMP:20270124T173000Z
-DTSTART:20270124T173000Z
-DTEND:20270124T190000Z
-SUMMARY:2018 Major: Young Kings Hockey at Gorillas Hockey Academy
+UID:hsl-2021352@hslstats.com
+DTSTAMP:20270124T154500Z
+DTSTART:20270124T154500Z
+DTEND:20270124T171500Z
+SUMMARY:2018 Major: Sauce Hockey Academy at Queen City Young Guns
 LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1586. Stats: https://hslstats.com/2018-major/games/2021358/
+DESCRIPTION:HSL 2018 Major game #1580. Stats: https://hslstats.com/2018-major/games/2021352/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021357@hslstats.com
@@ -1974,6 +1965,15 @@ DTEND:20270124T190000Z
 SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:JDA County Sportsplex - Triple Threat Diesel
 DESCRIPTION:HSL 2018 Major game #1585. Stats: https://hslstats.com/2018-major/games/2021357/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021358@hslstats.com
+DTSTAMP:20270124T173000Z
+DTSTART:20270124T173000Z
+DTEND:20270124T190000Z
+SUMMARY:2018 Major: Young Kings Hockey at Gorillas Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1586. Stats: https://hslstats.com/2018-major/games/2021358/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021361@hslstats.com
@@ -2174,15 +2174,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1848. Stats: https://hslstats.com/2018-major/games/2021620/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021629@hslstats.com
-DTSTAMP:20270220T183000Z
-DTSTART:20270220T183000Z
-DTEND:20270220T200000Z
-SUMMARY:2018 Major: North Stars Academy Wild at Capital City Knights
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1857. Stats: https://hslstats.com/2018-major/games/2021629/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021628@hslstats.com
 DTSTAMP:20270220T183000Z
 DTSTART:20270220T183000Z
@@ -2190,6 +2181,15 @@ DTEND:20270220T200000Z
 SUMMARY:2018 Major: O2 Grizzlies at Sask Super Selects
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2018 Major game #1856. Stats: https://hslstats.com/2018-major/games/2021628/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021629@hslstats.com
+DTSTAMP:20270220T183000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T200000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Capital City Knights
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1857. Stats: https://hslstats.com/2018-major/games/2021629/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021637@hslstats.com
@@ -2219,15 +2219,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1874. Stats: https://hslstats.com/2018-major/games/2021646/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021652@hslstats.com
-DTSTAMP:20270220T234500Z
-DTSTART:20270220T234500Z
-DTEND:20270221T011500Z
-SUMMARY:2018 Major: MOB Hockey at Aces Hockey Academy
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1880. Stats: https://hslstats.com/2018-major/games/2021652/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021651@hslstats.com
 DTSTAMP:20270220T234500Z
 DTSTART:20270220T234500Z
@@ -2235,6 +2226,15 @@ DTEND:20270221T011500Z
 SUMMARY:2018 Major: Queen City Young Guns at O2 Grizzlies
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2018 Major game #1879. Stats: https://hslstats.com/2018-major/games/2021651/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021652@hslstats.com
+DTSTAMP:20270220T234500Z
+DTSTART:20270220T234500Z
+DTEND:20270221T011500Z
+SUMMARY:2018 Major: MOB Hockey at Aces Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1880. Stats: https://hslstats.com/2018-major/games/2021652/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021661@hslstats.com

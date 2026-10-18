@@ -248,15 +248,6 @@ LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2015 Major game #335. Stats: https://hslstats.com/2015-major/games/2020107/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020118@hslstats.com
-DTSTAMP:20261011T141500Z
-DTSTART:20261011T141500Z
-DTEND:20261011T154500Z
-SUMMARY:2015 Major: Riggers Hockey Academy 10 – Sask Super Selects 8 (Final)
-LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #346. Stats: https://hslstats.com/2015-major/games/2020118/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020117@hslstats.com
 DTSTAMP:20261011T141500Z
 DTSTART:20261011T141500Z
@@ -264,6 +255,15 @@ DTEND:20261011T154500Z
 SUMMARY:2015 Major: HC Calgary Bandits 2 – MOB Hockey 6 (Final)
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2015 Major game #345. Stats: https://hslstats.com/2015-major/games/2020117/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020118@hslstats.com
+DTSTAMP:20261011T141500Z
+DTSTART:20261011T141500Z
+DTEND:20261011T154500Z
+SUMMARY:2015 Major: Riggers Hockey Academy 10 – Sask Super Selects 8 (Final)
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2015 Major game #346. Stats: https://hslstats.com/2015-major/games/2020118/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020119@hslstats.com
@@ -545,15 +545,6 @@ LOCATION:JDA County Sportsplex - Chris McMillan
 DESCRIPTION:HSL 2015 Major game #971. Stats: https://hslstats.com/2015-major/games/2020743/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020749@hslstats.com
-DTSTAMP:20261206T154500Z
-DTSTART:20261206T154500Z
-DTEND:20261206T171500Z
-SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
-LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2015 Major game #977. Stats: https://hslstats.com/2015-major/games/2020749/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020748@hslstats.com
 DTSTAMP:20261206T154500Z
 DTSTART:20261206T154500Z
@@ -561,6 +552,15 @@ DTEND:20261206T171500Z
 SUMMARY:2015 Major: Rebels Hockey Academy at Gorillas Hockey Academy
 LOCATION:JDA County Sportsplex - Chris McMillan
 DESCRIPTION:HSL 2015 Major game #976. Stats: https://hslstats.com/2015-major/games/2020748/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020749@hslstats.com
+DTSTAMP:20261206T154500Z
+DTSTART:20261206T154500Z
+DTEND:20261206T171500Z
+SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2015 Major game #977. Stats: https://hslstats.com/2015-major/games/2020749/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020751@hslstats.com
@@ -689,15 +689,6 @@ LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2015 Major game #1166. Stats: https://hslstats.com/2015-major/games/2020938/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020941@hslstats.com
-DTSTAMP:20261220T055800Z
-DTSTART:20261220T055800Z
-DTEND:20261220T072800Z
-SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1169. Stats: https://hslstats.com/2015-major/games/2020941/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020939@hslstats.com
 DTSTAMP:20261220T055800Z
 DTSTART:20261220T055800Z
@@ -714,6 +705,15 @@ DTEND:20261220T072800Z
 SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2015 Major game #1168. Stats: https://hslstats.com/2015-major/games/2020940/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020941@hslstats.com
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2015 Major: HC Calgary Bandits at South Sask Academy
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1169. Stats: https://hslstats.com/2015-major/games/2020941/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020943@hslstats.com

@@ -68,15 +68,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #232. Stats: https://hslstats.com/2017-minor/games/2020004/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020008@hslstats.com
-DTSTAMP:20261003T210000Z
-DTSTART:20261003T210000Z
-DTEND:20261003T223000Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy 8 – Caps Hockey Club 5 (Final)
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #236. Stats: https://hslstats.com/2017-minor/games/2020008/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020007@hslstats.com
 DTSTAMP:20261003T210000Z
 DTSTART:20261003T210000Z
@@ -84,6 +75,15 @@ DTEND:20261003T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 13 – HC Calgary Bandits 2 (Final)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #235. Stats: https://hslstats.com/2017-minor/games/2020007/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020008@hslstats.com
+DTSTAMP:20261003T210000Z
+DTSTART:20261003T210000Z
+DTEND:20261003T223000Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 8 – Caps Hockey Club 5 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #236. Stats: https://hslstats.com/2017-minor/games/2020008/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020011@hslstats.com
@@ -653,15 +653,6 @@ LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2017 Minor game #1132. Stats: https://hslstats.com/2017-minor/games/2020904/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020920@hslstats.com
-DTSTAMP:20261219T210000Z
-DTSTART:20261219T210000Z
-DTEND:20261219T223000Z
-SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
-LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://hslstats.com/2017-minor/games/2020920/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020919@hslstats.com
 DTSTAMP:20261219T210000Z
 DTSTART:20261219T210000Z
@@ -669,6 +660,15 @@ DTEND:20261219T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Gorillas Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2017 Minor game #1147. Stats: https://hslstats.com/2017-minor/games/2020919/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020920@hslstats.com
+DTSTAMP:20261219T210000Z
+DTSTART:20261219T210000Z
+DTEND:20261219T223000Z
+SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://hslstats.com/2017-minor/games/2020920/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020928@hslstats.com
@@ -1094,15 +1094,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://hslstats.com/2017-minor/games/2021641/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021650@hslstats.com
-DTSTAMP:20270220T230000Z
-DTSTART:20270220T230000Z
-DTEND:20270221T003000Z
-SUMMARY:2017 Minor: Caps Hockey Club at Riggers Hockey Academy
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1878. Stats: https://hslstats.com/2017-minor/games/2021650/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021649@hslstats.com
 DTSTAMP:20270220T230000Z
 DTSTART:20270220T230000Z
@@ -1112,13 +1103,13 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Minor game #1877. Stats: https://hslstats.com/2017-minor/games/2021649/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021666@hslstats.com
-DTSTAMP:20270221T150000Z
-DTSTART:20270221T150000Z
-DTEND:20270221T163000Z
-SUMMARY:2017 Minor: Caps Hockey Club at Gorillas Hockey Academy
+UID:hsl-2021650@hslstats.com
+DTSTAMP:20270220T230000Z
+DTSTART:20270220T230000Z
+DTEND:20270221T003000Z
+SUMMARY:2017 Minor: Caps Hockey Club at Riggers Hockey Academy
 LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1894. Stats: https://hslstats.com/2017-minor/games/2021666/
+DESCRIPTION:HSL 2017 Minor game #1878. Stats: https://hslstats.com/2017-minor/games/2021650/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021665@hslstats.com
@@ -1130,6 +1121,15 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Minor game #1893. Stats: https://hslstats.com/2017-minor/games/2021665/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2021666@hslstats.com
+DTSTAMP:20270221T150000Z
+DTSTART:20270221T150000Z
+DTEND:20270221T163000Z
+SUMMARY:2017 Minor: Caps Hockey Club at Gorillas Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #1894. Stats: https://hslstats.com/2017-minor/games/2021666/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2021673@hslstats.com
 DTSTAMP:20270221T164500Z
 DTSTART:20270221T164500Z
@@ -1139,15 +1139,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1901. Stats: https://hslstats.com/2017-minor/games/2021673/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021683@hslstats.com
-DTSTAMP:20270221T183000Z
-DTSTART:20270221T183000Z
-DTEND:20270221T200000Z
-SUMMARY:2017 Minor: Riggers Hockey Academy at Caps Hockey Club
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1911. Stats: https://hslstats.com/2017-minor/games/2021683/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021682@hslstats.com
 DTSTAMP:20270221T183000Z
 DTSTART:20270221T183000Z
@@ -1155,5 +1146,14 @@ DTEND:20270221T200000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at YYC Jays
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Minor game #1910. Stats: https://hslstats.com/2017-minor/games/2021682/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021683@hslstats.com
+DTSTAMP:20270221T183000Z
+DTSTART:20270221T183000Z
+DTEND:20270221T200000Z
+SUMMARY:2017 Minor: Riggers Hockey Academy at Caps Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #1911. Stats: https://hslstats.com/2017-minor/games/2021683/
 END:VEVENT
 END:VCALENDAR
