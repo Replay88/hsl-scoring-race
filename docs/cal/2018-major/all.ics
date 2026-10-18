@@ -500,15 +500,6 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #362. Stats: https://hslstats.com/2018-major/games/2020134/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020142@hslstats.com
-DTSTAMP:20261011T191500Z
-DTSTART:20261011T191500Z
-DTEND:20261011T204500Z
-SUMMARY:2018 Major: O2 Grizzlies 1 – Calgary Crusaders 9 (Final)
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2018 Major game #370. Stats: https://hslstats.com/2018-major/games/2020142/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020143@hslstats.com
 DTSTAMP:20261011T191500Z
 DTSTART:20261011T191500Z
@@ -516,6 +507,15 @@ DTEND:20261011T204500Z
 SUMMARY:2018 Major: Aces Hockey Academy 8 – Gorillas Hockey Academy 2 (Final)
 LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2018 Major game #371. Stats: https://hslstats.com/2018-major/games/2020143/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020142@hslstats.com
+DTSTAMP:20261011T191500Z
+DTSTART:20261011T191500Z
+DTEND:20261011T204500Z
+SUMMARY:2018 Major: O2 Grizzlies 1 – Calgary Crusaders 9 (Final)
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2018 Major game #370. Stats: https://hslstats.com/2018-major/games/2020142/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020148@hslstats.com
@@ -1958,15 +1958,6 @@ LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2018 Major game #1579. Stats: https://hslstats.com/2018-major/games/2021351/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021357@hslstats.com
-DTSTAMP:20270124T173000Z
-DTSTART:20270124T173000Z
-DTEND:20270124T190000Z
-SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
-LOCATION:JDA County Sportsplex - Triple Threat Diesel
-DESCRIPTION:HSL 2018 Major game #1585. Stats: https://hslstats.com/2018-major/games/2021357/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021358@hslstats.com
 DTSTAMP:20270124T173000Z
 DTSTART:20270124T173000Z
@@ -1974,6 +1965,15 @@ DTEND:20270124T190000Z
 SUMMARY:2018 Major: Young Kings Hockey at Gorillas Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1586. Stats: https://hslstats.com/2018-major/games/2021358/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021357@hslstats.com
+DTSTAMP:20270124T173000Z
+DTSTART:20270124T173000Z
+DTEND:20270124T190000Z
+SUMMARY:2018 Major: North Stars Hockey Academy at Rebels Hockey Academy
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1585. Stats: https://hslstats.com/2018-major/games/2021357/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021361@hslstats.com

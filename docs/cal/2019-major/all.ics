@@ -788,15 +788,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2019 Major game #1123. Stats: https://hslstats.com/2019-major/games/2020895/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020902@hslstats.com
-DTSTAMP:20261219T163000Z
-DTSTART:20261219T163000Z
-DTEND:20261219T180000Z
-SUMMARY:2019 Major: Riggers Hockey Academy at Young Kings Hockey
-LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2019 Major game #1130. Stats: https://hslstats.com/2019-major/games/2020902/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020903@hslstats.com
 DTSTAMP:20261219T163000Z
 DTSTART:20261219T163000Z
@@ -804,6 +795,15 @@ DTEND:20261219T180000Z
 SUMMARY:2019 Major: MOB Hockey at Calgary Crusaders
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2019 Major game #1131. Stats: https://hslstats.com/2019-major/games/2020903/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020902@hslstats.com
+DTSTAMP:20261219T163000Z
+DTSTART:20261219T163000Z
+DTEND:20261219T180000Z
+SUMMARY:2019 Major: Riggers Hockey Academy at Young Kings Hockey
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2019 Major game #1130. Stats: https://hslstats.com/2019-major/games/2020902/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020907@hslstats.com
