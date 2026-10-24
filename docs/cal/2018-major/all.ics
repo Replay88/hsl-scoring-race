@@ -1940,15 +1940,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1577. Stats: https://hslstats.com/2018-major/games/2021349/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021351@hslstats.com
-DTSTAMP:20270124T154500Z
-DTSTART:20270124T154500Z
-DTEND:20270124T171500Z
-SUMMARY:2018 Major: Saints Pro Hockey Academy at MOB Hockey
-LOCATION:MacDonald Island Park #2
-DESCRIPTION:HSL 2018 Major game #1579. Stats: https://hslstats.com/2018-major/games/2021351/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021352@hslstats.com
 DTSTAMP:20270124T154500Z
 DTSTART:20270124T154500Z
@@ -1956,6 +1947,15 @@ DTEND:20270124T171500Z
 SUMMARY:2018 Major: Sauce Hockey Academy at Queen City Young Guns
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1580. Stats: https://hslstats.com/2018-major/games/2021352/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021351@hslstats.com
+DTSTAMP:20270124T154500Z
+DTSTART:20270124T154500Z
+DTEND:20270124T171500Z
+SUMMARY:2018 Major: Saints Pro Hockey Academy at MOB Hockey
+LOCATION:MacDonald Island Park #2
+DESCRIPTION:HSL 2018 Major game #1579. Stats: https://hslstats.com/2018-major/games/2021351/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021357@hslstats.com
