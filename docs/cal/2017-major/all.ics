@@ -1283,15 +1283,6 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1084. Stats: https://hslstats.com/2017-major/games/2020856/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020862@hslstats.com
-DTSTAMP:20261213T191500Z
-DTSTART:20261213T191500Z
-DTEND:20261213T204500Z
-SUMMARY:2017 Major: Queen City Young Guns at South Sask Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1090. Stats: https://hslstats.com/2017-major/games/2020862/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020861@hslstats.com
 DTSTAMP:20261213T191500Z
 DTSTART:20261213T191500Z
@@ -1299,6 +1290,15 @@ DTEND:20261213T204500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1089. Stats: https://hslstats.com/2017-major/games/2020861/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020862@hslstats.com
+DTSTAMP:20261213T191500Z
+DTSTART:20261213T191500Z
+DTEND:20261213T204500Z
+SUMMARY:2017 Major: Queen City Young Guns at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2017 Major game #1090. Stats: https://hslstats.com/2017-major/games/2020862/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020865@hslstats.com
@@ -1418,15 +1418,6 @@ LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2017 Major game #1406. Stats: https://hslstats.com/2017-major/games/2021178/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021182@hslstats.com
-DTSTAMP:20270116T154500Z
-DTSTART:20270116T154500Z
-DTEND:20270116T171500Z
-SUMMARY:2017 Major: South Sask Academy at Stars Hockey Academy
-LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1410. Stats: https://hslstats.com/2017-major/games/2021182/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021181@hslstats.com
 DTSTAMP:20270116T154500Z
 DTSTART:20270116T154500Z
@@ -1434,6 +1425,15 @@ DTEND:20270116T171500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Aces Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1409. Stats: https://hslstats.com/2017-major/games/2021181/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021182@hslstats.com
+DTSTAMP:20270116T154500Z
+DTSTART:20270116T154500Z
+DTEND:20270116T171500Z
+SUMMARY:2017 Major: South Sask Academy at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2017 Major game #1410. Stats: https://hslstats.com/2017-major/games/2021182/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021188@hslstats.com

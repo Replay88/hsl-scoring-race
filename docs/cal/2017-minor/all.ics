@@ -518,15 +518,6 @@ LOCATION:JDA County Sportsplex - Chris McMillan
 DESCRIPTION:HSL 2017 Minor game #938. Stats: https://hslstats.com/2017-minor/games/2020710/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020726@hslstats.com
-DTSTAMP:20261205T210000Z
-DTSTART:20261205T210000Z
-DTEND:20261205T223000Z
-SUMMARY:2017 Minor: Caps Hockey Club at North Stars Hockey Academy
-LOCATION:JDA County Sportsplex - Chris McMillan
-DESCRIPTION:HSL 2017 Minor game #954. Stats: https://hslstats.com/2017-minor/games/2020726/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020727@hslstats.com
 DTSTAMP:20261205T210000Z
 DTSTART:20261205T210000Z
@@ -534,6 +525,15 @@ DTEND:20261205T223000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #955. Stats: https://hslstats.com/2017-minor/games/2020727/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020726@hslstats.com
+DTSTAMP:20261205T210000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T223000Z
+SUMMARY:2017 Minor: Caps Hockey Club at North Stars Hockey Academy
+LOCATION:JDA County Sportsplex - Chris McMillan
+DESCRIPTION:HSL 2017 Minor game #954. Stats: https://hslstats.com/2017-minor/games/2020726/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020730@hslstats.com
