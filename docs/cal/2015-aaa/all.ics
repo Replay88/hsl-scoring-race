@@ -131,15 +131,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 AAA game #101. Stats: https://hslstats.com/2015-aaa/games/2019873/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019881@hslstats.com
-DTSTAMP:20260920T153000Z
-DTSTART:20260920T153000Z
-DTEND:20260920T170000Z
-SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
-LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019882@hslstats.com
 DTSTAMP:20260920T153000Z
 DTSTART:20260920T153000Z
@@ -147,6 +138,15 @@ DTEND:20260920T170000Z
 SUMMARY:2015 AAA: Capital City Knights 7 – Spartan Hockey Academy 4 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #110. Stats: https://hslstats.com/2015-aaa/games/2019882/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019881@hslstats.com
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T170000Z
+SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
+LOCATION:Co-Operators Centre #3 (RMP Arena)
+DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019893@hslstats.com
@@ -360,7 +360,7 @@ UID:hsl-2020239@hslstats.com
 DTSTAMP:20261023T221500Z
 DTSTART:20261023T221500Z
 DTEND:20261023T234500Z
-SUMMARY:2015 AAA: Warriors Hockey Academy at Aces Hockey Academy
+SUMMARY:2015 AAA: Warriors Hockey Academy 1 – Aces Hockey Academy 2 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #467. Stats: https://hslstats.com/2015-aaa/games/2020239/
 END:VEVENT
@@ -941,15 +941,6 @@ LOCATION:Veren Place
 DESCRIPTION:HSL 2015 AAA game #1320. Stats: https://hslstats.com/2015-aaa/games/2021092/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021094@hslstats.com
-DTSTAMP:20270109T160000Z
-DTSTART:20270109T160000Z
-DTEND:20270109T173000Z
-SUMMARY:2015 AAA: Warriors Hockey Academy at HC Calgary Bandits
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2015 AAA game #1322. Stats: https://hslstats.com/2015-aaa/games/2021094/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021095@hslstats.com
 DTSTAMP:20270109T160000Z
 DTSTART:20270109T160000Z
@@ -957,6 +948,15 @@ DTEND:20270109T173000Z
 SUMMARY:2015 AAA: Capital City Knights at Saints Pro Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2015 AAA game #1323. Stats: https://hslstats.com/2015-aaa/games/2021095/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021094@hslstats.com
+DTSTAMP:20270109T160000Z
+DTSTART:20270109T160000Z
+DTEND:20270109T173000Z
+SUMMARY:2015 AAA: Warriors Hockey Academy at HC Calgary Bandits
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2015 AAA game #1322. Stats: https://hslstats.com/2015-aaa/games/2021094/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021103@hslstats.com
