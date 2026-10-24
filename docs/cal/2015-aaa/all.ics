@@ -131,15 +131,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 AAA game #101. Stats: https://hslstats.com/2015-aaa/games/2019873/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019882@hslstats.com
-DTSTAMP:20260920T153000Z
-DTSTART:20260920T153000Z
-DTEND:20260920T170000Z
-SUMMARY:2015 AAA: Capital City Knights 7 – Spartan Hockey Academy 4 (Final)
-LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
-DESCRIPTION:HSL 2015 AAA game #110. Stats: https://hslstats.com/2015-aaa/games/2019882/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019881@hslstats.com
 DTSTAMP:20260920T153000Z
 DTSTART:20260920T153000Z
@@ -147,6 +138,15 @@ DTEND:20260920T170000Z
 SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
 LOCATION:Co-Operators Centre #3 (RMP Arena)
 DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019882@hslstats.com
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T170000Z
+SUMMARY:2015 AAA: Capital City Knights 7 – Spartan Hockey Academy 4 (Final)
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
+DESCRIPTION:HSL 2015 AAA game #110. Stats: https://hslstats.com/2015-aaa/games/2019882/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019893@hslstats.com
@@ -387,7 +387,7 @@ UID:hsl-2020249@hslstats.com
 DTSTAMP:20261024T131500Z
 DTSTART:20261024T131500Z
 DTEND:20261024T144500Z
-SUMMARY:2015 AAA: O2 Grizzlies at Aces Hockey Academy
+SUMMARY:2015 AAA: O2 Grizzlies 3 – Aces Hockey Academy 5 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #477. Stats: https://hslstats.com/2015-aaa/games/2020249/
 END:VEVENT
@@ -414,7 +414,7 @@ UID:hsl-2020258@hslstats.com
 DTSTAMP:20261024T171500Z
 DTSTART:20261024T171500Z
 DTEND:20261024T184500Z
-SUMMARY:2015 AAA: Warriors Hockey Academy at Saints Pro Hockey Academy
+SUMMARY:2015 AAA: Warriors Hockey Academy 4 – Saints Pro Hockey Academy 7 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #486. Stats: https://hslstats.com/2015-aaa/games/2020258/
 END:VEVENT
@@ -423,7 +423,7 @@ UID:hsl-2020262@hslstats.com
 DTSTAMP:20261024T181500Z
 DTSTART:20261024T181500Z
 DTEND:20261024T194500Z
-SUMMARY:2015 AAA: Queen City Young Guns at North Stars Hockey Academy
+SUMMARY:2015 AAA: Queen City Young Guns 0 – North Stars Hockey Academy 2 (Final)
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2015 AAA game #490. Stats: https://hslstats.com/2015-aaa/games/2020262/
 END:VEVENT

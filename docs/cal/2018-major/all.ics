@@ -2201,15 +2201,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1865. Stats: https://hslstats.com/2018-major/games/2021637/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021644@hslstats.com
-DTSTAMP:20270220T220000Z
-DTSTART:20270220T220000Z
-DTEND:20270220T233000Z
-SUMMARY:2018 Major: Calgary Crusaders at Sask Super Selects
-LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #1872. Stats: https://hslstats.com/2018-major/games/2021644/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021646@hslstats.com
 DTSTAMP:20270220T220000Z
 DTSTART:20270220T220000Z
@@ -2217,6 +2208,15 @@ DTEND:20270220T233000Z
 SUMMARY:2018 Major: Stars Hockey Academy at Saints Pro Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1874. Stats: https://hslstats.com/2018-major/games/2021646/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021644@hslstats.com
+DTSTAMP:20270220T220000Z
+DTSTART:20270220T220000Z
+DTEND:20270220T233000Z
+SUMMARY:2018 Major: Calgary Crusaders at Sask Super Selects
+LOCATION:Brandt Centre
+DESCRIPTION:HSL 2018 Major game #1872. Stats: https://hslstats.com/2018-major/games/2021644/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021652@hslstats.com

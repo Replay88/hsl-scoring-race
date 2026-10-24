@@ -977,15 +977,6 @@ LOCATION:Nexsource 2
 DESCRIPTION:HSL 2016 Minor game #1461. Stats: https://hslstats.com/2016-minor/games/2021233/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021238@hslstats.com
-DTSTAMP:20270117T140000Z
-DTSTART:20270117T140000Z
-DTEND:20270117T153000Z
-SUMMARY:2016 Minor: Capital City Knights at South Sask Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2016 Minor game #1466. Stats: https://hslstats.com/2016-minor/games/2021238/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021239@hslstats.com
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
@@ -993,6 +984,15 @@ DTEND:20270117T153000Z
 SUMMARY:2016 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Nexsource 2
 DESCRIPTION:HSL 2016 Minor game #1467. Stats: https://hslstats.com/2016-minor/games/2021239/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021238@hslstats.com
+DTSTAMP:20270117T140000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T153000Z
+SUMMARY:2016 Minor: Capital City Knights at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 Minor game #1466. Stats: https://hslstats.com/2016-minor/games/2021238/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021249@hslstats.com

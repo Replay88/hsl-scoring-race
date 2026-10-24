@@ -653,15 +653,6 @@ LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2017 Minor game #1132. Stats: https://hslstats.com/2017-minor/games/2020904/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020920@hslstats.com
-DTSTAMP:20261219T210000Z
-DTSTART:20261219T210000Z
-DTEND:20261219T223000Z
-SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
-LOCATION:River Cree Twin Rinks South
-DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://hslstats.com/2017-minor/games/2020920/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020919@hslstats.com
 DTSTAMP:20261219T210000Z
 DTSTART:20261219T210000Z
@@ -669,6 +660,15 @@ DTEND:20261219T223000Z
 SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Gorillas Hockey Academy
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2017 Minor game #1147. Stats: https://hslstats.com/2017-minor/games/2020919/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020920@hslstats.com
+DTSTAMP:20261219T210000Z
+DTSTART:20261219T210000Z
+DTEND:20261219T223000Z
+SUMMARY:2017 Minor: Riggers Hockey Academy at Rebels Hockey Academy
+LOCATION:River Cree Twin Rinks South
+DESCRIPTION:HSL 2017 Minor game #1148. Stats: https://hslstats.com/2017-minor/games/2020920/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020928@hslstats.com
