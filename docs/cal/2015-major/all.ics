@@ -248,15 +248,6 @@ LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2015 Major game #335. Stats: https://hslstats.com/2015-major/games/2020107/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020117@hslstats.com
-DTSTAMP:20261011T141500Z
-DTSTART:20261011T141500Z
-DTEND:20261011T154500Z
-SUMMARY:2015 Major: HC Calgary Bandits 2 – MOB Hockey 6 (Final)
-LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 Major game #345. Stats: https://hslstats.com/2015-major/games/2020117/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020118@hslstats.com
 DTSTAMP:20261011T141500Z
 DTSTART:20261011T141500Z
@@ -264,6 +255,15 @@ DTEND:20261011T154500Z
 SUMMARY:2015 Major: Riggers Hockey Academy 10 – Sask Super Selects 8 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2015 Major game #346. Stats: https://hslstats.com/2015-major/games/2020118/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020117@hslstats.com
+DTSTAMP:20261011T141500Z
+DTSTART:20261011T141500Z
+DTEND:20261011T154500Z
+SUMMARY:2015 Major: HC Calgary Bandits 2 – MOB Hockey 6 (Final)
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2015 Major game #345. Stats: https://hslstats.com/2015-major/games/2020117/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020119@hslstats.com

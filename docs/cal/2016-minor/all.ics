@@ -761,15 +761,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Minor game #1235. Stats: https://hslstats.com/2016-minor/games/2021007/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021017@hslstats.com
-DTSTAMP:20270102T231500Z
-DTSTART:20270102T231500Z
-DTEND:20270103T004500Z
-SUMMARY:2016 Minor: Spartan Hockey Academy at South Sask Academy
-LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Minor game #1245. Stats: https://hslstats.com/2016-minor/games/2021017/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021018@hslstats.com
 DTSTAMP:20270102T231500Z
 DTSTART:20270102T231500Z
@@ -777,6 +768,15 @@ DTEND:20270103T004500Z
 SUMMARY:2016 Minor: Capital City Knights at Calgary Crusaders
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2016 Minor game #1246. Stats: https://hslstats.com/2016-minor/games/2021018/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021017@hslstats.com
+DTSTAMP:20270102T231500Z
+DTSTART:20270102T231500Z
+DTEND:20270103T004500Z
+SUMMARY:2016 Minor: Spartan Hockey Academy at South Sask Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 Minor game #1245. Stats: https://hslstats.com/2016-minor/games/2021017/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021022@hslstats.com
@@ -788,15 +788,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Minor game #1250. Stats: https://hslstats.com/2016-minor/games/2021022/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021037@hslstats.com
-DTSTAMP:20270103T154500Z
-DTSTART:20270103T154500Z
-DTEND:20270103T171500Z
-SUMMARY:2016 Minor: Alberta Pro Hockey at North Stars Hockey Academy
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Minor game #1265. Stats: https://hslstats.com/2016-minor/games/2021037/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021036@hslstats.com
 DTSTAMP:20270103T154500Z
 DTSTART:20270103T154500Z
@@ -804,6 +795,15 @@ DTEND:20270103T171500Z
 SUMMARY:2016 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #1264. Stats: https://hslstats.com/2016-minor/games/2021036/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021037@hslstats.com
+DTSTAMP:20270103T154500Z
+DTSTART:20270103T154500Z
+DTEND:20270103T171500Z
+SUMMARY:2016 Minor: Alberta Pro Hockey at North Stars Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Minor game #1265. Stats: https://hslstats.com/2016-minor/games/2021037/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021041@hslstats.com
@@ -977,15 +977,6 @@ LOCATION:Nexsource 2
 DESCRIPTION:HSL 2016 Minor game #1461. Stats: https://hslstats.com/2016-minor/games/2021233/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021239@hslstats.com
-DTSTAMP:20270117T140000Z
-DTSTART:20270117T140000Z
-DTEND:20270117T153000Z
-SUMMARY:2016 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
-LOCATION:Nexsource 2
-DESCRIPTION:HSL 2016 Minor game #1467. Stats: https://hslstats.com/2016-minor/games/2021239/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021238@hslstats.com
 DTSTAMP:20270117T140000Z
 DTSTART:20270117T140000Z
@@ -993,6 +984,15 @@ DTEND:20270117T153000Z
 SUMMARY:2016 Minor: Capital City Knights at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1466. Stats: https://hslstats.com/2016-minor/games/2021238/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021239@hslstats.com
+DTSTAMP:20270117T140000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T153000Z
+SUMMARY:2016 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
+LOCATION:Nexsource 2
+DESCRIPTION:HSL 2016 Minor game #1467. Stats: https://hslstats.com/2016-minor/games/2021239/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021249@hslstats.com

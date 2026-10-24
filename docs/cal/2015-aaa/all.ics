@@ -50,15 +50,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 AAA game #31. Stats: https://hslstats.com/2015-aaa/games/2019803/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019815@hslstats.com
-DTSTAMP:20260919T154500Z
-DTSTART:20260919T154500Z
-DTEND:20260919T171500Z
-SUMMARY:2015 AAA: North Stars Hockey Academy 4 – HC Calgary Bandits 3 (Final)
-LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2015 AAA game #43. Stats: https://hslstats.com/2015-aaa/games/2019815/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019814@hslstats.com
 DTSTAMP:20260919T154500Z
 DTSTART:20260919T154500Z
@@ -66,6 +57,15 @@ DTEND:20260919T171500Z
 SUMMARY:2015 AAA: Queen City Young Guns 8 – Warriors Hockey Academy (Sask) 6 (Final)
 LOCATION:Co-Operators Centre #4 (Prairie Mobile Arena)
 DESCRIPTION:HSL 2015 AAA game #42. Stats: https://hslstats.com/2015-aaa/games/2019814/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019815@hslstats.com
+DTSTAMP:20260919T154500Z
+DTSTART:20260919T154500Z
+DTEND:20260919T171500Z
+SUMMARY:2015 AAA: North Stars Hockey Academy 4 – HC Calgary Bandits 3 (Final)
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2015 AAA game #43. Stats: https://hslstats.com/2015-aaa/games/2019815/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019832@hslstats.com
@@ -131,15 +131,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 AAA game #101. Stats: https://hslstats.com/2015-aaa/games/2019873/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019881@hslstats.com
-DTSTAMP:20260920T153000Z
-DTSTART:20260920T153000Z
-DTEND:20260920T170000Z
-SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
-LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019882@hslstats.com
 DTSTAMP:20260920T153000Z
 DTSTART:20260920T153000Z
@@ -147,6 +138,15 @@ DTEND:20260920T170000Z
 SUMMARY:2015 AAA: Capital City Knights 7 – Spartan Hockey Academy 4 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #110. Stats: https://hslstats.com/2015-aaa/games/2019882/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019881@hslstats.com
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T170000Z
+SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
+LOCATION:Co-Operators Centre #3 (RMP Arena)
+DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019893@hslstats.com
