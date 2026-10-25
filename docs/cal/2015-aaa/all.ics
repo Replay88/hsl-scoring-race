@@ -131,15 +131,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 AAA game #101. Stats: https://hslstats.com/2015-aaa/games/2019873/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019881@hslstats.com
-DTSTAMP:20260920T153000Z
-DTSTART:20260920T153000Z
-DTEND:20260920T170000Z
-SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
-LOCATION:Co-Operators Centre #3 (RMP Arena)
-DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019882@hslstats.com
 DTSTAMP:20260920T153000Z
 DTSTART:20260920T153000Z
@@ -147,6 +138,15 @@ DTEND:20260920T170000Z
 SUMMARY:2015 AAA: Capital City Knights 7 – Spartan Hockey Academy 4 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #110. Stats: https://hslstats.com/2015-aaa/games/2019882/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019881@hslstats.com
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T170000Z
+SUMMARY:2015 AAA: Saints Pro Hockey Academy 6 – Warriors Hockey Academy (Sask) 2 (Final)
+LOCATION:Co-Operators Centre #3 (RMP Arena)
+DESCRIPTION:HSL 2015 AAA game #109. Stats: https://hslstats.com/2015-aaa/games/2019881/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019893@hslstats.com
@@ -513,7 +513,7 @@ UID:hsl-2020297@hslstats.com
 DTSTAMP:20261025T193000Z
 DTSTART:20261025T193000Z
 DTEND:20261025T210000Z
-SUMMARY:2015 AAA: Saints Pro Hockey Academy at Warriors Hockey Academy
+SUMMARY:2015 AAA: Saints Pro Hockey Academy 2 – Warriors Hockey Academy 2 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #525. Stats: https://hslstats.com/2015-aaa/games/2020297/
 END:VEVENT
@@ -522,7 +522,7 @@ UID:hsl-2020298@hslstats.com
 DTSTAMP:20261025T194500Z
 DTSTART:20261025T194500Z
 DTEND:20261025T211500Z
-SUMMARY:2015 AAA: Aces Hockey Academy at HC Calgary Bandits
+SUMMARY:2015 AAA: Aces Hockey Academy 3 – HC Calgary Bandits 2 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
 DESCRIPTION:HSL 2015 AAA game #526. Stats: https://hslstats.com/2015-aaa/games/2020298/
 END:VEVENT
@@ -531,7 +531,7 @@ UID:hsl-2020299@hslstats.com
 DTSTAMP:20261025T201500Z
 DTSTART:20261025T201500Z
 DTEND:20261025T214500Z
-SUMMARY:2015 AAA: Queen City Young Guns at Spartan Hockey Academy
+SUMMARY:2015 AAA: Queen City Young Guns 6 – Spartan Hockey Academy 2 (Final)
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2015 AAA game #527. Stats: https://hslstats.com/2015-aaa/games/2020299/
 END:VEVENT
@@ -770,15 +770,6 @@ LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2015 AAA game #1024. Stats: https://hslstats.com/2015-aaa/games/2020796/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020797@hslstats.com
-DTSTAMP:20261212T161500Z
-DTSTART:20261212T161500Z
-DTEND:20261212T174500Z
-SUMMARY:2015 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy
-LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2015 AAA game #1025. Stats: https://hslstats.com/2015-aaa/games/2020797/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020802@hslstats.com
 DTSTAMP:20261212T161500Z
 DTSTART:20261212T161500Z
@@ -786,6 +777,15 @@ DTEND:20261212T174500Z
 SUMMARY:2015 AAA: Queen City Young Guns at Capital City Knights
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2015 AAA game #1030. Stats: https://hslstats.com/2015-aaa/games/2020802/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020797@hslstats.com
+DTSTAMP:20261212T161500Z
+DTSTART:20261212T161500Z
+DTEND:20261212T174500Z
+SUMMARY:2015 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2015 AAA game #1025. Stats: https://hslstats.com/2015-aaa/games/2020797/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020812@hslstats.com

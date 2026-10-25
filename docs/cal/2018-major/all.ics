@@ -603,7 +603,7 @@ UID:hsl-2020294@hslstats.com
 DTSTAMP:20261025T190000Z
 DTSTART:20261025T190000Z
 DTEND:20261025T203000Z
-SUMMARY:2018 Major: Stars Hockey Academy at Young Kings Hockey
+SUMMARY:2018 Major: Stars Hockey Academy 8 – Young Kings Hockey 1 (Final)
 LOCATION:Vauxhall Recreation Centre
 DESCRIPTION:HSL 2018 Major game #522. Stats: https://hslstats.com/2018-major/games/2020294/
 END:VEVENT
@@ -1652,15 +1652,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1350. Stats: https://hslstats.com/2018-major/games/2021122/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021126@hslstats.com
-DTSTAMP:20270110T140000Z
-DTSTART:20270110T140000Z
-DTEND:20270110T153000Z
-SUMMARY:2018 Major: MOB Hockey at Queen City Young Guns
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1354. Stats: https://hslstats.com/2018-major/games/2021126/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021125@hslstats.com
 DTSTAMP:20270110T140000Z
 DTSTART:20270110T140000Z
@@ -1670,13 +1661,13 @@ LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Major game #1353. Stats: https://hslstats.com/2018-major/games/2021125/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021131@hslstats.com
-DTSTAMP:20270110T154500Z
-DTSTART:20270110T154500Z
-DTEND:20270110T171500Z
-SUMMARY:2018 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
-LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1359. Stats: https://hslstats.com/2018-major/games/2021131/
+UID:hsl-2021126@hslstats.com
+DTSTAMP:20270110T140000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T153000Z
+SUMMARY:2018 Major: MOB Hockey at Queen City Young Guns
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1354. Stats: https://hslstats.com/2018-major/games/2021126/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021132@hslstats.com
@@ -1686,6 +1677,15 @@ DTEND:20270110T171500Z
 SUMMARY:2018 Major: Stars Hockey Academy at Rebels Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1360. Stats: https://hslstats.com/2018-major/games/2021132/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021131@hslstats.com
+DTSTAMP:20270110T154500Z
+DTSTART:20270110T154500Z
+DTEND:20270110T171500Z
+SUMMARY:2018 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #1359. Stats: https://hslstats.com/2018-major/games/2021131/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021137@hslstats.com

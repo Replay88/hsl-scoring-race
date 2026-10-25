@@ -1580,15 +1580,6 @@ LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2017 Major game #1482. Stats: https://hslstats.com/2017-major/games/2021254/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021262@hslstats.com
-DTSTAMP:20270117T173000Z
-DTSTART:20270117T173000Z
-DTEND:20270117T190000Z
-SUMMARY:2017 Major: Sauce Hockey Academy at South Sask Academy
-LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1490. Stats: https://hslstats.com/2017-major/games/2021262/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021261@hslstats.com
 DTSTAMP:20270117T173000Z
 DTSTART:20270117T173000Z
@@ -1596,6 +1587,15 @@ DTEND:20270117T190000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Vipers Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1489. Stats: https://hslstats.com/2017-major/games/2021261/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021262@hslstats.com
+DTSTAMP:20270117T173000Z
+DTSTART:20270117T173000Z
+DTEND:20270117T190000Z
+SUMMARY:2017 Major: Sauce Hockey Academy at South Sask Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2017 Major game #1490. Stats: https://hslstats.com/2017-major/games/2021262/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021263@hslstats.com
@@ -1976,15 +1976,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2017 Major game #1851. Stats: https://hslstats.com/2017-major/games/2021623/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021621@hslstats.com
-DTSTAMP:20270220T173000Z
-DTSTART:20270220T173000Z
-DTEND:20270220T190000Z
-SUMMARY:2017 Major: South Sask Academy at Spartan Hockey Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1849. Stats: https://hslstats.com/2017-major/games/2021621/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021622@hslstats.com
 DTSTAMP:20270220T173000Z
 DTSTART:20270220T173000Z
@@ -1992,6 +1983,15 @@ DTEND:20270220T190000Z
 SUMMARY:2017 Major: Calgary Crusaders at Sauce Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Major game #1850. Stats: https://hslstats.com/2017-major/games/2021622/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021621@hslstats.com
+DTSTAMP:20270220T173000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T190000Z
+SUMMARY:2017 Major: South Sask Academy at Spartan Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2017 Major game #1849. Stats: https://hslstats.com/2017-major/games/2021621/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021632@hslstats.com
@@ -2021,15 +2021,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2017 Major game #1868. Stats: https://hslstats.com/2017-major/games/2021640/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021638@hslstats.com
-DTSTAMP:20270220T210000Z
-DTSTART:20270220T210000Z
-DTEND:20270220T223000Z
-SUMMARY:2017 Major: South Sask Academy at Warriors Hockey Academy (Sask)
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1866. Stats: https://hslstats.com/2017-major/games/2021638/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021639@hslstats.com
 DTSTAMP:20270220T210000Z
 DTSTART:20270220T210000Z
@@ -2037,6 +2028,15 @@ DTEND:20270220T223000Z
 SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Major game #1867. Stats: https://hslstats.com/2017-major/games/2021639/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021638@hslstats.com
+DTSTAMP:20270220T210000Z
+DTSTART:20270220T210000Z
+DTEND:20270220T223000Z
+SUMMARY:2017 Major: South Sask Academy at Warriors Hockey Academy (Sask)
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2017 Major game #1866. Stats: https://hslstats.com/2017-major/games/2021638/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021648@hslstats.com
@@ -2093,15 +2093,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2017 Major game #1888. Stats: https://hslstats.com/2017-major/games/2021660/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021669@hslstats.com
-DTSTAMP:20270221T154500Z
-DTSTART:20270221T154500Z
-DTEND:20270221T171500Z
-SUMMARY:2017 Major: Stars Hockey Academy at Wolverines Hockey Academy
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1897. Stats: https://hslstats.com/2017-major/games/2021669/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021668@hslstats.com
 DTSTAMP:20270221T154500Z
 DTSTART:20270221T154500Z
@@ -2109,6 +2100,15 @@ DTEND:20270221T171500Z
 SUMMARY:2017 Major: Queen City Young Guns at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2017 Major game #1896. Stats: https://hslstats.com/2017-major/games/2021668/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021669@hslstats.com
+DTSTAMP:20270221T154500Z
+DTSTART:20270221T154500Z
+DTEND:20270221T171500Z
+SUMMARY:2017 Major: Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1897. Stats: https://hslstats.com/2017-major/games/2021669/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021677@hslstats.com
@@ -2120,15 +2120,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Major game #1905. Stats: https://hslstats.com/2017-major/games/2021677/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021678@hslstats.com
-DTSTAMP:20270221T173000Z
-DTSTART:20270221T173000Z
-DTEND:20270221T190000Z
-SUMMARY:2017 Major: Gorillas Hockey Academy at Young Kings Hockey
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1906. Stats: https://hslstats.com/2017-major/games/2021678/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021676@hslstats.com
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
@@ -2136,6 +2127,15 @@ DTEND:20270221T190000Z
 SUMMARY:2017 Major: MOB Hockey at North Stars Academy Wild
 LOCATION:Centerfire Place
 DESCRIPTION:HSL 2017 Major game #1904. Stats: https://hslstats.com/2017-major/games/2021676/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021678@hslstats.com
+DTSTAMP:20270221T173000Z
+DTSTART:20270221T173000Z
+DTEND:20270221T190000Z
+SUMMARY:2017 Major: Gorillas Hockey Academy at Young Kings Hockey
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Major game #1906. Stats: https://hslstats.com/2017-major/games/2021678/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021675@hslstats.com
