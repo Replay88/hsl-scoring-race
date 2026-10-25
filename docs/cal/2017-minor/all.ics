@@ -1067,15 +1067,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1852. Stats: https://hslstats.com/2017-minor/games/2021624/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021634@hslstats.com
-DTSTAMP:20270220T193000Z
-DTSTART:20270220T193000Z
-DTEND:20270220T210000Z
-SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1862. Stats: https://hslstats.com/2017-minor/games/2021634/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021633@hslstats.com
 DTSTAMP:20270220T193000Z
 DTSTART:20270220T193000Z
@@ -1083,6 +1074,15 @@ DTEND:20270220T210000Z
 SUMMARY:2017 Minor: YYC Jays at North Stars Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Minor game #1861. Stats: https://hslstats.com/2017-minor/games/2021633/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021634@hslstats.com
+DTSTAMP:20270220T193000Z
+DTSTART:20270220T193000Z
+DTEND:20270220T210000Z
+SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot at Riggers Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #1862. Stats: https://hslstats.com/2017-minor/games/2021634/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021641@hslstats.com
@@ -1139,15 +1139,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1901. Stats: https://hslstats.com/2017-minor/games/2021673/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021682@hslstats.com
-DTSTAMP:20270221T183000Z
-DTSTART:20270221T183000Z
-DTEND:20270221T200000Z
-SUMMARY:2017 Minor: North Stars Hockey Academy at YYC Jays
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Minor game #1910. Stats: https://hslstats.com/2017-minor/games/2021682/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021683@hslstats.com
 DTSTAMP:20270221T183000Z
 DTSTART:20270221T183000Z
@@ -1155,5 +1146,14 @@ DTEND:20270221T200000Z
 SUMMARY:2017 Minor: Riggers Hockey Academy at Caps Hockey Club
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1911. Stats: https://hslstats.com/2017-minor/games/2021683/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021682@hslstats.com
+DTSTAMP:20270221T183000Z
+DTSTART:20270221T183000Z
+DTEND:20270221T200000Z
+SUMMARY:2017 Minor: North Stars Hockey Academy at YYC Jays
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Minor game #1910. Stats: https://hslstats.com/2017-minor/games/2021682/
 END:VEVENT
 END:VCALENDAR
