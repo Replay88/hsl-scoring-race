@@ -1256,15 +1256,6 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1068. Stats: https://hslstats.com/2017-major/games/2020840/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020848@hslstats.com
-DTSTAMP:20261213T154500Z
-DTSTART:20261213T154500Z
-DTEND:20261213T171500Z
-SUMMARY:2017 Major: Vipers Hockey Academy at Queen City Young Guns
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1076. Stats: https://hslstats.com/2017-major/games/2020848/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020847@hslstats.com
 DTSTAMP:20261213T154500Z
 DTSTART:20261213T154500Z
@@ -1272,6 +1263,15 @@ DTEND:20261213T171500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1075. Stats: https://hslstats.com/2017-major/games/2020847/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020848@hslstats.com
+DTSTAMP:20261213T154500Z
+DTSTART:20261213T154500Z
+DTEND:20261213T171500Z
+SUMMARY:2017 Major: Vipers Hockey Academy at Queen City Young Guns
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2017 Major game #1076. Stats: https://hslstats.com/2017-major/games/2020848/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020856@hslstats.com
@@ -2012,15 +2012,6 @@ LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2017 Major game #1864. Stats: https://hslstats.com/2017-major/games/2021636/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021639@hslstats.com
-DTSTAMP:20270220T210000Z
-DTSTART:20270220T210000Z
-DTEND:20270220T223000Z
-SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Major game #1867. Stats: https://hslstats.com/2017-major/games/2021639/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021638@hslstats.com
 DTSTAMP:20270220T210000Z
 DTSTART:20270220T210000Z
@@ -2028,6 +2019,15 @@ DTEND:20270220T223000Z
 SUMMARY:2017 Major: South Sask Academy at Warriors Hockey Academy (Sask)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2017 Major game #1866. Stats: https://hslstats.com/2017-major/games/2021638/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021639@hslstats.com
+DTSTAMP:20270220T210000Z
+DTSTART:20270220T210000Z
+DTEND:20270220T223000Z
+SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #1867. Stats: https://hslstats.com/2017-major/games/2021639/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021640@hslstats.com

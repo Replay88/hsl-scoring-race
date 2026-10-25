@@ -1652,15 +1652,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1350. Stats: https://hslstats.com/2018-major/games/2021122/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021125@hslstats.com
-DTSTAMP:20270110T140000Z
-DTSTART:20270110T140000Z
-DTEND:20270110T153000Z
-SUMMARY:2018 Major: Aces Hockey Academy at Calgary Crusaders
-LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2018 Major game #1353. Stats: https://hslstats.com/2018-major/games/2021125/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021126@hslstats.com
 DTSTAMP:20270110T140000Z
 DTSTART:20270110T140000Z
@@ -1670,13 +1661,13 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1354. Stats: https://hslstats.com/2018-major/games/2021126/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021132@hslstats.com
-DTSTAMP:20270110T154500Z
-DTSTART:20270110T154500Z
-DTEND:20270110T171500Z
-SUMMARY:2018 Major: Stars Hockey Academy at Rebels Hockey Academy
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1360. Stats: https://hslstats.com/2018-major/games/2021132/
+UID:hsl-2021125@hslstats.com
+DTSTAMP:20270110T140000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T153000Z
+SUMMARY:2018 Major: Aces Hockey Academy at Calgary Crusaders
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #1353. Stats: https://hslstats.com/2018-major/games/2021125/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021131@hslstats.com
@@ -1688,6 +1679,15 @@ LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Major game #1359. Stats: https://hslstats.com/2018-major/games/2021131/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2021132@hslstats.com
+DTSTAMP:20270110T154500Z
+DTSTART:20270110T154500Z
+DTEND:20270110T171500Z
+SUMMARY:2018 Major: Stars Hockey Academy at Rebels Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1360. Stats: https://hslstats.com/2018-major/games/2021132/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2021137@hslstats.com
 DTSTAMP:20270110T173000Z
 DTSTART:20270110T173000Z
@@ -1697,15 +1697,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1365. Stats: https://hslstats.com/2018-major/games/2021137/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021143@hslstats.com
-DTSTAMP:20270110T191500Z
-DTSTART:20270110T191500Z
-DTEND:20270110T204500Z
-SUMMARY:2018 Major: Capital City Knights at Stars Hockey Academy
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2018 Major game #1371. Stats: https://hslstats.com/2018-major/games/2021143/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021142@hslstats.com
 DTSTAMP:20270110T191500Z
 DTSTART:20270110T191500Z
@@ -1713,6 +1704,15 @@ DTEND:20270110T204500Z
 SUMMARY:2018 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Major game #1370. Stats: https://hslstats.com/2018-major/games/2021142/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021143@hslstats.com
+DTSTAMP:20270110T191500Z
+DTSTART:20270110T191500Z
+DTEND:20270110T204500Z
+SUMMARY:2018 Major: Capital City Knights at Stars Hockey Academy
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2018 Major game #1371. Stats: https://hslstats.com/2018-major/games/2021143/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021147@hslstats.com
@@ -1814,15 +1814,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1528. Stats: https://hslstats.com/2018-major/games/2021300/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021306@hslstats.com
-DTSTAMP:20270123T154500Z
-DTSTART:20270123T154500Z
-DTEND:20270123T171500Z
-SUMMARY:2018 Major: Young Kings Hockey at Queen City Young Guns
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2018 Major game #1534. Stats: https://hslstats.com/2018-major/games/2021306/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021305@hslstats.com
 DTSTAMP:20270123T154500Z
 DTSTART:20270123T154500Z
@@ -1830,6 +1821,15 @@ DTEND:20270123T171500Z
 SUMMARY:2018 Major: Aces Hockey Academy at MOB Hockey
 LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2018 Major game #1533. Stats: https://hslstats.com/2018-major/games/2021305/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021306@hslstats.com
+DTSTAMP:20270123T154500Z
+DTSTART:20270123T154500Z
+DTEND:20270123T171500Z
+SUMMARY:2018 Major: Young Kings Hockey at Queen City Young Guns
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2018 Major game #1534. Stats: https://hslstats.com/2018-major/games/2021306/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021314@hslstats.com

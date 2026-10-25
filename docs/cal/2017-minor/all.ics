@@ -1094,15 +1094,6 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://hslstats.com/2017-minor/games/2021641/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021650@hslstats.com
-DTSTAMP:20270220T230000Z
-DTSTART:20270220T230000Z
-DTEND:20270221T003000Z
-SUMMARY:2017 Minor: Caps Hockey Club at Riggers Hockey Academy
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2017 Minor game #1878. Stats: https://hslstats.com/2017-minor/games/2021650/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021649@hslstats.com
 DTSTAMP:20270220T230000Z
 DTSTART:20270220T230000Z
@@ -1110,6 +1101,15 @@ DTEND:20270221T003000Z
 SUMMARY:2017 Minor: North Stars Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Minor game #1877. Stats: https://hslstats.com/2017-minor/games/2021649/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021650@hslstats.com
+DTSTAMP:20270220T230000Z
+DTSTART:20270220T230000Z
+DTEND:20270221T003000Z
+SUMMARY:2017 Minor: Caps Hockey Club at Riggers Hockey Academy
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #1878. Stats: https://hslstats.com/2017-minor/games/2021650/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021665@hslstats.com
