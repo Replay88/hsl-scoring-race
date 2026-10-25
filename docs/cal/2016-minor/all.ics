@@ -527,15 +527,6 @@ LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
 DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020603@hslstats.com
-DTSTAMP:20261122T154500Z
-DTSTART:20261122T154500Z
-DTEND:20261122T171500Z
-SUMMARY:2016 Minor: Alberta Pro Hockey at Calgary Crusaders
-LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2016 Minor game #831. Stats: https://hslstats.com/2016-minor/games/2020603/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020604@hslstats.com
 DTSTAMP:20261122T154500Z
 DTSTART:20261122T154500Z
@@ -543,6 +534,15 @@ DTEND:20261122T171500Z
 SUMMARY:2016 Minor: Spartan Hockey Academy at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2016 Minor game #832. Stats: https://hslstats.com/2016-minor/games/2020604/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020603@hslstats.com
+DTSTAMP:20261122T154500Z
+DTSTART:20261122T154500Z
+DTEND:20261122T171500Z
+SUMMARY:2016 Minor: Alberta Pro Hockey at Calgary Crusaders
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2016 Minor game #831. Stats: https://hslstats.com/2016-minor/games/2020603/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020617@hslstats.com
@@ -590,15 +590,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1013. Stats: https://hslstats.com/2016-minor/games/2020785/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020794@hslstats.com
-DTSTAMP:20261212T154500Z
-DTSTART:20261212T154500Z
-DTEND:20261212T171500Z
-SUMMARY:2016 Minor: North Stars Hockey Academy at Calgary Crusaders
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2016 Minor game #1022. Stats: https://hslstats.com/2016-minor/games/2020794/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020793@hslstats.com
 DTSTAMP:20261212T154500Z
 DTSTART:20261212T154500Z
@@ -606,6 +597,15 @@ DTEND:20261212T171500Z
 SUMMARY:2016 Minor: HC Calgary Bandits at Alberta Pro Hockey
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1021. Stats: https://hslstats.com/2016-minor/games/2020793/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020794@hslstats.com
+DTSTAMP:20261212T154500Z
+DTSTART:20261212T154500Z
+DTEND:20261212T171500Z
+SUMMARY:2016 Minor: North Stars Hockey Academy at Calgary Crusaders
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2016 Minor game #1022. Stats: https://hslstats.com/2016-minor/games/2020794/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020801@hslstats.com
@@ -617,15 +617,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1029. Stats: https://hslstats.com/2016-minor/games/2020801/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020810@hslstats.com
-DTSTAMP:20261212T191500Z
-DTSTART:20261212T191500Z
-DTEND:20261212T204500Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2016 Minor game #1038. Stats: https://hslstats.com/2016-minor/games/2020810/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020811@hslstats.com
 DTSTAMP:20261212T191500Z
 DTSTART:20261212T191500Z
@@ -633,6 +624,15 @@ DTEND:20261212T204500Z
 SUMMARY:2016 Minor: South Sask Academy at North Stars Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1039. Stats: https://hslstats.com/2016-minor/games/2020811/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020810@hslstats.com
+DTSTAMP:20261212T191500Z
+DTSTART:20261212T191500Z
+DTEND:20261212T204500Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2016 Minor game #1038. Stats: https://hslstats.com/2016-minor/games/2020810/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020819@hslstats.com

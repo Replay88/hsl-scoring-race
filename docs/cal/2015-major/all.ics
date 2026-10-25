@@ -680,33 +680,6 @@ LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2015 Major game #1165. Stats: https://hslstats.com/2015-major/games/2020937/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020940@hslstats.com
-DTSTAMP:20261220T055800Z
-DTSTART:20261220T055800Z
-DTEND:20261220T072800Z
-SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1168. Stats: https://hslstats.com/2015-major/games/2020940/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020943@hslstats.com
-DTSTAMP:20261220T055800Z
-DTSTART:20261220T055800Z
-DTEND:20261220T072800Z
-SUMMARY:2015 Major: Riggers Hockey Academy at Sask Super Selects
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1171. Stats: https://hslstats.com/2015-major/games/2020943/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020939@hslstats.com
-DTSTAMP:20261220T055800Z
-DTSTART:20261220T055800Z
-DTEND:20261220T072800Z
-SUMMARY:2015 Major: Riggers Hockey Academy at South Sask Academy
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2015 Major game #1167. Stats: https://hslstats.com/2015-major/games/2020939/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020941@hslstats.com
 DTSTAMP:20261220T055800Z
 DTSTART:20261220T055800Z
@@ -723,6 +696,33 @@ DTEND:20261220T072800Z
 SUMMARY:2015 Major: Sask Super Selects at Riggers Hockey Academy
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2015 Major game #1166. Stats: https://hslstats.com/2015-major/games/2020938/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020939@hslstats.com
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2015 Major: Riggers Hockey Academy at South Sask Academy
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1167. Stats: https://hslstats.com/2015-major/games/2020939/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020940@hslstats.com
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2015 Major: HC Calgary Bandits at Sask Super Selects
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1168. Stats: https://hslstats.com/2015-major/games/2020940/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020943@hslstats.com
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2015 Major: Riggers Hockey Academy at Sask Super Selects
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1171. Stats: https://hslstats.com/2015-major/games/2020943/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020999@hslstats.com

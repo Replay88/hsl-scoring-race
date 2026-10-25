@@ -383,15 +383,6 @@ LOCATION:Brandt Centre
 DESCRIPTION:HSL 2017 Major game #242. Stats: https://hslstats.com/2017-major/games/2020014/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020016@hslstats.com
-DTSTAMP:20261004T140000Z
-DTSTART:20261004T140000Z
-DTEND:20261004T153000Z
-SUMMARY:2017 Major: MOB Hockey 7 – North Stars Academy Wild 0 (Final)
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2017 Major game #244. Stats: https://hslstats.com/2017-major/games/2020016/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020017@hslstats.com
 DTSTAMP:20261004T140000Z
 DTSTART:20261004T140000Z
@@ -399,6 +390,15 @@ DTEND:20261004T153000Z
 SUMMARY:2017 Major: Saints Pro Hockey Academy 6 – South Sask Academy 5 (Final)
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2017 Major game #245. Stats: https://hslstats.com/2017-major/games/2020017/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020016@hslstats.com
+DTSTAMP:20261004T140000Z
+DTSTART:20261004T140000Z
+DTEND:20261004T153000Z
+SUMMARY:2017 Major: MOB Hockey 7 – North Stars Academy Wild 0 (Final)
+LOCATION:Mundare Arena
+DESCRIPTION:HSL 2017 Major game #244. Stats: https://hslstats.com/2017-major/games/2020016/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020021@hslstats.com
@@ -1418,15 +1418,6 @@ LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2017 Major game #1406. Stats: https://hslstats.com/2017-major/games/2021178/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021182@hslstats.com
-DTSTAMP:20270116T154500Z
-DTSTART:20270116T154500Z
-DTEND:20270116T171500Z
-SUMMARY:2017 Major: South Sask Academy at Stars Hockey Academy
-LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
-DESCRIPTION:HSL 2017 Major game #1410. Stats: https://hslstats.com/2017-major/games/2021182/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021181@hslstats.com
 DTSTAMP:20270116T154500Z
 DTSTART:20270116T154500Z
@@ -1434,6 +1425,15 @@ DTEND:20270116T171500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at Aces Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1409. Stats: https://hslstats.com/2017-major/games/2021181/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021182@hslstats.com
+DTSTAMP:20270116T154500Z
+DTSTART:20270116T154500Z
+DTEND:20270116T171500Z
+SUMMARY:2017 Major: South Sask Academy at Stars Hockey Academy
+LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
+DESCRIPTION:HSL 2017 Major game #1410. Stats: https://hslstats.com/2017-major/games/2021182/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021188@hslstats.com
@@ -2111,15 +2111,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2017 Major game #1896. Stats: https://hslstats.com/2017-major/games/2021668/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021678@hslstats.com
-DTSTAMP:20270221T173000Z
-DTSTART:20270221T173000Z
-DTEND:20270221T190000Z
-SUMMARY:2017 Major: Gorillas Hockey Academy at Young Kings Hockey
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2017 Major game #1906. Stats: https://hslstats.com/2017-major/games/2021678/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021677@hslstats.com
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
@@ -2127,6 +2118,15 @@ DTEND:20270221T190000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Major game #1905. Stats: https://hslstats.com/2017-major/games/2021677/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021675@hslstats.com
+DTSTAMP:20270221T173000Z
+DTSTART:20270221T173000Z
+DTEND:20270221T190000Z
+SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2017 Major game #1903. Stats: https://hslstats.com/2017-major/games/2021675/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021676@hslstats.com
@@ -2138,12 +2138,12 @@ LOCATION:Centerfire Place
 DESCRIPTION:HSL 2017 Major game #1904. Stats: https://hslstats.com/2017-major/games/2021676/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021675@hslstats.com
+UID:hsl-2021678@hslstats.com
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
 DTEND:20270221T190000Z
-SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at South Sask Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2017 Major game #1903. Stats: https://hslstats.com/2017-major/games/2021675/
+SUMMARY:2017 Major: Gorillas Hockey Academy at Young Kings Hockey
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Major game #1906. Stats: https://hslstats.com/2017-major/games/2021678/
 END:VEVENT
 END:VCALENDAR
