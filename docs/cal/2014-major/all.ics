@@ -779,15 +779,6 @@ LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2014 Major game #1192. Stats: https://hslstats.com/2014-major/games/2020964/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020974@hslstats.com
-DTSTAMP:20261220T210000Z
-DTSTART:20261220T210000Z
-DTEND:20261220T223000Z
-SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
-LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2014 Major game #1202. Stats: https://hslstats.com/2014-major/games/2020974/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020975@hslstats.com
 DTSTAMP:20261220T210000Z
 DTSTART:20261220T210000Z
@@ -795,6 +786,15 @@ DTEND:20261220T223000Z
 SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2014 Major game #1203. Stats: https://hslstats.com/2014-major/games/2020975/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020974@hslstats.com
+DTSTAMP:20261220T210000Z
+DTSTART:20261220T210000Z
+DTEND:20261220T223000Z
+SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
+LOCATION:East Calgary Twin Arena Blue
+DESCRIPTION:HSL 2014 Major game #1202. Stats: https://hslstats.com/2014-major/games/2020974/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020978@hslstats.com
