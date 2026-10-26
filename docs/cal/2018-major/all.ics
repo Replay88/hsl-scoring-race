@@ -14,15 +14,6 @@ LOCATION:Brandt Centre
 DESCRIPTION:HSL 2018 Major game #2. Stats: https://hslstats.com/2018-major/games/2019774/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2019780@hslstats.com
-DTSTAMP:20260918T220000Z
-DTSTART:20260918T220000Z
-DTEND:20260918T233000Z
-SUMMARY:2018 Major: Sauce Hockey Academy 3 – Queen City Young Guns 9 (Final)
-LOCATION:Brandt Centre
-DESCRIPTION:HSL 2018 Major game #8. Stats: https://hslstats.com/2018-major/games/2019780/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2019778@hslstats.com
 DTSTAMP:20260918T220000Z
 DTSTART:20260918T220000Z
@@ -30,6 +21,15 @@ DTEND:20260918T233000Z
 SUMMARY:2018 Major: O2 Grizzlies 3 – Young Kings Hockey 6 (Final)
 LOCATION:North County Recreation Complex
 DESCRIPTION:HSL 2018 Major game #6. Stats: https://hslstats.com/2018-major/games/2019778/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019780@hslstats.com
+DTSTAMP:20260918T220000Z
+DTSTART:20260918T220000Z
+DTEND:20260918T233000Z
+SUMMARY:2018 Major: Sauce Hockey Academy 3 – Queen City Young Guns 9 (Final)
+LOCATION:Brandt Centre
+DESCRIPTION:HSL 2018 Major game #8. Stats: https://hslstats.com/2018-major/games/2019780/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2019779@hslstats.com

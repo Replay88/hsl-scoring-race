@@ -914,15 +914,6 @@ LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2018 Minor game #1254. Stats: https://hslstats.com/2018-minor/games/2021026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021033@hslstats.com
-DTSTAMP:20270103T163000Z
-DTSTART:20270103T163000Z
-DTEND:20270103T180000Z
-SUMMARY:2018 Minor: South Sask Academy at YYC Jays
-LOCATION:Banff Recreation Centre - Arena 1
-DESCRIPTION:HSL 2018 Minor game #1261. Stats: https://hslstats.com/2018-minor/games/2021033/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021040@hslstats.com
 DTSTAMP:20270103T163000Z
 DTSTART:20270103T163000Z
@@ -930,6 +921,15 @@ DTEND:20270103T180000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Wolverines Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2018 Minor game #1268. Stats: https://hslstats.com/2018-minor/games/2021040/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021033@hslstats.com
+DTSTAMP:20270103T163000Z
+DTSTART:20270103T163000Z
+DTEND:20270103T180000Z
+SUMMARY:2018 Minor: South Sask Academy at YYC Jays
+LOCATION:Banff Recreation Centre - Arena 1
+DESCRIPTION:HSL 2018 Minor game #1261. Stats: https://hslstats.com/2018-minor/games/2021033/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021047@hslstats.com

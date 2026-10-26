@@ -644,15 +644,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #496. Stats: https://hslstats.com/2016-major/games/2020268/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020272@hslstats.com
-DTSTAMP:20261024T224500Z
-DTSTART:20261024T224500Z
-DTEND:20261025T001500Z
-SUMMARY:2016 Major: MOB Hockey 4 – Spartan Hockey Academy 9 (Final)
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/2016-major/games/2020272/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020273@hslstats.com
 DTSTAMP:20261024T224500Z
 DTSTART:20261024T224500Z
@@ -660,6 +651,15 @@ DTEND:20261025T001500Z
 SUMMARY:2016 Major: Northern Hockey Club 7 – Sauce Hockey Academy 7 (Final)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #501. Stats: https://hslstats.com/2016-major/games/2020273/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020272@hslstats.com
+DTSTAMP:20261024T224500Z
+DTSTART:20261024T224500Z
+DTEND:20261025T001500Z
+SUMMARY:2016 Major: MOB Hockey 4 – Spartan Hockey Academy 9 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Major game #500. Stats: https://hslstats.com/2016-major/games/2020272/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020277@hslstats.com
@@ -698,6 +698,15 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #516. Stats: https://hslstats.com/2016-major/games/2020288/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020291@hslstats.com
+DTSTAMP:20261025T173000Z
+DTSTART:20261025T173000Z
+DTEND:20261025T190000Z
+SUMMARY:2016 Major: Gorillas Hockey Academy 5 – Rebels Hockey Academy 3 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Major game #519. Stats: https://hslstats.com/2016-major/games/2020291/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020292@hslstats.com
 DTSTAMP:20261025T173000Z
 DTSTART:20261025T173000Z
@@ -705,15 +714,6 @@ DTEND:20261025T190000Z
 SUMMARY:2016 Major: Northern Hockey Club 0 – Spartan Hockey Academy 17M 11 (Final)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Major game #520. Stats: https://hslstats.com/2016-major/games/2020292/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020291@hslstats.com
-DTSTAMP:20261025T173000Z
-DTSTART:20261025T173000Z
-DTEND:20261025T190000Z
-SUMMARY:2016 Major: Gorillas Hockey Academy at Rebels Hockey Academy
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #519. Stats: https://hslstats.com/2016-major/games/2020291/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020300@hslstats.com
@@ -747,7 +747,7 @@ UID:hsl-2020301@hslstats.com
 DTSTAMP:20261025T210000Z
 DTSTART:20261025T210000Z
 DTEND:20261025T223000Z
-SUMMARY:2016 Major: Calgary Crusaders at Gorillas Hockey Academy
+SUMMARY:2016 Major: Calgary Crusaders 1 – Gorillas Hockey Academy 4 (Final)
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Major game #529. Stats: https://hslstats.com/2016-major/games/2020301/
 END:VEVENT
@@ -887,15 +887,6 @@ LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2016 Major game #795. Stats: https://hslstats.com/2016-major/games/2020567/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020572@hslstats.com
-DTSTAMP:20261121T224500Z
-DTSTART:20261121T224500Z
-DTEND:20261122T001500Z
-SUMMARY:2016 Major: Queen City Young Guns at Rebels Hockey Academy
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #800. Stats: https://hslstats.com/2016-major/games/2020572/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020573@hslstats.com
 DTSTAMP:20261121T224500Z
 DTSTART:20261121T224500Z
@@ -903,6 +894,15 @@ DTEND:20261122T001500Z
 SUMMARY:2016 Major: Caps Hockey Club at Spartan Hockey Academy 17M
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2016 Major game #801. Stats: https://hslstats.com/2016-major/games/2020573/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020572@hslstats.com
+DTSTAMP:20261121T224500Z
+DTSTART:20261121T224500Z
+DTEND:20261122T001500Z
+SUMMARY:2016 Major: Queen City Young Guns at Rebels Hockey Academy
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Major game #800. Stats: https://hslstats.com/2016-major/games/2020572/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020577@hslstats.com
@@ -932,15 +932,6 @@ LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Major game #823. Stats: https://hslstats.com/2016-major/games/2020595/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020597@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2016 Major: Northern Hockey Club at Warriors Hockey Academy (Sask)
-LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #825. Stats: https://hslstats.com/2016-major/games/2020597/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020596@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -948,6 +939,15 @@ DTEND:20261122T153000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Major game #824. Stats: https://hslstats.com/2016-major/games/2020596/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020597@hslstats.com
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2016 Major: Northern Hockey Club at Warriors Hockey Academy (Sask)
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2016 Major game #825. Stats: https://hslstats.com/2016-major/games/2020597/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020608@hslstats.com
