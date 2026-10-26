@@ -932,15 +932,6 @@ LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Major game #823. Stats: https://hslstats.com/2016-major/games/2020595/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020596@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2016 Major game #824. Stats: https://hslstats.com/2016-major/games/2020596/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020597@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -948,6 +939,15 @@ DTEND:20261122T153000Z
 SUMMARY:2016 Major: Northern Hockey Club at Warriors Hockey Academy (Sask)
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2016 Major game #825. Stats: https://hslstats.com/2016-major/games/2020597/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020596@hslstats.com
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2016 Major: Aces Hockey Academy at Queen City Young Guns
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2016 Major game #824. Stats: https://hslstats.com/2016-major/games/2020596/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020608@hslstats.com
@@ -959,15 +959,6 @@ LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2016 Major game #836. Stats: https://hslstats.com/2016-major/games/2020608/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020614@hslstats.com
-DTSTAMP:20261122T173000Z
-DTSTART:20261122T173000Z
-DTEND:20261122T190000Z
-SUMMARY:2016 Major: Gorillas Hockey Academy at Warriors Hockey Academy (Sask)
-LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2016 Major game #842. Stats: https://hslstats.com/2016-major/games/2020614/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020613@hslstats.com
 DTSTAMP:20261122T173000Z
 DTSTART:20261122T173000Z
@@ -975,6 +966,15 @@ DTEND:20261122T190000Z
 SUMMARY:2016 Major: Aces Hockey Academy at Rebels Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2016 Major game #841. Stats: https://hslstats.com/2016-major/games/2020613/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020614@hslstats.com
+DTSTAMP:20261122T173000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T190000Z
+SUMMARY:2016 Major: Gorillas Hockey Academy at Warriors Hockey Academy (Sask)
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2016 Major game #842. Stats: https://hslstats.com/2016-major/games/2020614/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020616@hslstats.com

@@ -527,15 +527,6 @@ LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
 DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020604@hslstats.com
-DTSTAMP:20261122T154500Z
-DTSTART:20261122T154500Z
-DTEND:20261122T171500Z
-SUMMARY:2016 Minor: Spartan Hockey Academy at HC Calgary Bandits
-LOCATION:Great Plains Arena 2
-DESCRIPTION:HSL 2016 Minor game #832. Stats: https://hslstats.com/2016-minor/games/2020604/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020603@hslstats.com
 DTSTAMP:20261122T154500Z
 DTSTART:20261122T154500Z
@@ -543,6 +534,15 @@ DTEND:20261122T171500Z
 SUMMARY:2016 Minor: Alberta Pro Hockey at Calgary Crusaders
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #831. Stats: https://hslstats.com/2016-minor/games/2020603/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020604@hslstats.com
+DTSTAMP:20261122T154500Z
+DTSTART:20261122T154500Z
+DTEND:20261122T171500Z
+SUMMARY:2016 Minor: Spartan Hockey Academy at HC Calgary Bandits
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2016 Minor game #832. Stats: https://hslstats.com/2016-minor/games/2020604/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020617@hslstats.com

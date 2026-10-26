@@ -77,40 +77,40 @@ LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
 DESCRIPTION:HSL 2014 AAA game #518. Stats: https://hslstats.com/2014-aaa/games/2020290/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020460@hslstats.com
-DTSTAMP:20261113T204500Z
-DTSTART:20261113T204500Z
-DTEND:20261113T221500Z
+UID:hsl-2020467@hslstats.com
+DTSTAMP:20261114T011500Z
+DTSTART:20261114T011500Z
+DTEND:20261114T024500Z
 SUMMARY:2014 AAA: Caps Hockey Club at O2 Grizzlies
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #688. Stats: https://hslstats.com/2014-aaa/games/2020460/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020469@hslstats.com
-DTSTAMP:20261114T141500Z
-DTSTART:20261114T141500Z
-DTEND:20261114T154500Z
-SUMMARY:2014 AAA: Caps Hockey Club at Calgary Crusaders
-LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #697. Stats: https://hslstats.com/2014-aaa/games/2020469/
+DESCRIPTION:HSL 2014 AAA game #688. Stats: https://hslstats.com/2014-aaa/games/2020467/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020476@hslstats.com
 DTSTAMP:20261114T183000Z
 DTSTART:20261114T183000Z
 DTEND:20261114T200000Z
-SUMMARY:2014 AAA: Caps Hockey Club at Spartan Hockey Academy
+SUMMARY:2014 AAA: Caps Hockey Club at Calgary Crusaders
 LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 AAA game #704. Stats: https://hslstats.com/2014-aaa/games/2020476/
+DESCRIPTION:HSL 2014 AAA game #697. Stats: https://hslstats.com/2014-aaa/games/2020476/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020486@hslstats.com
+DTSTAMP:20261115T001500Z
+DTSTART:20261115T001500Z
+DTEND:20261115T014500Z
+SUMMARY:2014 AAA: Calgary Crusaders at Caps Hockey Club
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #721. Stats: https://hslstats.com/2014-aaa/games/2020486/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020493@hslstats.com
 DTSTAMP:20261115T183000Z
 DTSTART:20261115T183000Z
 DTEND:20261115T200000Z
-SUMMARY:2014 AAA: Calgary Crusaders at Caps Hockey Club
+SUMMARY:2014 AAA: Caps Hockey Club at Spartan Hockey Academy
 LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #721. Stats: https://hslstats.com/2014-aaa/games/2020493/
+DESCRIPTION:HSL 2014 AAA game #704. Stats: https://hslstats.com/2014-aaa/games/2020493/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020645@hslstats.com

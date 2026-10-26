@@ -77,6 +77,15 @@ LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2014 AAA game #657. Stats: https://hslstats.com/2014-aaa/games/2020429/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020464@hslstats.com
+DTSTAMP:20261113T230000Z
+DTSTART:20261113T230000Z
+DTEND:20261114T003000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at MOB Hockey
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2014 AAA game #709. Stats: https://hslstats.com/2014-aaa/games/2020464/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020472@hslstats.com
 DTSTAMP:20261114T161500Z
 DTSTART:20261114T161500Z
@@ -90,18 +99,9 @@ UID:hsl-2020481@hslstats.com
 DTSTAMP:20261114T221500Z
 DTSTART:20261114T221500Z
 DTEND:20261114T234500Z
-SUMMARY:2014 AAA: Stars Hockey Academy at MOB Hockey
-LOCATION:Silent Ice Center - Hatch Co. Arena
-DESCRIPTION:HSL 2014 AAA game #709. Stats: https://hslstats.com/2014-aaa/games/2020481/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020490@hslstats.com
-DTSTAMP:20261115T161500Z
-DTSTART:20261115T161500Z
-DTEND:20261115T174500Z
 SUMMARY:2014 AAA: Saints Pro Hockey Academy at Stars Hockey Academy
-LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2014 AAA game #718. Stats: https://hslstats.com/2014-aaa/games/2020490/
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2014 AAA game #718. Stats: https://hslstats.com/2014-aaa/games/2020481/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020495@hslstats.com

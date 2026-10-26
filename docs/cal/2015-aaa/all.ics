@@ -486,7 +486,7 @@ UID:hsl-2020285@hslstats.com
 DTSTAMP:20261025T153000Z
 DTSTART:20261025T153000Z
 DTEND:20261025T170000Z
-SUMMARY:2015 AAA: Saints Pro Hockey Academy at O2 Grizzlies
+SUMMARY:2015 AAA: Saints Pro Hockey Academy 10 – O2 Grizzlies 4 (Final)
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 AAA game #513. Stats: https://hslstats.com/2015-aaa/games/2020285/
 END:VEVENT
@@ -1382,15 +1382,6 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2015 AAA game #1793. Stats: https://hslstats.com/2015-aaa/games/2021565/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021567@hslstats.com
-DTSTAMP:20270214T154500Z
-DTSTART:20270214T154500Z
-DTEND:20270214T171500Z
-SUMMARY:2015 AAA: North Stars Hockey Academy at O2 Grizzlies
-LOCATION:East Calgary Twin Arena Red
-DESCRIPTION:HSL 2015 AAA game #1795. Stats: https://hslstats.com/2015-aaa/games/2021567/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021568@hslstats.com
 DTSTAMP:20270214T154500Z
 DTSTART:20270214T154500Z
@@ -1398,6 +1389,15 @@ DTEND:20270214T171500Z
 SUMMARY:2015 AAA: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Veren Place
 DESCRIPTION:HSL 2015 AAA game #1796. Stats: https://hslstats.com/2015-aaa/games/2021568/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021567@hslstats.com
+DTSTAMP:20270214T154500Z
+DTSTART:20270214T154500Z
+DTEND:20270214T171500Z
+SUMMARY:2015 AAA: North Stars Hockey Academy at O2 Grizzlies
+LOCATION:East Calgary Twin Arena Red
+DESCRIPTION:HSL 2015 AAA game #1795. Stats: https://hslstats.com/2015-aaa/games/2021567/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021579@hslstats.com
