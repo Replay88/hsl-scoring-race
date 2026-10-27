@@ -333,7 +333,7 @@ UID:hsl-2020150@hslstats.com
 DTSTAMP:20261026T000000Z
 DTSTART:20261026T000000Z
 DTEND:20261026T013000Z
-SUMMARY:2014 Major: Wolverines Hockey Academy at Caps Hockey Club
+SUMMARY:2014 Major: Wolverines Hockey Academy 4 – Caps Hockey Club 4 (Final)
 LOCATION:Enoch Recreation Center
 DESCRIPTION:HSL 2014 Major game #378. Stats: https://hslstats.com/2014-major/games/2020150/
 END:VEVENT
@@ -401,15 +401,6 @@ LOCATION:Mundare Arena
 DESCRIPTION:HSL 2014 Major game #567. Stats: https://hslstats.com/2014-major/games/2020339/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020346@hslstats.com
-DTSTAMP:20261031T190000Z
-DTSTART:20261031T190000Z
-DTEND:20261031T203000Z
-SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Caps Hockey Club
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2014 Major game #574. Stats: https://hslstats.com/2014-major/games/2020346/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020345@hslstats.com
 DTSTAMP:20261031T190000Z
 DTSTART:20261031T190000Z
@@ -417,6 +408,15 @@ DTEND:20261031T203000Z
 SUMMARY:2014 Major: South Sask Academy at Wolverines Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2014 Major game #573. Stats: https://hslstats.com/2014-major/games/2020345/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020346@hslstats.com
+DTSTAMP:20261031T190000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T203000Z
+SUMMARY:2014 Major: Bow Valley Jr. Bigfoot at Caps Hockey Club
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2014 Major game #574. Stats: https://hslstats.com/2014-major/games/2020346/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020353@hslstats.com
@@ -779,15 +779,6 @@ LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2014 Major game #1192. Stats: https://hslstats.com/2014-major/games/2020964/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020975@hslstats.com
-DTSTAMP:20261220T210000Z
-DTSTART:20261220T210000Z
-DTEND:20261220T223000Z
-SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
-LOCATION:River Cree Twin Rinks North
-DESCRIPTION:HSL 2014 Major game #1203. Stats: https://hslstats.com/2014-major/games/2020975/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020974@hslstats.com
 DTSTAMP:20261220T210000Z
 DTSTART:20261220T210000Z
@@ -795,6 +786,15 @@ DTEND:20261220T223000Z
 SUMMARY:2014 Major: HC Calgary Bandits at Spartan Hockey Academy 15M
 LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2014 Major game #1202. Stats: https://hslstats.com/2014-major/games/2020974/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020975@hslstats.com
+DTSTAMP:20261220T210000Z
+DTSTART:20261220T210000Z
+DTEND:20261220T223000Z
+SUMMARY:2014 Major: North Stars Academy Wild at Riggers Hockey Academy
+LOCATION:River Cree Twin Rinks North
+DESCRIPTION:HSL 2014 Major game #1203. Stats: https://hslstats.com/2014-major/games/2020975/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020978@hslstats.com
