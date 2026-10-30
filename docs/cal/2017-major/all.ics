@@ -527,49 +527,67 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2017 Major game #381. Stats: https://hslstats.com/2017-major/games/2020153/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020303@hslstats.com
-DTSTAMP:20261030T140000Z
-DTSTART:20261030T140000Z
-DTEND:20261030T153000Z
-SUMMARY:2017 Major: Aces Hockey Academy at Sauce Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #531. Stats: https://hslstats.com/2017-major/games/2020303/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020304@hslstats.com
-DTSTAMP:20261030T154500Z
-DTSTART:20261030T154500Z
-DTEND:20261030T171500Z
+DTSTAMP:20261030T134500Z
+DTSTART:20261030T134500Z
+DTEND:20261030T151500Z
 SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
+LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2017 Major game #532. Stats: https://hslstats.com/2017-major/games/2020304/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020305@hslstats.com
-DTSTAMP:20261030T173000Z
-DTSTART:20261030T173000Z
-DTEND:20261030T190000Z
-SUMMARY:2017 Major: South Sask Academy at Saints Pro Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #533. Stats: https://hslstats.com/2017-major/games/2020305/
+UID:hsl-2020308@hslstats.com
+DTSTAMP:20261030T140000Z
+DTSTART:20261030T140000Z
+DTEND:20261030T153000Z
+SUMMARY:2017 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2017 Major game #536. Stats: https://hslstats.com/2017-major/games/2020308/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020306@hslstats.com
-DTSTAMP:20261030T191500Z
-DTSTART:20261030T191500Z
-DTEND:20261030T204500Z
+DTSTAMP:20261030T161500Z
+DTSTART:20261030T161500Z
+DTEND:20261030T174500Z
 SUMMARY:2017 Major: Vipers Hockey Academy at North Stars Academy Wild
-LOCATION:West Edmonton Mall - Ice Palace
+LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2017 Major game #534. Stats: https://hslstats.com/2017-major/games/2020306/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020308@hslstats.com
-DTSTAMP:20261030T210000Z
-DTSTART:20261030T210000Z
-DTEND:20261030T223000Z
-SUMMARY:2017 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #536. Stats: https://hslstats.com/2017-major/games/2020308/
+UID:hsl-2020305@hslstats.com
+DTSTAMP:20261030T170000Z
+DTSTART:20261030T170000Z
+DTEND:20261030T183000Z
+SUMMARY:2017 Major: South Sask Academy at Saints Pro Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2017 Major game #533. Stats: https://hslstats.com/2017-major/games/2020305/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020312@hslstats.com
+DTSTAMP:20261030T180000Z
+DTSTART:20261030T180000Z
+DTEND:20261030T193000Z
+SUMMARY:2017 Major: Queen City Young Guns at Wolverines Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2017 Major game #540. Stats: https://hslstats.com/2017-major/games/2020312/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020303@hslstats.com
+DTSTAMP:20261030T184500Z
+DTSTART:20261030T184500Z
+DTEND:20261030T201500Z
+SUMMARY:2017 Major: Aces Hockey Academy at Sauce Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2017 Major game #531. Stats: https://hslstats.com/2017-major/games/2020303/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020318@hslstats.com
+DTSTAMP:20261030T203000Z
+DTSTART:20261030T203000Z
+DTEND:20261030T220000Z
+SUMMARY:2017 Major: Calgary Crusaders at Vipers Hockey Academy
+LOCATION:Silent Ice Center - Hatch Co. Arena
+DESCRIPTION:HSL 2017 Major game #546. Stats: https://hslstats.com/2017-major/games/2020318/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020310@hslstats.com
@@ -581,15 +599,6 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #538. Stats: https://hslstats.com/2017-major/games/2020310/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020312@hslstats.com
-DTSTAMP:20261030T224500Z
-DTSTART:20261030T224500Z
-DTEND:20261031T001500Z
-SUMMARY:2017 Major: Queen City Young Guns at Wolverines Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #540. Stats: https://hslstats.com/2017-major/games/2020312/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020316@hslstats.com
 DTSTAMP:20261030T233000Z
 DTSTART:20261030T233000Z
@@ -597,15 +606,6 @@ DTEND:20261031T010000Z
 SUMMARY:2017 Major: Spartan Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #544. Stats: https://hslstats.com/2017-major/games/2020316/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020318@hslstats.com
-DTSTAMP:20261031T003000Z
-DTSTART:20261031T003000Z
-DTEND:20261031T020000Z
-SUMMARY:2017 Major: Calgary Crusaders at Vipers Hockey Academy
-LOCATION:West Edmonton Mall - Ice Palace
-DESCRIPTION:HSL 2017 Major game #546. Stats: https://hslstats.com/2017-major/games/2020318/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020325@hslstats.com
