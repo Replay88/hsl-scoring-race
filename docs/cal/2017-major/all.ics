@@ -531,7 +531,7 @@ UID:hsl-2020304@hslstats.com
 DTSTAMP:20261030T134500Z
 DTSTART:20261030T134500Z
 DTEND:20261030T151500Z
-SUMMARY:2017 Major: Calgary Crusaders at Wolverines Hockey Academy
+SUMMARY:2017 Major: Calgary Crusaders 4 – Wolverines Hockey Academy 4 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2017 Major game #532. Stats: https://hslstats.com/2017-major/games/2020304/
 END:VEVENT
@@ -540,16 +540,16 @@ UID:hsl-2020308@hslstats.com
 DTSTAMP:20261030T140000Z
 DTSTART:20261030T140000Z
 DTEND:20261030T153000Z
-SUMMARY:2017 Major: Sauce Hockey Academy at Saints Pro Hockey Academy
+SUMMARY:2017 Major: Sauce Hockey Academy 2 – Saints Pro Hockey Academy 13 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2017 Major game #536. Stats: https://hslstats.com/2017-major/games/2020308/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020306@hslstats.com
-DTSTAMP:20261030T161500Z
-DTSTART:20261030T161500Z
-DTEND:20261030T174500Z
-SUMMARY:2017 Major: Vipers Hockey Academy at North Stars Academy Wild
+DTSTAMP:20261030T160000Z
+DTSTART:20261030T160000Z
+DTEND:20261030T173000Z
+SUMMARY:2017 Major: Vipers Hockey Academy 7 – North Stars Academy Wild 2 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2017 Major game #534. Stats: https://hslstats.com/2017-major/games/2020306/
 END:VEVENT
@@ -558,16 +558,16 @@ UID:hsl-2020305@hslstats.com
 DTSTAMP:20261030T170000Z
 DTSTART:20261030T170000Z
 DTEND:20261030T183000Z
-SUMMARY:2017 Major: South Sask Academy at Saints Pro Hockey Academy
+SUMMARY:2017 Major: South Sask Academy 4 – Saints Pro Hockey Academy 5 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2017 Major game #533. Stats: https://hslstats.com/2017-major/games/2020305/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020312@hslstats.com
-DTSTAMP:20261030T180000Z
-DTSTART:20261030T180000Z
-DTEND:20261030T193000Z
-SUMMARY:2017 Major: Queen City Young Guns at Wolverines Hockey Academy
+DTSTAMP:20261030T174500Z
+DTSTART:20261030T174500Z
+DTEND:20261030T191500Z
+SUMMARY:2017 Major: Queen City Young Guns 6 – Wolverines Hockey Academy 1 (Final)
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2017 Major game #540. Stats: https://hslstats.com/2017-major/games/2020312/
 END:VEVENT
