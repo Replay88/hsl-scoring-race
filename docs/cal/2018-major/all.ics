@@ -842,15 +842,6 @@ LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2018 Major game #611. Stats: https://hslstats.com/2018-major/games/2020383/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020449@hslstats.com
-DTSTAMP:20261108T180000Z
-DTSTART:20261108T180000Z
-DTEND:20261108T193000Z
-SUMMARY:2018 Major: Stars Hockey Academy at Spartan Hockey Academy
-LOCATION:East Calgary Twin Arena Blue
-DESCRIPTION:HSL 2018 Major game #677. Stats: https://hslstats.com/2018-major/games/2020449/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020456@hslstats.com
 DTSTAMP:20261108T210000Z
 DTSTART:20261108T210000Z
@@ -867,6 +858,15 @@ DTEND:20261115T223000Z
 SUMMARY:2018 Major: Calgary Crusaders at O2 Grizzlies
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #660. Stats: https://hslstats.com/2018-major/games/2020432/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020449@hslstats.com
+DTSTAMP:20261115T224500Z
+DTSTART:20261115T224500Z
+DTEND:20261116T001500Z
+SUMMARY:2018 Major: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2018 Major game #677. Stats: https://hslstats.com/2018-major/games/2020449/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020508@hslstats.com
