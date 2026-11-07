@@ -396,7 +396,7 @@ UID:hsl-2020418@hslstats.com
 DTSTAMP:20261107T193000Z
 DTSTART:20261107T193000Z
 DTEND:20261107T210000Z
-SUMMARY:2018 Minor: YYC Jays at Bow Valley Jr. Bigfoot
+SUMMARY:2018 Minor: YYC Jays 13 – Bow Valley Jr. Bigfoot 3 (Final)
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2018 Minor game #646. Stats: https://hslstats.com/2018-minor/games/2020418/
 END:VEVENT
@@ -405,7 +405,7 @@ UID:hsl-2020419@hslstats.com
 DTSTAMP:20261107T194500Z
 DTSTART:20261107T194500Z
 DTEND:20261107T211500Z
-SUMMARY:2018 Minor: HC Calgary Bandits at Spartan Hockey Academy
+SUMMARY:2018 Minor: HC Calgary Bandits 8 – Spartan Hockey Academy 2 (Final)
 LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2018 Minor game #647. Stats: https://hslstats.com/2018-minor/games/2020419/
 END:VEVENT
@@ -581,15 +581,6 @@ LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
 DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020593@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020594@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -597,6 +588,15 @@ DTEND:20261122T153000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@hslstats.com
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020605@hslstats.com
@@ -1166,15 +1166,6 @@ LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2018 Minor game #1657. Stats: https://hslstats.com/2018-minor/games/2021429/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021434@hslstats.com
-DTSTAMP:20270205T234500Z
-DTSTART:20270205T234500Z
-DTEND:20270206T011500Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
-LOCATION:Great Plains Arena 1
-DESCRIPTION:HSL 2018 Minor game #1662. Stats: https://hslstats.com/2018-minor/games/2021434/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021435@hslstats.com
 DTSTAMP:20270205T234500Z
 DTSTART:20270205T234500Z
@@ -1182,6 +1173,15 @@ DTEND:20270206T011500Z
 SUMMARY:2018 Minor: Northern Hockey Club at YYC Jays
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2018 Minor game #1663. Stats: https://hslstats.com/2018-minor/games/2021435/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021434@hslstats.com
+DTSTAMP:20270205T234500Z
+DTSTART:20270205T234500Z
+DTEND:20270206T011500Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at HC Calgary Bandits
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 Minor game #1662. Stats: https://hslstats.com/2018-minor/games/2021434/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021439@hslstats.com

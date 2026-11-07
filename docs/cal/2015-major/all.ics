@@ -248,15 +248,6 @@ LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2015 Major game #335. Stats: https://hslstats.com/2015-major/games/2020107/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020118@hslstats.com
-DTSTAMP:20261011T141500Z
-DTSTART:20261011T141500Z
-DTEND:20261011T154500Z
-SUMMARY:2015 Major: Riggers Hockey Academy 10 – Sask Super Selects 8 (Final)
-LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2015 Major game #346. Stats: https://hslstats.com/2015-major/games/2020118/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020117@hslstats.com
 DTSTAMP:20261011T141500Z
 DTSTART:20261011T141500Z
@@ -264,6 +255,15 @@ DTEND:20261011T154500Z
 SUMMARY:2015 Major: HC Calgary Bandits 2 – MOB Hockey 6 (Final)
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2015 Major game #345. Stats: https://hslstats.com/2015-major/games/2020117/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020118@hslstats.com
+DTSTAMP:20261011T141500Z
+DTSTART:20261011T141500Z
+DTEND:20261011T154500Z
+SUMMARY:2015 Major: Riggers Hockey Academy 10 – Sask Super Selects 8 (Final)
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2015 Major game #346. Stats: https://hslstats.com/2015-major/games/2020118/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020119@hslstats.com
@@ -351,7 +351,7 @@ UID:hsl-2020415@hslstats.com
 DTSTAMP:20261107T190000Z
 DTSTART:20261107T190000Z
 DTEND:20261107T203000Z
-SUMMARY:2015 Major: Riggers Hockey Academy at MOB Hockey
+SUMMARY:2015 Major: Riggers Hockey Academy 4 – MOB Hockey 7 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 Major game #643. Stats: https://hslstats.com/2015-major/games/2020415/
 END:VEVENT
@@ -360,7 +360,7 @@ UID:hsl-2020433@hslstats.com
 DTSTAMP:20261107T200000Z
 DTSTART:20261107T200000Z
 DTEND:20261107T213000Z
-SUMMARY:2015 Major: South Sask Academy at Sask Super Selects
+SUMMARY:2015 Major: South Sask Academy 6 – Sask Super Selects 4 (Final)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2015 Major game #661. Stats: https://hslstats.com/2015-major/games/2020433/
 END:VEVENT
