@@ -333,7 +333,7 @@ UID:hsl-2020390@hslstats.com
 DTSTAMP:20261106T211500Z
 DTSTART:20261106T211500Z
 DTEND:20261106T224500Z
-SUMMARY:2018 Minor: HC Calgary Bandits 5 – Coast 2 Coast 1 (Final)
+SUMMARY:2018 Minor: HC Calgary Bandits 6 – Coast 2 Coast 2 (Final)
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2018 Minor game #618. Stats: https://hslstats.com/2018-minor/games/2020390/
 END:VEVENT
@@ -468,7 +468,7 @@ UID:hsl-2020450@hslstats.com
 DTSTAMP:20261108T191500Z
 DTSTART:20261108T191500Z
 DTEND:20261108T204500Z
-SUMMARY:2018 Minor: Riggers Hockey Academy at Wolverines Hockey Academy
+SUMMARY:2018 Minor: Riggers Hockey Academy 0 – Wolverines Hockey Academy 10 (Final)
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2018 Minor game #678. Stats: https://hslstats.com/2018-minor/games/2020450/
 END:VEVENT
@@ -581,15 +581,6 @@ LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
 DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020593@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020594@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -597,6 +588,15 @@ DTEND:20261122T153000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@hslstats.com
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020605@hslstats.com
