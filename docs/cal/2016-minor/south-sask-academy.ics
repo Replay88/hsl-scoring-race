@@ -113,42 +113,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2016 Minor game #673. Stats: https://hslstats.com/2016-minor/games/2020445/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020534@hslstats.com
-DTSTAMP:20261121T141500Z
-DTSTART:20261121T141500Z
-DTEND:20261121T154500Z
-SUMMARY:2016 Minor: South Sask Academy at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020586@hslstats.com
-DTSTAMP:20261122T004500Z
-DTSTART:20261122T004500Z
-DTEND:20261122T021500Z
-SUMMARY:2016 Minor: South Sask Academy at North Stars Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #814. Stats: https://hslstats.com/2016-minor/games/2020586/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020598@hslstats.com
-DTSTAMP:20261122T141500Z
-DTSTART:20261122T141500Z
-DTEND:20261122T154500Z
-SUMMARY:2016 Minor: North Stars Hockey Academy at South Sask Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020617@hslstats.com
-DTSTAMP:20261122T174500Z
-DTSTART:20261122T174500Z
-DTEND:20261122T191500Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at South Sask Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020785@hslstats.com
 DTSTAMP:20261212T023000Z
 DTSTART:20261212T023000Z

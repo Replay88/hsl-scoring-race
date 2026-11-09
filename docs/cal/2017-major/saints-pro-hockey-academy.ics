@@ -114,30 +114,30 @@ DESCRIPTION:HSL 2017 Major game #606. Stats: https://hslstats.com/2017-major/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020510@hslstats.com
-DTSTAMP:20261120T230000Z
-DTSTART:20261120T230000Z
-DTEND:20261121T003000Z
-SUMMARY:2017 Major: Saints Pro Hockey Academy at North Stars Academy Wild
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+DTSTAMP:20261120T221500Z
+DTSTART:20261120T221500Z
+DTEND:20261120T234500Z
+SUMMARY:2017 Major: Saints Pro Hockey Academy at MOB Hockey
+LOCATION:Fort McKay Arena
 DESCRIPTION:HSL 2017 Major game #738. Stats: https://hslstats.com/2017-major/games/2020510/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020543@hslstats.com
-DTSTAMP:20261121T154500Z
-DTSTART:20261121T154500Z
-DTEND:20261121T171500Z
+DTSTAMP:20261121T141500Z
+DTSTART:20261121T141500Z
+DTEND:20261121T154500Z
 SUMMARY:2017 Major: MOB Hockey at Saints Pro Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+LOCATION:Fort McKay Arena
 DESCRIPTION:HSL 2017 Major game #771. Stats: https://hslstats.com/2017-major/games/2020543/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020560@hslstats.com
-DTSTAMP:20261121T191500Z
-DTSTART:20261121T191500Z
-DTEND:20261121T204500Z
-SUMMARY:2017 Major: North Stars Academy Wild at Saints Pro Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #788. Stats: https://hslstats.com/2017-major/games/2020560/
+UID:hsl-2020545@hslstats.com
+DTSTAMP:20261121T190000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T203000Z
+SUMMARY:2017 Major: Aces Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Fort McKay Arena
+DESCRIPTION:HSL 2017 Major game #773. Stats: https://hslstats.com/2017-major/games/2020545/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020691@hslstats.com

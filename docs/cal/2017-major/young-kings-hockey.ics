@@ -155,16 +155,7 @@ DTSTART:20261212T144500Z
 DTEND:20261212T161500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1018. Stats: https://hslstats.com/2017-major/games/2020790/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020856@hslstats.com
-DTSTAMP:20261213T173000Z
-DTSTART:20261213T173000Z
-DTEND:20261213T190000Z
-SUMMARY:2017 Major: Young Kings Hockey at Stars Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1084. Stats: https://hslstats.com/2017-major/games/2020856/
+DESCRIPTION:HSL 2017 Major game #1026. Stats: https://hslstats.com/2017-major/games/2020790/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020865@hslstats.com
@@ -173,7 +164,7 @@ DTSTART:20261213T210000Z
 DTEND:20261213T223000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1093. Stats: https://hslstats.com/2017-major/games/2020865/
+DESCRIPTION:HSL 2017 Major game #1089. Stats: https://hslstats.com/2017-major/games/2020865/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021136@hslstats.com
@@ -291,5 +282,14 @@ DTEND:20270221T190000Z
 SUMMARY:2017 Major: Gorillas Hockey Academy at Young Kings Hockey
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2017 Major game #1906. Stats: https://hslstats.com/2017-major/games/2021678/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020856@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2017 Major: Young Kings Hockey at Stars Hockey Academy
+LOCATION:TBA
+DESCRIPTION:HSL 2017 Major game #1093. Stats: https://hslstats.com/2017-major/games/2020856/
 END:VEVENT
 END:VCALENDAR

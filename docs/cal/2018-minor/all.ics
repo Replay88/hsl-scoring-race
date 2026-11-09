@@ -500,15 +500,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/2018-minor/games/2020509/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020511@hslstats.com
-DTSTAMP:20261120T231500Z
-DTSTART:20261120T231500Z
-DTEND:20261121T004500Z
-SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020518@hslstats.com
 DTSTAMP:20261121T004500Z
 DTSTART:20261121T004500Z
@@ -516,15 +507,6 @@ DTEND:20261121T021500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020529@hslstats.com
-DTSTAMP:20261121T140000Z
-DTSTART:20261121T140000Z
-DTEND:20261121T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/2018-minor/games/2020529/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020546@hslstats.com
@@ -536,15 +518,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/2018-minor/games/2020546/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020550@hslstats.com
-DTSTAMP:20261121T173000Z
-DTSTART:20261121T173000Z
-DTEND:20261121T190000Z
-SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/2018-minor/games/2020550/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020563@hslstats.com
 DTSTAMP:20261121T201500Z
 DTSTART:20261121T201500Z
@@ -552,15 +525,6 @@ DTEND:20261121T214500Z
 SUMMARY:2018 Minor: HC Calgary Bandits at YYC Jays
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #791. Stats: https://hslstats.com/2018-minor/games/2020563/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020565@hslstats.com
-DTSTAMP:20261121T210000Z
-DTSTART:20261121T210000Z
-DTEND:20261121T223000Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020582@hslstats.com
@@ -572,15 +536,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #810. Stats: https://hslstats.com/2018-minor/games/2020582/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020583@hslstats.com
-DTSTAMP:20261122T003000Z
-DTSTART:20261122T003000Z
-DTEND:20261122T020000Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020594@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -590,24 +545,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020593@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020605@hslstats.com
-DTSTAMP:20261122T154500Z
-DTSTART:20261122T154500Z
-DTEND:20261122T171500Z
-SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020618@hslstats.com
 DTSTAMP:20261122T180000Z
 DTSTART:20261122T180000Z
@@ -615,15 +552,6 @@ DTEND:20261122T193000Z
 SUMMARY:2018 Minor: South Sask Academy at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #846. Stats: https://hslstats.com/2018-minor/games/2020618/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020622@hslstats.com
-DTSTAMP:20261122T191500Z
-DTSTART:20261122T191500Z
-DTEND:20261122T204500Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/2018-minor/games/2020622/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020692@hslstats.com
@@ -797,6 +725,42 @@ LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #989. Stats: https://hslstats.com/2018-minor/games/2020761/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020550@hslstats.com
+DTSTAMP:20261211T214500Z
+DTSTART:20261211T214500Z
+DTEND:20261211T231500Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/2018-minor/games/2020550/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020511@hslstats.com
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
+SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020565@hslstats.com
+DTSTAMP:20261212T133000Z
+DTSTART:20261212T133000Z
+DTEND:20261212T150000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020529@hslstats.com
+DTSTAMP:20261212T151500Z
+DTSTART:20261212T151500Z
+DTEND:20261212T164500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/2018-minor/games/2020529/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020817@hslstats.com
 DTSTAMP:20261212T203000Z
 DTSTART:20261212T203000Z
@@ -804,6 +768,42 @@ DTEND:20261212T220000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
 LOCATION:Nexsource 2
 DESCRIPTION:HSL 2018 Minor game #1045. Stats: https://hslstats.com/2018-minor/games/2020817/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020583@hslstats.com
+DTSTAMP:20261212T213000Z
+DTSTART:20261212T213000Z
+DTEND:20261212T230000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020622@hslstats.com
+DTSTAMP:20261212T231500Z
+DTSTART:20261212T231500Z
+DTEND:20261213T004500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/2018-minor/games/2020622/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@hslstats.com
+DTSTAMP:20261213T133000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T150000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020605@hslstats.com
+DTSTAMP:20261213T170000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T183000Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020866@hslstats.com

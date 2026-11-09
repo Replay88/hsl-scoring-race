@@ -153,18 +153,9 @@ UID:hsl-2020798@hslstats.com
 DTSTAMP:20261212T163000Z
 DTSTART:20261212T163000Z
 DTEND:20261212T180000Z
-SUMMARY:2017 Major: Spartan Hockey Academy at Stars Hockey Academy
+SUMMARY:2017 Major: Spartan Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1026. Stats: https://hslstats.com/2017-major/games/2020798/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020815@hslstats.com
-DTSTAMP:20261212T200000Z
-DTSTART:20261212T200000Z
-DTEND:20261212T213000Z
-SUMMARY:2017 Major: Spartan Hockey Academy at Sauce Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1043. Stats: https://hslstats.com/2017-major/games/2020815/
+DESCRIPTION:HSL 2017 Major game #1035. Stats: https://hslstats.com/2017-major/games/2020798/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020861@hslstats.com
@@ -173,7 +164,7 @@ DTSTART:20261213T191500Z
 DTEND:20261213T204500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1089. Stats: https://hslstats.com/2017-major/games/2020861/
+DESCRIPTION:HSL 2017 Major game #1084. Stats: https://hslstats.com/2017-major/games/2020861/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021121@hslstats.com
@@ -291,5 +282,14 @@ DTEND:20270221T171500Z
 SUMMARY:2017 Major: Queen City Young Guns at Spartan Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2017 Major game #1896. Stats: https://hslstats.com/2017-major/games/2021668/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020807@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2017 Major: Spartan Hockey Academy at Stars Hockey Academy
+LOCATION:TBA
+DESCRIPTION:HSL 2017 Major game #1018. Stats: https://hslstats.com/2017-major/games/2020807/
 END:VEVENT
 END:VCALENDAR

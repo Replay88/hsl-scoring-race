@@ -113,40 +113,40 @@ LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #596. Stats: https://hslstats.com/2017-major/games/2020368/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020519@hslstats.com
-DTSTAMP:20261121T004500Z
-DTSTART:20261121T004500Z
-DTEND:20261121T021500Z
-SUMMARY:2017 Major: MOB Hockey at Stars Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2017 Major game #747. Stats: https://hslstats.com/2017-major/games/2020519/
+UID:hsl-2020510@hslstats.com
+DTSTAMP:20261120T221500Z
+DTSTART:20261120T221500Z
+DTEND:20261120T234500Z
+SUMMARY:2017 Major: Saints Pro Hockey Academy at MOB Hockey
+LOCATION:Fort McKay Arena
+DESCRIPTION:HSL 2017 Major game #738. Stats: https://hslstats.com/2017-major/games/2020510/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020543@hslstats.com
-DTSTAMP:20261121T154500Z
-DTSTART:20261121T154500Z
-DTEND:20261121T171500Z
+DTSTAMP:20261121T141500Z
+DTSTART:20261121T141500Z
+DTEND:20261121T154500Z
 SUMMARY:2017 Major: MOB Hockey at Saints Pro Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
+LOCATION:Fort McKay Arena
 DESCRIPTION:HSL 2017 Major game #771. Stats: https://hslstats.com/2017-major/games/2020543/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020576@hslstats.com
-DTSTAMP:20261121T230000Z
-DTSTART:20261121T230000Z
-DTEND:20261122T003000Z
-SUMMARY:2017 Major: Stars Hockey Academy at MOB Hockey
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #804. Stats: https://hslstats.com/2017-major/games/2020576/
+UID:hsl-2020561@hslstats.com
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T013000Z
+SUMMARY:2017 Major: Aces Hockey Academy at MOB Hockey
+LOCATION:Fort McKay Arena
+DESCRIPTION:HSL 2017 Major game #789. Stats: https://hslstats.com/2017-major/games/2020561/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020609@hslstats.com
+UID:hsl-2020625@hslstats.com
 DTSTAMP:20261122T160000Z
 DTSTART:20261122T160000Z
 DTEND:20261122T173000Z
-SUMMARY:2017 Major: MOB Hockey at Gorillas Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2017 Major game #837. Stats: https://hslstats.com/2017-major/games/2020609/
+SUMMARY:2017 Major: MOB Hockey at Aces Hockey Academy
+LOCATION:Fort McKay Arena
+DESCRIPTION:HSL 2017 Major game #853. Stats: https://hslstats.com/2017-major/games/2020625/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020695@hslstats.com

@@ -153,36 +153,36 @@ UID:hsl-2020777@hslstats.com
 DTSTAMP:20261211T233000Z
 DTSTART:20261211T233000Z
 DTEND:20261212T010000Z
-SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Stars Hockey Academy
+SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1005. Stats: https://hslstats.com/2017-major/games/2020777/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020807@hslstats.com
-DTSTAMP:20261212T181500Z
-DTSTART:20261212T181500Z
-DTEND:20261212T194500Z
-SUMMARY:2017 Major: Calgary Crusaders at Warriors Hockey Academy (Sask)
+UID:hsl-2020798@hslstats.com
+DTSTAMP:20261212T163000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T180000Z
+SUMMARY:2017 Major: Spartan Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1035. Stats: https://hslstats.com/2017-major/games/2020807/
+DESCRIPTION:HSL 2017 Major game #1035. Stats: https://hslstats.com/2017-major/games/2020798/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020823@hslstats.com
 DTSTAMP:20261212T214500Z
 DTSTART:20261212T214500Z
 DTEND:20261212T231500Z
-SUMMARY:2017 Major: Stars Hockey Academy at Warriors Hockey Academy (Sask)
+SUMMARY:2017 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1051. Stats: https://hslstats.com/2017-major/games/2020823/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020840@hslstats.com
-DTSTAMP:20261213T140000Z
-DTSTART:20261213T140000Z
-DTEND:20261213T153000Z
+UID:hsl-2020847@hslstats.com
+DTSTAMP:20261213T154500Z
+DTSTART:20261213T154500Z
+DTEND:20261213T171500Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1068. Stats: https://hslstats.com/2017-major/games/2020840/
+DESCRIPTION:HSL 2017 Major game #1075. Stats: https://hslstats.com/2017-major/games/2020847/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021157@hslstats.com

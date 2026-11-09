@@ -140,6 +140,15 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2019 Major game #994. Stats: https://hslstats.com/2019-major/games/2020766/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020479@hslstats.com
+DTSTAMP:20261212T200000Z
+DTSTART:20261212T200000Z
+DTEND:20261212T213000Z
+SUMMARY:2019 Major: Capital City Knights at Riggers Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2019 Major game #707. Stats: https://hslstats.com/2019-major/games/2020479/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020902@hslstats.com
 DTSTAMP:20261219T163000Z
 DTSTART:20261219T163000Z

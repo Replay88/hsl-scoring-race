@@ -113,42 +113,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2018 Minor game #724. Stats: https://hslstats.com/2018-minor/games/2020496/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020550@hslstats.com
-DTSTAMP:20261121T173000Z
-DTSTART:20261121T173000Z
-DTEND:20261121T190000Z
-SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/2018-minor/games/2020550/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020565@hslstats.com
-DTSTAMP:20261121T210000Z
-DTSTART:20261121T210000Z
-DTEND:20261121T223000Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020605@hslstats.com
-DTSTAMP:20261122T154500Z
-DTSTART:20261122T154500Z
-DTEND:20261122T171500Z
-SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020622@hslstats.com
-DTSTAMP:20261122T191500Z
-DTSTART:20261122T191500Z
-DTEND:20261122T204500Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/2018-minor/games/2020622/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020705@hslstats.com
 DTSTAMP:20261205T130000Z
 DTSTART:20261205T130000Z
@@ -192,6 +156,42 @@ DTEND:20261206T211500Z
 SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
 LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Minor game #988. Stats: https://hslstats.com/2018-minor/games/2020760/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020550@hslstats.com
+DTSTAMP:20261211T214500Z
+DTSTART:20261211T214500Z
+DTEND:20261211T231500Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at Spartan Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #778. Stats: https://hslstats.com/2018-minor/games/2020550/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020565@hslstats.com
+DTSTAMP:20261212T133000Z
+DTSTART:20261212T133000Z
+DTEND:20261212T150000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020622@hslstats.com
+DTSTAMP:20261212T231500Z
+DTSTART:20261212T231500Z
+DTEND:20261213T004500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #850. Stats: https://hslstats.com/2018-minor/games/2020622/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020605@hslstats.com
+DTSTAMP:20261213T170000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T183000Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020990@hslstats.com

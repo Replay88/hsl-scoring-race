@@ -113,42 +113,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2018 Minor game #668. Stats: https://hslstats.com/2018-minor/games/2020440/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020511@hslstats.com
-DTSTAMP:20261120T231500Z
-DTSTART:20261120T231500Z
-DTEND:20261121T004500Z
-SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020529@hslstats.com
-DTSTAMP:20261121T140000Z
-DTSTART:20261121T140000Z
-DTEND:20261121T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/2018-minor/games/2020529/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020583@hslstats.com
-DTSTAMP:20261122T003000Z
-DTSTART:20261122T003000Z
-DTEND:20261122T020000Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020593@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020692@hslstats.com
 DTSTAMP:20261204T210000Z
 DTSTART:20261204T210000Z
@@ -183,6 +147,42 @@ DTEND:20261206T180000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #980. Stats: https://hslstats.com/2018-minor/games/2020752/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020511@hslstats.com
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
+SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020529@hslstats.com
+DTSTAMP:20261212T151500Z
+DTSTART:20261212T151500Z
+DTEND:20261212T164500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/2018-minor/games/2020529/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020583@hslstats.com
+DTSTAMP:20261212T213000Z
+DTSTART:20261212T213000Z
+DTEND:20261212T230000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@hslstats.com
+DTSTAMP:20261213T133000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T150000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020990@hslstats.com

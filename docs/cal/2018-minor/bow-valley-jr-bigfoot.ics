@@ -113,42 +113,6 @@ LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2018 Minor game #670. Stats: https://hslstats.com/2018-minor/games/2020442/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020511@hslstats.com
-DTSTAMP:20261120T231500Z
-DTSTART:20261120T231500Z
-DTEND:20261121T004500Z
-SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020565@hslstats.com
-DTSTAMP:20261121T210000Z
-DTSTART:20261121T210000Z
-DTEND:20261121T223000Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020583@hslstats.com
-DTSTAMP:20261122T003000Z
-DTSTART:20261122T003000Z
-DTEND:20261122T020000Z
-SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020605@hslstats.com
-DTSTAMP:20261122T154500Z
-DTSTART:20261122T154500Z
-DTEND:20261122T171500Z
-SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
-LOCATION:Duncan Murray Recreation Centre - Bill Thompson Rink
-DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020705@hslstats.com
 DTSTAMP:20261205T130000Z
 DTSTART:20261205T130000Z
@@ -174,6 +138,42 @@ DTEND:20261206T180000Z
 SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
 LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #980. Stats: https://hslstats.com/2018-minor/games/2020752/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020511@hslstats.com
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
+SUMMARY:2018 Minor: Northern Hockey Club at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020565@hslstats.com
+DTSTAMP:20261212T133000Z
+DTSTART:20261212T133000Z
+DTEND:20261212T150000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #793. Stats: https://hslstats.com/2018-minor/games/2020565/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020583@hslstats.com
+DTSTAMP:20261212T213000Z
+DTSTART:20261212T213000Z
+DTEND:20261212T230000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020605@hslstats.com
+DTSTAMP:20261213T170000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T183000Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #833. Stats: https://hslstats.com/2018-minor/games/2020605/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020866@hslstats.com

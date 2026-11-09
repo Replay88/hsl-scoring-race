@@ -114,29 +114,29 @@ DESCRIPTION:HSL 2017 Major game #680. Stats: https://hslstats.com/2017-major/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020545@hslstats.com
-DTSTAMP:20261121T160000Z
-DTSTART:20261121T160000Z
-DTEND:20261121T173000Z
-SUMMARY:2017 Major: Aces Hockey Academy at Gorillas Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DTSTAMP:20261121T190000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T203000Z
+SUMMARY:2017 Major: Aces Hockey Academy at Saints Pro Hockey Academy
+LOCATION:Fort McKay Arena
 DESCRIPTION:HSL 2017 Major game #773. Stats: https://hslstats.com/2017-major/games/2020545/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020561@hslstats.com
-DTSTAMP:20261121T193000Z
-DTSTART:20261121T193000Z
-DTEND:20261121T210000Z
-SUMMARY:2017 Major: Aces Hockey Academy at Stars Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T013000Z
+SUMMARY:2017 Major: Aces Hockey Academy at MOB Hockey
+LOCATION:Fort McKay Arena
 DESCRIPTION:HSL 2017 Major game #789. Stats: https://hslstats.com/2017-major/games/2020561/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020625@hslstats.com
-DTSTAMP:20261122T193000Z
-DTSTART:20261122T193000Z
-DTEND:20261122T210000Z
-SUMMARY:2017 Major: Gorillas Hockey Academy at Aces Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
+DTSTAMP:20261122T160000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T173000Z
+SUMMARY:2017 Major: MOB Hockey at Aces Hockey Academy
+LOCATION:Fort McKay Arena
 DESCRIPTION:HSL 2017 Major game #853. Stats: https://hslstats.com/2017-major/games/2020625/
 END:VEVENT
 BEGIN:VEVENT
@@ -146,25 +146,25 @@ DTSTART:20261212T144500Z
 DTEND:20261212T161500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Young Kings Hockey
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1018. Stats: https://hslstats.com/2017-major/games/2020790/
+DESCRIPTION:HSL 2017 Major game #1026. Stats: https://hslstats.com/2017-major/games/2020790/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020830@hslstats.com
-DTSTAMP:20261212T233000Z
-DTSTART:20261212T233000Z
-DTEND:20261213T010000Z
-SUMMARY:2017 Major: Aces Hockey Academy at Calgary Crusaders
+UID:hsl-2020823@hslstats.com
+DTSTAMP:20261212T214500Z
+DTSTART:20261212T214500Z
+DTEND:20261212T231500Z
+SUMMARY:2017 Major: Aces Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1058. Stats: https://hslstats.com/2017-major/games/2020830/
+DESCRIPTION:HSL 2017 Major game #1051. Stats: https://hslstats.com/2017-major/games/2020823/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020847@hslstats.com
-DTSTAMP:20261213T154500Z
-DTSTART:20261213T154500Z
-DTEND:20261213T171500Z
+UID:hsl-2020840@hslstats.com
+DTSTAMP:20261213T140000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T153000Z
 SUMMARY:2017 Major: Aces Hockey Academy at Sauce Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1075. Stats: https://hslstats.com/2017-major/games/2020847/
+DESCRIPTION:HSL 2017 Major game #1068. Stats: https://hslstats.com/2017-major/games/2020840/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020861@hslstats.com
@@ -173,7 +173,7 @@ DTSTART:20261213T191500Z
 DTEND:20261213T204500Z
 SUMMARY:2017 Major: Aces Hockey Academy at Spartan Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1089. Stats: https://hslstats.com/2017-major/games/2020861/
+DESCRIPTION:HSL 2017 Major game #1084. Stats: https://hslstats.com/2017-major/games/2020861/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021067@hslstats.com

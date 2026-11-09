@@ -113,42 +113,6 @@ LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2016 Minor game #666. Stats: https://hslstats.com/2016-minor/games/2020438/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020520@hslstats.com
-DTSTAMP:20261121T010000Z
-DTSTART:20261121T010000Z
-DTEND:20261121T023000Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at Capital City Knights
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #748. Stats: https://hslstats.com/2016-minor/games/2020520/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020534@hslstats.com
-DTSTAMP:20261121T141500Z
-DTSTART:20261121T141500Z
-DTEND:20261121T154500Z
-SUMMARY:2016 Minor: South Sask Academy at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020568@hslstats.com
-DTSTAMP:20261121T211500Z
-DTSTART:20261121T211500Z
-DTEND:20261121T224500Z
-SUMMARY:2016 Minor: Capital City Knights at Wolverines Hockey Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #796. Stats: https://hslstats.com/2016-minor/games/2020568/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020617@hslstats.com
-DTSTAMP:20261122T174500Z
-DTSTART:20261122T174500Z
-DTEND:20261122T191500Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at South Sask Academy
-LOCATION:Duncan Murray Recreation Centre - Steve Hotchkiss Rink
-DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020773@hslstats.com
 DTSTAMP:20261211T230000Z
 DTSTART:20261211T230000Z

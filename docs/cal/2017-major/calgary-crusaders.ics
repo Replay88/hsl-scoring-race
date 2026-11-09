@@ -149,40 +149,31 @@ LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2017 Major game #847. Stats: https://hslstats.com/2017-major/games/2020619/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020807@hslstats.com
-DTSTAMP:20261212T181500Z
-DTSTART:20261212T181500Z
-DTEND:20261212T194500Z
-SUMMARY:2017 Major: Calgary Crusaders at Warriors Hockey Academy (Sask)
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1035. Stats: https://hslstats.com/2017-major/games/2020807/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020830@hslstats.com
-DTSTAMP:20261212T233000Z
-DTSTART:20261212T233000Z
-DTEND:20261213T010000Z
-SUMMARY:2017 Major: Aces Hockey Academy at Calgary Crusaders
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1058. Stats: https://hslstats.com/2017-major/games/2020830/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020840@hslstats.com
-DTSTAMP:20261213T140000Z
-DTSTART:20261213T140000Z
-DTEND:20261213T153000Z
+UID:hsl-2020777@hslstats.com
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
 SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2017 Major game #1068. Stats: https://hslstats.com/2017-major/games/2020840/
+DESCRIPTION:HSL 2017 Major game #1005. Stats: https://hslstats.com/2017-major/games/2020777/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020924@hslstats.com
-DTSTAMP:20261219T223000Z
-DTSTART:20261219T223000Z
-DTEND:20261220T000000Z
-SUMMARY:2017 Major: Sauce Hockey Academy at Calgary Crusaders
-LOCATION:East Calgary Twin Arena Blue
+DTSTAMP:20261212T200000Z
+DTSTART:20261212T200000Z
+DTEND:20261212T213000Z
+SUMMARY:2017 Major: Calgary Crusaders at Sauce Hockey Academy
+LOCATION:Hussar Arena
 DESCRIPTION:HSL 2017 Major game #1152. Stats: https://hslstats.com/2017-major/games/2020924/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020847@hslstats.com
+DTSTAMP:20261213T154500Z
+DTSTART:20261213T154500Z
+DTEND:20261213T171500Z
+SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Calgary Crusaders
+LOCATION:Hussar Arena
+DESCRIPTION:HSL 2017 Major game #1075. Stats: https://hslstats.com/2017-major/games/2020847/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021208@hslstats.com
@@ -291,5 +282,14 @@ DTEND:20270221T190000Z
 SUMMARY:2017 Major: Sauce Hockey Academy at Calgary Crusaders
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Major game #1905. Stats: https://hslstats.com/2017-major/games/2021677/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020830@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2017 Major: Stars Hockey Academy at Calgary Crusaders
+LOCATION:TBA
+DESCRIPTION:HSL 2017 Major game #1058. Stats: https://hslstats.com/2017-major/games/2020830/
 END:VEVENT
 END:VCALENDAR
