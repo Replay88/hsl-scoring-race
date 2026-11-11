@@ -266,15 +266,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2016 Minor game #1815. Stats: https://hslstats.com/2016-minor/games/2021587/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020553@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: Capital City Knights at North Stars Hockey Academy
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #781. Stats: https://hslstats.com/2016-minor/games/2020553/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020598@hslstats.com
 DTSTAMP:20270501T060000Z
 DTSTART:20270501T060000Z
@@ -282,6 +273,15 @@ DTEND:20270501T073000Z
 SUMMARY:2016 Minor: North Stars Hockey Academy at South Sask Academy
 LOCATION:
 DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020553@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Capital City Knights at North Stars Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #781. Stats: https://hslstats.com/2016-minor/games/2020553/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020586@hslstats.com
