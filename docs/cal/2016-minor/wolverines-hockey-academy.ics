@@ -256,4 +256,40 @@ SUMMARY:2016 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2016 Minor game #1718. Stats: https://hslstats.com/2016-minor/games/2021490/
 END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020568@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Capital City Knights at Wolverines Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #796. Stats: https://hslstats.com/2016-minor/games/2020568/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020617@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at South Sask Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020534@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: South Sask Academy at Wolverines Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020520@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at Capital City Knights
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #748. Stats: https://hslstats.com/2016-minor/games/2020520/
+END:VEVENT
 END:VCALENDAR

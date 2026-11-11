@@ -283,4 +283,13 @@ SUMMARY:2014 AAA: Caps Hockey Club at Stars Hockey Academy
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1890. Stats: https://hslstats.com/2014-aaa/games/2021662/
 END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020429@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 AAA: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2014 AAA game #657. Stats: https://hslstats.com/2014-aaa/games/2020429/
+END:VEVENT
 END:VCALENDAR

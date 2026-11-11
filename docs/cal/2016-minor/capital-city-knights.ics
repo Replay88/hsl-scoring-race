@@ -265,4 +265,31 @@ SUMMARY:2016 Minor: Capital City Knights at North Stars Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2016 Minor game #1815. Stats: https://hslstats.com/2016-minor/games/2021587/
 END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020568@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Capital City Knights at Wolverines Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #796. Stats: https://hslstats.com/2016-minor/games/2020568/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020553@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Capital City Knights at North Stars Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #781. Stats: https://hslstats.com/2016-minor/games/2020553/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020520@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at Capital City Knights
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #748. Stats: https://hslstats.com/2016-minor/games/2020520/
+END:VEVENT
 END:VCALENDAR

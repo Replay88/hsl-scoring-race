@@ -283,4 +283,13 @@ SUMMARY:2018 Major: Aces Hockey Academy at Stars Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2018 Major game #1913. Stats: https://hslstats.com/2018-major/games/2021685/
 END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020449@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2018 Major: Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2018 Major game #677. Stats: https://hslstats.com/2018-major/games/2020449/
+END:VEVENT
 END:VCALENDAR
