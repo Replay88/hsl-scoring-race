@@ -257,15 +257,6 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1792. Stats: https://hslstats.com/2016-minor/games/2021564/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020598@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: North Stars Hockey Academy at South Sask Academy
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020617@hslstats.com
 DTSTAMP:20270501T060000Z
 DTSTART:20270501T060000Z
@@ -273,6 +264,15 @@ DTEND:20270501T073000Z
 SUMMARY:2016 Minor: Wolverines Hockey Academy at South Sask Academy
 LOCATION:
 DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020598@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: North Stars Hockey Academy at South Sask Academy
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020586@hslstats.com
