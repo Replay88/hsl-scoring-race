@@ -415,7 +415,8 @@ def main():
                 if s["final"] and (not (games.get(gid) and games[gid]["status"].startswith("Final")
                                         and games[gid].get("parser") == PARSER)
                                    or (sid == CURRENT and s["day"] >= recent))
-                and S.get("bad", {}).get(gid, 0) < 6]  # give up on a page after six failed runs
+                and (S.get("bad", {}).get(gid, 0) < 6  # after six failed runs, one try a day (Nov 12 2026:
+                     or S.get("bad_day", {}).get(gid) != today)]  # seven Oct 18 games were skipped for good)
         if sid != CURRENT:
             todo = todo[:150]  # old seasons fill in a chunk per run; no rush
         print(f"{label}: {len(sched)} scheduled games, {sum(1 for s in sched.values() if s['final'])} final, "
@@ -433,21 +434,32 @@ def main():
                 if not g or not g["status"].startswith("Final"):
                     return gid, None, None  # calendar says final but the page isn't yet; next run
                 g["div"] = sched[gid]["div"]  # trust the calendar's division, not the roster links
+                old = games.get(gid)
+                if old and old.get("players") and not g["players"]:
+                    # Nov 10 2026: the league stopped showing player lines for its 2015-2019 groups, on
+                    # old games too. A re-read must never wipe a box score we already hold: keep ours
+                    # (and our saved copy of the page), take only the score and status from the new read.
+                    g = dict(old, score=g["score"], status=g["status"], div=g["div"])
+                    return gid, g, None
                 if not cached:
                     open(os.path.join(PAGES, f"{gid}.html"), "w", encoding="utf-8").write(html)
                 return gid, g, None
             except Exception as e:
                 return gid, None, e
 
+        bad = S.setdefault("bad", {})  # pages that keep failing (a few box scores are broken on the league site)
+        bad_day = S.setdefault("bad_day", {})  # the last day each failing page was tried
         with cf.ThreadPoolExecutor(3) as ex:
             for gid, g, err in ex.map(work, todo):
                 if err is not None:
                     errors.append(gid)
                 elif g:
                     games[gid] = g
-        bad = S.setdefault("bad", {})  # pages that keep failing (a few box scores are broken on the league site)
+                    bad.pop(gid, None)
+                    bad_day.pop(gid, None)
         for gid in errors:
             bad[gid] = bad.get(gid, 0) + 1
+            bad_day[gid] = today
         if len(todo) >= 20 and len(errors) > 0.3 * len(todo):
             print(f"{label}: {len(errors)} of {len(todo)} pages failed (e.g. {errors[:3]}); the site is probably down")
             failures += 1
@@ -684,10 +696,10 @@ def build_season(state, sid, today):
                     if q is starter:
                         a_[res] += 1
                     a_["log"].append([g["gid"], round(q["MIN"]), q["GA"], q["SA"], q["SV"], int(complete)])
+                    if allowed.get(team) == 0 and len(qs) == 1:
+                        a_["SO"] += 1  # the score says 0 against, even when saves weren't recorded
                     if complete:
                         a_["GS"] += 1; a_["MIN"] += q["MIN"]; a_["GA"] += q["GA"]; a_["SA"] += q["SA"]; a_["SV"] += q["SV"]
-                        if q["GA"] == 0 and len(qs) == 1:
-                            a_["SO"] += 1
         goalies = []
         for a_ in gl.values():
             a_["SVP"] = round(a_["SV"] / a_["SA"], 3) if a_["SA"] else 0
@@ -725,7 +737,10 @@ def build_season(state, sid, today):
 
         S.setdefault("ranks_new", {})[name] = ranks
         thru = mmdd(last) if last else "-"
-        data[name] = dict(games=len(gs), thru=thru, days=days, rows=rows, hot=hot, hotspan=span, race=race,
+        boxed = max((g["day"] for g in gs if g.get("players")), default="")
+        later = sum(1 for g in gs if not g.get("players") and g["day"] > boxed)
+        data[name] = dict(games=len(gs), thru=thru, nolines=mmdd(boxed) if boxed and later >= 4 else "",
+                          days=days, rows=rows, hot=hot, hotspan=span, race=race,
                           standings=standings, goalies=goalies, G=G, hats=hats, bigs=bigs, gotw=gotw, upcoming=upcoming,
                           types=sorted({g["type"] for g in allg if g["type"] != "Regular"}))
         data[name]["recap"] = recap_text(sid, name, data[name], sched, today)

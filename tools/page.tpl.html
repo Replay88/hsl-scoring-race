@@ -387,6 +387,7 @@ function chrome(dk,sec){
   const sel=$('#seasonSel'); sel.innerHTML=INDEX.seasons.map(s=>`<option value="${s.key}"${s.key===SEASON?' selected':''}>${s.key}${s.current?' · live':''}</option>`).join('');
   sel.onchange=()=>{const s=sel.value; const dk2=dk&&DIVK[s][dk]?dk:''; nav(hrefS(s,dk2,dk2?'leaders':''));};
   const b=$('#banner'); b.hidden=true;
+  if(!past&&D&&D.nolines){ b.textContent=`Heads up: the league stopped publishing player names and box scores for this age group on Nov 10, 2026. Scores, standings and schedules still update here. Player and goalie numbers are through ${D.nolines}.`; b.hidden=false; }
   if(!past){ const ageDays=(Date.now()-new Date(INDEX.updated))/864e5; if(ageDays>6){ b.textContent=`Heads up: the stats were last refreshed ${INDEX.updated}. If games have been played since, the automatic update may be stuck.`; b.hidden=false; } }
   ticker(dk); sidebar(dk,sec);
   const cur=document.querySelector('#divTabs a[aria-current="true"]'); if(cur){const p=cur.parentElement; const l=cur.offsetLeft, r=l+cur.offsetWidth; if(l<p.scrollLeft||r>p.scrollLeft+p.clientWidth) p.scrollLeft=Math.max(0,l-24);}
