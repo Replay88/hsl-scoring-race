@@ -491,40 +491,58 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2018 Minor game #724. Stats: https://hslstats.com/2018-minor/games/2020496/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020518@hslstats.com
+UID:hsl-2021479@hslstats.com
 DTSTAMP:20261121T004500Z
 DTSTART:20261121T004500Z
 DTEND:20261121T021500Z
-SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
+SUMMARY:2018 Minor: Riggers Hockey Academy at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
+DESCRIPTION:HSL 2018 Minor game #1707. Stats: https://hslstats.com/2018-minor/games/2021479/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020582@hslstats.com
-DTSTAMP:20261122T001500Z
-DTSTART:20261122T001500Z
-DTEND:20261122T014500Z
+DTSTAMP:20261121T161500Z
+DTSTART:20261121T161500Z
+DTEND:20261121T174500Z
 SUMMARY:2018 Minor: South Sask Academy at HC Calgary Bandits
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #810. Stats: https://hslstats.com/2018-minor/games/2020582/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020594@hslstats.com
-DTSTAMP:20261122T140000Z
-DTSTART:20261122T140000Z
-DTEND:20261122T153000Z
-SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
+UID:hsl-2020518@hslstats.com
+DTSTAMP:20261121T201500Z
+DTSTART:20261121T201500Z
+DTEND:20261121T214500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
+DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020618@hslstats.com
-DTSTAMP:20261122T180000Z
-DTSTART:20261122T180000Z
-DTEND:20261122T193000Z
+DTSTAMP:20261122T001500Z
+DTSTART:20261122T001500Z
+DTEND:20261122T014500Z
 SUMMARY:2018 Minor: South Sask Academy at Riggers Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #846. Stats: https://hslstats.com/2018-minor/games/2020618/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021247@hslstats.com
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://hslstats.com/2018-minor/games/2021247/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020594@hslstats.com
+DTSTAMP:20261122T180000Z
+DTSTART:20261122T180000Z
+DTEND:20261122T193000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020692@hslstats.com
@@ -1076,15 +1094,6 @@ LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2018 Minor game #1465. Stats: https://hslstats.com/2018-minor/games/2021237/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021247@hslstats.com
-DTSTAMP:20270117T153000Z
-DTSTART:20270117T153000Z
-DTEND:20270117T170000Z
-SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
-LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://hslstats.com/2018-minor/games/2021247/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2021251@hslstats.com
 DTSTAMP:20270117T154500Z
 DTSTART:20270117T154500Z
@@ -1092,6 +1101,15 @@ DTEND:20270117T171500Z
 SUMMARY:2018 Minor: South Sask Academy at Bow Valley Jr. Bigfoot
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #1479. Stats: https://hslstats.com/2018-minor/games/2021251/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020546@hslstats.com
+DTSTAMP:20270117T174500Z
+DTSTART:20270117T174500Z
+DTEND:20270117T191500Z
+SUMMARY:2018 Minor: O2 Grizzlies at Riggers Hockey Academy
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/2018-minor/games/2020546/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021269@hslstats.com
@@ -1202,13 +1220,13 @@ LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2018 Minor game #1701. Stats: https://hslstats.com/2018-minor/games/2021473/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021479@hslstats.com
+UID:hsl-2020509@hslstats.com
 DTSTAMP:20270207T140000Z
 DTSTART:20270207T140000Z
 DTEND:20270207T153000Z
-SUMMARY:2018 Minor: Riggers Hockey Academy at South Sask Academy
+SUMMARY:2018 Minor: South Sask Academy at O2 Grizzlies
 LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2018 Minor game #1707. Stats: https://hslstats.com/2018-minor/games/2021479/
+DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/2018-minor/games/2020509/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021485@hslstats.com
@@ -1265,15 +1283,6 @@ LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2018 Minor game #1794. Stats: https://hslstats.com/2018-minor/games/2021566/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020509@hslstats.com
-DTSTAMP:20270502T055800Z
-DTSTART:20270502T055800Z
-DTEND:20270502T072800Z
-SUMMARY:2018 Minor: South Sask Academy at O2 Grizzlies
-LOCATION:TBA
-DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/2018-minor/games/2020509/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020563@hslstats.com
 DTSTAMP:20270502T055800Z
 DTSTART:20270502T055800Z
@@ -1281,14 +1290,5 @@ DTEND:20270502T072800Z
 SUMMARY:2018 Minor: HC Calgary Bandits at O2 Grizzlies
 LOCATION:TBA
 DESCRIPTION:HSL 2018 Minor game #791. Stats: https://hslstats.com/2018-minor/games/2020563/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020546@hslstats.com
-DTSTAMP:20270502T055800Z
-DTSTART:20270502T055800Z
-DTEND:20270502T072800Z
-SUMMARY:2018 Minor: O2 Grizzlies at Riggers Hockey Academy
-LOCATION:TBA
-DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/2018-minor/games/2020546/
 END:VEVENT
 END:VCALENDAR

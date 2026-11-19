@@ -113,28 +113,37 @@ LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2018 Minor game #647. Stats: https://hslstats.com/2018-minor/games/2020419/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020518@hslstats.com
-DTSTAMP:20261121T004500Z
-DTSTART:20261121T004500Z
-DTEND:20261121T021500Z
-SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020582@hslstats.com
-DTSTAMP:20261122T001500Z
-DTSTART:20261122T001500Z
-DTEND:20261122T014500Z
+DTSTAMP:20261121T161500Z
+DTSTART:20261121T161500Z
+DTEND:20261121T174500Z
 SUMMARY:2018 Minor: South Sask Academy at HC Calgary Bandits
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #810. Stats: https://hslstats.com/2018-minor/games/2020582/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020594@hslstats.com
+UID:hsl-2020518@hslstats.com
+DTSTAMP:20261121T201500Z
+DTSTART:20261121T201500Z
+DTEND:20261121T214500Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021247@hslstats.com
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T153000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
+LOCATION:Red Knight Arena (CFB Moose Jaw)
+DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://hslstats.com/2018-minor/games/2021247/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020594@hslstats.com
+DTSTAMP:20261122T180000Z
+DTSTART:20261122T180000Z
+DTEND:20261122T193000Z
 SUMMARY:2018 Minor: HC Calgary Bandits at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #822. Stats: https://hslstats.com/2018-minor/games/2020594/
@@ -219,15 +228,6 @@ DTEND:20270116T213000Z
 SUMMARY:2018 Minor: Coast 2 Coast at HC Calgary Bandits
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2018 Minor game #1435. Stats: https://hslstats.com/2018-minor/games/2021207/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2021247@hslstats.com
-DTSTAMP:20270117T153000Z
-DTSTART:20270117T153000Z
-DTEND:20270117T170000Z
-SUMMARY:2018 Minor: HC Calgary Bandits at Riggers Hockey Academy
-LOCATION:Silent Ice Center - Hesco Arena
-DESCRIPTION:HSL 2018 Minor game #1475. Stats: https://hslstats.com/2018-minor/games/2021247/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021269@hslstats.com

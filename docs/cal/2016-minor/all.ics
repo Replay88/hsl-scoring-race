@@ -1094,6 +1094,15 @@ LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2016 Minor game #1900. Stats: https://hslstats.com/2016-minor/games/2021672/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020520@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at Capital City Knights
+LOCATION:
+DESCRIPTION:HSL 2016 Minor game #748. Stats: https://hslstats.com/2016-minor/games/2020520/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020568@hslstats.com
 DTSTAMP:20270501T060000Z
 DTSTART:20270501T060000Z
@@ -1110,24 +1119,6 @@ DTEND:20270501T073000Z
 SUMMARY:2016 Minor: Capital City Knights at North Stars Hockey Academy
 LOCATION:
 DESCRIPTION:HSL 2016 Minor game #781. Stats: https://hslstats.com/2016-minor/games/2020553/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020520@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at Capital City Knights
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #748. Stats: https://hslstats.com/2016-minor/games/2020520/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020534@hslstats.com
-DTSTAMP:20270502T055800Z
-DTSTART:20270502T055800Z
-DTEND:20270502T072800Z
-SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Wolverines Hockey Academy
-LOCATION:TBA
-DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020598@hslstats.com
@@ -1155,5 +1146,14 @@ DTEND:20270502T072800Z
 SUMMARY:2016 Minor: Wolverines Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:TBA
 DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020534@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Wolverines Hockey Academy
+LOCATION:TBA
+DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
 END:VEVENT
 END:VCALENDAR
