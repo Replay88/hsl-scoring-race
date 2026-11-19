@@ -117,7 +117,7 @@ UID:hsl-2020643@hslstats.com
 DTSTAMP:20261128T010000Z
 DTSTART:20261128T010000Z
 DTEND:20261128T023000Z
-SUMMARY:2018 Major: Queen City Young Guns at North Stars Hockey Academy
+SUMMARY:2018 Major: Queen City Young Guns at Northern Hockey Club
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2018 Major game #871. Stats: https://hslstats.com/2018-major/games/2020643/
 END:VEVENT
@@ -153,7 +153,7 @@ UID:hsl-2020877@hslstats.com
 DTSTAMP:20261218T224500Z
 DTSTART:20261218T224500Z
 DTEND:20261219T001500Z
-SUMMARY:2018 Major: Queen City Young Guns at O2 Grizzlies
+SUMMARY:2018 Major: Queen City Young Guns at Northern Hockey Club
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1105. Stats: https://hslstats.com/2018-major/games/2020877/
 END:VEVENT
@@ -171,7 +171,7 @@ UID:hsl-2020952@hslstats.com
 DTSTAMP:20261220T144500Z
 DTSTART:20261220T144500Z
 DTEND:20261220T161500Z
-SUMMARY:2018 Major: O2 Grizzlies at Queen City Young Guns
+SUMMARY:2018 Major: Northern Hockey Club at Queen City Young Guns
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1180. Stats: https://hslstats.com/2018-major/games/2020952/
 END:VEVENT
@@ -270,7 +270,7 @@ UID:hsl-2021651@hslstats.com
 DTSTAMP:20270220T234500Z
 DTSTART:20270220T234500Z
 DTEND:20270221T011500Z
-SUMMARY:2018 Major: Queen City Young Guns at O2 Grizzlies
+SUMMARY:2018 Major: Queen City Young Guns at YYC Jays
 LOCATION:Brandt Centre
 DESCRIPTION:HSL 2018 Major game #1879. Stats: https://hslstats.com/2018-major/games/2021651/
 END:VEVENT

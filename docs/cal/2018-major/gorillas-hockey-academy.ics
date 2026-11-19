@@ -135,7 +135,7 @@ UID:hsl-2020723@hslstats.com
 DTSTAMP:20261205T194500Z
 DTSTART:20261205T194500Z
 DTEND:20261205T211500Z
-SUMMARY:2018 Major: O2 Grizzlies at Gorillas Hockey Academy
+SUMMARY:2018 Major: YYC Jays at Gorillas Hockey Academy
 LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Major game #951. Stats: https://hslstats.com/2018-major/games/2020723/
 END:VEVENT
@@ -153,7 +153,7 @@ UID:hsl-2020921@hslstats.com
 DTSTAMP:20261219T213000Z
 DTSTART:20261219T213000Z
 DTEND:20261219T230000Z
-SUMMARY:2018 Major: North Stars Hockey Academy at Gorillas Hockey Academy
+SUMMARY:2018 Major: YYC Jays at Gorillas Hockey Academy
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2018 Major game #1149. Stats: https://hslstats.com/2018-major/games/2020921/
 END:VEVENT
@@ -180,7 +180,7 @@ UID:hsl-2021048@hslstats.com
 DTSTAMP:20270103T181500Z
 DTSTART:20270103T181500Z
 DTEND:20270103T194500Z
-SUMMARY:2018 Major: Gorillas Hockey Academy at North Stars Hockey Academy
+SUMMARY:2018 Major: Gorillas Hockey Academy at Northern Hockey Club
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2018 Major game #1276. Stats: https://hslstats.com/2018-major/games/2021048/
 END:VEVENT
@@ -234,7 +234,7 @@ UID:hsl-2021322@hslstats.com
 DTSTAMP:20270123T191500Z
 DTSTART:20270123T191500Z
 DTEND:20270123T204500Z
-SUMMARY:2018 Major: Gorillas Hockey Academy at O2 Grizzlies
+SUMMARY:2018 Major: Gorillas Hockey Academy at YYC Jays
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2018 Major game #1550. Stats: https://hslstats.com/2018-major/games/2021322/
 END:VEVENT

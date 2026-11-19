@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Statistics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Stars Hockey Academy (2018 Minor)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2020692@hslstats.com
+DTSTAMP:20261204T210000Z
+DTSTART:20261204T210000Z
+DTEND:20261204T223000Z
+SUMMARY:2018 Minor: Coast 2 Coast at North Stars Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #920. Stats: https://hslstats.com/2018-minor/games/2020692/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020709@hslstats.com
+DTSTAMP:20261205T144500Z
+DTSTART:20261205T144500Z
+DTEND:20261205T161500Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at Spartan Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #937. Stats: https://hslstats.com/2018-minor/games/2020709/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020729@hslstats.com
+DTSTAMP:20261205T214500Z
+DTSTART:20261205T214500Z
+DTEND:20261205T231500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at North Stars Hockey Academy
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #957. Stats: https://hslstats.com/2018-minor/games/2020729/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020752@hslstats.com
+DTSTAMP:20261206T163000Z
+DTSTART:20261206T163000Z
+DTEND:20261206T180000Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:Millet Agriplex Arena
+DESCRIPTION:HSL 2018 Minor game #980. Stats: https://hslstats.com/2018-minor/games/2020752/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020511@hslstats.com
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at Bow Valley Jr. Bigfoot
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #739. Stats: https://hslstats.com/2018-minor/games/2020511/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020529@hslstats.com
+DTSTAMP:20261212T151500Z
+DTSTART:20261212T151500Z
+DTEND:20261212T164500Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #757. Stats: https://hslstats.com/2018-minor/games/2020529/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020583@hslstats.com
+DTSTAMP:20261212T213000Z
+DTSTART:20261212T213000Z
+DTEND:20261212T230000Z
+SUMMARY:2018 Minor: Bow Valley Jr. Bigfoot at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #811. Stats: https://hslstats.com/2018-minor/games/2020583/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020593@hslstats.com
+DTSTAMP:20261213T133000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T150000Z
+SUMMARY:2018 Minor: Spartan Hockey Academy at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #821. Stats: https://hslstats.com/2018-minor/games/2020593/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020990@hslstats.com
+DTSTAMP:20270102T163000Z
+DTSTART:20270102T163000Z
+DTEND:20270102T180000Z
+SUMMARY:2018 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1218. Stats: https://hslstats.com/2018-minor/games/2020990/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021019@hslstats.com
+DTSTAMP:20270102T233000Z
+DTSTART:20270102T233000Z
+DTEND:20270103T010000Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at HC Calgary Bandits
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1247. Stats: https://hslstats.com/2018-minor/games/2021019/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021027@hslstats.com
+DTSTAMP:20270103T130000Z
+DTSTART:20270103T130000Z
+DTEND:20270103T143000Z
+SUMMARY:2018 Minor: HC Calgary Bandits at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1255. Stats: https://hslstats.com/2018-minor/games/2021027/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021040@hslstats.com
+DTSTAMP:20270103T163000Z
+DTSTART:20270103T163000Z
+DTEND:20270103T180000Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1268. Stats: https://hslstats.com/2018-minor/games/2021040/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021152@hslstats.com
+DTSTAMP:20270115T221500Z
+DTSTART:20270115T221500Z
+DTEND:20270115T234500Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at O2 Grizzlies
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1380. Stats: https://hslstats.com/2018-minor/games/2021152/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021177@hslstats.com
+DTSTAMP:20270116T144500Z
+DTSTART:20270116T144500Z
+DTEND:20270116T161500Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at Coast 2 Coast
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1405. Stats: https://hslstats.com/2018-minor/games/2021177/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021217@hslstats.com
+DTSTAMP:20270116T214500Z
+DTSTART:20270116T214500Z
+DTEND:20270116T231500Z
+SUMMARY:2018 Minor: O2 Grizzlies at North Stars Hockey Academy
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Minor game #1445. Stats: https://hslstats.com/2018-minor/games/2021217/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021269@hslstats.com
+DTSTAMP:20270117T193000Z
+DTSTART:20270117T193000Z
+DTEND:20270117T210000Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at HC Calgary Bandits
+LOCATION:Silent Ice Center - Hesco Arena
+DESCRIPTION:HSL 2018 Minor game #1497. Stats: https://hslstats.com/2018-minor/games/2021269/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021435@hslstats.com
+DTSTAMP:20270205T234500Z
+DTSTART:20270205T234500Z
+DTEND:20270206T011500Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at O2 Grizzlies
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 Minor game #1663. Stats: https://hslstats.com/2018-minor/games/2021435/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021443@hslstats.com
+DTSTAMP:20270206T143000Z
+DTSTART:20270206T143000Z
+DTEND:20270206T160000Z
+SUMMARY:2018 Minor: North Stars Hockey Academy at South Sask Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 Minor game #1671. Stats: https://hslstats.com/2018-minor/games/2021443/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021485@hslstats.com
+DTSTAMP:20270207T154500Z
+DTSTART:20270207T154500Z
+DTEND:20270207T171500Z
+SUMMARY:2018 Minor: Coast 2 Coast at North Stars Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 Minor game #1713. Stats: https://hslstats.com/2018-minor/games/2021485/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021496@hslstats.com
+DTSTAMP:20270207T191500Z
+DTSTART:20270207T191500Z
+DTEND:20270207T204500Z
+SUMMARY:2018 Minor: Riggers Hockey Academy at North Stars Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2018 Minor game #1724. Stats: https://hslstats.com/2018-minor/games/2021496/
+END:VEVENT
+END:VCALENDAR

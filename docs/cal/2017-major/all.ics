@@ -1022,6 +1022,15 @@ LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2017 Major game #923. Stats: https://hslstats.com/2017-major/games/2020695/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020698@hslstats.com
+DTSTAMP:20261204T231500Z
+DTSTART:20261204T231500Z
+DTEND:20261205T004500Z
+SUMMARY:2017 Major: HC Calgary Bandits at Gorillas Hockey Academy 17
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #926. Stats: https://hslstats.com/2017-major/games/2020698/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020700@hslstats.com
 DTSTAMP:20261204T234500Z
 DTSTART:20261204T234500Z
@@ -1040,13 +1049,13 @@ LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2017 Major game #936. Stats: https://hslstats.com/2017-major/games/2020708/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020713@hslstats.com
-DTSTAMP:20261205T154500Z
-DTSTART:20261205T154500Z
-DTEND:20261205T171500Z
-SUMMARY:2017 Major: Wolverines Hockey Academy at North Stars Academy Wild
-LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #941. Stats: https://hslstats.com/2017-major/games/2020713/
+UID:hsl-2020730@hslstats.com
+DTSTAMP:20261205T224500Z
+DTSTART:20261205T224500Z
+DTEND:20261206T001500Z
+SUMMARY:2017 Major: YYC Jays at Gorillas Hockey Academy 17
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Major game #958. Stats: https://hslstats.com/2017-major/games/2020730/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020738@hslstats.com
@@ -1076,20 +1085,11 @@ LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2017 Major game #973. Stats: https://hslstats.com/2017-major/games/2020745/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020755@hslstats.com
-DTSTAMP:20261206T180000Z
-DTSTART:20261206T180000Z
-DTEND:20261206T193000Z
-SUMMARY:2017 Major: Gorillas Hockey Academy at North Stars Academy Wild
-LOCATION:Penhold Regional Multiplex
-DESCRIPTION:HSL 2017 Major game #983. Stats: https://hslstats.com/2017-major/games/2020755/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020560@hslstats.com
 DTSTAMP:20261211T200000Z
 DTSTART:20261211T200000Z
 DTEND:20261211T213000Z
-SUMMARY:2017 Major: North Stars Academy Wild at Gorillas Hockey Academy
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at Gorillas Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Major game #788. Stats: https://hslstats.com/2017-major/games/2020560/
 END:VEVENT
@@ -1125,7 +1125,7 @@ UID:hsl-2020519@hslstats.com
 DTSTAMP:20261212T011500Z
 DTSTART:20261212T011500Z
 DTEND:20261212T024500Z
-SUMMARY:2017 Major: Stars Hockey Academy at North Stars Academy Wild
+SUMMARY:2017 Major: Stars Hockey Academy at Gorillas Hockey Academy 17
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Major game #747. Stats: https://hslstats.com/2017-major/games/2020519/
 END:VEVENT
@@ -1206,7 +1206,7 @@ UID:hsl-2020612@hslstats.com
 DTSTAMP:20261213T010000Z
 DTSTART:20261213T010000Z
 DTEND:20261213T023000Z
-SUMMARY:2017 Major: Stars Hockey Academy at North Stars Academy Wild
+SUMMARY:2017 Major: Stars Hockey Academy at Gorillas Hockey Academy 17
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Major game #840. Stats: https://hslstats.com/2017-major/games/2020612/
 END:VEVENT
@@ -1269,7 +1269,7 @@ UID:hsl-2020574@hslstats.com
 DTSTAMP:20261213T203000Z
 DTSTART:20261213T203000Z
 DTEND:20261213T220000Z
-SUMMARY:2017 Major: Gorillas Hockey Academy at North Stars Academy Wild
+SUMMARY:2017 Major: Gorillas Hockey Academy at Gorillas Hockey Academy 17
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Major game #802. Stats: https://hslstats.com/2017-major/games/2020574/
 END:VEVENT
@@ -1332,7 +1332,7 @@ UID:hsl-2021155@hslstats.com
 DTSTAMP:20270115T223000Z
 DTSTART:20270115T223000Z
 DTEND:20270116T000000Z
-SUMMARY:2017 Major: Spartan Hockey Academy at North Stars Academy Wild
+SUMMARY:2017 Major: Spartan Hockey Academy at Gorillas Hockey Academy 17
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
 DESCRIPTION:HSL 2017 Major game #1383. Stats: https://hslstats.com/2017-major/games/2021155/
 END:VEVENT
@@ -1368,7 +1368,7 @@ UID:hsl-2021170@hslstats.com
 DTSTAMP:20270116T131500Z
 DTSTART:20270116T131500Z
 DTEND:20270116T144500Z
-SUMMARY:2017 Major: Young Kings Hockey at North Stars Academy Wild
+SUMMARY:2017 Major: Young Kings Hockey at Gorillas Hockey Academy 17
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2017 Major game #1398. Stats: https://hslstats.com/2017-major/games/2021170/
 END:VEVENT
@@ -1422,7 +1422,7 @@ UID:hsl-2021198@hslstats.com
 DTSTAMP:20270116T183000Z
 DTSTART:20270116T183000Z
 DTEND:20270116T200000Z
-SUMMARY:2017 Major: North Stars Academy Wild at Spartan Hockey Academy
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at Spartan Hockey Academy
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2017 Major game #1426. Stats: https://hslstats.com/2017-major/games/2021198/
 END:VEVENT
@@ -1575,7 +1575,7 @@ UID:hsl-2021268@hslstats.com
 DTSTAMP:20270117T191500Z
 DTSTART:20270117T191500Z
 DTEND:20270117T204500Z
-SUMMARY:2017 Major: North Stars Academy Wild at Young Kings Hockey
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at Young Kings Hockey
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
 DESCRIPTION:HSL 2017 Major game #1496. Stats: https://hslstats.com/2017-major/games/2021268/
 END:VEVENT
@@ -1620,7 +1620,7 @@ UID:hsl-2021378@hslstats.com
 DTSTAMP:20270130T140000Z
 DTSTART:20270130T140000Z
 DTEND:20270130T153000Z
-SUMMARY:2017 Major: Queen City Young Guns at North Stars Academy Wild
+SUMMARY:2017 Major: Queen City Young Guns at Gorillas Hockey Academy 17
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1606. Stats: https://hslstats.com/2017-major/games/2021378/
 END:VEVENT
@@ -1656,7 +1656,7 @@ UID:hsl-2021393@hslstats.com
 DTSTAMP:20270130T210000Z
 DTSTART:20270130T210000Z
 DTEND:20270130T223000Z
-SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at North Stars Academy Wild
+SUMMARY:2017 Major: Warriors Hockey Academy (Sask) at Gorillas Hockey Academy 17
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1621. Stats: https://hslstats.com/2017-major/games/2021393/
 END:VEVENT
@@ -1683,7 +1683,7 @@ UID:hsl-2021403@hslstats.com
 DTSTAMP:20270131T140000Z
 DTSTART:20270131T140000Z
 DTEND:20270131T153000Z
-SUMMARY:2017 Major: North Stars Academy Wild at Warriors Hockey Academy (Sask)
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at Warriors Hockey Academy (Sask)
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1631. Stats: https://hslstats.com/2017-major/games/2021403/
 END:VEVENT
@@ -1710,7 +1710,7 @@ UID:hsl-2021416@hslstats.com
 DTSTAMP:20270131T191500Z
 DTSTART:20270131T191500Z
 DTEND:20270131T204500Z
-SUMMARY:2017 Major: North Stars Academy Wild at Queen City Young Guns
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at Queen City Young Guns
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2017 Major game #1644. Stats: https://hslstats.com/2017-major/games/2021416/
 END:VEVENT
@@ -1926,7 +1926,7 @@ UID:hsl-2021618@hslstats.com
 DTSTAMP:20270220T161500Z
 DTSTART:20270220T161500Z
 DTEND:20270220T174500Z
-SUMMARY:2017 Major: North Stars Academy Wild at MOB Hockey
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at MOB Hockey
 LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2017 Major game #1846. Stats: https://hslstats.com/2017-major/games/2021618/
 END:VEVENT
@@ -1971,7 +1971,7 @@ UID:hsl-2021636@hslstats.com
 DTSTAMP:20270220T201500Z
 DTSTART:20270220T201500Z
 DTEND:20270220T214500Z
-SUMMARY:2017 Major: Aces Hockey Academy at North Stars Academy Wild
+SUMMARY:2017 Major: Aces Hockey Academy at Gorillas Hockey Academy 17
 LOCATION:MacDonald Island Park #2
 DESCRIPTION:HSL 2017 Major game #1864. Stats: https://hslstats.com/2017-major/games/2021636/
 END:VEVENT
@@ -2043,7 +2043,7 @@ UID:hsl-2021659@hslstats.com
 DTSTAMP:20270221T140000Z
 DTSTART:20270221T140000Z
 DTEND:20270221T153000Z
-SUMMARY:2017 Major: North Stars Academy Wild at Aces Hockey Academy
+SUMMARY:2017 Major: Gorillas Hockey Academy 17 at Aces Hockey Academy
 LOCATION:Centerfire Place
 DESCRIPTION:HSL 2017 Major game #1887. Stats: https://hslstats.com/2017-major/games/2021659/
 END:VEVENT
@@ -2088,7 +2088,7 @@ UID:hsl-2021676@hslstats.com
 DTSTAMP:20270221T173000Z
 DTSTART:20270221T173000Z
 DTEND:20270221T190000Z
-SUMMARY:2017 Major: MOB Hockey at North Stars Academy Wild
+SUMMARY:2017 Major: MOB Hockey at Gorillas Hockey Academy 17
 LOCATION:Centerfire Place
 DESCRIPTION:HSL 2017 Major game #1904. Stats: https://hslstats.com/2017-major/games/2021676/
 END:VEVENT

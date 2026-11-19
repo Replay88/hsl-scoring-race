@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Statistics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Wolverines Hockey Academy (2017 Minor)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2020713@hslstats.com
+DTSTAMP:20261205T154500Z
+DTSTART:20261205T154500Z
+DTEND:20261205T171500Z
+SUMMARY:2017 Minor: Wolverines Hockey Academy at North Stars Academy Wild
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2017 Minor game #941. Stats: https://hslstats.com/2017-minor/games/2020713/
+END:VEVENT
+END:VCALENDAR

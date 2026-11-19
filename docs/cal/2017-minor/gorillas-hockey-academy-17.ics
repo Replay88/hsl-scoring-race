@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Statistics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Gorillas Hockey Academy 17 (2017 Minor)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2019994@hslstats.com
+DTSTAMP:20261003T004500Z
+DTSTART:20261003T004500Z
+DTEND:20261003T021500Z
+SUMMARY:2017 Minor: Caps Hockey Club 1 – Gorillas Hockey Academy 17 2 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #222. Stats: https://hslstats.com/2017-minor/games/2019994/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2019997@hslstats.com
+DTSTAMP:20261003T154500Z
+DTSTART:20261003T154500Z
+DTEND:20261003T171500Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 12 – Riggers Hockey Academy 1 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #225. Stats: https://hslstats.com/2017-minor/games/2019997/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020008@hslstats.com
+DTSTAMP:20261003T210000Z
+DTSTART:20261003T210000Z
+DTEND:20261003T223000Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 8 – Caps Hockey Club 5 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #236. Stats: https://hslstats.com/2017-minor/games/2020008/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020022@hslstats.com
+DTSTAMP:20261004T161500Z
+DTSTART:20261004T161500Z
+DTEND:20261004T174500Z
+SUMMARY:2017 Minor: Rebels Hockey Academy 4 – Gorillas Hockey Academy 17 5 (Final)
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2017 Minor game #250. Stats: https://hslstats.com/2017-minor/games/2020022/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020186@hslstats.com
+DTSTAMP:20261017T174500Z
+DTSTART:20261017T174500Z
+DTEND:20261017T191500Z
+SUMMARY:2017 Minor: Bow Valley Jr. Bigfoot 0 – Gorillas Hockey Academy 17 8 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2017 Minor game #414. Stats: https://hslstats.com/2017-minor/games/2020186/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020208@hslstats.com
+DTSTAMP:20261018T001500Z
+DTSTART:20261018T001500Z
+DTEND:20261018T014500Z
+SUMMARY:2017 Minor: North Stars Hockey Academy 4 – Gorillas Hockey Academy 17 11 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2017 Minor game #436. Stats: https://hslstats.com/2017-minor/games/2020208/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020222@hslstats.com
+DTSTAMP:20261018T161500Z
+DTSTART:20261018T161500Z
+DTEND:20261018T174500Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 5 – Rebels Hockey Academy 3 (Final)
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2017 Minor game #455. Stats: https://hslstats.com/2017-minor/games/2020222/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020302@hslstats.com
+DTSTAMP:20261025T224500Z
+DTSTART:20261025T224500Z
+DTEND:20261026T001500Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 8 – North Stars Hockey Academy 2 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Minor game #530. Stats: https://hslstats.com/2017-minor/games/2020302/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020391@hslstats.com
+DTSTAMP:20261106T220000Z
+DTSTART:20261106T220000Z
+DTEND:20261106T233000Z
+SUMMARY:2017 Minor: Riggers Hockey Academy 0 – Gorillas Hockey Academy 17 15 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Minor game #619. Stats: https://hslstats.com/2017-minor/games/2020391/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020410@hslstats.com
+DTSTAMP:20261107T173000Z
+DTSTART:20261107T173000Z
+DTEND:20261107T190000Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 12 – Riggers Hockey Academy 0 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Minor game #638. Stats: https://hslstats.com/2017-minor/games/2020410/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020421@hslstats.com
+DTSTAMP:20261107T210000Z
+DTSTART:20261107T210000Z
+DTEND:20261107T223000Z
+SUMMARY:2017 Minor: North Stars Hockey Academy 4 – Gorillas Hockey Academy 17 10 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Minor game #649. Stats: https://hslstats.com/2017-minor/games/2020421/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020439@hslstats.com
+DTSTAMP:20261108T154500Z
+DTSTART:20261108T154500Z
+DTEND:20261108T171500Z
+SUMMARY:2017 Minor: Rebels Hockey Academy 2 – Gorillas Hockey Academy 17 7 (Final)
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2017 Minor game #667. Stats: https://hslstats.com/2017-minor/games/2020439/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020706@hslstats.com
+DTSTAMP:20261205T140000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T153000Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 at HC Calgary Bandits
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Minor game #934. Stats: https://hslstats.com/2017-minor/games/2020706/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020762@hslstats.com
+DTSTAMP:20261206T210000Z
+DTSTART:20261206T210000Z
+DTEND:20261206T223000Z
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 at YYC Jays
+LOCATION:Rockyford Sportsplex
+DESCRIPTION:HSL 2017 Minor game #990. Stats: https://hslstats.com/2017-minor/games/2020762/
+END:VEVENT
+END:VCALENDAR

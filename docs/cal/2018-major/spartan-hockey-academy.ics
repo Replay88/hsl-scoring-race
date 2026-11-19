@@ -117,7 +117,7 @@ UID:hsl-2020637@hslstats.com
 DTSTAMP:20261127T214500Z
 DTSTART:20261127T214500Z
 DTEND:20261127T231500Z
-SUMMARY:2018 Major: Spartan Hockey Academy at O2 Grizzlies
+SUMMARY:2018 Major: Spartan Hockey Academy at YYC Jays
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #865. Stats: https://hslstats.com/2018-major/games/2020637/
 END:VEVENT
@@ -135,7 +135,7 @@ UID:hsl-2020661@hslstats.com
 DTSTAMP:20261128T213000Z
 DTSTART:20261128T213000Z
 DTEND:20261128T230000Z
-SUMMARY:2018 Major: O2 Grizzlies at Spartan Hockey Academy
+SUMMARY:2018 Major: YYC Jays at Spartan Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #889. Stats: https://hslstats.com/2018-major/games/2020661/
 END:VEVENT
@@ -162,7 +162,7 @@ UID:hsl-2020922@hslstats.com
 DTSTAMP:20261219T214500Z
 DTSTART:20261219T214500Z
 DTEND:20261219T231500Z
-SUMMARY:2018 Major: Spartan Hockey Academy at O2 Grizzlies
+SUMMARY:2018 Major: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1150. Stats: https://hslstats.com/2018-major/games/2020922/
 END:VEVENT
@@ -207,7 +207,7 @@ UID:hsl-2021087@hslstats.com
 DTSTAMP:20270109T140000Z
 DTSTART:20270109T140000Z
 DTEND:20270109T153000Z
-SUMMARY:2018 Major: Spartan Hockey Academy at North Stars Hockey Academy
+SUMMARY:2018 Major: Spartan Hockey Academy at Northern Hockey Club
 LOCATION:Penhold Regional Multiplex
 DESCRIPTION:HSL 2018 Major game #1315. Stats: https://hslstats.com/2018-major/games/2021087/
 END:VEVENT
@@ -270,7 +270,7 @@ UID:hsl-2021552@hslstats.com
 DTSTAMP:20270213T233000Z
 DTSTART:20270213T233000Z
 DTEND:20270214T010000Z
-SUMMARY:2018 Major: North Stars Hockey Academy at Spartan Hockey Academy
+SUMMARY:2018 Major: Northern Hockey Club at Spartan Hockey Academy
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2018 Major game #1780. Stats: https://hslstats.com/2018-major/games/2021552/
 END:VEVENT

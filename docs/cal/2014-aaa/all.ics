@@ -432,7 +432,7 @@ UID:hsl-2020615@hslstats.com
 DTSTAMP:20261122T174500Z
 DTSTART:20261122T174500Z
 DTEND:20261122T191500Z
-SUMMARY:2014 AAA: Spartan Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2014 AAA game #843. Stats: https://hslstats.com/2014-aaa/games/2020615/
 END:VEVENT
@@ -441,7 +441,7 @@ UID:hsl-2020639@hslstats.com
 DTSTAMP:20261127T184500Z
 DTSTART:20261127T184500Z
 DTEND:20261127T201500Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Spartan Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2014 AAA game #913. Stats: https://hslstats.com/2014-aaa/games/2020639/
 END:VEVENT
@@ -504,7 +504,7 @@ UID:hsl-2020659@hslstats.com
 DTSTAMP:20261128T200000Z
 DTSTART:20261128T200000Z
 DTEND:20261128T213000Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Saints Pro Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Saints Pro Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2014 AAA game #883. Stats: https://hslstats.com/2014-aaa/games/2020659/
 END:VEVENT
@@ -540,7 +540,7 @@ UID:hsl-2020675@hslstats.com
 DTSTAMP:20261129T150000Z
 DTSTART:20261129T150000Z
 DTEND:20261129T163000Z
-SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
+SUMMARY:2014 AAA: Calgary Crusaders at Spartan Hockey Academy 15M
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2014 AAA game #872. Stats: https://hslstats.com/2014-aaa/games/2020675/
 END:VEVENT
@@ -576,7 +576,7 @@ UID:hsl-2020685@hslstats.com
 DTSTAMP:20261129T223000Z
 DTSTART:20261129T223000Z
 DTEND:20261130T000000Z
-SUMMARY:2014 AAA: O2 Grizzlies at Stars Hockey Academy
+SUMMARY:2014 AAA: O2 Grizzlies at Spartan Hockey Academy 15M
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2014 AAA game #898. Stats: https://hslstats.com/2014-aaa/games/2020685/
 END:VEVENT
@@ -585,7 +585,7 @@ UID:hsl-2020754@hslstats.com
 DTSTAMP:20261206T173000Z
 DTSTART:20261206T173000Z
 DTEND:20261206T190000Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Calgary Crusaders
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Calgary Crusaders
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #982. Stats: https://hslstats.com/2014-aaa/games/2020754/
 END:VEVENT
@@ -612,7 +612,7 @@ UID:hsl-2020829@hslstats.com
 DTSTAMP:20261212T231500Z
 DTSTART:20261212T231500Z
 DTEND:20261213T004500Z
-SUMMARY:2014 AAA: Stars Hockey Academy at O2 Grizzlies
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at O2 Grizzlies
 LOCATION:East Calgary Twin Arena Blue
 DESCRIPTION:HSL 2014 AAA game #1057. Stats: https://hslstats.com/2014-aaa/games/2020829/
 END:VEVENT
@@ -648,7 +648,7 @@ UID:hsl-2020885@hslstats.com
 DTSTAMP:20261219T010000Z
 DTSTART:20261219T010000Z
 DTEND:20261219T023000Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Riggers Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Riggers Hockey Academy
 LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2014 AAA game #1113. Stats: https://hslstats.com/2014-aaa/games/2020885/
 END:VEVENT
@@ -675,7 +675,7 @@ UID:hsl-2020897@hslstats.com
 DTSTAMP:20261219T161500Z
 DTSTART:20261219T161500Z
 DTEND:20261219T174500Z
-SUMMARY:2014 AAA: Saints Pro Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 AAA: Saints Pro Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2014 AAA game #1125. Stats: https://hslstats.com/2014-aaa/games/2020897/
 END:VEVENT
@@ -720,7 +720,7 @@ UID:hsl-2020948@hslstats.com
 DTSTAMP:20261220T141500Z
 DTSTART:20261220T141500Z
 DTEND:20261220T154500Z
-SUMMARY:2014 AAA: MOB Hockey at Stars Hockey Academy
+SUMMARY:2014 AAA: MOB Hockey at Spartan Hockey Academy 15M
 LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2014 AAA game #1176. Stats: https://hslstats.com/2014-aaa/games/2020948/
 END:VEVENT
@@ -747,7 +747,7 @@ UID:hsl-2020968@hslstats.com
 DTSTAMP:20261220T184500Z
 DTSTART:20261220T184500Z
 DTEND:20261220T201500Z
-SUMMARY:2014 AAA: Riggers Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 AAA: Riggers Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:River Cree Twin Rinks North
 DESCRIPTION:HSL 2014 AAA game #1196. Stats: https://hslstats.com/2014-aaa/games/2020968/
 END:VEVENT
@@ -828,7 +828,7 @@ UID:hsl-2021216@hslstats.com
 DTSTAMP:20270116T213000Z
 DTSTART:20270116T213000Z
 DTEND:20270116T230000Z
-SUMMARY:2014 AAA: Spartan Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (2)
 DESCRIPTION:HSL 2014 AAA game #1444. Stats: https://hslstats.com/2014-aaa/games/2021216/
 END:VEVENT
@@ -855,7 +855,7 @@ UID:hsl-2021234@hslstats.com
 DTSTAMP:20270117T013000Z
 DTSTART:20270117T013000Z
 DTEND:20270117T030000Z
-SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
+SUMMARY:2014 AAA: Calgary Crusaders at Spartan Hockey Academy 15M
 LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2014 AAA game #1462. Stats: https://hslstats.com/2014-aaa/games/2021234/
 END:VEVENT
@@ -891,7 +891,7 @@ UID:hsl-2021370@hslstats.com
 DTSTAMP:20270129T230000Z
 DTSTART:20270129T230000Z
 DTEND:20270130T003000Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Calgary Crusaders
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Calgary Crusaders
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1598. Stats: https://hslstats.com/2014-aaa/games/2021370/
 END:VEVENT
@@ -936,7 +936,7 @@ UID:hsl-2021385@hslstats.com
 DTSTAMP:20270130T183000Z
 DTSTART:20270130T183000Z
 DTEND:20270130T200000Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Spartan Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Spartan Hockey Academy
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2014 AAA game #1613. Stats: https://hslstats.com/2014-aaa/games/2021385/
 END:VEVENT
@@ -972,7 +972,7 @@ UID:hsl-2021404@hslstats.com
 DTSTAMP:20270131T143000Z
 DTSTART:20270131T143000Z
 DTEND:20270131T160000Z
-SUMMARY:2014 AAA: Calgary Crusaders at Stars Hockey Academy
+SUMMARY:2014 AAA: Calgary Crusaders at Spartan Hockey Academy 15M
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1632. Stats: https://hslstats.com/2014-aaa/games/2021404/
 END:VEVENT
@@ -999,7 +999,7 @@ UID:hsl-2021415@hslstats.com
 DTSTAMP:20270131T191500Z
 DTSTART:20270131T191500Z
 DTEND:20270131T204500Z
-SUMMARY:2014 AAA: Spartan Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 AAA: Spartan Hockey Academy at Spartan Hockey Academy 15M
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1643. Stats: https://hslstats.com/2014-aaa/games/2021415/
 END:VEVENT
@@ -1035,7 +1035,7 @@ UID:hsl-2021589@hslstats.com
 DTSTAMP:20270219T211500Z
 DTSTART:20270219T211500Z
 DTEND:20270219T224500Z
-SUMMARY:2014 AAA: Stars Hockey Academy at Caps Hockey Club
+SUMMARY:2014 AAA: Spartan Hockey Academy 15M at Caps Hockey Club
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1817. Stats: https://hslstats.com/2014-aaa/games/2021589/
 END:VEVENT
@@ -1080,7 +1080,7 @@ UID:hsl-2021617@hslstats.com
 DTSTAMP:20270220T161500Z
 DTSTART:20270220T161500Z
 DTEND:20270220T174500Z
-SUMMARY:2014 AAA: O2 Grizzlies at Stars Hockey Academy
+SUMMARY:2014 AAA: O2 Grizzlies at Spartan Hockey Academy 15M
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1845. Stats: https://hslstats.com/2014-aaa/games/2021617/
 END:VEVENT
@@ -1134,7 +1134,7 @@ UID:hsl-2021662@hslstats.com
 DTSTAMP:20270221T141500Z
 DTSTART:20270221T141500Z
 DTEND:20270221T154500Z
-SUMMARY:2014 AAA: Caps Hockey Club at Stars Hockey Academy
+SUMMARY:2014 AAA: Caps Hockey Club at Spartan Hockey Academy 15M
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2014 AAA game #1890. Stats: https://hslstats.com/2014-aaa/games/2021662/
 END:VEVENT

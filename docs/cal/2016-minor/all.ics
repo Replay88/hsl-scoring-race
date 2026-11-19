@@ -522,7 +522,7 @@ UID:hsl-2020785@hslstats.com
 DTSTAMP:20261212T023000Z
 DTSTART:20261212T023000Z
 DTEND:20261212T040000Z
-SUMMARY:2016 Minor: South Sask Academy at Calgary Crusaders
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1013. Stats: https://hslstats.com/2016-minor/games/2020785/
 END:VEVENT
@@ -567,7 +567,7 @@ UID:hsl-2020811@hslstats.com
 DTSTAMP:20261212T191500Z
 DTSTART:20261212T191500Z
 DTEND:20261212T204500Z
-SUMMARY:2016 Minor: South Sask Academy at North Stars Hockey Academy
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at North Stars Hockey Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1039. Stats: https://hslstats.com/2016-minor/games/2020811/
 END:VEVENT
@@ -594,7 +594,7 @@ UID:hsl-2020827@hslstats.com
 DTSTAMP:20261212T224500Z
 DTSTART:20261212T224500Z
 DTEND:20261213T001500Z
-SUMMARY:2016 Minor: Calgary Crusaders at South Sask Academy
+SUMMARY:2016 Minor: Calgary Crusaders at Warriors Hockey Academy (Sask)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1055. Stats: https://hslstats.com/2016-minor/games/2020827/
 END:VEVENT
@@ -630,7 +630,7 @@ UID:hsl-2020853@hslstats.com
 DTSTAMP:20261213T173000Z
 DTSTART:20261213T173000Z
 DTEND:20261213T190000Z
-SUMMARY:2016 Minor: North Stars Hockey Academy at South Sask Academy
+SUMMARY:2016 Minor: North Stars Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2016 Minor game #1081. Stats: https://hslstats.com/2016-minor/games/2020853/
 END:VEVENT
@@ -675,7 +675,7 @@ UID:hsl-2020998@hslstats.com
 DTSTAMP:20270102T183000Z
 DTSTART:20270102T183000Z
 DTEND:20270102T200000Z
-SUMMARY:2016 Minor: South Sask Academy at Calgary Crusaders
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Calgary Crusaders
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #1226. Stats: https://hslstats.com/2016-minor/games/2020998/
 END:VEVENT
@@ -702,7 +702,7 @@ UID:hsl-2021017@hslstats.com
 DTSTAMP:20270102T231500Z
 DTSTART:20270102T231500Z
 DTEND:20270103T004500Z
-SUMMARY:2016 Minor: Spartan Hockey Academy at South Sask Academy
+SUMMARY:2016 Minor: Spartan Hockey Academy at Warriors Hockey Academy (Sask)
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #1245. Stats: https://hslstats.com/2016-minor/games/2021017/
 END:VEVENT
@@ -729,7 +729,7 @@ UID:hsl-2021036@hslstats.com
 DTSTAMP:20270103T154500Z
 DTSTART:20270103T154500Z
 DTEND:20270103T171500Z
-SUMMARY:2016 Minor: HC Calgary Bandits at South Sask Academy
+SUMMARY:2016 Minor: HC Calgary Bandits at Warriors Hockey Academy (Sask)
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #1264. Stats: https://hslstats.com/2016-minor/games/2021036/
 END:VEVENT
@@ -756,7 +756,7 @@ UID:hsl-2021053@hslstats.com
 DTSTAMP:20270103T191500Z
 DTSTART:20270103T191500Z
 DTEND:20270103T204500Z
-SUMMARY:2016 Minor: South Sask Academy at HC Calgary Bandits
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at HC Calgary Bandits
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2016 Minor game #1281. Stats: https://hslstats.com/2016-minor/games/2021053/
 END:VEVENT
@@ -843,20 +843,20 @@ DESCRIPTION:HSL 2016 Minor game #1387. Stats: https://hslstats.com/2016-minor/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021169@hslstats.com
-DTSTAMP:20270116T023000Z
-DTSTART:20270116T023000Z
-DTEND:20270116T040000Z
-SUMMARY:2016 Minor: South Sask Academy at Alberta Pro Hockey
-LOCATION:Red Knight Arena (CFB Moose Jaw)
+DTSTAMP:20270116T004500Z
+DTSTART:20270116T004500Z
+DTEND:20270116T021500Z
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Alberta Pro Hockey
+LOCATION:Veren Place
 DESCRIPTION:HSL 2016 Minor game #1397. Stats: https://hslstats.com/2016-minor/games/2021169/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021180@hslstats.com
-DTSTAMP:20270116T154500Z
-DTSTART:20270116T154500Z
-DTEND:20270116T171500Z
-SUMMARY:2016 Minor: Alberta Pro Hockey at South Sask Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
+DTSTAMP:20270116T150000Z
+DTSTART:20270116T150000Z
+DTEND:20270116T163000Z
+SUMMARY:2016 Minor: Alberta Pro Hockey at Warriors Hockey Academy (Sask)
+LOCATION:Veren Place
 DESCRIPTION:HSL 2016 Minor game #1408. Stats: https://hslstats.com/2016-minor/games/2021180/
 END:VEVENT
 BEGIN:VEVENT
@@ -888,11 +888,11 @@ DESCRIPTION:HSL 2016 Minor game #1434. Stats: https://hslstats.com/2016-minor/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021221@hslstats.com
-DTSTAMP:20270116T224500Z
-DTSTART:20270116T224500Z
-DTEND:20270117T001500Z
-SUMMARY:2016 Minor: South Sask Academy at Capital City Knights
-LOCATION:Red Knight Arena (CFB Moose Jaw)
+DTSTAMP:20270116T210000Z
+DTSTART:20270116T210000Z
+DTEND:20270116T223000Z
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Capital City Knights
+LOCATION:Veren Place
 DESCRIPTION:HSL 2016 Minor game #1449. Stats: https://hslstats.com/2016-minor/games/2021221/
 END:VEVENT
 BEGIN:VEVENT
@@ -915,11 +915,11 @@ DESCRIPTION:HSL 2016 Minor game #1461. Stats: https://hslstats.com/2016-minor/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021238@hslstats.com
-DTSTAMP:20270117T140000Z
-DTSTART:20270117T140000Z
-DTEND:20270117T153000Z
-SUMMARY:2016 Minor: Capital City Knights at South Sask Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
+DTSTAMP:20270117T131500Z
+DTSTART:20270117T131500Z
+DTEND:20270117T144500Z
+SUMMARY:2016 Minor: Capital City Knights at Warriors Hockey Academy (Sask)
+LOCATION:Veren Place
 DESCRIPTION:HSL 2016 Minor game #1466. Stats: https://hslstats.com/2016-minor/games/2021238/
 END:VEVENT
 BEGIN:VEVENT
@@ -1017,7 +1017,7 @@ UID:hsl-2021514@hslstats.com
 DTSTAMP:20270213T004500Z
 DTSTART:20270213T004500Z
 DTEND:20270213T021500Z
-SUMMARY:2016 Minor: HC Calgary Bandits at South Sask Academy
+SUMMARY:2016 Minor: HC Calgary Bandits at Warriors Hockey Academy (Sask)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1742. Stats: https://hslstats.com/2016-minor/games/2021514/
 END:VEVENT
@@ -1026,7 +1026,7 @@ UID:hsl-2021523@hslstats.com
 DTSTAMP:20270213T154500Z
 DTSTART:20270213T154500Z
 DTEND:20270213T171500Z
-SUMMARY:2016 Minor: Calgary Crusaders at South Sask Academy
+SUMMARY:2016 Minor: Calgary Crusaders at Warriors Hockey Academy (Sask)
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1751. Stats: https://hslstats.com/2016-minor/games/2021523/
 END:VEVENT
@@ -1053,7 +1053,7 @@ UID:hsl-2021548@hslstats.com
 DTSTAMP:20270213T224500Z
 DTSTART:20270213T224500Z
 DTEND:20270214T001500Z
-SUMMARY:2016 Minor: South Sask Academy at HC Calgary Bandits
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1776. Stats: https://hslstats.com/2016-minor/games/2021548/
 END:VEVENT
@@ -1062,7 +1062,7 @@ UID:hsl-2021564@hslstats.com
 DTSTAMP:20270214T150000Z
 DTSTART:20270214T150000Z
 DTEND:20270214T163000Z
-SUMMARY:2016 Minor: South Sask Academy at Spartan Hockey Academy
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Spartan Hockey Academy
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1792. Stats: https://hslstats.com/2016-minor/games/2021564/
 END:VEVENT
@@ -1112,42 +1112,6 @@ LOCATION:
 DESCRIPTION:HSL 2016 Minor game #781. Stats: https://hslstats.com/2016-minor/games/2020553/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020617@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at South Sask Academy
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020598@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: North Stars Hockey Academy at South Sask Academy
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020586@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: South Sask Academy at North Stars Hockey Academy
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #814. Stats: https://hslstats.com/2016-minor/games/2020586/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020534@hslstats.com
-DTSTAMP:20270501T060000Z
-DTSTART:20270501T060000Z
-DTEND:20270501T073000Z
-SUMMARY:2016 Minor: South Sask Academy at Wolverines Hockey Academy
-LOCATION:
-DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020520@hslstats.com
 DTSTAMP:20270501T060000Z
 DTSTART:20270501T060000Z
@@ -1155,5 +1119,41 @@ DTEND:20270501T073000Z
 SUMMARY:2016 Minor: Wolverines Hockey Academy at Capital City Knights
 LOCATION:
 DESCRIPTION:HSL 2016 Minor game #748. Stats: https://hslstats.com/2016-minor/games/2020520/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020534@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at Wolverines Hockey Academy
+LOCATION:TBA
+DESCRIPTION:HSL 2016 Minor game #762. Stats: https://hslstats.com/2016-minor/games/2020534/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020598@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2016 Minor: North Stars Hockey Academy at Warriors Hockey Academy (Sask)
+LOCATION:TBA
+DESCRIPTION:HSL 2016 Minor game #826. Stats: https://hslstats.com/2016-minor/games/2020598/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020586@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at North Stars Hockey Academy
+LOCATION:TBA
+DESCRIPTION:HSL 2016 Minor game #814. Stats: https://hslstats.com/2016-minor/games/2020586/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020617@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at Warriors Hockey Academy (Sask)
+LOCATION:TBA
+DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
 END:VEVENT
 END:VCALENDAR

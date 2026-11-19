@@ -149,40 +149,40 @@ LOCATION:JDA County Sportsplex - Chris McMillan
 DESCRIPTION:HSL 2015 Major game #987. Stats: https://hslstats.com/2015-major/games/2020759/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020783@hslstats.com
-DTSTAMP:20261212T010000Z
-DTSTART:20261212T010000Z
-DTEND:20261212T023000Z
-SUMMARY:2015 Major: Gorillas Hockey Academy at Rebels Hockey Academy
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1011. Stats: https://hslstats.com/2015-major/games/2020783/
+UID:hsl-2020901@hslstats.com
+DTSTAMP:20261219T163000Z
+DTSTART:20261219T163000Z
+DTEND:20261219T180000Z
+SUMMARY:2015 Major: South Sask Academy at Gorillas Hockey Academy
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1129. Stats: https://hslstats.com/2015-major/games/2020901/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020808@hslstats.com
-DTSTAMP:20261212T183000Z
-DTSTART:20261212T183000Z
-DTEND:20261212T200000Z
-SUMMARY:2015 Major: Rebels Hockey Academy at Gorillas Hockey Academy
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1036. Stats: https://hslstats.com/2015-major/games/2020808/
+UID:hsl-2020937@hslstats.com
+DTSTAMP:20261220T011500Z
+DTSTART:20261220T011500Z
+DTEND:20261220T024500Z
+SUMMARY:2015 Major: Sask Super Selects at Gorillas Hockey Academy
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1165. Stats: https://hslstats.com/2015-major/games/2020937/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020835@hslstats.com
-DTSTAMP:20261213T013000Z
-DTSTART:20261213T013000Z
-DTEND:20261213T030000Z
-SUMMARY:2015 Major: Gorillas Hockey Academy at MOB Hockey
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1063. Stats: https://hslstats.com/2015-major/games/2020835/
+UID:hsl-2020940@hslstats.com
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2015 Major: Gorillas Hockey Academy at Sask Super Selects
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1168. Stats: https://hslstats.com/2015-major/games/2020940/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020845@hslstats.com
-DTSTAMP:20261213T154500Z
-DTSTART:20261213T154500Z
-DTEND:20261213T171500Z
-SUMMARY:2015 Major: Gorillas Hockey Academy at Calgary Crusaders
-LOCATION:Viking Carena Complex
-DESCRIPTION:HSL 2015 Major game #1073. Stats: https://hslstats.com/2015-major/games/2020845/
+UID:hsl-2020941@hslstats.com
+DTSTAMP:20261220T055800Z
+DTSTART:20261220T055800Z
+DTEND:20261220T072800Z
+SUMMARY:2015 Major: Gorillas Hockey Academy at South Sask Academy
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2015 Major game #1169. Stats: https://hslstats.com/2015-major/games/2020941/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020999@hslstats.com
@@ -198,7 +198,7 @@ UID:hsl-2021023@hslstats.com
 DTSTAMP:20270103T004500Z
 DTSTART:20270103T004500Z
 DTEND:20270103T021500Z
-SUMMARY:2015 Major: HC Calgary Bandits at Gorillas Hockey Academy
+SUMMARY:2015 Major: Wolverines Hockey Academy at Gorillas Hockey Academy
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2015 Major game #1251. Stats: https://hslstats.com/2015-major/games/2021023/
 END:VEVENT
@@ -207,7 +207,7 @@ UID:hsl-2021039@hslstats.com
 DTSTAMP:20270103T160000Z
 DTSTART:20270103T160000Z
 DTEND:20270103T173000Z
-SUMMARY:2015 Major: Gorillas Hockey Academy at HC Calgary Bandits
+SUMMARY:2015 Major: Gorillas Hockey Academy at Wolverines Hockey Academy
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2015 Major game #1267. Stats: https://hslstats.com/2015-major/games/2021039/
 END:VEVENT

@@ -113,20 +113,11 @@ LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2017 Minor game #665. Stats: https://hslstats.com/2017-minor/games/2020437/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020730@hslstats.com
-DTSTAMP:20261205T224500Z
-DTSTART:20261205T224500Z
-DTEND:20261206T001500Z
-SUMMARY:2017 Minor: YYC Jays at Gorillas Hockey Academy
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #958. Stats: https://hslstats.com/2017-minor/games/2020730/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020762@hslstats.com
 DTSTAMP:20261206T210000Z
 DTSTART:20261206T210000Z
 DTEND:20261206T223000Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy at YYC Jays
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 at YYC Jays
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #990. Stats: https://hslstats.com/2017-minor/games/2020762/
 END:VEVENT
@@ -144,7 +135,7 @@ UID:hsl-2020888@hslstats.com
 DTSTAMP:20261219T140000Z
 DTSTART:20261219T140000Z
 DTEND:20261219T153000Z
-SUMMARY:2017 Minor: YYC Jays at Gorillas Hockey Academy
+SUMMARY:2017 Minor: YYC Jays at North Stars Academy Wild
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2017 Minor game #1116. Stats: https://hslstats.com/2017-minor/games/2020888/
 END:VEVENT
@@ -162,7 +153,7 @@ UID:hsl-2020957@hslstats.com
 DTSTAMP:20261220T161500Z
 DTSTART:20261220T161500Z
 DTEND:20261220T174500Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy at YYC Jays
+SUMMARY:2017 Minor: North Stars Academy Wild at YYC Jays
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2017 Minor game #1185. Stats: https://hslstats.com/2017-minor/games/2020957/
 END:VEVENT

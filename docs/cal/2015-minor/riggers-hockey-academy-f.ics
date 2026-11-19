@@ -117,7 +117,7 @@ UID:hsl-2020502@hslstats.com
 DTSTAMP:20261120T220000Z
 DTSTART:20261120T220000Z
 DTEND:20261120T233000Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at Riggers Hockey Academy (F)
+SUMMARY:2015 Minor: HC Calgary Bandits at Riggers Hockey Academy (F)
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2015 Minor game #730. Stats: https://hslstats.com/2015-minor/games/2020502/
 END:VEVENT
@@ -135,7 +135,7 @@ UID:hsl-2020581@hslstats.com
 DTSTAMP:20261122T001500Z
 DTSTART:20261122T001500Z
 DTEND:20261122T014500Z
-SUMMARY:2015 Minor: Riggers Hockey Academy (F) at Wolverines Hockey Academy
+SUMMARY:2015 Minor: Riggers Hockey Academy (F) at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2015 Minor game #809. Stats: https://hslstats.com/2015-minor/games/2020581/
 END:VEVENT
@@ -230,13 +230,13 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 Minor game #1294. Stats: https://hslstats.com/2015-minor/games/2021066/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021375@hslstats.com
-DTSTAMP:20270130T013000Z
-DTSTART:20270130T013000Z
-DTEND:20270130T030000Z
+UID:hsl-2021339@hslstats.com
+DTSTAMP:20270124T003000Z
+DTSTART:20270124T003000Z
+DTEND:20270124T020000Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at Riggers Hockey Academy (F)
-LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1603. Stats: https://hslstats.com/2015-minor/games/2021375/
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2015 Minor game #1603. Stats: https://hslstats.com/2015-minor/games/2021339/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021382@hslstats.com

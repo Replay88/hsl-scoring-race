@@ -117,7 +117,7 @@ UID:hsl-2020528@hslstats.com
 DTSTAMP:20261121T140000Z
 DTSTART:20261121T140000Z
 DTEND:20261121T153000Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
+SUMMARY:2015 Minor: HC Calgary Bandits at Alberta Pro Hockey
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2015 Minor game #756. Stats: https://hslstats.com/2015-minor/games/2020528/
 END:VEVENT
@@ -135,7 +135,7 @@ UID:hsl-2020621@hslstats.com
 DTSTAMP:20261122T190000Z
 DTSTART:20261122T190000Z
 DTEND:20261122T203000Z
-SUMMARY:2015 Minor: Alberta Pro Hockey at Wolverines Hockey Academy
+SUMMARY:2015 Minor: Alberta Pro Hockey at HC Calgary Bandits
 LOCATION:Silent Ice Center - Hesco Arena
 DESCRIPTION:HSL 2015 Minor game #849. Stats: https://hslstats.com/2015-minor/games/2020621/
 END:VEVENT
@@ -144,7 +144,7 @@ UID:hsl-2020764@hslstats.com
 DTSTAMP:20261207T001500Z
 DTSTART:20261207T001500Z
 DTEND:20261207T014500Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
+SUMMARY:2015 Minor: North Stars Hockey Academy at Alberta Pro Hockey
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2015 Minor game #992. Stats: https://hslstats.com/2015-minor/games/2020764/
 END:VEVENT
@@ -162,7 +162,7 @@ UID:hsl-2020918@hslstats.com
 DTSTAMP:20261219T210000Z
 DTSTART:20261219T210000Z
 DTEND:20261219T223000Z
-SUMMARY:2015 Minor: North Stars Hockey Academy at Alberta Pro Hockey
+SUMMARY:2015 Minor: HC Calgary Bandits at Alberta Pro Hockey
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2015 Minor game #1146. Stats: https://hslstats.com/2015-minor/games/2020918/
 END:VEVENT
@@ -171,7 +171,7 @@ UID:hsl-2020967@hslstats.com
 DTSTAMP:20261220T184500Z
 DTSTART:20261220T184500Z
 DTEND:20261220T201500Z
-SUMMARY:2015 Minor: Alberta Pro Hockey at North Stars Hockey Academy
+SUMMARY:2015 Minor: Alberta Pro Hockey at HC Calgary Bandits
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2015 Minor game #1195. Stats: https://hslstats.com/2015-minor/games/2020967/
 END:VEVENT
@@ -180,7 +180,7 @@ UID:hsl-2020976@hslstats.com
 DTSTAMP:20261220T220000Z
 DTSTART:20261220T220000Z
 DTEND:20261220T233000Z
-SUMMARY:2015 Minor: Alberta Pro Hockey at Wolverines Hockey Academy
+SUMMARY:2015 Minor: Alberta Pro Hockey at North Stars Hockey Academy
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2015 Minor game #1204. Stats: https://hslstats.com/2015-minor/games/2020976/
 END:VEVENT
@@ -230,13 +230,13 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 Minor game #1294. Stats: https://hslstats.com/2015-minor/games/2021066/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2021375@hslstats.com
-DTSTAMP:20270130T013000Z
-DTSTART:20270130T013000Z
-DTEND:20270130T030000Z
+UID:hsl-2021339@hslstats.com
+DTSTAMP:20270124T003000Z
+DTSTART:20270124T003000Z
+DTEND:20270124T020000Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at Riggers Hockey Academy (F)
-LOCATION:Thorsby Recreation Complex
-DESCRIPTION:HSL 2015 Minor game #1603. Stats: https://hslstats.com/2015-minor/games/2021375/
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2015 Minor game #1603. Stats: https://hslstats.com/2015-minor/games/2021339/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021392@hslstats.com
@@ -270,7 +270,7 @@ UID:hsl-2021626@hslstats.com
 DTSTAMP:20270220T180000Z
 DTSTART:20270220T180000Z
 DTEND:20270220T193000Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at Alberta Pro Hockey
+SUMMARY:2015 Minor: HC Calgary Bandits at Alberta Pro Hockey
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2015 Minor game #1854. Stats: https://hslstats.com/2015-minor/games/2021626/
 END:VEVENT
@@ -288,7 +288,7 @@ UID:hsl-2021681@hslstats.com
 DTSTAMP:20270221T183000Z
 DTSTART:20270221T183000Z
 DTEND:20270221T200000Z
-SUMMARY:2015 Minor: Alberta Pro Hockey at Wolverines Hockey Academy
+SUMMARY:2015 Minor: Alberta Pro Hockey at HC Calgary Bandits
 LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2015 Minor game #1909. Stats: https://hslstats.com/2015-minor/games/2021681/
 END:VEVENT

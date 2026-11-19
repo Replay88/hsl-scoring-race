@@ -122,20 +122,11 @@ LOCATION:Great Plains Arena 2
 DESCRIPTION:HSL 2017 Minor game #749. Stats: https://hslstats.com/2017-minor/games/2020521/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020698@hslstats.com
-DTSTAMP:20261204T231500Z
-DTSTART:20261204T231500Z
-DTEND:20261205T004500Z
-SUMMARY:2017 Minor: HC Calgary Bandits at Gorillas Hockey Academy
-LOCATION:Rockyford Sportsplex
-DESCRIPTION:HSL 2017 Minor game #926. Stats: https://hslstats.com/2017-minor/games/2020698/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020706@hslstats.com
 DTSTAMP:20261205T140000Z
 DTSTART:20261205T140000Z
 DTEND:20261205T153000Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy at HC Calgary Bandits
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 at HC Calgary Bandits
 LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2017 Minor game #934. Stats: https://hslstats.com/2017-minor/games/2020706/
 END:VEVENT
@@ -225,7 +216,7 @@ UID:hsl-2021232@hslstats.com
 DTSTAMP:20270117T010000Z
 DTSTART:20270117T010000Z
 DTEND:20270117T023000Z
-SUMMARY:2017 Minor: HC Calgary Bandits at Gorillas Hockey Academy
+SUMMARY:2017 Minor: HC Calgary Bandits at North Stars Academy Wild
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1460. Stats: https://hslstats.com/2017-minor/games/2021232/
 END:VEVENT
@@ -243,7 +234,7 @@ UID:hsl-2021272@hslstats.com
 DTSTAMP:20270117T210000Z
 DTSTART:20270117T210000Z
 DTEND:20270117T223000Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy at HC Calgary Bandits
+SUMMARY:2017 Minor: North Stars Academy Wild at HC Calgary Bandits
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1500. Stats: https://hslstats.com/2017-minor/games/2021272/
 END:VEVENT

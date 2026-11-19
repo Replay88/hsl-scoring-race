@@ -36,7 +36,7 @@ UID:hsl-2020022@hslstats.com
 DTSTAMP:20261004T161500Z
 DTSTART:20261004T161500Z
 DTEND:20261004T174500Z
-SUMMARY:2017 Minor: Rebels Hockey Academy 4 – Gorillas Hockey Academy 5 (Final)
+SUMMARY:2017 Minor: Rebels Hockey Academy 4 – Gorillas Hockey Academy 17 5 (Final)
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #250. Stats: https://hslstats.com/2017-minor/games/2020022/
 END:VEVENT
@@ -72,7 +72,7 @@ UID:hsl-2020222@hslstats.com
 DTSTAMP:20261018T161500Z
 DTSTART:20261018T161500Z
 DTEND:20261018T174500Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy 5 – Rebels Hockey Academy 3 (Final)
+SUMMARY:2017 Minor: Gorillas Hockey Academy 17 5 – Rebels Hockey Academy 3 (Final)
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2017 Minor game #455. Stats: https://hslstats.com/2017-minor/games/2020222/
 END:VEVENT
@@ -108,7 +108,7 @@ UID:hsl-2020439@hslstats.com
 DTSTAMP:20261108T154500Z
 DTSTART:20261108T154500Z
 DTEND:20261108T171500Z
-SUMMARY:2017 Minor: Rebels Hockey Academy 2 – Gorillas Hockey Academy 7 (Final)
+SUMMARY:2017 Minor: Rebels Hockey Academy 2 – Gorillas Hockey Academy 17 7 (Final)
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2017 Minor game #667. Stats: https://hslstats.com/2017-minor/games/2020439/
 END:VEVENT
@@ -225,7 +225,7 @@ UID:hsl-2021372@hslstats.com
 DTSTAMP:20270129T234500Z
 DTSTART:20270129T234500Z
 DTEND:20270130T011500Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
+SUMMARY:2017 Minor: North Stars Academy Wild at Rebels Hockey Academy
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2017 Minor game #1600. Stats: https://hslstats.com/2017-minor/games/2021372/
 END:VEVENT
@@ -243,7 +243,7 @@ UID:hsl-2021396@hslstats.com
 DTSTAMP:20270130T224500Z
 DTSTART:20270130T224500Z
 DTEND:20270131T001500Z
-SUMMARY:2017 Minor: Rebels Hockey Academy at Gorillas Hockey Academy
+SUMMARY:2017 Minor: Rebels Hockey Academy at North Stars Academy Wild
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2017 Minor game #1624. Stats: https://hslstats.com/2017-minor/games/2021396/
 END:VEVENT
@@ -279,7 +279,7 @@ UID:hsl-2021641@hslstats.com
 DTSTAMP:20270220T211500Z
 DTSTART:20270220T211500Z
 DTEND:20270220T224500Z
-SUMMARY:2017 Minor: Gorillas Hockey Academy at Rebels Hockey Academy
+SUMMARY:2017 Minor: North Stars Academy Wild at Rebels Hockey Academy
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2017 Minor game #1869. Stats: https://hslstats.com/2017-minor/games/2021641/
 END:VEVENT

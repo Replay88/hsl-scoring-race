@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSL Statistics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northern Hockey Club (2018 Major)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:hsl-2020643@hslstats.com
+DTSTAMP:20261128T010000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T023000Z
+SUMMARY:2018 Major: Queen City Young Guns at Northern Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #871. Stats: https://hslstats.com/2018-major/games/2020643/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020689@hslstats.com
+DTSTAMP:20261129T224500Z
+DTSTART:20261129T224500Z
+DTEND:20261130T001500Z
+SUMMARY:2018 Major: Capital City Knights at Northern Hockey Club
+LOCATION:Viking Carena Complex
+DESCRIPTION:HSL 2018 Major game #917. Stats: https://hslstats.com/2018-major/games/2020689/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020877@hslstats.com
+DTSTAMP:20261218T224500Z
+DTSTART:20261218T224500Z
+DTEND:20261219T001500Z
+SUMMARY:2018 Major: Queen City Young Guns at Northern Hockey Club
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1105. Stats: https://hslstats.com/2018-major/games/2020877/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020894@hslstats.com
+DTSTAMP:20261219T144500Z
+DTSTART:20261219T144500Z
+DTEND:20261219T161500Z
+SUMMARY:2018 Major: Sask Super Selects at Northern Hockey Club
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1122. Stats: https://hslstats.com/2018-major/games/2020894/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020922@hslstats.com
+DTSTAMP:20261219T214500Z
+DTSTART:20261219T214500Z
+DTEND:20261219T231500Z
+SUMMARY:2018 Major: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1150. Stats: https://hslstats.com/2018-major/games/2020922/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020952@hslstats.com
+DTSTAMP:20261220T144500Z
+DTSTART:20261220T144500Z
+DTEND:20261220T161500Z
+SUMMARY:2018 Major: Northern Hockey Club at Queen City Young Guns
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1180. Stats: https://hslstats.com/2018-major/games/2020952/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021034@hslstats.com
+DTSTAMP:20270103T144500Z
+DTSTART:20270103T144500Z
+DTEND:20270103T161500Z
+SUMMARY:2018 Major: Aces Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Major game #1262. Stats: https://hslstats.com/2018-major/games/2021034/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021048@hslstats.com
+DTSTAMP:20270103T181500Z
+DTSTART:20270103T181500Z
+DTEND:20270103T194500Z
+SUMMARY:2018 Major: Gorillas Hockey Academy at Northern Hockey Club
+LOCATION:West Edmonton Mall - Ice Palace
+DESCRIPTION:HSL 2018 Major game #1276. Stats: https://hslstats.com/2018-major/games/2021048/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021075@hslstats.com
+DTSTAMP:20270108T224500Z
+DTSTART:20270108T224500Z
+DTEND:20270109T001500Z
+SUMMARY:2018 Major: Northern Hockey Club at Young Kings Hockey
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #1303. Stats: https://hslstats.com/2018-major/games/2021075/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021087@hslstats.com
+DTSTAMP:20270109T140000Z
+DTSTART:20270109T140000Z
+DTEND:20270109T153000Z
+SUMMARY:2018 Major: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #1315. Stats: https://hslstats.com/2018-major/games/2021087/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021104@hslstats.com
+DTSTAMP:20270109T191500Z
+DTSTART:20270109T191500Z
+DTEND:20270109T204500Z
+SUMMARY:2018 Major: YYC Jays at Northern Hockey Club
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #1332. Stats: https://hslstats.com/2018-major/games/2021104/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021147@hslstats.com
+DTSTAMP:20270110T210000Z
+DTSTART:20270110T210000Z
+DTEND:20270110T223000Z
+SUMMARY:2018 Major: Northern Hockey Club at Calgary Crusaders
+LOCATION:Penhold Regional Multiplex
+DESCRIPTION:HSL 2018 Major game #1375. Stats: https://hslstats.com/2018-major/games/2021147/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021313@hslstats.com
+DTSTAMP:20270123T173000Z
+DTSTART:20270123T173000Z
+DTEND:20270123T190000Z
+SUMMARY:2018 Major: Rebels Hockey Academy at Northern Hockey Club
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1541. Stats: https://hslstats.com/2018-major/games/2021313/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021328@hslstats.com
+DTSTAMP:20270123T210000Z
+DTSTART:20270123T210000Z
+DTEND:20270123T223000Z
+SUMMARY:2018 Major: Northern Hockey Club at North Stars Academy Wild
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1556. Stats: https://hslstats.com/2018-major/games/2021328/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021348@hslstats.com
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T153000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Northern Hockey Club
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1576. Stats: https://hslstats.com/2018-major/games/2021348/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021357@hslstats.com
+DTSTAMP:20270124T173000Z
+DTSTART:20270124T173000Z
+DTEND:20270124T190000Z
+SUMMARY:2018 Major: Northern Hockey Club at Rebels Hockey Academy
+LOCATION:JDA County Sportsplex - Triple Threat Diesel
+DESCRIPTION:HSL 2018 Major game #1585. Stats: https://hslstats.com/2018-major/games/2021357/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021505@hslstats.com
+DTSTAMP:20270212T210000Z
+DTSTART:20270212T210000Z
+DTEND:20270212T223000Z
+SUMMARY:2018 Major: Northern Hockey Club at Sauce Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 Major game #1733. Stats: https://hslstats.com/2018-major/games/2021505/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021534@hslstats.com
+DTSTAMP:20270213T183000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T200000Z
+SUMMARY:2018 Major: Young Kings Hockey at Northern Hockey Club
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2018 Major game #1762. Stats: https://hslstats.com/2018-major/games/2021534/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021552@hslstats.com
+DTSTAMP:20270213T233000Z
+DTSTART:20270213T233000Z
+DTEND:20270214T010000Z
+SUMMARY:2018 Major: Northern Hockey Club at Spartan Hockey Academy
+LOCATION:Great Plains Arena 1
+DESCRIPTION:HSL 2018 Major game #1780. Stats: https://hslstats.com/2018-major/games/2021552/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021571@hslstats.com
+DTSTAMP:20270214T164500Z
+DTSTART:20270214T164500Z
+DTEND:20270214T181500Z
+SUMMARY:2018 Major: Northern Hockey Club at Young Kings Hockey
+LOCATION:Great Plains Arena 2
+DESCRIPTION:HSL 2018 Major game #1799. Stats: https://hslstats.com/2018-major/games/2021571/
+END:VEVENT
+END:VCALENDAR

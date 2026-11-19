@@ -122,15 +122,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2018 Minor game #746. Stats: https://hslstats.com/2018-minor/games/2020518/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020546@hslstats.com
-DTSTAMP:20261121T161500Z
-DTSTART:20261121T161500Z
-DTEND:20261121T174500Z
-SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/2018-minor/games/2020546/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020618@hslstats.com
 DTSTAMP:20261122T180000Z
 DTSTART:20261122T180000Z
@@ -153,7 +144,7 @@ UID:hsl-2020739@hslstats.com
 DTSTAMP:20261206T011500Z
 DTSTART:20261206T011500Z
 DTEND:20261206T024500Z
-SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
+SUMMARY:2018 Minor: Riggers Hockey Academy at O2 Grizzlies
 LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #967. Stats: https://hslstats.com/2018-minor/games/2020739/
 END:VEVENT
@@ -171,7 +162,7 @@ UID:hsl-2020761@hslstats.com
 DTSTAMP:20261206T200000Z
 DTSTART:20261206T200000Z
 DTEND:20261206T213000Z
-SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
+SUMMARY:2018 Minor: O2 Grizzlies at Riggers Hockey Academy
 LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #989. Stats: https://hslstats.com/2018-minor/games/2020761/
 END:VEVENT
@@ -180,7 +171,7 @@ UID:hsl-2020817@hslstats.com
 DTSTAMP:20261212T203000Z
 DTSTART:20261212T203000Z
 DTEND:20261212T220000Z
-SUMMARY:2018 Minor: Riggers Hockey Academy at YYC Jays
+SUMMARY:2018 Minor: Riggers Hockey Academy at O2 Grizzlies
 LOCATION:Nexsource 2
 DESCRIPTION:HSL 2018 Minor game #1045. Stats: https://hslstats.com/2018-minor/games/2020817/
 END:VEVENT
@@ -234,7 +225,7 @@ UID:hsl-2021186@hslstats.com
 DTSTAMP:20270116T163000Z
 DTSTART:20270116T163000Z
 DTEND:20270116T180000Z
-SUMMARY:2018 Minor: YYC Jays at Riggers Hockey Academy
+SUMMARY:2018 Minor: O2 Grizzlies at Riggers Hockey Academy
 LOCATION:West Edmonton Mall - Ice Palace
 DESCRIPTION:HSL 2018 Minor game #1414. Stats: https://hslstats.com/2018-minor/games/2021186/
 END:VEVENT
@@ -288,8 +279,17 @@ UID:hsl-2021496@hslstats.com
 DTSTAMP:20270207T191500Z
 DTSTART:20270207T191500Z
 DTEND:20270207T204500Z
-SUMMARY:2018 Minor: Riggers Hockey Academy at Northern Hockey Club
+SUMMARY:2018 Minor: Riggers Hockey Academy at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2018 Minor game #1724. Stats: https://hslstats.com/2018-minor/games/2021496/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020546@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2018 Minor: O2 Grizzlies at Riggers Hockey Academy
+LOCATION:TBA
+DESCRIPTION:HSL 2018 Minor game #774. Stats: https://hslstats.com/2018-minor/games/2020546/
 END:VEVENT
 END:VCALENDAR

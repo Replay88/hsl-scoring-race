@@ -117,7 +117,7 @@ UID:hsl-2020508@hslstats.com
 DTSTAMP:20261120T223000Z
 DTSTART:20261120T223000Z
 DTEND:20261121T000000Z
-SUMMARY:2018 Major: O2 Grizzlies at Sauce Hockey Academy
+SUMMARY:2018 Major: YYC Jays at Sauce Hockey Academy
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2018 Major game #736. Stats: https://hslstats.com/2018-major/games/2020508/
 END:VEVENT
@@ -126,7 +126,7 @@ UID:hsl-2020647@hslstats.com
 DTSTAMP:20261128T143000Z
 DTSTART:20261128T143000Z
 DTEND:20261128T160000Z
-SUMMARY:2018 Major: Sauce Hockey Academy at O2 Grizzlies
+SUMMARY:2018 Major: Sauce Hockey Academy at YYC Jays
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #875. Stats: https://hslstats.com/2018-major/games/2020647/
 END:VEVENT
@@ -144,7 +144,7 @@ UID:hsl-2020677@hslstats.com
 DTSTAMP:20261129T164500Z
 DTSTART:20261129T164500Z
 DTEND:20261129T181500Z
-SUMMARY:2018 Major: O2 Grizzlies at Sauce Hockey Academy
+SUMMARY:2018 Major: YYC Jays at Sauce Hockey Academy
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2018 Major game #905. Stats: https://hslstats.com/2018-major/games/2020677/
 END:VEVENT
@@ -270,7 +270,7 @@ UID:hsl-2021505@hslstats.com
 DTSTAMP:20270212T210000Z
 DTSTART:20270212T210000Z
 DTEND:20270212T223000Z
-SUMMARY:2018 Major: North Stars Hockey Academy at Sauce Hockey Academy
+SUMMARY:2018 Major: Northern Hockey Club at Sauce Hockey Academy
 LOCATION:Great Plains Arena 1
 DESCRIPTION:HSL 2018 Major game #1733. Stats: https://hslstats.com/2018-major/games/2021505/
 END:VEVENT

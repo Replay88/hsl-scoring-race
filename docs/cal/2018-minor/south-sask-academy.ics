@@ -113,15 +113,6 @@ LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2018 Minor game #668. Stats: https://hslstats.com/2018-minor/games/2020440/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020509@hslstats.com
-DTSTAMP:20261120T230000Z
-DTSTART:20261120T230000Z
-DTEND:20261121T003000Z
-SUMMARY:2018 Minor: South Sask Academy at YYC Jays
-LOCATION:Red Knight Arena (CFB Moose Jaw)
-DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/2018-minor/games/2020509/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020582@hslstats.com
 DTSTAMP:20261122T001500Z
 DTSTART:20261122T001500Z
@@ -153,7 +144,7 @@ UID:hsl-2020696@hslstats.com
 DTSTAMP:20261204T224500Z
 DTSTART:20261204T224500Z
 DTEND:20261205T001500Z
-SUMMARY:2018 Minor: YYC Jays at South Sask Academy
+SUMMARY:2018 Minor: O2 Grizzlies at South Sask Academy
 LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #924. Stats: https://hslstats.com/2018-minor/games/2020696/
 END:VEVENT
@@ -162,7 +153,7 @@ UID:hsl-2020724@hslstats.com
 DTSTAMP:20261205T200000Z
 DTSTART:20261205T200000Z
 DTEND:20261205T213000Z
-SUMMARY:2018 Minor: South Sask Academy at YYC Jays
+SUMMARY:2018 Minor: South Sask Academy at O2 Grizzlies
 LOCATION:Millet Agriplex Arena
 DESCRIPTION:HSL 2018 Minor game #952. Stats: https://hslstats.com/2018-minor/games/2020724/
 END:VEVENT
@@ -207,7 +198,7 @@ UID:hsl-2021001@hslstats.com
 DTSTAMP:20270102T211500Z
 DTSTART:20270102T211500Z
 DTEND:20270102T224500Z
-SUMMARY:2018 Minor: YYC Jays at South Sask Academy
+SUMMARY:2018 Minor: O2 Grizzlies at South Sask Academy
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2018 Minor game #1229. Stats: https://hslstats.com/2018-minor/games/2021001/
 END:VEVENT
@@ -216,7 +207,7 @@ UID:hsl-2021033@hslstats.com
 DTSTAMP:20270103T163000Z
 DTSTART:20270103T163000Z
 DTEND:20270103T180000Z
-SUMMARY:2018 Minor: South Sask Academy at YYC Jays
+SUMMARY:2018 Minor: South Sask Academy at O2 Grizzlies
 LOCATION:Banff Recreation Centre - Arena 1
 DESCRIPTION:HSL 2018 Minor game #1261. Stats: https://hslstats.com/2018-minor/games/2021033/
 END:VEVENT
@@ -270,7 +261,7 @@ UID:hsl-2021443@hslstats.com
 DTSTAMP:20270206T143000Z
 DTSTART:20270206T143000Z
 DTEND:20270206T160000Z
-SUMMARY:2018 Minor: Northern Hockey Club at South Sask Academy
+SUMMARY:2018 Minor: North Stars Hockey Academy at South Sask Academy
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2018 Minor game #1671. Stats: https://hslstats.com/2018-minor/games/2021443/
 END:VEVENT
@@ -291,5 +282,14 @@ DTEND:20270207T153000Z
 SUMMARY:2018 Minor: Riggers Hockey Academy at South Sask Academy
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2018 Minor game #1707. Stats: https://hslstats.com/2018-minor/games/2021479/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020509@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2018 Minor: South Sask Academy at O2 Grizzlies
+LOCATION:TBA
+DESCRIPTION:HSL 2018 Minor game #737. Stats: https://hslstats.com/2018-minor/games/2020509/
 END:VEVENT
 END:VCALENDAR

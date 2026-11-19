@@ -140,11 +140,20 @@ LOCATION:7 Chiefs Sportsplex & Jim Starlight Centre (1)
 DESCRIPTION:HSL 2015 Minor game #790. Stats: https://hslstats.com/2015-minor/games/2020562/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020764@hslstats.com
+DTSTAMP:20261207T001500Z
+DTSTART:20261207T001500Z
+DTEND:20261207T014500Z
+SUMMARY:2015 Minor: North Stars Hockey Academy at Alberta Pro Hockey
+LOCATION:Morinville Silent Ice Gardens
+DESCRIPTION:HSL 2015 Minor game #992. Stats: https://hslstats.com/2015-minor/games/2020764/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020769@hslstats.com
 DTSTAMP:20261211T213000Z
 DTSTART:20261211T213000Z
 DTEND:20261211T230000Z
-SUMMARY:2015 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
+SUMMARY:2015 Minor: North Stars Hockey Academy at HC Calgary Bandits
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2015 Minor game #997. Stats: https://hslstats.com/2015-minor/games/2020769/
 END:VEVENT
@@ -162,36 +171,27 @@ UID:hsl-2020832@hslstats.com
 DTSTAMP:20261212T234500Z
 DTSTART:20261212T234500Z
 DTEND:20261213T011500Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
+SUMMARY:2015 Minor: HC Calgary Bandits at North Stars Hockey Academy
 LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2015 Minor game #1060. Stats: https://hslstats.com/2015-minor/games/2020832/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020918@hslstats.com
-DTSTAMP:20261219T210000Z
-DTSTART:20261219T210000Z
-DTEND:20261219T223000Z
-SUMMARY:2015 Minor: North Stars Hockey Academy at Alberta Pro Hockey
-LOCATION:Mundare Arena
-DESCRIPTION:HSL 2015 Minor game #1146. Stats: https://hslstats.com/2015-minor/games/2020918/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020953@hslstats.com
 DTSTAMP:20261220T153000Z
 DTSTART:20261220T153000Z
 DTEND:20261220T170000Z
-SUMMARY:2015 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
+SUMMARY:2015 Minor: North Stars Hockey Academy at HC Calgary Bandits
 LOCATION:Mundare Arena
 DESCRIPTION:HSL 2015 Minor game #1181. Stats: https://hslstats.com/2015-minor/games/2020953/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020967@hslstats.com
-DTSTAMP:20261220T184500Z
-DTSTART:20261220T184500Z
-DTEND:20261220T201500Z
+UID:hsl-2020976@hslstats.com
+DTSTAMP:20261220T220000Z
+DTSTART:20261220T220000Z
+DTEND:20261220T233000Z
 SUMMARY:2015 Minor: Alberta Pro Hockey at North Stars Hockey Academy
 LOCATION:Mundare Arena
-DESCRIPTION:HSL 2015 Minor game #1195. Stats: https://hslstats.com/2015-minor/games/2020967/
+DESCRIPTION:HSL 2015 Minor game #1204. Stats: https://hslstats.com/2015-minor/games/2020976/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021005@hslstats.com
@@ -207,7 +207,7 @@ UID:hsl-2021015@hslstats.com
 DTSTAMP:20270102T230000Z
 DTSTART:20270102T230000Z
 DTEND:20270103T003000Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
+SUMMARY:2015 Minor: HC Calgary Bandits at North Stars Hockey Academy
 LOCATION:East Calgary Twin Arena Red
 DESCRIPTION:HSL 2015 Minor game #1243. Stats: https://hslstats.com/2015-minor/games/2021015/
 END:VEVENT
@@ -225,27 +225,27 @@ UID:hsl-2021277@hslstats.com
 DTSTAMP:20270121T003000Z
 DTSTART:20270121T003000Z
 DTEND:20270121T020000Z
-SUMMARY:2015 Minor: North Stars Hockey Academy at Wolverines Hockey Academy
+SUMMARY:2015 Minor: North Stars Hockey Academy at Riggers Hockey Academy
 LOCATION:Silent Ice Center - Hatch Co. Arena
 DESCRIPTION:HSL 2015 Minor game #1505. Stats: https://hslstats.com/2015-minor/games/2021277/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2021339@hslstats.com
-DTSTAMP:20270124T003000Z
-DTSTART:20270124T003000Z
-DTEND:20270124T020000Z
-SUMMARY:2015 Minor: Wolverines Hockey Academy at North Stars Hockey Academy
-LOCATION:Morinville Silent Ice Gardens
-DESCRIPTION:HSL 2015 Minor game #1567. Stats: https://hslstats.com/2015-minor/games/2021339/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021368@hslstats.com
 DTSTAMP:20270129T220000Z
 DTSTART:20270129T220000Z
 DTEND:20270129T233000Z
-SUMMARY:2015 Minor: Riggers Hockey Academy at North Stars Hockey Academy
+SUMMARY:2015 Minor: HC Calgary Bandits at North Stars Hockey Academy
 LOCATION:Thorsby Recreation Complex
 DESCRIPTION:HSL 2015 Minor game #1596. Stats: https://hslstats.com/2015-minor/games/2021368/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2021376@hslstats.com
+DTSTAMP:20270130T140000Z
+DTSTART:20270130T140000Z
+DTEND:20270130T153000Z
+SUMMARY:2015 Minor: HC Calgary Bandits at North Stars Hockey Academy
+LOCATION:Thorsby Recreation Complex
+DESCRIPTION:HSL 2015 Minor game #1567. Stats: https://hslstats.com/2015-minor/games/2021376/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021399@hslstats.com
