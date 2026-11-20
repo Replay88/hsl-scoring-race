@@ -107,7 +107,7 @@ function chrome(dk,sec){
   const cur=document.querySelector('#divTabs a[aria-current="true"]'); if(cur){const p=cur.parentElement; const l=cur.offsetLeft, r=l+cur.offsetWidth; if(l<p.scrollLeft||r>p.scrollLeft+p.clientWidth) p.scrollLeft=Math.max(0,l-24);}
 }
 function ticker(dk){
-  const D=dk?DD(dk):null, t=$('#ticker'); if(!D){t.hidden=true;return;}
+  const D=dk?DD(dk):null, t=$('#ticker'); if(!D){ if(!dk) t.hidden=true; return; }  // division still loading: keep its reserved space (no jump)
   const done=Object.entries(D.G).sort((a,b)=>b[1].day.localeCompare(a[1].day)||b[0].localeCompare(a[0])).slice(0,10).reverse();
   const next=D.upcoming.filter(u=>u.day>=TODAY).slice(0,8);
   const chip=(gid,g)=>{const hw=g.hs>g.vs, aw=g.vs>g.hs; return `<a class="chip" href="${G(dk,gid)}"><span class="lbl">${fmtDay(g.day)} · Final${g.status==='Final SO'?' (SO)':''}</span><span class="nm ${aw?'':hw?'lo':''}">${logo(g.away)}${esc(short(g.away))}</span><span class="sc ${aw?'':hw?'lo':''}">${g.vs}</span><span class="nm ${hw?'':aw?'lo':''}">${logo(g.home)}${esc(short(g.home))}</span><span class="sc ${hw?'':aw?'lo':''}">${g.hs}</span></a>`;};

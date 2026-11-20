@@ -19,7 +19,7 @@
 <meta name="apple-mobile-web-app-title" content="HSL Stats">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Archivo+Narrow:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
-<link rel="stylesheet" href="/app.css?v=4172b5c70f">
+<link rel="stylesheet" href="/app.css?v=20ec43047c">
 </head>
 <body>
 <header class="mast"><div class="in">
@@ -31,6 +31,7 @@
 </div></header>
 <nav class="divnav" aria-label="Division"><div class="in" id="divTabs"></div></nav>
 <div class="ticker" id="ticker" hidden><div class="in" id="tickerIn"></div></div>
+<script data-ticker>/* division pages show the scores ticker: unhide it before first paint so the page doesn't jump when it fills */if(/^\/(\d{4}-\d{2}\/)?\d{4}-[a-z]+\//.test(location.pathname))document.getElementById('ticker').hidden=false</script>
 <div class="wrap">
 <div class="banner" id="banner" hidden></div>
 <div class="pagehead"><h1 id="pageTitle"></h1><nav class="subtabs" aria-label="Section" id="secTabs"></nav></div>
@@ -70,7 +71,7 @@ Full stats: https://hslstats.com/2017-minor/</pre></main><aside id="side" hidden
   <div class="fine">© 2026 hslstats.com · Covers all 12 HSL divisions · <a href="/alumni/">Alumni</a> · Press ⌘K (Ctrl+K) to find any player.</div>
 </div></footer>
 <dialog id="pal"><div class="box"><input id="palQ" type="search" placeholder="Find any player in the league…" autocomplete="off"><ul id="palRes"></ul><div class="hint">Type at least two letters. Enter opens the first result, Esc closes.</div></div></dialog>
-<script src="/app.js?v=4172b5c70f" defer></script>
+<script src="/app.js?v=20ec43047c" defer></script>
 <!-- Cloudflare Web Analytics (privacy-first, no cookies) --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4c6c9a73601849268789915b98d39c3e"}'></script>
 </body>
 </html>
