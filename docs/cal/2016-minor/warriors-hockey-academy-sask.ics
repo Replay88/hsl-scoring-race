@@ -149,6 +149,15 @@ LOCATION:Rockyford Sportsplex
 DESCRIPTION:HSL 2016 Minor game #1792. Stats: https://hslstats.com/2016-minor/games/2021564/
 END:VEVENT
 BEGIN:VEVENT
+UID:hsl-2020617@hslstats.com
+DTSTAMP:20270502T055800Z
+DTSTART:20270502T055800Z
+DTEND:20270502T072800Z
+SUMMARY:2016 Minor: Wolverines Hockey Academy at Warriors Hockey Academy (Sask)
+LOCATION:TBA
+DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
+END:VEVENT
+BEGIN:VEVENT
 UID:hsl-2020598@hslstats.com
 DTSTAMP:20270502T055800Z
 DTSTART:20270502T055800Z
@@ -165,15 +174,6 @@ DTEND:20270502T072800Z
 SUMMARY:2016 Minor: Warriors Hockey Academy (Sask) at North Stars Hockey Academy
 LOCATION:TBA
 DESCRIPTION:HSL 2016 Minor game #814. Stats: https://hslstats.com/2016-minor/games/2020586/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020617@hslstats.com
-DTSTAMP:20270502T055800Z
-DTSTART:20270502T055800Z
-DTEND:20270502T072800Z
-SUMMARY:2016 Minor: Wolverines Hockey Academy at Warriors Hockey Academy (Sask)
-LOCATION:TBA
-DESCRIPTION:HSL 2016 Minor game #845. Stats: https://hslstats.com/2016-minor/games/2020617/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020534@hslstats.com

@@ -113,13 +113,13 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2014 Major game #683. Stats: https://hslstats.com/2014-major/games/2020455/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020498@hslstats.com
+UID:hsl-2020602@hslstats.com
 DTSTAMP:20261120T231500Z
 DTSTART:20261120T231500Z
 DTEND:20261121T004500Z
-SUMMARY:2014 Major: Wolverines Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #726. Stats: https://hslstats.com/2014-major/games/2020498/
+DESCRIPTION:HSL 2014 Major game #830. Stats: https://hslstats.com/2014-major/games/2020602/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020536@hslstats.com
@@ -129,24 +129,6 @@ DTEND:20261121T163000Z
 SUMMARY:2014 Major: Wolverines Hockey Academy at HC Calgary Bandits
 LOCATION:Hussar Arena
 DESCRIPTION:HSL 2014 Major game #764. Stats: https://hslstats.com/2014-major/games/2020536/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020575@hslstats.com
-DTSTAMP:20261122T000000Z
-DTSTART:20261122T000000Z
-DTEND:20261122T013000Z
-SUMMARY:2014 Major: Stars Hockey Academy at Wolverines Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #803. Stats: https://hslstats.com/2014-major/games/2020575/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020602@hslstats.com
-DTSTAMP:20261122T153000Z
-DTSTART:20261122T153000Z
-DTEND:20261122T170000Z
-SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #830. Stats: https://hslstats.com/2014-major/games/2020602/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020886@hslstats.com
@@ -291,5 +273,23 @@ DTEND:20270207T234500Z
 SUMMARY:2014 Major: Caps Hockey Club at Wolverines Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2014 Major game #1730. Stats: https://hslstats.com/2014-major/games/2021502/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020498@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Stars Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2014 Major game #726. Stats: https://hslstats.com/2014-major/games/2020498/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020575@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 Major: Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2014 Major game #803. Stats: https://hslstats.com/2014-major/games/2020575/
 END:VEVENT
 END:VCALENDAR

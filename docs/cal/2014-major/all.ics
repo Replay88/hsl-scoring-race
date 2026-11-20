@@ -491,13 +491,13 @@ LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2014 Major game #683. Stats: https://hslstats.com/2014-major/games/2020455/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020498@hslstats.com
+UID:hsl-2020602@hslstats.com
 DTSTAMP:20261120T231500Z
 DTSTART:20261120T231500Z
 DTEND:20261121T004500Z
-SUMMARY:2014 Major: Wolverines Hockey Academy at Stars Hockey Academy
+SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
 LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #726. Stats: https://hslstats.com/2014-major/games/2020498/
+DESCRIPTION:HSL 2014 Major game #830. Stats: https://hslstats.com/2014-major/games/2020602/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020530@hslstats.com
@@ -527,15 +527,6 @@ LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2014 Major game #782. Stats: https://hslstats.com/2014-major/games/2020554/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020557@hslstats.com
-DTSTAMP:20261121T193000Z
-DTSTART:20261121T193000Z
-DTEND:20261121T210000Z
-SUMMARY:2014 Major: Stars Hockey Academy at HC Calgary Bandits
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #785. Stats: https://hslstats.com/2014-major/games/2020557/
-END:VEVENT
-BEGIN:VEVENT
 UID:hsl-2020569@hslstats.com
 DTSTAMP:20261121T220000Z
 DTSTART:20261121T220000Z
@@ -543,24 +534,6 @@ DTEND:20261121T233000Z
 SUMMARY:2014 Major: South Sask Academy at Caps Hockey Club
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2014 Major game #797. Stats: https://hslstats.com/2014-major/games/2020569/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020575@hslstats.com
-DTSTAMP:20261122T000000Z
-DTSTART:20261122T000000Z
-DTEND:20261122T013000Z
-SUMMARY:2014 Major: Stars Hockey Academy at Wolverines Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #803. Stats: https://hslstats.com/2014-major/games/2020575/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020602@hslstats.com
-DTSTAMP:20261122T153000Z
-DTSTART:20261122T153000Z
-DTEND:20261122T170000Z
-SUMMARY:2014 Major: HC Calgary Bandits at Wolverines Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #830. Stats: https://hslstats.com/2014-major/games/2020602/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020606@hslstats.com
@@ -579,15 +552,6 @@ DTEND:20261122T211500Z
 SUMMARY:2014 Major: Caps Hockey Club at South Sask Academy
 LOCATION:Red Knight Arena (CFB Moose Jaw)
 DESCRIPTION:HSL 2014 Major game #854. Stats: https://hslstats.com/2014-major/games/2020626/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020627@hslstats.com
-DTSTAMP:20261122T200000Z
-DTSTART:20261122T200000Z
-DTEND:20261122T213000Z
-SUMMARY:2014 Major: HC Calgary Bandits at Stars Hockey Academy
-LOCATION:Hussar Arena
-DESCRIPTION:HSL 2014 Major game #855. Stats: https://hslstats.com/2014-major/games/2020627/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020635@hslstats.com
@@ -1299,5 +1263,41 @@ DTEND:20270221T223000Z
 SUMMARY:2014 Major: Capital City Knights at Riggers Hockey Academy
 LOCATION:Morinville Silent Ice Gardens
 DESCRIPTION:HSL 2014 Major game #1915. Stats: https://hslstats.com/2014-major/games/2021687/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020498@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 Major: Wolverines Hockey Academy at Stars Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2014 Major game #726. Stats: https://hslstats.com/2014-major/games/2020498/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020557@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 Major: Stars Hockey Academy at HC Calgary Bandits
+LOCATION:
+DESCRIPTION:HSL 2014 Major game #785. Stats: https://hslstats.com/2014-major/games/2020557/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020575@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 Major: Stars Hockey Academy at Wolverines Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2014 Major game #803. Stats: https://hslstats.com/2014-major/games/2020575/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020627@hslstats.com
+DTSTAMP:20270501T060000Z
+DTSTART:20270501T060000Z
+DTEND:20270501T073000Z
+SUMMARY:2014 Major: HC Calgary Bandits at Stars Hockey Academy
+LOCATION:
+DESCRIPTION:HSL 2014 Major game #855. Stats: https://hslstats.com/2014-major/games/2020627/
 END:VEVENT
 END:VCALENDAR
