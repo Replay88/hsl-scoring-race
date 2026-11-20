@@ -689,6 +689,14 @@ def build_season(state, sid, today):
                 res = result(g, team)
                 starter = max(qs, key=lambda q: (q["MIN"], q["SA"]))
                 complete = all(q["MIN"] > 0 and q["SA"] > 0 for q in qs) and sum(q["GA"] for q in qs) == allowed.get(team, -1)
+                # one goalie dressed but the scorekeeper skipped his minutes/shots: the team's
+                # shots against and the score are his line (flag 2 = taken from team totals)
+                opp = g["away"] if team == g["home"] else g["home"]
+                osh = (g.get("shots") or {}).get(opp) or []
+                if not complete and len(qs) == 1 and osh and osh[-1] >= allowed.get(team, 10 ** 6) and osh[-1] > 0:
+                    q0 = dict(qs[0]); ga = allowed[team]
+                    q0.update(MIN=q0["MIN"] if q0["MIN"] > 0 else 55, GA=ga, SA=osh[-1], SV=osh[-1] - ga)
+                    qs, starter, complete = [q0], q0, 2
                 for q in qs:
                     a_ = gl.setdefault(key(q), dict(name=nice(q["name"]), team=team, num=q["num"], GP=0, GS=0, MIN=0.0,
                                                     GA=0, SA=0, SV=0, W=0, L=0, T=0, SO=0, log=[]))

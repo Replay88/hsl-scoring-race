@@ -504,7 +504,7 @@ const GHEAD='<thead><tr><th class="l">#</th><th class="l">Goalie</th><th>GP</th>
 function goalies(dk){
   const g=DD(dk).goalies;
   return `<div class="tbl"><table>${GHEAD}<tbody>${g.length?goalieRows(dk,g):'<tr><td colspan="13" class="empty">No goalie stats yet.</td></tr>'}</tbody></table></div>
-  <p class="note">Scorekeepers don't record shots and minutes in every game. SV%, GAA, shots and shutouts only count games with full stats (GS); goalies with fewer than two such games are listed below the qualifiers. Wins and losses go to the goalie who played the most minutes. GAA is per 55-minute game.</p>`;
+  <p class="note">Scorekeepers don't record shots and minutes in every game. SV%, GAA, shots and shutouts only count games with full stats (GS). When only one goalie dressed and his own line is blank, the team's shots against and the score are used. Goalies with fewer than two such games are listed below the qualifiers. Wins and losses go to the goalie who played the most minutes. GAA is per 55-minute game.</p>`;
 }
 function raceShell(){return `<div class="card chart" id="chart"><h2>Points race, top 30<small>top 8 in colour; tap a name or a line to follow one player</small></h2><div class="legend" id="legend"></div><div style="position:relative" id="chartBox"><svg id="raceSvg" viewBox="0 0 860 420" role="img" aria-labelledby="raceTitle"><title id="raceTitle">Cumulative points by game day for the top eight scorers</title></svg><div class="tip" id="tip"></div></div></div>`;}
 function drawRace(dk,only){
