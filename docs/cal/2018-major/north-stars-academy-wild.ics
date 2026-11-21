@@ -131,40 +131,40 @@ LOCATION:Viking Carena Complex
 DESCRIPTION:HSL 2018 Major game #914. Stats: https://hslstats.com/2018-major/games/2020686/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020908@hslstats.com
-DTSTAMP:20261219T181500Z
-DTSTART:20261219T181500Z
-DTEND:20261219T194500Z
+UID:hsl-2020894@hslstats.com
+DTSTAMP:20261219T140000Z
+DTSTART:20261219T140000Z
+DTEND:20261219T153000Z
 SUMMARY:2018 Major: Queen City Young Guns at North Stars Academy Wild
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1136. Stats: https://hslstats.com/2018-major/games/2020908/
+LOCATION:Langham Centennial Arena
+DESCRIPTION:HSL 2018 Major game #1122. Stats: https://hslstats.com/2018-major/games/2020894/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020931@hslstats.com
-DTSTAMP:20261219T233000Z
-DTSTART:20261219T233000Z
-DTEND:20261220T010000Z
+UID:hsl-2020922@hslstats.com
+DTSTAMP:20261219T193000Z
+DTSTART:20261219T193000Z
+DTEND:20261219T210000Z
 SUMMARY:2018 Major: Sask Super Selects at North Stars Academy Wild
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1159. Stats: https://hslstats.com/2018-major/games/2020931/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020942@hslstats.com
-DTSTAMP:20261220T055800Z
-DTSTART:20261220T055800Z
-DTEND:20261220T072800Z
-SUMMARY:2018 Major: North Stars Academy Wild at Spartan Hockey Academy
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1170. Stats: https://hslstats.com/2018-major/games/2020942/
+LOCATION:Langham Centennial Arena
+DESCRIPTION:HSL 2018 Major game #1150. Stats: https://hslstats.com/2018-major/games/2020922/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020944@hslstats.com
 DTSTAMP:20261220T130000Z
 DTSTART:20261220T130000Z
 DTEND:20261220T143000Z
-SUMMARY:2018 Major: North Stars Academy Wild at Sask Super Selects
+SUMMARY:2018 Major: North Stars Academy Wild at Spartan Hockey Academy
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1172. Stats: https://hslstats.com/2018-major/games/2020944/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020966@hslstats.com
+DTSTAMP:20261220T163000Z
+DTSTART:20261220T163000Z
+DTEND:20261220T180000Z
+SUMMARY:2018 Major: North Stars Academy Wild at Sask Super Selects
+LOCATION:Martensville Sports Center
+DESCRIPTION:HSL 2018 Major game #1194. Stats: https://hslstats.com/2018-major/games/2020966/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021083@hslstats.com

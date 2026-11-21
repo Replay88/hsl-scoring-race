@@ -150,21 +150,30 @@ DESCRIPTION:HSL 2018 Major game #899. Stats: https://hslstats.com/2018-major/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020877@hslstats.com
-DTSTAMP:20261218T224500Z
-DTSTART:20261218T224500Z
-DTEND:20261219T001500Z
+DTSTAMP:20261218T200000Z
+DTSTART:20261218T200000Z
+DTEND:20261218T213000Z
 SUMMARY:2018 Major: Queen City Young Guns at Northern Hockey Club
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1105. Stats: https://hslstats.com/2018-major/games/2020877/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020908@hslstats.com
-DTSTAMP:20261219T181500Z
-DTSTART:20261219T181500Z
-DTEND:20261219T194500Z
+UID:hsl-2020894@hslstats.com
+DTSTAMP:20261219T140000Z
+DTSTART:20261219T140000Z
+DTEND:20261219T153000Z
 SUMMARY:2018 Major: Queen City Young Guns at North Stars Academy Wild
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1136. Stats: https://hslstats.com/2018-major/games/2020908/
+LOCATION:Langham Centennial Arena
+DESCRIPTION:HSL 2018 Major game #1122. Stats: https://hslstats.com/2018-major/games/2020894/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsl-2020931@hslstats.com
+DTSTAMP:20261219T211500Z
+DTSTART:20261219T211500Z
+DTEND:20261219T224500Z
+SUMMARY:2018 Major: Spartan Hockey Academy at Queen City Young Guns
+LOCATION:Langham Centennial Arena
+DESCRIPTION:HSL 2018 Major game #1159. Stats: https://hslstats.com/2018-major/games/2020931/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020952@hslstats.com
@@ -174,15 +183,6 @@ DTEND:20261220T161500Z
 SUMMARY:2018 Major: Northern Hockey Club at Queen City Young Guns
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1180. Stats: https://hslstats.com/2018-major/games/2020952/
-END:VEVENT
-BEGIN:VEVENT
-UID:hsl-2020966@hslstats.com
-DTSTAMP:20261220T181500Z
-DTSTART:20261220T181500Z
-DTEND:20261220T194500Z
-SUMMARY:2018 Major: Spartan Hockey Academy at Queen City Young Guns
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1194. Stats: https://hslstats.com/2018-major/games/2020966/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2021077@hslstats.com

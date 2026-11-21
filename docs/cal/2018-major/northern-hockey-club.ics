@@ -24,30 +24,30 @@ DESCRIPTION:HSL 2018 Major game #917. Stats: https://hslstats.com/2018-major/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020877@hslstats.com
-DTSTAMP:20261218T224500Z
-DTSTART:20261218T224500Z
-DTEND:20261219T001500Z
+DTSTAMP:20261218T200000Z
+DTSTART:20261218T200000Z
+DTEND:20261218T213000Z
 SUMMARY:2018 Major: Queen City Young Guns at Northern Hockey Club
 LOCATION:Martensville Sports Center
 DESCRIPTION:HSL 2018 Major game #1105. Stats: https://hslstats.com/2018-major/games/2020877/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020894@hslstats.com
-DTSTAMP:20261219T144500Z
-DTSTART:20261219T144500Z
-DTEND:20261219T161500Z
-SUMMARY:2018 Major: Sask Super Selects at Northern Hockey Club
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1122. Stats: https://hslstats.com/2018-major/games/2020894/
+UID:hsl-2020908@hslstats.com
+DTSTAMP:20261219T154500Z
+DTSTART:20261219T154500Z
+DTEND:20261219T171500Z
+SUMMARY:2018 Major: Spartan Hockey Academy at Northern Hockey Club
+LOCATION:Langham Centennial Arena
+DESCRIPTION:HSL 2018 Major game #1136. Stats: https://hslstats.com/2018-major/games/2020908/
 END:VEVENT
 BEGIN:VEVENT
-UID:hsl-2020922@hslstats.com
-DTSTAMP:20261219T214500Z
-DTSTART:20261219T214500Z
-DTEND:20261219T231500Z
-SUMMARY:2018 Major: Spartan Hockey Academy at Northern Hockey Club
-LOCATION:Martensville Sports Center
-DESCRIPTION:HSL 2018 Major game #1150. Stats: https://hslstats.com/2018-major/games/2020922/
+UID:hsl-2020942@hslstats.com
+DTSTAMP:20261219T230000Z
+DTSTART:20261219T230000Z
+DTEND:20261220T003000Z
+SUMMARY:2018 Major: Sask Super Selects at Northern Hockey Club
+LOCATION:Langham Centennial Arena
+DESCRIPTION:HSL 2018 Major game #1170. Stats: https://hslstats.com/2018-major/games/2020942/
 END:VEVENT
 BEGIN:VEVENT
 UID:hsl-2020952@hslstats.com
